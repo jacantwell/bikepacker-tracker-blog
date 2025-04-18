@@ -83,6 +83,20 @@ all = ["email-validator (>=2.0.0)", "fastapi-cli[standard] (>=0.0.5)", "httpx (>
 standard = ["email-validator (>=2.0.0)", "fastapi-cli[standard] (>=0.0.5)", "httpx (>=0.23.0)", "jinja2 (>=3.1.5)", "python-multipart (>=0.0.18)", "uvicorn[standard] (>=0.12.0)"]
 
 [[package]]
+name = "frontmatter"
+version = "3.0.8"
+description = "Extract YAML frontmatter from files and strings."
+optional = false
+python-versions = "*"
+groups = ["main"]
+files = [
+    {file = "frontmatter-3.0.8.tar.gz", hash = "sha256:d913619d20f607e03557d52a8bf9b249e0b3093c770c5213c0f1231d2c97fe73"},
+]
+
+[package.dependencies]
+PyYAML = "5.1"
+
+[[package]]
 name = "h11"
 version = "0.14.0"
 description = "A pure-Python, bring-your-own-I/O implementation of HTTP/1.1"
@@ -244,6 +258,27 @@ files = [
 typing-extensions = ">=4.6.0,<4.7.0 || >4.7.0"
 
 [[package]]
+name = "pyyaml"
+version = "5.1"
+description = "YAML parser and emitter for Python"
+optional = false
+python-versions = "*"
+groups = ["main"]
+files = [
+    {file = "PyYAML-5.1-cp27-cp27m-win32.whl", hash = "sha256:460a5a4248763f6f37ea225d19d5c205677d8d525f6a83357ca622ed541830c2"},
+    {file = "PyYAML-5.1-cp27-cp27m-win_amd64.whl", hash = "sha256:9372b04a02080752d9e6f990179a4ab840227c6e2ce15b95e1278456664cf2ba"},
+    {file = "PyYAML-5.1-cp34-cp34m-win32.whl", hash = "sha256:aee5bab92a176e7cd034e57f46e9df9a9862a71f8f37cad167c6fc74c65f5b4e"},
+    {file = "PyYAML-5.1-cp34-cp34m-win_amd64.whl", hash = "sha256:c51f642898c0bacd335fc119da60baae0824f2cde95b0330b56c0553439f0673"},
+    {file = "PyYAML-5.1-cp35-cp35m-win32.whl", hash = "sha256:a5dcbebee834eaddf3fa7366316b880ff4062e4bcc9787b78c7fbb4a26ff2dd1"},
+    {file = "PyYAML-5.1-cp35-cp35m-win_amd64.whl", hash = "sha256:7a5d3f26b89d688db27822343dfa25c599627bc92093e788956372285c6298ad"},
+    {file = "PyYAML-5.1-cp36-cp36m-win32.whl", hash = "sha256:1adecc22f88d38052fb787d959f003811ca858b799590a5eaa70e63dca50308c"},
+    {file = "PyYAML-5.1-cp36-cp36m-win_amd64.whl", hash = "sha256:5a22a9c84653debfbf198d02fe592c176ea548cccce47553f35f466e15cf2fd4"},
+    {file = "PyYAML-5.1-cp37-cp37m-win32.whl", hash = "sha256:e23d0cc5299223dcc37885dae624f382297717e459ea24053709675a976a3e19"},
+    {file = "PyYAML-5.1-cp37-cp37m-win_amd64.whl", hash = "sha256:c68ea4d3ba1705da1e0d85da6684ac657912679a649e8868bd850d2c299cce13"},
+    {file = "PyYAML-5.1.tar.gz", hash = "sha256:436bc774ecf7c103814098159fbb84c2715d25980175292c648f2da143909f95"},
+]
+
+[[package]]
 name = "sniffio"
 version = "1.3.1"
 description = "Sniff out which async library your code is running under"
@@ -322,4 +357,4 @@ standard = ["colorama (>=0.4) ; sys_platform == \"win32\"", "httptools (>=0.6.3)
 [metadata]
 lock-version = "2.1"
 python-versions = ">=3.13"
-content-hash = "85504f311771dbad65f43e1edf67069d9f22e520e0f73206d9ada195b4b9694e"
+content-hash = "95b3667ae0c622d33d8e02ad04290e99576c6201ed314b0b116c77f16b99c37b"
