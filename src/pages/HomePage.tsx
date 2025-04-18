@@ -1,8 +1,7 @@
-import { useEffect, useState } from 'react'
 import Container from '../components/layout/Container'
 import Intro from '../components/blog/Intro'
-// import MoreStories from '../components/blog/MoreStories'
-// import JourneyMap from '../components/journey/JourneyMap'
+import MoreStories from '../components/blog/MoreStories'
+import { JourneyMap } from '../components/journey/JourneyMap'
 import { useAllPosts } from '../hooks/usePosts'
 import { useStravaData } from '../hooks/useStravaData'
 
@@ -23,8 +22,8 @@ const HomePage = () => {
   return (
     <Container>
       <Intro />
-      {/* <JourneyMap activities={activities} startDate="2023-01-01T00:00:00Z" />
-      {posts.length > 0 && <MoreStories posts={posts} />} */}
+      <JourneyMap activities={activities} startDate="2023-01-01T00:00:00Z" />
+      {posts.length > 0 && <MoreStories posts={posts} />}
     </Container>
   )
 }

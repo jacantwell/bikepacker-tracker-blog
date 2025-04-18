@@ -1,4 +1,6 @@
-import { useEffect, useState, memo } from 'react'
+import { useEffect, useState } from 'react'
+import styles from './switch.module.css' // import the CSS module
+
 
 const STORAGE_KEY = 'bikepacker-tracker-theme'
 const modes = ['dark', 'light']
@@ -47,11 +49,12 @@ const ThemeSwitcher = () => {
 
   return (
     <button
-      className="fixed right-5 top-5 z-50 h-8 w-8 rounded-full border border-current text-current transition-all hover:scale-110"
+      className={styles.switch} // use the imported .switch class
       onClick={handleModeSwitch}
+      // remove inline border, size, etc. to defer to switch.module.css
       title="Toggle theme"
     >
-      {mode === 'dark' ? '☀️' : '🌙'}
+      {mode === 'dark' ? '' : ''}
     </button>
   )
 }

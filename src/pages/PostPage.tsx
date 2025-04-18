@@ -12,7 +12,6 @@ const PostPage = () => {
   if (loading) {
     return (
       <Container>
-        <Header />
         <div className="flex justify-center items-center min-h-[50vh]">
           <div className="animate-pulse">Loading post...</div>
         </div>
@@ -23,7 +22,6 @@ const PostPage = () => {
   if (error || !post) {
     return (
       <Container>
-        <Header />
         <div className="flex justify-center items-center min-h-[50vh]">
           <div className="text-red-500">Post not found</div>
         </div>
@@ -33,7 +31,6 @@ const PostPage = () => {
 
   return (
     <Container>
-      <Header />
       <article className="mb-32">
         <PostHeader
           title={post.title}
