@@ -1,6 +1,4 @@
-'use server';
-
-import { SummaryActivity } from '@/api/strava/api/api';
+import { SummaryActivity } from '@/api/strava/api';
 import { StravaClient } from '@/api/strava/client';
 
 /**

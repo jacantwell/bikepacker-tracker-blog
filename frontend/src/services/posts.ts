@@ -1,6 +1,6 @@
-import { Post, PostSummary } from '../types/Post';
 import { mockPosts, mockPostContent } from './mocks';
-
+import { Post } from '@/api/posts/api'
+import { StravaClient } from '@/api/strava/client';
 // Simulate API delay
 const delay = (ms: number) => new Promise(resolve => setTimeout(resolve, ms));
 

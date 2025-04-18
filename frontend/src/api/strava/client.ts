@@ -1,5 +1,5 @@
 import axios from 'axios';
-import { SummaryActivity, DetailedActivity } from './api/api';
+import { SummaryActivity, DetailedActivity } from './api';
 
 /**
  * Strava API client for handling authentication and API requests

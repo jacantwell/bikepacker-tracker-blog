@@ -1,4 +1,4 @@
-import { SummaryActivity } from '@/api/strava/api/api';
+import { SummaryActivity } from '@/api/strava/api';
 import { decodePolyline } from './polyline';
 
 // GeoJSON types
