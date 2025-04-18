@@ -1,12 +1,13 @@
-import os
+from datetime import datetime
 import json
+import logging
+import os
+import re
+from typing import List, Dict, Any, Optional
+
 import boto3
 from botocore.exceptions import ClientError
-from typing import List, Dict, Any, Optional, Union
 import frontmatter
-from io import BytesIO
-from datetime import datetime
-import logging
 
 from .base import ContentHandler
 from ...models.posts import Post, OgImage
@@ -111,6 +112,25 @@ class S3ContentHandler(ContentHandler):
             logger.error(f"Error listing S3 objects with prefix {prefix}: {e}")
             raise
 
+    def _replace_image_urls(self, content: str, base_url: str) -> str:
+        """Replace local image paths with S3 URLs."""
+
+        def replace_url(match):
+            alt_text = match.group(1)
+            image_path = match.group(2)
+
+            # Only replace relative URLs, not already absolute ones
+            if not image_path.startswith("http"):
+                # Remove leading slash if present
+                if image_path.startswith("/"):
+                    image_path = image_path[1:]
+                return f"![{alt_text}]({base_url}/{image_path})"
+            return match.group(0)
+
+        # Pattern to match markdown image syntax
+        pattern = r"!\[(.*?)\]\((.*?)\)"
+        return re.sub(pattern, replace_url, content)
+
     def load_all_authors(self) -> List[Author]:
         """Load all author data from JSON files in S3."""
         author_keys = self._list_s3_objects(self.authors_prefix, ".json")
@@ -173,6 +193,11 @@ class S3ContentHandler(ContentHandler):
 
             # Parse frontmatter
             post = frontmatter.loads(content.decode("utf-8"))
+
+            if self.public_bucket:
+                content = self._replace_image_urls(
+                    post.content, f"https://{self.bucket_name}.s3.amazonaws.com"
+                )
 
             # Extract slug from key
             # Assuming format like "content/posts/slug-name.md"

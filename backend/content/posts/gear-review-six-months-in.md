@@ -1,13 +1,13 @@
 ---
 title: "Gear Review: What Worked and What Didn't After Six Months on the Road"
 excerpt: "After 6,000 kilometers across seven countries, I've learned what gear is essential, what was unnecessary, and what unexpectedly saved my journey."
-coverImage: "/assets/blog/gear-review-six-months/cover.jpg"
+coverImage: "/assets/images/covers/cover1.jpg"
 date: "2023-09-05T09:15:00.000Z"
 author:
   name: "Jasper Williams"
-  picture: "/assets/blog/authors/jasper.jpeg"
+  picture: "/assets/images/authors/jj.jpeg"
 ogImage:
-  url: "/assets/blog/gear-review-six-months/cover.jpg"
+  url: "/assets/images/covers/cover1.jpg"
 tags:
   - gear
   - equipment
@@ -31,7 +31,7 @@ When I left the UK in March, my bike weighed a hefty 42kg fully loaded. Today, t
 - **Weight**: At 14kg unloaded, it's heavy for climbing
 - **Gearing**: Should have opted for lower gearing for Alpine passes
 
-![My trusty Surly at sunrise in Greece](/assets/blog/gear-review-six-months/bike-sunrise.jpg)
+![My trusty Surly at sunrise in Greece](/assets/images/covers/cover1.jpg)
 
 ## Camping Gear
 

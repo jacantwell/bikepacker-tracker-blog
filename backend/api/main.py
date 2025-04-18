@@ -2,7 +2,7 @@ from fastapi import FastAPI, Request, status
 from fastapi.middleware.cors import CORSMiddleware
 from fastapi.responses import JSONResponse
 from fastapi.exceptions import RequestValidationError
-import os
+from fastapi.staticfiles import StaticFiles
 import logging
 
 from .routes import authors_router, posts_router
@@ -33,6 +33,9 @@ app.add_middleware(
 # Include routers
 app.include_router(authors_router)
 app.include_router(posts_router)
+
+# Mount a static files handler for the assets directory
+app.mount("/assets", StaticFiles(directory=f"content/assets"), name="assets")
 
 
 # Error handlers

@@ -1,13 +1,13 @@
 ---
 title: "Beginning the Journey: UK to Somewhere"
 excerpt: "The first days of my cycling adventure across Europe and beyond, starting from the rainy shores of the UK toward the unknown."
-coverImage: "/assets/blog/beginning-the-journey/cover.jpg"
+coverImage: "/assets/images/covers/cover1.jpg"
 date: "2023-03-15T12:00:00.000Z"
 author:
   name: "Jasper Williams"
-  picture: "/assets/blog/authors/jasper.jpeg"
+  picture: "/assets/images/authors/jj.jpeg"
 ogImage:
-  url: "/assets/blog/beginning-the-journey/cover.jpg"
+  url: "/assets/images/covers/cover1.jpg"
 tags:
   - journey
   - cycling
@@ -27,7 +27,7 @@ I've been planning this trip for years, or perhaps more accurately, I've been dr
 - **Timeline**: Open-ended, but roughly 18 months if all goes well
 - **Budget**: £25 per day average (hoping to wild camp and stay with hosts where possible)
 
-![Loaded bicycle ready for departure](/assets/blog/beginning-the-journey/loaded-bike.jpg)
+![Loaded bicycle ready for departure](/assets/images/covers/cover1.jpg)
 
 ## First Day Challenges
 

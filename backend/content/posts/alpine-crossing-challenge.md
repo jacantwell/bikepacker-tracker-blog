@@ -1,13 +1,13 @@
 ---
 title: "Challenging the Alps: Sweat, Tears, and Breathtaking Views"
 excerpt: "Three months into my journey, the Alpine crossing tested my limits and rewarded me with some of the most stunning landscapes I've ever witnessed."
-coverImage: "/assets/blog/alpine-crossing-challenges/cover.jpg"
+coverImage: "/assets/images/covers/cover1.jpg"
 date: "2023-06-22T15:30:00.000Z"
 author:
   name: "Jasper Williams"
-  picture: "/assets/blog/authors/jasper.jpeg"
+  picture: "/assets/images/authors/jj.jpeg"
 ogImage:
-  url: "/assets/blog/alpine-crossing-challenges/cover.jpg"
+  url: "/assets/images/covers/cover1.jpg"
 tags:
   - cycling
   - alps
@@ -36,7 +36,7 @@ What these numbers failed to capture was the 30-minute hailstorm that caught me 
 
 The historic Gotthard Pass was my chosen route through the Swiss Alps. The old cobblestone road dates back centuries and offered both a beautiful experience and a bone-jarring challenge.
 
-![Cobblestone section of Gotthard Pass](/assets/blog/alpine-crossing-challenges/gotthard-cobbles.jpg)
+![Cobblestone section of Gotthard Pass](/assets/images/covers/cover1.jpg)
 
 The rhythmic pattern of the stones became almost meditative as I slowly climbed, my speed rarely exceeding 6 km/h. Each turn revealed new vistas that quite literally took my remaining breath away.
 
