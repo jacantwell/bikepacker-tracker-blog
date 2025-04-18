@@ -2,12 +2,7 @@ from fastapi import APIRouter, HTTPException, Query
 from typing import List, Dict, Any, Optional
 
 from ..models.posts import Post
-from ..utils.content_loader import (
-    load_all_posts,
-    get_post_by_slug,
-    get_posts_by_tag,
-    get_posts_paginated,
-)
+from ..handlers.posts import content_handler
 
 router = APIRouter(tags=["Posts"], prefix="/api")
 
@@ -23,7 +18,7 @@ def get_posts(
     """
     if tag:
         # If a tag is specified, filter posts by that tag
-        filtered_posts = get_posts_by_tag(tag)
+        filtered_posts = content_handler.get_posts_by_tag(tag)
         # Manual pagination for filtered posts
         total = len(filtered_posts)
         total_pages = (total + per_page - 1) // per_page  # Ceiling division
@@ -41,7 +36,7 @@ def get_posts(
         }
     else:
         # If no tag is specified, return all posts with pagination
-        return get_posts_paginated(page, per_page)
+        return content_handler.get_posts_paginated(page, per_page)
 
 
 @router.get("/posts/{slug}", response_model=Post)
@@ -49,7 +44,7 @@ def get_post(slug: str) -> Post:
     """
     Get a specific post by slug
     """
-    post = get_post_by_slug(slug)
+    post = content_handler.get_post_by_slug(slug)
     if not post:
         raise HTTPException(
             status_code=404, detail=f"Post with slug '{slug}' not found"
@@ -62,7 +57,7 @@ def get_posts_with_tag(tag: str) -> List[Post]:
     """
     Get all posts with a specific tag
     """
-    posts = get_posts_by_tag(tag)
+    posts = content_handler.get_posts_by_tag(tag)
     if not posts:
         # Return empty list instead of 404 as this is a valid case
         return []
@@ -74,7 +69,7 @@ def get_all_tags() -> List[str]:
     """
     Get all unique tags used in posts
     """
-    posts = load_all_posts()
+    posts = content_handler.load_all_posts()
     # Collect all tags from all posts and remove duplicates
     all_tags = set()
     for post in posts:
