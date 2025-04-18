@@ -1,6 +1,6 @@
 import { useState, useEffect, useCallback } from 'react';
 import Map, { Source, Layer, NavigationControl, Marker, ViewState, ViewStateChangeEvent, LineLayerSpecification } from 'react-map-gl/mapbox';
-import { SummaryActivity } from '@/types/StravaTypes';
+import { SummaryActivity } from '@/api/strava/api/api';
 import { processActivities, calculateBounds } from '@/lib/activity-processor';
 
 interface JourneyMapProps {

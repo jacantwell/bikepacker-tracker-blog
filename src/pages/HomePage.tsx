@@ -7,7 +7,7 @@ import { useStravaData } from '../hooks/useStravaData'
 
 const HomePage = () => {
   const { posts, loading: postsLoading } = useAllPosts()
-  const { activities, loading: activitiesLoading } = useStravaData('2023-01-01T00:00:00Z')
+  const { activities, loading: activitiesLoading } = useStravaData(import.meta.env.VITE_JOURNEY_START_DATE || '2023-01-01T00:00:00Z')
   
   if (postsLoading || activitiesLoading) {
     return (

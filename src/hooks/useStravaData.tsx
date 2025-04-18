@@ -1,5 +1,5 @@
 import { useState, useEffect } from 'react';
-import { SummaryActivity } from '../types/StravaTypes';
+import { SummaryActivity } from '../api/strava/api/api';
 import { getJourneyActivities } from '../services/strava';
 
 export function useStravaData(startDate: string) {
