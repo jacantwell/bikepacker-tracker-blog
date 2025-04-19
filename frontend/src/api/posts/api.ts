@@ -83,6 +83,43 @@ export interface OgImage {
 /**
  * 
  * @export
+ * @interface PaginatedPosts
+ */
+export interface PaginatedPosts {
+    /**
+     * 
+     * @type {Array<Post>}
+     * @memberof PaginatedPosts
+     */
+    'posts': Array<Post>;
+    /**
+     * 
+     * @type {number}
+     * @memberof PaginatedPosts
+     */
+    'total': number;
+    /**
+     * 
+     * @type {number}
+     * @memberof PaginatedPosts
+     */
+    'page': number;
+    /**
+     * 
+     * @type {number}
+     * @memberof PaginatedPosts
+     */
+    'per_page': number;
+    /**
+     * 
+     * @type {number}
+     * @memberof PaginatedPosts
+     */
+    'total_pages': number;
+}
+/**
+ * 
+ * @export
  * @interface Post
  */
 export interface Post {
@@ -98,18 +135,6 @@ export interface Post {
      * @memberof Post
      */
     'title': string;
-    /**
-     * 
-     * @type {string}
-     * @memberof Post
-     */
-    'content': string;
-    /**
-     * 
-     * @type {string}
-     * @memberof Post
-     */
-    'rawContent': string;
     /**
      * 
      * @type {string}
@@ -146,6 +171,18 @@ export interface Post {
      * @memberof Post
      */
     'ogImage': OgImage;
+    /**
+     * 
+     * @type {string}
+     * @memberof Post
+     */
+    'content': string;
+    /**
+     * 
+     * @type {string}
+     * @memberof Post
+     */
+    'rawContent': string;
 }
 /**
  * 
@@ -706,7 +743,7 @@ export const PostsApiFp = function(configuration?: Configuration) {
          * @param {*} [options] Override http request option.
          * @throws {RequiredError}
          */
-        async getPostsApiPostsGet(page?: number, perPage?: number, tag?: string | null, options?: RawAxiosRequestConfig): Promise<(axios?: AxiosInstance, basePath?: string) => AxiosPromise<{ [key: string]: any; }>> {
+        async getPostsApiPostsGet(page?: number, perPage?: number, tag?: string | null, options?: RawAxiosRequestConfig): Promise<(axios?: AxiosInstance, basePath?: string) => AxiosPromise<PaginatedPosts>> {
             const localVarAxiosArgs = await localVarAxiosParamCreator.getPostsApiPostsGet(page, perPage, tag, options);
             const localVarOperationServerIndex = configuration?.serverIndex ?? 0;
             const localVarOperationServerBasePath = operationServerMap['PostsApi.getPostsApiPostsGet']?.[localVarOperationServerIndex]?.url;
@@ -763,7 +800,7 @@ export const PostsApiFactory = function (configuration?: Configuration, basePath
          * @param {*} [options] Override http request option.
          * @throws {RequiredError}
          */
-        getPostsApiPostsGet(page?: number, perPage?: number, tag?: string | null, options?: RawAxiosRequestConfig): AxiosPromise<{ [key: string]: any; }> {
+        getPostsApiPostsGet(page?: number, perPage?: number, tag?: string | null, options?: RawAxiosRequestConfig): AxiosPromise<PaginatedPosts> {
             return localVarFp.getPostsApiPostsGet(page, perPage, tag, options).then((request) => request(axios, basePath));
         },
         /**

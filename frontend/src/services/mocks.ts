@@ -1,15 +1,19 @@
-import { PostSummary } from '../types/Post';
+import { Post } from '../api/posts/api';
 import { SummaryActivity } from '../types/StravaTypes';
 
 // Mock blog posts
-export const mockPosts: PostSummary[] = [
+export const mockPosts: Post[] = [
   {
     slug: 'dynamic-routing',
     title: 'Dynamic Routing and Static Generation',
     date: '2020-03-16T05:35:07.322Z',
     coverImage: '/assets/blog/dynamic-routing/cover.jpg',
     excerpt: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Praesent elementum facilisis leo vel fringilla est ullamcorper eget.',
+    tags: ['Next.js', 'Routing'],
+    content: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Praesent elementum facilisis leo vel fringilla est ullamcorper eget.',
+    rawContent: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Praesent elementum facilisis leo vel fringilla est ullamcorper eget.',
     author: {
+      id: 'jj-kasper',
       name: 'JJ Kasper',
       picture: '/assets/blog/authors/jj.jpeg',
     },
@@ -23,7 +27,11 @@ export const mockPosts: PostSummary[] = [
     date: '2020-03-16T05:35:07.322Z',
     coverImage: '/assets/blog/hello-world/cover.jpg',
     excerpt: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Praesent elementum facilisis leo vel fringilla est ullamcorper eget.',
+    tags: ['Next.js', 'Static Generation'],
+    content: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Praesent elementum facilisis leo vel fringilla est ullamcorper eget.',
+    rawContent: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Praesent elementum facilisis leo vel fringilla est ullamcorper eget.',
     author: {
+      id: 'tim-neutkens',
       name: 'Tim Neutkens',
       picture: '/assets/blog/authors/tim.jpeg',
     },
@@ -37,7 +45,11 @@ export const mockPosts: PostSummary[] = [
     date: '2020-03-16T05:35:07.322Z',
     coverImage: '/assets/blog/preview/cover.jpg',
     excerpt: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Praesent elementum facilisis leo vel fringilla est ullamcorper eget.',
+    tags: ['Next.js', 'Preview Mode'],
+    content: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Praesent elementum facilisis leo vel fringilla est ullamcorper eget.',
+    rawContent: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Praesent elementum facilisis leo vel fringilla est ullamcorper eget.',
     author: {
+      id: 'joe-haddad',
       name: 'Joe Haddad',
       picture: '/assets/blog/authors/joe.jpeg',
     },

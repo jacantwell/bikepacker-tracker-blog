@@ -1,5 +1,6 @@
 import { useState, useEffect } from 'react';
-import { Post, PostSummary } from '../types/Post';
+import { Post } from '../api/posts';
+import { PostSummary } from '../types/Post';
 import { getAllPosts, getPostBySlug } from '../services/posts';
 
 export function useAllPosts(page = 1, limit = 10) {
@@ -16,7 +17,7 @@ export function useAllPosts(page = 1, limit = 10) {
         const data = await getAllPosts(page, limit);
         setPosts(data.posts);
         setTotalPosts(data.total);
-        setTotalPages(data.totalPages);
+        setTotalPages(data.total_pages);
       } catch (err) {
         setError(err instanceof Error ? err : new Error('Failed to fetch posts'));
       } finally {
@@ -37,6 +38,11 @@ export function usePost(slug: string) {
 
   useEffect(() => {
     async function fetchPost() {
+      if (!slug) {
+        setLoading(false);
+        return;
+      }
+      
       try {
         setLoading(true);
         const data = await getPostBySlug(slug);
@@ -48,9 +54,7 @@ export function usePost(slug: string) {
       }
     }
 
-    if (slug) {
-      fetchPost();
-    }
+    fetchPost();
   }, [slug]);
 
   return { post, loading, error };
