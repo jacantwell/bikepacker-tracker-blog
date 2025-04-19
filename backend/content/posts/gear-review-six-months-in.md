@@ -1,13 +1,13 @@
 ---
 title: "Gear Review: What Worked and What Didn't After Six Months on the Road"
 excerpt: "After 6,000 kilometers across seven countries, I've learned what gear is essential, what was unnecessary, and what unexpectedly saved my journey."
-coverImage: "/assets/images/covers/cover1.jpg"
+coverImage: "/assets/images/covers/cover3.jpeg"
 date: "2023-09-05T09:15:00.000Z"
 author:
   name: "Jasper Williams"
   picture: "/assets/images/authors/jj.jpeg"
 ogImage:
-  url: "/assets/images/covers/cover1.jpg"
+  url: "/assets/images/covers/cover3.jpeg"
 tags:
   - gear
   - equipment

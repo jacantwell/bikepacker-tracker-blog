@@ -1,13 +1,13 @@
 from fastapi import APIRouter, HTTPException, Query
 from typing import List, Dict, Any, Optional
 
-from ..models.posts import Post
+from ..models.posts import Post, PaginatedPosts
 from ..handlers.posts import content_handler
 
 router = APIRouter(tags=["Posts"], prefix="/api")
 
 
-@router.get("/posts", response_model=Dict[str, Any])
+@router.get("/posts", response_model=PaginatedPosts)
 def get_posts(
     page: int = Query(1, ge=1, description="Page number"),
     per_page: int = Query(10, ge=1, le=100, description="Items per page"),
@@ -26,14 +26,13 @@ def get_posts(
         end_idx = start_idx + per_page
         posts_page = filtered_posts[start_idx:end_idx]
 
-        return {
-            "posts": posts_page,
-            "total": total,
-            "page": page,
-            "per_page": per_page,
-            "total_pages": total_pages,
-            "tag": tag,
-        }
+        return PaginatedPosts(
+            posts=posts_page,
+            total=total,
+            page=page,
+            per_page=per_page,
+            total_pages=total_pages,
+        )
     else:
         # If no tag is specified, return all posts with pagination
         return content_handler.get_posts_paginated(page, per_page)

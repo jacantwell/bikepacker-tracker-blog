@@ -1,13 +1,13 @@
 ---
 title: "Beginning the Journey: UK to Somewhere"
 excerpt: "The first days of my cycling adventure across Europe and beyond, starting from the rainy shores of the UK toward the unknown."
-coverImage: "/assets/images/covers/cover1.jpg"
+coverImage: "/assets/images/covers/cover2.jpeg"
 date: "2023-03-15T12:00:00.000Z"
 author:
   name: "Jasper Williams"
   picture: "/assets/images/authors/jj.jpeg"
 ogImage:
-  url: "/assets/images/covers/cover1.jpg"
+  url: "/assets/images/covers/cover2.jpeg"
 tags:
   - journey
   - cycling

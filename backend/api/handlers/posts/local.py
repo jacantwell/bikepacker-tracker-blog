@@ -7,7 +7,7 @@ import frontmatter
 from datetime import datetime
 
 from .base import ContentHandler
-from ...models.posts import Post, OgImage
+from ...models.posts import Post, OgImage, PaginatedPosts
 from ...models.authors import Author
 
 
@@ -76,6 +76,38 @@ class LocalContentHandler(ContentHandler):
             print(f"Error loading author {author_id}: {e}")
             return None
 
+    def _process_image_urls(self, content: str) -> str:
+        """Process image URLs in the content to ensure they work with the local server."""
+        import re
+
+        def replace_image_url(match):
+            alt_text = match.group(1)
+            image_path = match.group(2)
+
+            # Skip external URLs
+            if image_path.startswith("http"):
+                return match.group(0)
+
+            # Fix paths for local serving
+            # if image_path.startswith("/assets/images/"):
+            #     # Convert /assets/images/ to /images/
+            #     image_path = "/images/" + image_path[len("/assets/images/") :]
+            # elif image_path.startswith("/assets/"):
+            #     # Convert /assets/ to /images/
+            #     image_path = "/images/" + image_path[len("/assets/") :]
+            # elif not image_path.startswith("/images/"):
+            #     # If not already starting with /images/, add it
+            #     # Remove leading slash if present
+            #     if image_path.startswith("/"):
+            #         image_path = image_path[1:]
+            #     image_path = f"/images/{image_path}"
+
+            return f"![{alt_text}]({image_path})"
+
+        # Pattern to match markdown image syntax
+        pattern = r"!\[(.*?)\]\((.*?)\)"
+        return re.sub(pattern, replace_image_url, content)
+
     def _load_post_from_file(self, file_path: Path) -> Optional[Post]:
         """Load a single post from a Markdown file."""
         try:
@@ -103,12 +135,15 @@ class LocalContentHandler(ContentHandler):
                 og_image_data = post.get("ogImage", {})
                 og_image = OgImage(url=og_image_data.get("url", ""))
 
+                # Process image URLs in the content
+                processed_content = self._process_image_urls(post.content)
+
                 # Create Post object
                 return Post(
                     slug=file_path.stem,  # Use the filename as the slug
                     title=post.get("title", ""),
-                    content=post.content,  # This is the HTML content
-                    rawContent=post.content,  # Store the raw markdown too
+                    content=processed_content,  # Process image URLs
+                    rawContent=post.content,  # Store the original markdown content
                     date=post.get("date", datetime.now().isoformat()),
                     excerpt=post.get("excerpt", ""),
                     author=author,
@@ -143,7 +178,7 @@ class LocalContentHandler(ContentHandler):
         all_posts = self.load_all_posts()
         return [post for post in all_posts if tag in post.tags]
 
-    def get_posts_paginated(self, page: int = 1, per_page: int = 10) -> Dict[str, Any]:
+    def get_posts_paginated(self, page: int = 1, per_page: int = 10) -> PaginatedPosts:
         """Get paginated posts."""
         all_posts = self.load_all_posts()
 
@@ -156,10 +191,10 @@ class LocalContentHandler(ContentHandler):
         end_idx = start_idx + per_page
         posts_page = all_posts[start_idx:end_idx]
 
-        return {
-            "posts": posts_page,
-            "total": total,
-            "page": page,
-            "per_page": per_page,
-            "total_pages": total_pages,
-        }
+        return PaginatedPosts(
+            posts=posts_page,
+            total=total,
+            page=page,
+            per_page=per_page,
+            total_pages=total_pages,
+        )

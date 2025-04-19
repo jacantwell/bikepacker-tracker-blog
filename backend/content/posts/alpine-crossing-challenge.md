@@ -7,7 +7,7 @@ author:
   name: "Jasper Williams"
   picture: "/assets/images/authors/jj.jpeg"
 ogImage:
-  url: "/assets/images/covers/cover1.jpg"
+  url: "/assets/images/covers/cover1.jpeg"
 tags:
   - cycling
   - alps
@@ -36,7 +36,7 @@ What these numbers failed to capture was the 30-minute hailstorm that caught me 
 
 The historic Gotthard Pass was my chosen route through the Swiss Alps. The old cobblestone road dates back centuries and offered both a beautiful experience and a bone-jarring challenge.
 
-![Cobblestone section of Gotthard Pass](/assets/images/covers/cover1.jpg)
+![Cobblestone section of Gotthard Pass](/assets/images/covers/cover1.jpeg)
 
 The rhythmic pattern of the stones became almost meditative as I slowly climbed, my speed rarely exceeding 6 km/h. Each turn revealed new vistas that quite literally took my remaining breath away.
 

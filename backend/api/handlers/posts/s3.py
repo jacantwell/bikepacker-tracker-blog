@@ -3,14 +3,14 @@ import json
 import logging
 import os
 import re
-from typing import List, Dict, Any, Optional
+from typing import List, Optional
 
 import boto3
 from botocore.exceptions import ClientError
 import frontmatter
 
 from .base import ContentHandler
-from ...models.posts import Post, OgImage
+from ...models.posts import Post, OgImage, PaginatedPosts
 from ...models.authors import Author
 
 logger = logging.getLogger(__name__)
@@ -263,7 +263,7 @@ class S3ContentHandler(ContentHandler):
         all_posts = self.load_all_posts()
         return [post for post in all_posts if tag in post.tags]
 
-    def get_posts_paginated(self, page: int = 1, per_page: int = 10) -> Dict[str, Any]:
+    def get_posts_paginated(self, page: int = 1, per_page: int = 10) -> PaginatedPosts:
         """Get paginated posts."""
         all_posts = self.load_all_posts()
 
@@ -276,10 +276,10 @@ class S3ContentHandler(ContentHandler):
         end_idx = start_idx + per_page
         posts_page = all_posts[start_idx:end_idx]
 
-        return {
-            "posts": posts_page,
-            "total": total,
-            "page": page,
-            "per_page": per_page,
-            "total_pages": total_pages,
-        }
+        return PaginatedPosts(
+            posts=posts_page,
+            total=total,
+            page=page,
+            per_page=per_page,
+            total_pages=total_pages,
+        )
