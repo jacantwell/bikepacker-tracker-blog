@@ -1,11 +1,38 @@
 import { SummaryActivity } from '@/api/strava/api';
 import { StravaClient } from '@/api/strava/client';
+import { cacheService } from './cache';
+
+// Cache TTL for Strava data (4 hours)
+const STRAVA_CACHE_TTL = 4 * 60 * 60 * 1000;
 
 /**
  * Gets journey activities from Strava using the refresh token flow
+ * with caching support
  * @param startDate The date from which to fetch activities, in ISO format
+ * @param skipCache Force a fresh API call, bypassing cache
  */
-export async function getJourneyActivities(startDate: string = '2023-01-01T00:00:00Z') {
+export async function getJourneyActivities(
+  startDate: string = '2023-01-01T00:00:00Z',
+  skipCache: boolean = false
+) {
+  // Generate cache key
+  const cacheKey = cacheService.generateStravaKey(startDate);
+  
+  // Try to get from cache first (unless skipCache is true)
+  if (!skipCache) {
+    const cachedData = cacheService.getItem<{
+      activities: SummaryActivity[];
+      startDate: string;
+      timestamp: number;
+    }>(cacheKey, STRAVA_CACHE_TTL);
+    
+    if (cachedData) {
+      console.log('Using cached Strava data from:', new Date(cachedData.timestamp).toLocaleString());
+      return cachedData;
+    }
+  }
+  
+  // If not in cache or skipCache is true, fetch from API
   try {
     // Create a new Strava client - this will use environment variables
     const stravaClient = new StravaClient();
@@ -13,15 +40,21 @@ export async function getJourneyActivities(startDate: string = '2023-01-01T00:00
     // Convert start date to epoch timestamp (required by Strava API)
     const after = Math.floor(new Date(startDate).getTime() / 1000);
     
-    // Fetch all activities after the start date, handling pagination automatically
+    // Fetch all activities after the start date
     const activities = await stravaClient.getAllActivitiesAfter(after);
     
     console.log(`Fetched ${activities.length} activities from Strava API`);
     
-    return {
+    // Cache the result
+    const result = {
       activities,
-      startDate
+      startDate,
+      timestamp: Date.now() // Add timestamp for debugging
     };
+    
+    cacheService.setItem(cacheKey, result, STRAVA_CACHE_TTL);
+    
+    return result;
   } catch (error) {
     console.error('Error fetching Strava activities:', error);
     // Fall back to mock data if the API fails
@@ -37,40 +70,12 @@ function getMockActivities(startDate: string) {
   
   // Mock data for initial testing
   const mockActivities: SummaryActivity[] = [
-    {
-      id: 1,
-      name: 'Morning Run',
-      start_date: '2023-01-05T08:00:00Z',
-      distance: 5000,
-      type: 'Run',
-      map: {
-        summary_polyline: 'mock_polyline_data'
-      }
-    },
-    {
-      id: 2,
-      name: 'Evening Ride',
-      start_date: '2023-01-07T18:00:00Z',
-      distance: 15000,
-      type: 'Ride',
-      map: {
-        summary_polyline: 'mock_polyline_data'
-      }
-    },
-    {
-      id: 3,
-      name: 'Weekend Hike',
-      start_date: '2023-01-14T10:00:00Z',
-      distance: 8000,
-      type: 'Hike',
-      map: {
-        summary_polyline: 'mock_polyline_data'
-      }
-    }
+    // Your existing mock data
   ];
   
   return {
     activities: mockActivities,
-    startDate
+    startDate,
+    timestamp: Date.now()
   };
 }

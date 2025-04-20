@@ -7,23 +7,36 @@ import { useStravaData } from '../hooks/useStravaData'
 
 const HomePage = () => {
   const { posts, loading: postsLoading } = useAllPosts()
-  const { activities, loading: activitiesLoading } = useStravaData(import.meta.env.VITE_JOURNEY_START_DATE || '2023-01-01T00:00:00Z')
+  const { 
+    activities, 
+    loading: activitiesLoading, 
+    refreshing: activitiesRefreshing,
+    lastUpdated,
+    refresh
+  } = useStravaData(import.meta.env.VITE_JOURNEY_START_DATE || '2023-01-01T00:00:00Z')
   
-  if (postsLoading || activitiesLoading) {
-    return (
-      <Container>
-        <div className="flex justify-center items-center min-h-[50vh]">
-          <div className="animate-pulse">Loading...</div>
-        </div>
-      </Container>
-    )
-  }
-
   return (
     <Container>
       <Intro />
-      <JourneyMap activities={activities} startDate="2023-01-01T00:00:00Z" />
-      {posts.length > 0 && <MoreStories posts={posts} />}
+      
+      {/* Map renders immediately with loading and refreshing states */}
+      <JourneyMap 
+        activities={activities || []} 
+        startDate={import.meta.env.VITE_JOURNEY_START_DATE || "2023-01-01T00:00:00Z"}
+        isLoading={activitiesLoading}
+        isRefreshing={activitiesRefreshing}
+        lastUpdated={lastUpdated}
+        onRefresh={refresh}
+      />
+      
+      {/* Show blog posts if loaded, otherwise show loading state */}
+      {postsLoading ? (
+        <div className="my-12 flex justify-center">
+          <div className="animate-pulse text-lg">Loading blog posts...</div>
+        </div>
+      ) : (
+        posts.length > 0 && <MoreStories posts={posts} />
+      )}
     </Container>
   )
 }
