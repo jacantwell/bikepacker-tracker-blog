@@ -15,7 +15,8 @@ jobs:
     env:
       STACK_NAME: 'bikepacker-tracker-backend'
       AWS_REGION: 'eu-west-2'
-    
+      ECR_REPOSITORY: ${{ secrets.AWS_ACCOUNT_ID }}.dkr.ecr.$AWS_REGION.amazonaws.com/bikepacker-tracker-backend
+
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
@@ -31,43 +32,35 @@ jobs:
         id: login-ecr
         uses: aws-actions/amazon-ecr-login@v2
 
-      - name: Set ECR Repository URI
-        run: |
-          echo "ECR_REPOSITORY=${{ secrets.AWS_ACCOUNT_ID }}.dkr.ecr.$AWS_REGION.amazonaws.com/$STACK_NAME" >> $GITHUB_ENV
-
       - name: Build Docker image
         run: |
           cd backend
-          docker build -t $STACK_NAME .
-          docker tag $STACK_NAME $ECR_REPOSITORY:$IMAGE_TAG
-          docker tag $STACK_NAME $ECR_REPOSITORY:latest
+          docker build -t ${{ env.STACK_NAME }} .
+          docker tag ${{ env.STACK_NAME }} ${{ env.ECR_REPOSITORY }}:$IMAGE_TAG
+          docker tag ${{ env.STACK_NAME }} ${{ env.ECR_REPOSITORY }}:latest
 
       - name: Create ECR repository if it doesn't exist
         run: |
-          if ! aws ecr describe-repositories --repository-names $STACK_NAME 2>/dev/null; then
-            echo "Creating ECR repository $STACK_NAME"
-            aws ecr create-repository --repository-name $STACK_NAME
+          if ! aws ecr describe-repositories --repository-names ${{ env.STACK_NAME }} 2>/dev/null; then
+            echo "Creating ECR repository ${{ env.STACK_NAME }}"
+            aws ecr create-repository --repository-name ${{ env.STACK_NAME }}
           fi
 
-      - name: Push Docker image to ECR
+      - name: Push Docker image to ECR and deploy
         run: |
-          echo "Pushing image to ECR: $ECR_REPOSITORY:$IMAGE_TAG"
-          docker push $ECR_REPOSITORY:$IMAGE_TAG
-          docker push $ECR_REPOSITORY:latest
-
-      - name: Deploy to AWS CloudFormation
-        run: |
-          echo "Deploying stack $STACK_NAME to region $AWS_REGION"
           cd backend
+          # Push the image and capture the digest
+          DIGEST=$(docker push $ECR_REPO:latest | grep digest | cut -d' ' -f3)
+          echo "Deploying stack ${{ env.STACK_NAME }} to region $AWS_REGION"
           aws cloudformation deploy \
             --capabilities CAPABILITY_IAM \
-            --stack-name $STACK_NAME \
+            --stack-name ${{ env.STACK_NAME }} \
             --template-file template.yaml \
             --region $AWS_REGION \
             --parameter-overrides \
-              ImageUri="$ECR_REPOSITORY:$IMAGE_TAG"
+              ImageUri="${DIGEST}"
 
       - name: Get API Gateway URL
         run: |
           echo "API Gateway URL:"
-          aws cloudformation describe-stacks --stack-name $STACK_NAME --query "Stacks[0].Outputs[?ExportName=='$STACK_NAME-ApiEndpoint'].OutputValue" --output text
+          aws cloudformation describe-stacks --stack-name ${{ env.STACK_NAME }} --query "Stacks[0].Outputs[?ExportName=='${{ env.STACK_NAME }}-ApiEndpoint'].OutputValue" --output text
