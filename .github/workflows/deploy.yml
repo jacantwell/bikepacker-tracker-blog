@@ -35,14 +35,9 @@ jobs:
         run: |
           echo "ECR_REPOSITORY=${{ secrets.AWS_ACCOUNT_ID }}.dkr.ecr.$AWS_REGION.amazonaws.com/$STACK_NAME" >> $GITHUB_ENV
 
-      - name: Navigate to the project directory
-        run: |
-            cd backend
-            ls -a
-
       - name: Build Docker image
         run: |
-          ls -a
+          cd backend
           docker build -t $STACK_NAME .
           docker tag $STACK_NAME $ECR_REPOSITORY:$IMAGE_TAG
           docker tag $STACK_NAME $ECR_REPOSITORY:latest
@@ -63,6 +58,7 @@ jobs:
       - name: Deploy to AWS CloudFormation
         run: |
           echo "Deploying stack $STACK_NAME to region $AWS_REGION"
+          cd backend
           aws cloudformation deploy \
             --capabilities CAPABILITY_IAM \
             --stack-name $STACK_NAME \
