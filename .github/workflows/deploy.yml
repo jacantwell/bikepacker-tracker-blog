@@ -48,8 +48,12 @@ jobs:
       - name: Push Docker image to ECR and deploy
         run: |
           cd backend
+          # Tag the image
+          docker tag ${{ env.STACK_NAME }}:latest ${{ env.ECR_REPOSITORY }}:latest
+
           # Push the image and capture the digest
           DIGEST=$(docker push $ECR_REPO:latest | grep digest | cut -d' ' -f3)
+
           echo "Deploying stack ${{ env.STACK_NAME }} to region $AWS_REGION with image digest $DIGEST"
           aws cloudformation deploy \
             --capabilities CAPABILITY_IAM \
