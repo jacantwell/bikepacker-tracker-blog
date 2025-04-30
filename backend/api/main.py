@@ -1,9 +1,12 @@
+import logging
+
 from fastapi import FastAPI, Request, status
 from fastapi.middleware.cors import CORSMiddleware
 from fastapi.responses import JSONResponse
 from fastapi.exceptions import RequestValidationError
 from fastapi.staticfiles import StaticFiles
-import logging
+from mangum import Mangum
+
 
 from .routes import authors_router, posts_router
 
@@ -78,3 +81,16 @@ def read_root():
             "/api/authors/{author_id}",
         ],
     }
+
+
+# Define the Lambda handler
+handler = Mangum(app)
+
+
+# AWS Lambda handler for FAST API integration, identifying warm-up invocations and passing events to the main handler.
+def lambda_handler(event, context):
+    if "source" in event and event["source"] == "aws.events":
+        print("This is a warm-up invocation.")
+        return {}
+    else:
+        return handler(event, context)
