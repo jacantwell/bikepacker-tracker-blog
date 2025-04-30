@@ -15,7 +15,7 @@ jobs:
     env:
       STACK_NAME: 'bikepacker-tracker-backend'
       AWS_REGION: 'eu-west-2'
-      ECR_REPOSITORY: ${{ secrets.AWS_ACCOUNT_ID }}.dkr.ecr.$AWS_REGION.amazonaws.com/bikepacker-tracker-backend
+      ECR_REPOSITORY: 992382417038.dkr.ecr.$AWS_REGION.amazonaws.com/bikepacker-tracker-backend
 
     steps:
       - name: Checkout repository
