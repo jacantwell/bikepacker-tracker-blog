@@ -35,6 +35,9 @@ jobs:
         run: |
           echo "ECR_REPOSITORY=${{ secrets.AWS_ACCOUNT_ID }}.dkr.ecr.$AWS_REGION.amazonaws.com/$STACK_NAME" >> $GITHUB_ENV
 
+      - name: Navigate to the project directory
+        run: cd backend
+
       - name: Build Docker image
         run: |
           docker build -t $STACK_NAME .
