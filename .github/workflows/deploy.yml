@@ -15,11 +15,16 @@ jobs:
     env:
       STACK_NAME: 'bikepacker-tracker-backend'
       AWS_REGION: 'eu-west-2'
-      ECR_REPOSITORY: 992382417038.dkr.ecr.$AWS_REGION.amazonaws.com/bikepacker-tracker-backend
+      AWS_ACCOUNT_ID: '992382417038'
+      REPO_NAME: 'bikepacker-tracker-backend'
 
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
+
+      - name: Set ECR repository URI
+        run: |
+          echo "ECR_REPOSITORY=$AWS_ACCOUNT_ID.dkr.ecr.$AWS_REGION.amazonaws.com/$REPO_NAME" >> $GITHUB_ENV
 
       - name: Configure AWS credentials
         uses: aws-actions/configure-aws-credentials@v1
@@ -32,38 +37,41 @@ jobs:
         id: login-ecr
         uses: aws-actions/amazon-ecr-login@v2
 
+      - name: Create ECR repository if it doesn't exist
+        run: |
+          if ! aws ecr describe-repositories --repository-names $REPO_NAME 2>/dev/null; then
+            echo "Creating ECR repository $REPO_NAME"
+            aws ecr create-repository --repository-name $REPO_NAME
+          fi
+
       - name: Build Docker image
         run: |
           cd backend
-          docker build -t ${{ env.STACK_NAME }} .
-          docker tag ${{ env.STACK_NAME }} ${{ env.ECR_REPOSITORY }}:latest
+          docker build -t $STACK_NAME .
+          docker tag $STACK_NAME $ECR_REPOSITORY:latest
 
-      - name: Create ECR repository if it doesn't exist
-        run: |
-          if ! aws ecr describe-repositories --repository-names ${{ env.ECR_REPOSITORY }} 2>/dev/null; then
-            echo "Creating ECR repository ${{ env.ECR_REPOSITORY }}"
-            aws ecr create-repository --repository-name ${{ env.ECR_REPOSITORY }}
-          fi
-
-      - name: Push Docker image to ECR and deploy
+      - name: Push Docker image to ECR
         run: |
           cd backend
-          # Tag the image
-          docker tag ${{ env.STACK_NAME }}:latest ${{ env.ECR_REPOSITORY }}:latest
+          # Push the image
+          docker push $ECR_REPOSITORY:latest
+          
+          # Get image digest reliably using AWS CLI
+          echo "IMAGE_DIGEST=$(aws ecr describe-images --repository-name $REPO_NAME --image-ids imageTag=latest --query 'imageDetails[0].imageDigest' --output text)" >> $GITHUB_ENV
 
-          # Push the image and capture the digest
-          DIGEST=$(docker push $ECR_REPO:latest | grep digest | cut -d' ' -f3)
-
-          echo "Deploying stack ${{ env.STACK_NAME }} to region $AWS_REGION with image digest $DIGEST"
+      - name: Deploy to AWS CloudFormation
+        run: |
+          cd backend
+          echo "Deploying stack $STACK_NAME to region $AWS_REGION with image digest $IMAGE_DIGEST"
           aws cloudformation deploy \
             --capabilities CAPABILITY_IAM \
-            --stack-name ${{ env.STACK_NAME }} \
+            --stack-name $STACK_NAME \
             --template-file template.yaml \
             --region $AWS_REGION \
             --parameter-overrides \
-              ImageUri="${DIGEST}"
+              ImageUri="$ECR_REPOSITORY@$IMAGE_DIGEST"
 
       - name: Get API Gateway URL
         run: |
           echo "API Gateway URL:"
-          aws cloudformation describe-stacks --stack-name ${{ env.STACK_NAME }} --query "Stacks[0].Outputs[?ExportName=='${{ env.STACK_NAME }}-ApiEndpoint'].OutputValue" --output text
+          aws cloudformation describe-stacks --stack-name $STACK_NAME --query "Stacks[0].Outputs[?ExportName=='$STACK_NAME-ApiEndpoint'].OutputValue" --output text
