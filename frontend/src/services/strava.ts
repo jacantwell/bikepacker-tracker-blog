@@ -62,6 +62,14 @@ export async function getJourneyActivities(
   }
 }
 
+export async function getDetailedActivity(activity_id: string) {
+  const stravaClient = new StravaClient();
+
+  const activity = await stravaClient.getActivity(activity_id);
+
+  return activity
+}
+
 /**
  * Fallback function to get mock data if API fails
  */

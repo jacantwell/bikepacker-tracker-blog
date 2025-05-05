@@ -8,7 +8,9 @@ import Map, {
   ViewStateChangeEvent,
   LineLayerSpecification,
 } from "react-map-gl/mapbox";
-import { SummaryActivity } from "@/api/strava/api";
+import ActivityPhotos  from "./ActivityPhotos"
+import { SummaryActivity, DetailedActivity } from "@/api/strava/api";
+import { getDetailedActivity } from "@/services/strava"
 import { processActivities, calculateBounds } from "@/lib/activity-processor";
 import { formatDistance, formatTime } from "@/lib/dates";
 
@@ -54,7 +56,7 @@ export function JourneyMap({
 
   // State for activity hover and selection
   const [selectedActivity, setSelectedActivity] =
-    useState<SummaryActivity | null>(null);
+    useState<DetailedActivity | null>(null);
   const [popupInfo, setPopupInfo] = useState<{
     longitude: number;
     latitude: number;
@@ -252,9 +254,15 @@ export function JourneyMap({
       // Find the activity that corresponds to the clicked feature
       const featureId = features[0].properties.id;
       const activity = activities.find((a) => a.id === featureId);
-
+      console.log("Activity selected", activity)
       if (activity) {
-        setSelectedActivity(activity);
+        getDetailedActivity("13448110129").then((detailedActivity) => {
+        console.log("Detailed activity:")
+        console.log(detailedActivity)
+        console.log("Photo info")
+        console.log(detailedActivity.photos)
+        setSelectedActivity(detailedActivity);
+        })
 
         // Get coordinates for the popup - use the first point of the activity
         if (activity.start_latlng && activity.start_latlng.length === 2) {
@@ -472,16 +480,22 @@ export function JourneyMap({
 
       {/* Selected activity details */}
       {selectedActivity && (
-        <div className="mt-6 rounded-lg bg-white p-4 shadow-md dark:bg-slate-800">
+        <div className="mt-6 rounded-lg bg-white p-5 shadow-md dark:bg-slate-800">
           <h3 className="mb-2 text-xl font-bold">{selectedActivity.name}</h3>
-          <div className="grid grid-cols-1 gap-4 sm:grid-cols-2 md:grid-cols-4">
+          <div className="grid grid-cols-1 gap-5 sm:grid-cols-2 md:grid-cols-5">
+            {/* <div className="content-center">
+              <a
+                href={`https://www.strava.com/activities/${selectedActivity.id}`}
+                target="_blank"
+                rel="noopener noreferrer"
+                className="inline-block rounded bg-orange-500 px-4 py-2 text-white transition-colors hover:bg-orange-600"
+              >
+                View on Strava
+              </a>
+            </div> */}
             <div>
               <p className="text-sm text-gray-600 dark:text-gray-400">Date</p>
               <p>{formatDate(selectedActivity.start_date)}</p>
-            </div>
-            <div>
-              <p className="text-sm text-gray-600 dark:text-gray-400">Type</p>
-              <p>{selectedActivity.type}</p>
             </div>
             <div>
               <p className="text-sm text-gray-600 dark:text-gray-400">
@@ -495,39 +509,24 @@ export function JourneyMap({
               </p>
               <p>{formatTime(selectedActivity.elapsed_time)}</p>
             </div>
-          </div>
-
-          {/* Additional details if available */}
-          {selectedActivity.total_elevation_gain && (
-            <div className="mt-3">
+            <div>
               <p className="text-sm text-gray-600 dark:text-gray-400">
                 Elevation Gain
               </p>
               <p>{selectedActivity.total_elevation_gain} m</p>
             </div>
-          )}
+            <div>
+              <ActivityPhotos photoDetails={selectedActivity.photos} />           
+            </div>
+          </div>
 
-          {/* Is this the current location? */}
-          {currentLocation &&
-            currentLocation.activity.id === selectedActivity.id && (
-              <div className="mt-3 inline-block rounded-full bg-red-100 px-3 py-1 text-sm text-red-800 dark:bg-red-900 dark:text-red-100">
-                Current Location
-              </div>
-            )}
+          {/* Additional details if available */}
+          {/* {selectedActivity.total_elevation_gain && (
+          )} */}
 
           {/* Show link to Strava activity */}
-          {selectedActivity.id && (
-            <div className="mt-4">
-              <a
-                href={`https://www.strava.com/activities/${selectedActivity.id}`}
-                target="_blank"
-                rel="noopener noreferrer"
-                className="inline-block rounded bg-orange-500 px-4 py-2 text-white transition-colors hover:bg-orange-600"
-              >
-                View on Strava
-              </a>
-            </div>
-          )}
+          {/* {selectedActivity.id && (
+          )} */}
         </div>
       )}
     </section>
