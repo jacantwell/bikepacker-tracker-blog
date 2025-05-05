@@ -9,7 +9,7 @@ on:
     # Manual trigger
 
 jobs:
-  deploy:
+  deploy-backend:
     runs-on: ubuntu-latest
     
     env:
