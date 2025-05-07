@@ -21,14 +21,13 @@ Resources:
     Type: AWS::CertificateManager::Certificate
     Properties:
       DomainName: !Ref DomainName
-      ValidationMethod: DNS
       SubjectAlternativeNames:
         - !Sub "*.${DomainName}"
+      ValidationMethod: DNS
       DomainValidationOptions:
         - DomainName: !Ref DomainName
           HostedZoneId: !Ref HostedZoneId
-        - DomainName: !Sub "*.${DomainName}"
-          HostedZoneId: !Ref HostedZoneId
+
 
   # CloudFront Origin Access Identity
   CloudFrontOriginAccessIdentity:
