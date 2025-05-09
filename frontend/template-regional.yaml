@@ -6,9 +6,14 @@ Parameters:
     Type: String
     Default: ''
     Description: ARN of the CloudFront distribution (optional, provided on update)
+  CloudFrontOriginAccessIdentity:
+    Type: String
+    Default: ''
+    Description: CloudFront Origin Access Identity (optional, provided on update)
 
 Conditions:
   HasCloudFrontDistribution: !Not [!Equals [!Ref CloudFrontDistributionArn, '']]
+  HasCloudFrontOAI: !Not [!Equals [!Ref CloudFrontOriginAccessIdentity, '']]
 
 Resources:
   # S3 Bucket for Website Content
@@ -24,19 +29,17 @@ Resources:
   # S3 Bucket Policy for CloudFront (added only when CloudFront ARN is provided)
   AppBucketPolicy:
     Type: AWS::S3::BucketPolicy
-    Condition: HasCloudFrontDistribution
+    Condition: HasCloudFrontOAI
     Properties:
       Bucket: !Ref AppBucket
       PolicyDocument:
+        Version: '2012-10-17'
         Statement:
           - Effect: Allow
             Principal:
-              Service: cloudfront.amazonaws.com
+              CanonicalUser: !Sub "arn:aws:iam::cloudfront:user/CloudFront Origin Access Identity ${CloudFrontOriginAccessIdentity}"
             Action: s3:GetObject
             Resource: !Sub "${AppBucket.Arn}/*"
-            Condition:
-              StringEquals:
-                AWS:SourceArn: !Ref CloudFrontDistributionArn
 
 Outputs:
   BucketName:
