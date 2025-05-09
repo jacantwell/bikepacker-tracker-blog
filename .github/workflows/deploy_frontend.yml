@@ -50,6 +50,39 @@ jobs:
           BUCKET_NAME=$(aws cloudformation describe-stacks --stack-name $REGIONAL_STACK_NAME --query "Stacks[0].Outputs[?OutputKey=='BucketName'].OutputValue" --output text)
           echo "bucket_name=$BUCKET_NAME" >> $GITHUB_OUTPUT
       
+      - name: Verify Regional Stack Exports
+        run: |
+          echo "Waiting for CloudFormation exports to be available..."
+          sleep 30
+          
+          EXPORT_NAME="${REGIONAL_STACK_NAME}-BucketRegionalDomainName"
+          echo "Checking for export: $EXPORT_NAME"
+          
+          MAX_ATTEMPTS=10
+          ATTEMPT=1
+          
+          while [ $ATTEMPT -le $MAX_ATTEMPTS ]; do
+            echo "Attempt $ATTEMPT of $MAX_ATTEMPTS"
+            
+            EXPORT_VALUE=$(aws cloudformation list-exports --query "Exports[?Name=='$EXPORT_NAME'].Value" --output text)
+            
+            if [ -n "$EXPORT_VALUE" ] && [ "$EXPORT_VALUE" != "None" ]; then
+              echo "Found export: $EXPORT_VALUE"
+              break
+            fi
+            
+            echo "Export not found yet, waiting..."
+            sleep 30
+            ATTEMPT=$((ATTEMPT+1))
+          done
+          
+          if [ $ATTEMPT -gt $MAX_ATTEMPTS ]; then
+            echo "Error: Failed to find export after $MAX_ATTEMPTS attempts."
+            echo "Available exports:"
+            aws cloudformation list-exports
+            exit 1
+          fi
+      
       - name: Deploy Global Stack (us-east-1)
         uses: aws-actions/configure-aws-credentials@v2
         with:
