@@ -1,0 +1,51 @@
+AWSTemplateFormatVersion: '2010-09-09'
+Parameters:
+  DomainName:
+    Type: String
+  CloudFrontDistributionArn:
+    Type: String
+    Default: ''
+    Description: ARN of the CloudFront distribution (optional, provided on update)
+
+Conditions:
+  HasCloudFrontDistribution: !Not [!Equals [!Ref CloudFrontDistributionArn, '']]
+
+Resources:
+  # S3 Bucket for Website Content
+  AppBucket:
+    Type: AWS::S3::Bucket
+    Properties:
+      BucketName: !Ref DomainName
+      AccessControl: Private
+      WebsiteConfiguration:
+        IndexDocument: index.html
+        ErrorDocument: index.html
+
+  # S3 Bucket Policy for CloudFront (added only when CloudFront ARN is provided)
+  AppBucketPolicy:
+    Type: AWS::S3::BucketPolicy
+    Condition: HasCloudFrontDistribution
+    Properties:
+      Bucket: !Ref AppBucket
+      PolicyDocument:
+        Statement:
+          - Effect: Allow
+            Principal:
+              Service: cloudfront.amazonaws.com
+            Action: s3:GetObject
+            Resource: !Sub "${AppBucket.Arn}/*"
+            Condition:
+              StringEquals:
+                AWS:SourceArn: !Ref CloudFrontDistributionArn
+
+Outputs:
+  BucketName:
+    Description: Name of S3 bucket to hold website content
+    Value: !Ref AppBucket
+    Export:
+      Name: !Sub "${AWS::StackName}-BucketName"
+  BucketRegionalDomainName:
+    Description: Regional domain name of S3 bucket
+    Value: !GetAtt AppBucket.RegionalDomainName
+    Export:
+      Name: !Sub "${AWS::StackName}-BucketRegionalDomainName"

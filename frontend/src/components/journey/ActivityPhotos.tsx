@@ -43,7 +43,6 @@ const ActivityPhotos: React.FC<ActivityPhotosProps> = ({ photoDetails }) => {
   
   return (
     <div className="mt-4">
-      <h4 className="mb-2 text-lg font-semibold">Activity Photos</h4>
       <div className="grid grid-cols-4 gap-2">
         {photos.map((photo, index) => (
           <div 
@@ -54,7 +53,7 @@ const ActivityPhotos: React.FC<ActivityPhotosProps> = ({ photoDetails }) => {
             <img 
               src={photo.smallUrl} 
               alt={`Activity photo ${index + 1}`}
-              className="h-24 w-full object-cover transition-transform hover:scale-110"
+              className="h-14 w-14 object-cover transition-transform hover:scale-110"
             />
           </div>
         ))}

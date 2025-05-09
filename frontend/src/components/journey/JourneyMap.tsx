@@ -483,16 +483,6 @@ export function JourneyMap({
         <div className="mt-6 rounded-lg bg-white p-5 shadow-md dark:bg-slate-800">
           <h3 className="mb-2 text-xl font-bold">{selectedActivity.name}</h3>
           <div className="grid grid-cols-1 gap-5 sm:grid-cols-2 md:grid-cols-5">
-            {/* <div className="content-center">
-              <a
-                href={`https://www.strava.com/activities/${selectedActivity.id}`}
-                target="_blank"
-                rel="noopener noreferrer"
-                className="inline-block rounded bg-orange-500 px-4 py-2 text-white transition-colors hover:bg-orange-600"
-              >
-                View on Strava
-              </a>
-            </div> */}
             <div>
               <p className="text-sm text-gray-600 dark:text-gray-400">Date</p>
               <p>{formatDate(selectedActivity.start_date)}</p>
@@ -516,17 +506,13 @@ export function JourneyMap({
               <p>{selectedActivity.total_elevation_gain} m</p>
             </div>
             <div>
+              <p className="text-sm text-gray-600 dark:text-gray-400">
+                Activity Photos
+              </p>
               <ActivityPhotos photoDetails={selectedActivity.photos} />           
             </div>
           </div>
 
-          {/* Additional details if available */}
-          {/* {selectedActivity.total_elevation_gain && (
-          )} */}
-
-          {/* Show link to Strava activity */}
-          {/* {selectedActivity.id && (
-          )} */}
         </div>
       )}
     </section>

@@ -11,55 +11,96 @@ on:
       - 'frontend/**'
 
 jobs:
-  deploy-frontend:
+  deploy-infrastructure:
     runs-on: ubuntu-latest
 
     env:
-      STACK_NAME: 'bikepacker-tracker-frontend'
+      REGIONAL_STACK_NAME: 'bikepacker-tracker-frontend-regional'
+      GLOBAL_STACK_NAME: 'bikepacker-tracker-frontend-global'
       AWS_ACCOUNT_ID: '992382417038'
-      AWS_REGION: 'eu-west-2'
 
     outputs:
-      bucket_name: ${{ steps.cfn-output.outputs.bucket_name }}
-      distribution_id: ${{ steps.cfn-output.outputs.distribution_id }}
+      bucket_name: ${{ steps.regional-output.outputs.bucket_name }}
+      distribution_id: ${{ steps.global-output.outputs.distribution_id }}
+      distribution_arn: ${{ steps.global-output.outputs.distribution_arn }}
+    
     steps:
       - uses: actions/checkout@v3
       
-      - name: Configure AWS credentials
+      - name: Deploy Regional Stack (eu-west-2)
         uses: aws-actions/configure-aws-credentials@v2
         with:
           aws-access-key-id: ${{ secrets.AWS_ACCESS_KEY_ID }}
           aws-secret-access-key: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
-          aws-region: ${{ env.AWS_REGION }}
+          aws-region: eu-west-2
       
-      - name: Deploy CloudFormation Stack
+      - name: Deploy Initial S3 Bucket (without policy)
         run: |
           aws cloudformation deploy \
-            --template-file frontend/template.yaml \
-            --stack-name $STACK_NAME \
+            --template-file frontend/template-regional.yaml \
+            --stack-name $REGIONAL_STACK_NAME \
+            --parameter-overrides \
+              DomainName=${{ secrets.DOMAIN_NAME }} \
+              CloudFrontDistributionArn='' \
+            --capabilities CAPABILITY_IAM
+      
+      - name: Get Regional Stack Outputs
+        id: regional-output
+        run: |
+          BUCKET_NAME=$(aws cloudformation describe-stacks --stack-name $REGIONAL_STACK_NAME --query "Stacks[0].Outputs[?OutputKey=='BucketName'].OutputValue" --output text)
+          echo "bucket_name=$BUCKET_NAME" >> $GITHUB_OUTPUT
+      
+      - name: Deploy Global Stack (us-east-1)
+        uses: aws-actions/configure-aws-credentials@v2
+        with:
+          aws-access-key-id: ${{ secrets.AWS_ACCESS_KEY_ID }}
+          aws-secret-access-key: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
+          aws-region: us-east-1
+      
+      - name: Deploy CloudFront and Related Resources
+        run: |
+          aws cloudformation deploy \
+            --template-file frontend/template-global.yaml \
+            --stack-name $GLOBAL_STACK_NAME \
             --parameter-overrides \
               DomainName=${{ secrets.DOMAIN_NAME }} \
               HostedZoneId=${{ secrets.HOSTED_ZONE_ID }} \
+              RegionalStackName=$REGIONAL_STACK_NAME \
             --capabilities CAPABILITY_IAM
       
-      - name: Get CloudFormation Outputs
-        id: cfn-output
+      - name: Get Global Stack Outputs
+        id: global-output
         run: |
-          BUCKET_NAME=$(aws cloudformation describe-stacks --stack-name $STACK_NAME --query "Stacks[0].Outputs[?OutputKey=='BucketName'].OutputValue" --output text)
-          DISTRIBUTION_ID=$(aws cloudformation describe-stacks --stack-name $STACK_NAME --query "Stacks[0].Outputs[?OutputKey=='DistributionId'].OutputValue" --output text)
-          echo "bucket_name=$BUCKET_NAME" >> $GITHUB_OUTPUT
+          DISTRIBUTION_ID=$(aws cloudformation describe-stacks --stack-name $GLOBAL_STACK_NAME --query "Stacks[0].Outputs[?OutputKey=='DistributionId'].OutputValue" --output text)
+          DISTRIBUTION_ARN=$(aws cloudformation describe-stacks --stack-name $GLOBAL_STACK_NAME --query "Stacks[0].Outputs[?OutputKey=='DistributionArn'].OutputValue" --output text)
           echo "distribution_id=$DISTRIBUTION_ID" >> $GITHUB_OUTPUT
+          echo "distribution_arn=$DISTRIBUTION_ARN" >> $GITHUB_OUTPUT
+      
+      - name: Update Regional Stack with CloudFront ARN (eu-west-2)
+        uses: aws-actions/configure-aws-credentials@v2
+        with:
+          aws-access-key-id: ${{ secrets.AWS_ACCESS_KEY_ID }}
+          aws-secret-access-key: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
+          aws-region: eu-west-2
+      
+      - name: Update S3 Bucket Policy
+        run: |
+          aws cloudformation deploy \
+            --template-file frontend/template-regional.yaml \
+            --stack-name $REGIONAL_STACK_NAME \
+            --parameter-overrides \
+              DomainName=${{ secrets.DOMAIN_NAME }} \
+              CloudFrontDistributionArn=${{ steps.global-output.outputs.distribution_arn }} \
+            --capabilities CAPABILITY_IAM
 
   build-and-deploy:
-    needs: deploy-frontend
+    needs: deploy-infrastructure
     runs-on: ubuntu-latest
-
-    env:
-      AWS_REGION: 'eu-west-2'
-
+    
     defaults:
       run:
         working-directory: ./frontend
+    
     steps:
       - uses: actions/checkout@v3
       
@@ -74,16 +115,23 @@ jobs:
       - name: Build
         run: npm run build
         
-      - name: Configure AWS credentials
+      - name: Configure AWS credentials (eu-west-2)
         uses: aws-actions/configure-aws-credentials@v2
         with:
           aws-access-key-id: ${{ secrets.AWS_ACCESS_KEY_ID }}
           aws-secret-access-key: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
-          aws-region: ${{ env.AWS_REGION }}
+          aws-region: eu-west-2
           
       - name: Deploy to S3
-        run: aws s3 sync build/ s3://${{ needs.deploy-frontend.outputs.bucket_name }} --delete
+        run: aws s3 sync build/ s3://${{ needs.deploy-infrastructure.outputs.bucket_name }} --delete
         
+      - name: Configure AWS credentials (us-east-1)
+        uses: aws-actions/configure-aws-credentials@v2
+        with:
+          aws-access-key-id: ${{ secrets.AWS_ACCESS_KEY_ID }}
+          aws-secret-access-key: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
+          aws-region: us-east-1
+          
       - name: Invalidate CloudFront cache
         run: |
-          aws cloudfront create-invalidation --distribution-id ${{ needs.deploy-frontend.outputs.distribution_id }} --paths "/*"
+          aws cloudfront create-invalidation --distribution-id ${{ needs.deploy-infrastructure.outputs.distribution_id }} --paths "/*"
