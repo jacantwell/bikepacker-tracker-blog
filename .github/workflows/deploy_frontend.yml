@@ -2,12 +2,12 @@ name: Build, Push, and Deploy
 
 on:
   push:
-    branches: [ main ]
+    branches: [ main, dev ]
     paths:
       - 'frontend/**'
       - '.github/deploy_frontend.yml'
   pull_request:
-    branches: [ main ]
+    branches: [ main, dev ]
     paths:
       - 'frontend/**'
       - '.github/deploy_frontend.yml'
