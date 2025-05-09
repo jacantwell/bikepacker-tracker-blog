@@ -2,15 +2,15 @@ name: Build, Push, and Deploy
 
 on:
   push:
-    branches: [ main, dev ]
+    branches: [ main ]
     paths:
       - 'frontend/**'
-      - '.github/deploy_frontend.yml'
+      - '.github/**'
   pull_request:
-    branches: [ main, dev ]
+    branches: [ main ]
     paths:
       - 'frontend/**'
-      - '.github/deploy_frontend.yml'
+      - '.github/**'
 
 jobs:
   deploy-infrastructure:
