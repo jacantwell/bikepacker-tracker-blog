@@ -126,7 +126,7 @@ jobs:
           aws-region: eu-west-2
           
       - name: Deploy to S3
-        run: aws s3 sync build/ s3://${{ needs.deploy-infrastructure.outputs.bucket_name }} --delete
+        run: aws s3 sync dist/ s3://${{ needs.deploy-infrastructure.outputs.bucket_name }} --delete
         
       - name: Configure AWS credentials (us-east-1)
         uses: aws-actions/configure-aws-credentials@v2
