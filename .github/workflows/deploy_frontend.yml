@@ -52,6 +52,9 @@ jobs:
           BUCKET_DOMAIN_NAME=$(aws cloudformation describe-stacks --stack-name $REGIONAL_STACK_NAME --query "Stacks[0].Outputs[?OutputKey=='BucketRegionalDomainName'].OutputValue" --output text)
           echo "bucket_name=$BUCKET_NAME" >> $GITHUB_OUTPUT
           echo "bucket_domain_name=$BUCKET_DOMAIN_NAME" >> $GITHUB_OUTPUT
+          # For debugging
+          echo "Bucket name: $BUCKET_NAME"
+          echo "Bucket domain: $BUCKET_DOMAIN_NAME"
       
       - name: Deploy Global Stack (us-east-1)
         uses: aws-actions/configure-aws-credentials@v2
@@ -78,6 +81,9 @@ jobs:
           DISTRIBUTION_ARN=$(aws cloudformation describe-stacks --stack-name $GLOBAL_STACK_NAME --query "Stacks[0].Outputs[?OutputKey=='DistributionArn'].OutputValue" --output text)
           echo "distribution_id=$DISTRIBUTION_ID" >> $GITHUB_OUTPUT
           echo "distribution_arn=$DISTRIBUTION_ARN" >> $GITHUB_OUTPUT
+          # For debugging
+          echo "Distribution ID: $DISTRIBUTION_ID"
+          echo "Distribution ARN: $DISTRIBUTION_ARN"
       
       - name: Update Regional Stack with CloudFront ARN (eu-west-2)
         uses: aws-actions/configure-aws-credentials@v2
@@ -117,6 +123,11 @@ jobs:
         
       - name: Build
         run: npm run build
+      
+      - name: Print job inputs
+        run: |
+          echo "Received bucket name: ${{ needs.deploy-infrastructure.outputs.bucket_name }}"
+          echo "Received distribution ID: ${{ needs.deploy-infrastructure.outputs.distribution_id }}"
         
       - name: Configure AWS credentials (eu-west-2)
         uses: aws-actions/configure-aws-credentials@v2
@@ -126,7 +137,15 @@ jobs:
           aws-region: eu-west-2
           
       - name: Deploy to S3
-        run: aws s3 sync dist/ s3://${{ needs.deploy-infrastructure.outputs.bucket_name }} --delete
+        run: |
+          # Use domain name directly if bucket_name is empty
+          if [ -z "${{ needs.deploy-infrastructure.outputs.bucket_name }}" ]; then
+            echo "Warning: bucket_name is empty, using domain name directly"
+            aws s3 sync dist/ s3://${{ secrets.DOMAIN_NAME }} --delete
+          else
+            echo "Using bucket name from output: ${{ needs.deploy-infrastructure.outputs.bucket_name }}"
+            aws s3 sync dist/ s3://${{ needs.deploy-infrastructure.outputs.bucket_name }} --delete
+          fi
         
       - name: Configure AWS credentials (us-east-1)
         uses: aws-actions/configure-aws-credentials@v2
@@ -137,4 +156,10 @@ jobs:
           
       - name: Invalidate CloudFront cache
         run: |
-          aws cloudfront create-invalidation --distribution-id ${{ needs.deploy-infrastructure.outputs.distribution_id }} --paths "/*"
+          # Only run if distribution ID is not empty
+          if [ -z "${{ needs.deploy-infrastructure.outputs.distribution_id }}" ]; then
+            echo "Warning: distribution_id is empty, skipping cache invalidation"
+          else
+            echo "Using distribution ID: ${{ needs.deploy-infrastructure.outputs.distribution_id }}"
+            aws cloudfront create-invalidation --distribution-id ${{ needs.deploy-infrastructure.outputs.distribution_id }} --paths "/*"
+          fi
