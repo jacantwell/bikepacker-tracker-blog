@@ -4,7 +4,7 @@ Parameters:
     Type: String
   HostedZoneId:
     Type: AWS::Route53::HostedZone::Id
-  RegionalStackName:
+  BucketDomainName:
     Type: String
     Description: Name of the regional stack
 
@@ -38,7 +38,7 @@ Resources:
           - !Sub "www.${DomainName}"
         Origins:
           - DomainName: 
-              Fn::ImportValue: !Sub "${RegionalStackName}-BucketRegionalDomainName"
+              !Sub "${BucketDomainName}"
             Id: S3Origin
             S3OriginConfig:
               OriginAccessIdentity: !Sub "origin-access-identity/cloudfront/${CloudFrontOriginAccessIdentity}"
