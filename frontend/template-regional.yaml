@@ -18,7 +18,7 @@ Conditions:
 Resources:
 
   # S3 Bucket for Website Content
-  AppAppBucket:
+  AppBucket:
     Type: AWS::S3::Bucket
     Properties:
       BucketName: !Sub "www.${DomainName}"
