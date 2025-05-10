@@ -25,6 +25,16 @@ Resources:
       WebsiteConfiguration:
         IndexDocument: index.html
         ErrorDocument: index.html
+  
+  SubAppBucket:
+    Type: AWS::S3::Bucket
+    Properties:
+      BucketName: !Sub "www.${DomainName}"
+      AccessControl: Private
+      WebsiteConfiguration:
+        IndexDocument: index.html
+        ErrorDocument: index.html
+
 
   # S3 Bucket Policy for CloudFront (added only when CloudFront ARN is provided)
   AppBucketPolicy:
@@ -35,9 +45,11 @@ Resources:
       PolicyDocument:
         Version: '2012-10-17'
         Statement:
-          - 's3:GetObject'
-        Effect: Allow
-        Resource: !Sub "${AppBucket.Arn}/*"
+          - Effect: Allow
+            Principal:
+              AWS: !Sub "arn:aws:iam::cloudfront:user/CloudFront Origin Access Identity ${CloudFrontOriginAccessIdentity}"
+            Action: 's3:GetObject'
+            Resource: !Sub "${AppBucket.Arn}/*"
 
 Outputs:
   BucketName:
