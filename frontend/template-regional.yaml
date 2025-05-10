@@ -16,11 +16,12 @@ Conditions:
   HasCloudFrontOAI: !Not [!Equals [!Ref CloudFrontOriginAccessIdentity, '']]
 
 Resources:
+
   # S3 Bucket for Website Content
-  AppBucket:
+  AppAppBucket:
     Type: AWS::S3::Bucket
     Properties:
-      BucketName: !Ref DomainName
+      BucketName: !Sub "www.${DomainName}"
       AccessControl: Private
       WebsiteConfiguration:
         IndexDocument: index.html
@@ -29,11 +30,12 @@ Resources:
   SubAppBucket:
     Type: AWS::S3::Bucket
     Properties:
-      BucketName: !Sub "www.${DomainName}"
+      BucketName: !Ref DomainName
       AccessControl: Private
       WebsiteConfiguration:
         IndexDocument: index.html
         ErrorDocument: index.html
+  
 
 
   # S3 Bucket Policy for CloudFront (added only when CloudFront ARN is provided)
