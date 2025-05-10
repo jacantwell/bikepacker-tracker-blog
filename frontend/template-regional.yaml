@@ -53,12 +53,31 @@ Resources:
             Action: 's3:GetObject'
             Resource: !Sub "${AppBucket.Arn}/*"
 
+  SubAppBucketPolicy:
+    Type: AWS::S3::BucketPolicy
+    Condition: HasCloudFrontOAI
+    Properties:
+      Bucket: !Ref SubAppBucket
+      PolicyDocument:
+        Version: '2012-10-17'
+        Statement:
+          - Effect: Allow
+            Principal:
+              AWS: !Sub "arn:aws:iam::cloudfront:user/CloudFront Origin Access Identity ${CloudFrontOriginAccessIdentity}"
+            Action: 's3:GetObject'
+            Resource: !Sub "${SubAppBucket.Arn}/*"
+
 Outputs:
   BucketName:
-    Description: Name of S3 bucket to hold website content
+    Description: Name of S3 bucket to hold website content (www)
     Value: !Ref AppBucket
     Export:
       Name: !Sub "${AWS::StackName}-BucketName"
+  RootBucketName:
+    Description: Name of S3 bucket for root domain
+    Value: !Ref SubAppBucket
+    Export:
+      Name: !Sub "${AWS::StackName}-RootBucketName"
   BucketRegionalDomainName:
     Description: Regional domain name of S3 bucket
     Value: !GetAtt AppBucket.RegionalDomainName
