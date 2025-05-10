@@ -255,14 +255,15 @@ export function JourneyMap({
       const featureId = features[0].properties.id;
       const activity = activities.find((a) => a.id === featureId);
       console.log("Activity selected", activity)
+
+
       if (activity) {
-        getDetailedActivity("13448110129").then((detailedActivity) => {
-        console.log("Detailed activity:")
-        console.log(detailedActivity)
-        console.log("Photo info")
-        console.log(detailedActivity.photos)
-        setSelectedActivity(detailedActivity);
-        })
+        const activityId = activity.id?.toString() || "";
+        getDetailedActivity(activityId).then((detailedActivity) => {
+          console.log("Detailed activity:", detailedActivity);
+          console.log("Photo info:", detailedActivity.photos);
+          setSelectedActivity(detailedActivity);
+        });
 
         // Get coordinates for the popup - use the first point of the activity
         if (activity.start_latlng && activity.start_latlng.length === 2) {
