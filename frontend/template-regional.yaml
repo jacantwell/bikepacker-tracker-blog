@@ -35,11 +35,9 @@ Resources:
       PolicyDocument:
         Version: '2012-10-17'
         Statement:
-          - Effect: Allow
-            Principal:
-              CanonicalUser: !Sub "arn:aws:iam::cloudfront:user/CloudFront Origin Access Identity ${CloudFrontOriginAccessIdentity}"
-            Action: s3:GetObject
-            Resource: !Sub "${AppBucket.Arn}/*"
+          - 's3:GetObject'
+        Effect: Allow
+        Resource: !Sub "${AppBucket.Arn}/*"
 
 Outputs:
   BucketName:
