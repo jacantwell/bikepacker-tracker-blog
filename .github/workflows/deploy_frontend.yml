@@ -149,7 +149,13 @@ jobs:
         
       - name: Build
         run: npm run build
-      
+        env:
+          VITE_PUBLIC_MAPBOX_TOKEN: ${{ secrets.VITE_PUBLIC_MAPBOX_TOKEN }}
+          VITE_STRAVA_CLIENT_ID: ${{ secrets.VITE_STRAVA_CLIENT_ID }}
+          VITE_STRAVA_CLIENT_SECRET: ${{ secrets.VITE_STRAVA_CLIENT_SECRET }}
+          VITE_STRAVA_REFRESH_TOKEN: ${{ secrets.VITE_STRAVA_REFRESH_TOKEN }}
+          VITE_API_URL: ${{ vars.VITE_API_URL }}
+
       - name: Configure AWS credentials (eu-west-2)
         uses: aws-actions/configure-aws-credentials@v2
         with:
@@ -170,7 +176,7 @@ jobs:
           
           # Deploy to root domain bucket
           aws s3 sync dist/ s3://${{ secrets.DOMAIN_NAME }} --delete
-          
+
       - name: Configure AWS credentials (us-east-1)
         uses: aws-actions/configure-aws-credentials@v2
         with:
