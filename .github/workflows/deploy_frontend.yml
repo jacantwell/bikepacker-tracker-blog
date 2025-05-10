@@ -154,6 +154,7 @@ jobs:
           VITE_STRAVA_CLIENT_ID: ${{ secrets.VITE_STRAVA_CLIENT_ID }}
           VITE_STRAVA_CLIENT_SECRET: ${{ secrets.VITE_STRAVA_CLIENT_SECRET }}
           VITE_STRAVA_REFRESH_TOKEN: ${{ secrets.VITE_STRAVA_REFRESH_TOKEN }}
+          VITE_JOURNEY_START_DATE: ${{ vars.VITE_JOURNEY_START_DATE }}
           VITE_API_URL: ${{ vars.VITE_API_URL }}
 
       - name: Configure AWS credentials (eu-west-2)
