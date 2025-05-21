@@ -8,9 +8,9 @@ import Map, {
   ViewStateChangeEvent,
   LineLayerSpecification,
 } from "react-map-gl/mapbox";
-import ActivityPhotos  from "./ActivityPhotos"
+import ActivityPhotos from "./ActivityPhotos";
 import { SummaryActivity, DetailedActivity } from "@/api/strava/api";
-import { getDetailedActivity } from "@/services/strava"
+import { getDetailedActivity } from "@/services/strava";
 import { processActivities, calculateBounds } from "@/lib/activity-processor";
 import { formatDistance, formatTime } from "@/lib/dates";
 
@@ -245,6 +245,17 @@ export function JourneyMap({
     },
   };
 
+  // Add a second "ghost" layer with larger, invisible clickable area
+  const hitAreaLayer: LineLayerSpecification = {
+    id: "journey-lines-hit-area",
+    type: "line",
+    source: "journey-routes",
+    paint: {
+      "line-color": "transparent",
+      "line-width": 10,
+    },
+  };
+
   // Handle map click
   const handleMapClick = (event: any) => {
     // Get features at click point
@@ -254,8 +265,7 @@ export function JourneyMap({
       // Find the activity that corresponds to the clicked feature
       const featureId = features[0].properties.id;
       const activity = activities.find((a) => a.id === featureId);
-      console.log("Activity selected", activity)
-
+      console.log("Activity selected", activity);
 
       if (activity) {
         const activityId = activity.id?.toString() || "";
@@ -360,7 +370,7 @@ export function JourneyMap({
           mapStyle={mapStyle}
           mapboxAccessToken={import.meta.env.VITE_PUBLIC_MAPBOX_TOKEN}
           style={{ width: "100%", height: "100%" }}
-          interactiveLayerIds={["journey-lines"]}
+          interactiveLayerIds={["journey-lines-hit-area"]}
           onClick={handleMapClick}
           onMouseEnter={onMouseEnter}
           onMouseLeave={onMouseLeave}
@@ -474,6 +484,7 @@ export function JourneyMap({
             journeyData.features.length > 0 && (
               <Source id="journey-routes" type="geojson" data={journeyData}>
                 <Layer {...lineLayer} />
+                <Layer {...hitAreaLayer} />
               </Source>
             )}
         </Map>
@@ -510,10 +521,9 @@ export function JourneyMap({
               <p className="text-sm text-gray-600 dark:text-gray-400">
                 Activity Photos
               </p>
-              <ActivityPhotos photoDetails={selectedActivity.photos} />           
+              <ActivityPhotos photoDetails={selectedActivity.photos} />
             </div>
           </div>
-
         </div>
       )}
     </section>
