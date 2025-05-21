@@ -228,22 +228,33 @@ export function JourneyMap({
     : "mapbox://styles/mapbox/outdoors-v12";
 
   // Layer styles
-  const lineLayer: LineLayerSpecification = {
-    id: "journey-lines",
-    type: "line",
-    source: "journey-routes",
-    paint: {
-      "line-color": [
-        "match",
-        ["get", "type"],
-        "Ride",
-        isDarkMode ? "#ff6b6b" : "#e03131",
-        isDarkMode ? "#ff9f40" : "#f2711c", // default color
-      ],
-      "line-width": 3,
-      "line-opacity": 0.8,
-    },
-  };
+const lineLayer: LineLayerSpecification = {
+  id: "journey-lines",
+  type: "line",
+  source: "journey-routes",
+  paint: {
+    "line-color": [
+      "match",
+      ["get", "type"],
+      "Ride",
+      isDarkMode ? "#ff6b6b" : "#e03131",
+      isDarkMode ? "#ff9f40" : "#f2711c", // default color
+    ],
+    "line-width": 3,
+    "line-opacity": 0.8,
+  },
+};
+
+// Add a second "ghost" layer with larger, invisible clickable area
+const hitAreaLayer: LineLayerSpecification = {
+  id: "journey-lines-hit-area",
+  type: "line",
+  source: "journey-routes",
+  paint: {
+    "line-color": "transparent",
+    "line-width": 10
+  },
+};
 
   // Handle map click
   const handleMapClick = (event: any) => {
@@ -354,13 +365,11 @@ export function JourneyMap({
         {/* The actual map component */}
         <Map
           {...currentViewState}
-          onMove={(evt: ViewStateChangeEvent) =>
-            setCurrentViewState(evt.viewState)
-          }
+          onMove={(evt: ViewStateChangeEvent) => setCurrentViewState(evt.viewState)}
           mapStyle={mapStyle}
           mapboxAccessToken={import.meta.env.VITE_PUBLIC_MAPBOX_TOKEN}
           style={{ width: "100%", height: "100%" }}
-          interactiveLayerIds={["journey-lines"]}
+          interactiveLayerIds={["journey-lines-hit-area"]}
           onClick={handleMapClick}
           onMouseEnter={onMouseEnter}
           onMouseLeave={onMouseLeave}
@@ -474,6 +483,7 @@ export function JourneyMap({
             journeyData.features.length > 0 && (
               <Source id="journey-routes" type="geojson" data={journeyData}>
                 <Layer {...lineLayer} />
+                <Layer {...hitAreaLayer} />
               </Source>
             )}
         </Map>
