@@ -227,34 +227,34 @@ export function JourneyMap({
     ? "mapbox://styles/mapbox/dark-v11"
     : "mapbox://styles/mapbox/outdoors-v12";
 
-  // Layer styles
-const lineLayer: LineLayerSpecification = {
-  id: "journey-lines",
-  type: "line",
-  source: "journey-routes",
-  paint: {
-    "line-color": [
-      "match",
-      ["get", "type"],
-      "Ride",
-      isDarkMode ? "#ff6b6b" : "#e03131",
-      isDarkMode ? "#ff9f40" : "#f2711c", // default color
-    ],
-    "line-width": 3,
-    "line-opacity": 0.8,
-  },
-};
+    // Layer styles
+  const lineLayer: LineLayerSpecification = {
+    id: "journey-lines",
+    type: "line",
+    source: "journey-routes",
+    paint: {
+      "line-color": [
+        "match",
+        ["get", "type"],
+        "Ride",
+        isDarkMode ? "#ff6b6b" : "#e03131",
+        isDarkMode ? "#ff9f40" : "#f2711c", // default color
+      ],
+      "line-width": 3,
+      "line-opacity": 0.8,
+    },
+  };
 
-// Add a second "ghost" layer with larger, invisible clickable area
-const hitAreaLayer: LineLayerSpecification = {
-  id: "journey-lines-hit-area",
-  type: "line",
-  source: "journey-routes",
-  paint: {
-    "line-color": "transparent",
-    "line-width": 10
-  },
-};
+  // Add a second "ghost" layer with larger, invisible clickable area
+  const hitAreaLayer: LineLayerSpecification = {
+    id: "journey-lines-hit-area",
+    type: "line",
+    source: "journey-routes",
+    paint: {
+      "line-color": "transparent",
+      "line-width": 10
+    },
+  };
 
   // Handle map click
   const handleMapClick = (event: any) => {
