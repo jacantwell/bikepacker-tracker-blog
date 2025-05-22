@@ -1,16 +1,16 @@
-import { useState, useEffect } from 'react';
+import { useState, useEffect, useCallback } from 'react';
 import { SummaryActivity } from '../api/strava/api';
 import { getJourneyActivities } from '../services/strava';
 
-export function useStravaData(startDate: string) {
+function useStravaData(startDate: string) {
   const [activities, setActivities] = useState<SummaryActivity[]>([]);
   const [loading, setLoading] = useState(true);
   const [refreshing, setRefreshing] = useState(false);
   const [error, setError] = useState<Error | null>(null);
   const [lastUpdated, setLastUpdated] = useState<Date | null>(null);
 
-  // Function to load data, with option to skip cache
-  const loadData = async (skipCache: boolean = false) => {
+  // Memoize the loadData function to prevent unnecessary re-renders
+  const loadData = useCallback(async (skipCache: boolean = false) => {
     // If skipping cache, we're doing a background refresh
     const isBackgroundRefresh = skipCache;
     
@@ -36,12 +36,15 @@ export function useStravaData(startDate: string) {
         setRefreshing(false);
       }
     }
-  };
+  }, [startDate]); // Include startDate as dependency since it's used inside
+
+  // Function to manually refresh data (also memoized)
+  const refresh = useCallback(() => loadData(true), [loadData]);
 
   // Initial data load (try from cache first)
   useEffect(() => {
     loadData(false); // Try to use cache for initial load
-  }, [startDate]);
+  }, [loadData]); // Now we can safely include loadData in dependencies
 
   // Background refresh after initial load
   useEffect(() => {
@@ -54,10 +57,7 @@ export function useStravaData(startDate: string) {
       
       return () => clearTimeout(timer);
     }
-  }, [loading, activities.length, startDate]);
-
-  // Function to manually refresh data
-  const refresh = () => loadData(true);
+  }, [loading, activities.length, loadData]); // Include loadData in dependencies
 
   return { 
     activities, 
@@ -68,3 +68,5 @@ export function useStravaData(startDate: string) {
     refresh // Allow manual refresh from components
   };
 }
+
+export default useStravaData;

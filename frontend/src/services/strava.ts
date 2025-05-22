@@ -1,9 +1,14 @@
 import { SummaryActivity } from '@/api/strava/api';
 import { StravaClient } from '@/api/strava/client';
+import { RoutesApi, Route } from '@/api/strava/api';
+import { Configuration } from '@/api/strava';
 import { cacheService } from './cache';
 
 // Cache TTL for Strava data (4 hours)
 const STRAVA_CACHE_TTL = 4 * 60 * 60 * 1000;
+
+// Hardcoded planned route ID
+const PLANNED_ROUTE_ID = '3354080609481872430';
 
 /**
  * Gets journey activities from Strava using the refresh token flow
@@ -68,6 +73,82 @@ export async function getDetailedActivity(activity_id: string) {
   const activity = await stravaClient.getActivity(activity_id);
 
   return activity
+}
+
+/**
+ * Get the planned route from Strava using the generated API client
+ * @param skipCache Force a fresh API call, bypassing cache
+ */
+export async function getPlannedRoute(skipCache: boolean = false): Promise<Route> {
+  const cacheKey = 'cache:strava:planned-route';
+
+  // Try to get from cache first (unless skipCache is true)
+  if (!skipCache) {
+    const cachedRoute = cacheService.getItem<Route>(cacheKey, STRAVA_CACHE_TTL);
+    if (cachedRoute) {
+      console.log('Using cached planned route data');
+      return cachedRoute;
+    }
+  }
+
+  try {
+    // Get access token using the StravaClient
+    const stravaClient = new StravaClient();
+    const accessToken = await stravaClient.getValidAccessToken();
+
+    // Configure the RoutesApi with the access token
+    const configuration = new Configuration({
+      accessToken: accessToken,
+    });
+
+    const routesApi = new RoutesApi(configuration);
+    
+    // Fetch the planned route
+    console.log(`Fetching planned route with ID: ${PLANNED_ROUTE_ID}`);
+    const response = await routesApi.getRouteById(PLANNED_ROUTE_ID);
+    const route = response.data;
+    
+    console.log('Successfully fetched planned route:', route.name);
+    
+    // Cache the result
+    cacheService.setItem(cacheKey, route, STRAVA_CACHE_TTL);
+    
+    return route;
+  } catch (error) {
+    console.error('Error fetching planned route:', error);
+    throw new Error(`Failed to fetch planned route: ${error}`);
+  }
+}
+
+/**
+ * Get all routes for the authenticated athlete
+ * @param page Page number (default: 1)
+ * @param perPage Items per page (default: 30)
+ */
+export async function getAthleteRoutes(page: number = 1, perPage: number = 30): Promise<Route[]> {
+  try {
+    // Get access token using the StravaClient
+    const stravaClient = new StravaClient();
+    const accessToken = await stravaClient.getValidAccessToken();
+
+    // Configure the RoutesApi
+    const configuration = new Configuration({
+      accessToken: accessToken,
+    });
+
+    const routesApi = new RoutesApi(configuration);
+    
+    // Fetch athlete routes
+    const response = await routesApi.getRoutesByAthleteId(page, perPage);
+    const routes = response.data;
+    
+    console.log(`Fetched ${routes.length} routes for athlete`);
+    
+    return routes;
+  } catch (error) {
+    console.error('Error fetching athlete routes:', error);
+    throw new Error(`Failed to fetch athlete routes: ${error}`);
+  }
 }
 
 /**

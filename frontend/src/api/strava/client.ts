@@ -26,6 +26,16 @@ export class StravaClient {
   }
 
   /**
+   * Get the current access token (for use with other API clients)
+   */
+  public async getValidAccessToken(): Promise<string> {
+    if (!this.accessToken) {
+      await this.getAccessToken();
+    }
+    return this.accessToken || '';
+  }
+
+  /**
    * Get a fresh access token using the refresh token
    */
   private async getAccessToken(): Promise<string> {

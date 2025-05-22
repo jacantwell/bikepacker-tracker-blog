@@ -3,7 +3,7 @@ import Intro from '../components/blog/Intro'
 // import MoreStories from '../components/blog/MoreStories'
 import { JourneyMap } from '../components/journey/JourneyMap'
 // import { useAllPosts } from '../hooks/usePosts'
-import { useStravaData } from '../hooks/useStravaData'
+import useStravaData from '../hooks/useStravaData'
 
 const HomePage = () => {
   // const { posts, loading: postsLoading } = useAllPosts()
