@@ -17,7 +17,7 @@ const PLANNED_ROUTE_ID = '3354080609481872430';
  * @param skipCache Force a fresh API call, bypassing cache
  */
 export async function getJourneyActivities(
-  startDate: string = '2025-01-01T00:00:00Z',
+  startDate: string = '2025-05-024T00:00:00Z',
   skipCache: boolean = false
 ) {
   // Generate cache key
