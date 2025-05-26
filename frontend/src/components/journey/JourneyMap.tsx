@@ -436,17 +436,6 @@ export function JourneyMap({
             </button>
           </div>
 
-          {/* Current location marker */}
-          {currentLocation && (
-            <Marker
-              longitude={currentLocation.longitude}
-              latitude={currentLocation.latitude}
-              anchor="center"
-            >
-              <div className="h-4 w-4 rounded-full border-2 border-white bg-red-500" />
-            </Marker>
-          )}
-
           {/* Loading overlay */}
           {showLoadingOverlay && (
             <div className="absolute inset-0 z-10 flex items-center justify-center bg-white/60 dark:bg-black/60">
@@ -494,6 +483,7 @@ export function JourneyMap({
       {selectedActivity && (
         <div className="mt-6 rounded-lg bg-white p-5 shadow-md dark:bg-slate-800">
           <h3 className="mb-2 text-xl font-bold">{selectedActivity.name}</h3>
+          <h3 className="mb-2 text-m">{selectedActivity.description}</h3>
           <div className="grid grid-cols-1 gap-5 sm:grid-cols-2 md:grid-cols-5">
             <div>
               <p className="text-sm text-gray-600 dark:text-gray-400">Date</p>
