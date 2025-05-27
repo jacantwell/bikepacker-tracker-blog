@@ -97,16 +97,22 @@ export function processActivities(
 }
 
 /**
- * Calculate the bounding box of all activities
+ * Calculate the bounding box of the most recent activities
  * Useful for setting the initial map view
  * 
  * @param activities List of activities
+ * @param limit Number of most recent activities to consider (default: 3)
  * @returns [minLng, minLat, maxLng, maxLat] or null if no valid coordinates
  */
-export function calculateBounds(activities: SummaryActivity[]): [number, number, number, number] | null {
+export function calculateBounds(activities: SummaryActivity[], limit: number = 3): [number, number, number, number] | null {
   if (!activities || activities.length === 0) {
     return null;
   }
+  
+  // Sort activities by start_date (most recent first) and take only the most recent ones
+  const recentActivities = [...activities]
+    .sort((a, b) => new Date(b.start_date).getTime() - new Date(a.start_date).getTime())
+    .slice(0, limit);
   
   let minLat = 90;
   let maxLat = -90;
@@ -114,8 +120,8 @@ export function calculateBounds(activities: SummaryActivity[]): [number, number,
   let maxLng = -180;
   let hasValidCoordinates = false;
   
-  // Process start/end points
-  activities.forEach(activity => {
+  // Process start/end points (now only for recent activities)
+  recentActivities.forEach(activity => {
     // Check start coordinates
     if (activity.start_latlng && activity.start_latlng.length === 2) {
       const [lat, lng] = activity.start_latlng;
