@@ -2,6 +2,7 @@ import React from 'react';
 import ReactMarkdown from 'react-markdown';
 import rehypeRaw from 'rehype-raw';
 import remarkGfm from 'remark-gfm';
+import matter from 'gray-matter';
 
 interface MarkdownRendererProps {
   content: string;
@@ -9,6 +10,9 @@ interface MarkdownRendererProps {
 }
 
 const MarkdownRenderer: React.FC<MarkdownRendererProps> = ({ content, className }) => {
+  // Parse frontmatter and extract the actual markdown content
+  const { content: markdownContent, data: frontmatter } = matter(content);
+  
   // Add base URL to image paths if they're not absolute and we're not in development mode
   const baseApiUrl = import.meta.env.VITE_API_URL || '';
   
@@ -72,7 +76,7 @@ const MarkdownRenderer: React.FC<MarkdownRendererProps> = ({ content, className 
           ),
         }}
       >
-        {content}
+        {markdownContent}
       </ReactMarkdown>
     </div>
   );
