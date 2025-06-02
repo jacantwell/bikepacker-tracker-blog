@@ -11,10 +11,7 @@ interface MarkdownRendererProps {
 
 const MarkdownRenderer: React.FC<MarkdownRendererProps> = ({ content, className }) => {
   // Parse frontmatter and extract the actual markdown content
-  const { content: markdownContent, data: frontmatter } = matter(content);
-  
-  // Add base URL to image paths if they're not absolute and we're not in development mode
-  const baseApiUrl = import.meta.env.VITE_API_URL || '';
+  const markdownFile = matter(content);
   
   return (
     <div className={`markdown ${className || ''}`}>
@@ -22,42 +19,6 @@ const MarkdownRenderer: React.FC<MarkdownRendererProps> = ({ content, className 
         remarkPlugins={[remarkGfm]}
         rehypePlugins={[rehypeRaw]}
         components={{
-          // Custom image component to handle relative vs absolute URLs
-          img: ({ node, ...props }) => {
-            let src = props.src || '';
-            
-            // If src is not an absolute URL and doesn't start with the API base URL
-            if (
-              src && 
-              !src.startsWith('http') && 
-              !src.startsWith(baseApiUrl) &&
-              baseApiUrl &&
-              !src.startsWith('data:')
-            ) {
-              // Append the base API URL to the src
-              src = `${baseApiUrl}${src}`;
-            }
-            
-            return (
-              <img
-                {...props}
-                src={src}
-                alt={props.alt || ''}
-                className="rounded-md my-6 max-w-full"
-                loading="lazy"
-              />
-            );
-          },
-
-          // Custom link component 
-          a: ({ node, ...props }) => (
-            <a
-              {...props}
-              className="text-blue-600 dark:text-blue-400 hover:underline"
-              target={props.href?.startsWith('http') ? '_blank' : undefined}
-              rel={props.href?.startsWith('http') ? 'noopener noreferrer' : undefined}
-            />
-          ),
           // Header styles
           h1: ({ node, ...props }) => <h1 {...props} className="text-3xl md:text-4xl font-bold mt-8 mb-4" />,
           h2: ({ node, ...props }) => <h2 {...props} className="text-2xl md:text-3xl font-bold mt-8 mb-4" />,
@@ -76,7 +37,7 @@ const MarkdownRenderer: React.FC<MarkdownRendererProps> = ({ content, className 
           ),
         }}
       >
-        {markdownContent}
+        {markdownFile.content}
       </ReactMarkdown>
     </div>
   );
