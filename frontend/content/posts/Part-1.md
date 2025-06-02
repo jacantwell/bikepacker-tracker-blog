@@ -22,3 +22,6 @@ Testing
 test
 
 test
+
+![image](https://jaspercycles.com/content/images/firemen.jpg)
+![image](https://jaspercycles.com/content/images/fish_and_chips.jpg)
