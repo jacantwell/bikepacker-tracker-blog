@@ -1,4 +1,5 @@
 import { defineConfig } from 'vite'
+import { NodeGlobalsPolyfillPlugin } from '@esbuild-plugins/node-globals-polyfill'
 import react from '@vitejs/plugin-react'
 import path from 'path'
 
@@ -8,7 +9,6 @@ export default defineConfig({
   resolve: {
     alias: {
       '@': path.resolve(__dirname, './src'),
-      buffer: 'buffer',
     },
   },
   server: {
@@ -20,6 +20,17 @@ export default defineConfig({
     }
   },
   optimizeDeps: {
-    include: ['buffer'],
-  },
+    esbuildOptions: {
+      // Node.js global to browser globalThis
+      define: {
+        global: 'globalThis'
+      },
+      // Enable esbuild polyfill plugins
+      plugins: [
+        NodeGlobalsPolyfillPlugin({
+          buffer: true
+        })
+      ]
+    }
+  }
 })
