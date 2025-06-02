@@ -2,16 +2,44 @@ import React from 'react';
 import ReactMarkdown from 'react-markdown';
 import rehypeRaw from 'rehype-raw';
 import remarkGfm from 'remark-gfm';
-import matter from 'gray-matter';
-
 interface MarkdownRendererProps {
   content: string;
   className?: string;
 }
 
+// Manual frontmatter parser (browser-safe)
+function parseFrontmatter(content: string) {
+  const frontmatterRegex = /^---\s*\n([\s\S]*?)\n---\s*\n([\s\S]*)$/;
+  const match = content.match(frontmatterRegex);
+  
+  if (match) {
+    const [, frontmatterStr, markdownContent] = match;
+    // Simple YAML parsing for basic key-value pairs
+    const data: Record<string, any> = {};
+    frontmatterStr.split('\n').forEach(line => {
+      const colonIndex = line.indexOf(':');
+      if (colonIndex > 0) {
+        const key = line.substring(0, colonIndex).trim();
+        const value = line.substring(colonIndex + 1).trim().replace(/^["']|["']$/g, '');
+        data[key] = value;
+      }
+    });
+    
+    return {
+      data,
+      content: markdownContent
+    };
+  }
+  
+  return {
+    data: {},
+    content: content
+  };
+}
+
 const MarkdownRenderer: React.FC<MarkdownRendererProps> = ({ content, className }) => {
   // Parse frontmatter and extract the actual markdown content
-  const markdownFile = matter(content);
+  const markdownFile = parseFrontmatter(content);
   
   // Debug logging (remove in production)
   console.log('Original content length:', content.length);
@@ -69,7 +97,6 @@ const MarkdownRenderer: React.FC<MarkdownRendererProps> = ({ content, className 
           img: ({ node, ...props }) => (
             <img {...props} className="max-w-full h-auto my-4 rounded-lg" />
           ),
-          // Add code block styling
           pre: ({ node, ...props }) => (
             <pre {...props} className="bg-gray-100 dark:bg-gray-800 p-4 rounded-lg overflow-x-auto my-4" />
           ),
