@@ -19,7 +19,9 @@ jobs:
     outputs:
       bucket_name: ${{ steps.regional-output.outputs.bucket_name }}
       root_bucket_name: ${{ steps.regional-output.outputs.root_bucket_name }}
+      content_bucket_name: ${{ steps.regional-output.outputs.content_bucket_name }}
       bucket_domain_name: ${{ steps.regional-output.outputs.bucket_domain_name }}
+      content_bucket_domain_name: ${{ steps.regional-output.outputs.content_bucket_domain_name }}
       distribution_id: ${{ steps.global-output.outputs.distribution_id }}
       distribution_arn: ${{ steps.global-output.outputs.distribution_arn }}
       oai_id: ${{ steps.global-output.outputs.oai_id }}
@@ -34,7 +36,7 @@ jobs:
           aws-secret-access-key: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
           aws-region: eu-west-2
       
-      - name: Deploy Initial S3 Bucket (without policy)
+      - name: Deploy Initial S3 Buckets (without policies)
         run: |
           aws cloudformation deploy \
             --template-file frontend/template-regional.yaml \
@@ -50,14 +52,22 @@ jobs:
         run: |
           BUCKET_NAME=$(aws cloudformation describe-stacks --stack-name $REGIONAL_STACK_NAME --query "Stacks[0].Outputs[?OutputKey=='BucketName'].OutputValue" --output text)
           ROOT_BUCKET_NAME=$(aws cloudformation describe-stacks --stack-name $REGIONAL_STACK_NAME --query "Stacks[0].Outputs[?OutputKey=='RootBucketName'].OutputValue" --output text)
+          CONTENT_BUCKET_NAME=$(aws cloudformation describe-stacks --stack-name $REGIONAL_STACK_NAME --query "Stacks[0].Outputs[?OutputKey=='ContentBucketName'].OutputValue" --output text)
           BUCKET_DOMAIN_NAME=$(aws cloudformation describe-stacks --stack-name $REGIONAL_STACK_NAME --query "Stacks[0].Outputs[?OutputKey=='BucketRegionalDomainName'].OutputValue" --output text)
+          CONTENT_BUCKET_DOMAIN_NAME=$(aws cloudformation describe-stacks --stack-name $REGIONAL_STACK_NAME --query "Stacks[0].Outputs[?OutputKey=='ContentBucketRegionalDomainName'].OutputValue" --output text)
+          
           echo "bucket_name=$BUCKET_NAME" >> $GITHUB_OUTPUT
           echo "root_bucket_name=$ROOT_BUCKET_NAME" >> $GITHUB_OUTPUT
+          echo "content_bucket_name=$CONTENT_BUCKET_NAME" >> $GITHUB_OUTPUT
           echo "bucket_domain_name=$BUCKET_DOMAIN_NAME" >> $GITHUB_OUTPUT
+          echo "content_bucket_domain_name=$CONTENT_BUCKET_DOMAIN_NAME" >> $GITHUB_OUTPUT
+          
           # For debugging
           echo "Bucket name (www): $BUCKET_NAME"
           echo "Root bucket name: $ROOT_BUCKET_NAME"
+          echo "Content bucket name: $CONTENT_BUCKET_NAME"
           echo "Bucket domain: $BUCKET_DOMAIN_NAME"
+          echo "Content bucket domain: $CONTENT_BUCKET_DOMAIN_NAME"
       
       - name: Deploy Global Stack (us-east-1)
         uses: aws-actions/configure-aws-credentials@v2
@@ -75,6 +85,7 @@ jobs:
               DomainName=${{ vars.DOMAIN_NAME }} \
               HostedZoneId=${{ secrets.HOSTED_ZONE_ID }} \
               BucketDomainName="${{ steps.regional-output.outputs.bucket_domain_name }}" \
+              ContentBucketDomainName="${{ steps.regional-output.outputs.content_bucket_domain_name }}" \
             --capabilities CAPABILITY_IAM
       
       - name: Get Global Stack Outputs
@@ -105,7 +116,7 @@ jobs:
           echo "CloudFrontDistributionArn: ${{ steps.global-output.outputs.distribution_arn }}"
           echo "CloudFrontOriginAccessIdentity: ${{ steps.global-output.outputs.oai_id }}"
       
-      - name: Update S3 Bucket Policy
+      - name: Update S3 Bucket Policies (including content bucket)
         env:
           DISTRIBUTION_ARN: ${{ steps.global-output.outputs.distribution_arn }}
           OAI_ID: ${{ steps.global-output.outputs.oai_id }}
@@ -151,6 +162,7 @@ jobs:
           VITE_STRAVA_REFRESH_TOKEN: ${{ secrets.VITE_STRAVA_REFRESH_TOKEN }}
           VITE_JOURNEY_START_DATE: ${{ vars.VITE_JOURNEY_START_DATE }}
           VITE_API_URL: ${{ vars.VITE_API_URL }}
+          VITE_CONTENT_BASE_URL: https://${{ vars.DOMAIN_NAME }}/content
 
       - name: Configure AWS credentials (eu-west-2)
         uses: aws-actions/configure-aws-credentials@v2
@@ -184,3 +196,60 @@ jobs:
         run: |
           echo "Using distribution ID: ${{ needs.deploy-infrastructure.outputs.distribution_id }}"
           aws cloudfront create-invalidation --distribution-id ${{ needs.deploy-infrastructure.outputs.distribution_id }} --paths "/*"
+
+  # New job for content deployment (will be used later)
+  deploy-content:
+    needs: deploy-infrastructure
+    runs-on: ubuntu-latest
+    # Only run if content directory exists (will skip for now)
+    if: false  # Disabled until content is ready
+    
+    defaults:
+      run:
+        working-directory: ./frontend
+    
+    steps:
+      - uses: actions/checkout@v3
+      
+      - name: Setup Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: '18'
+          
+      - name: Install dependencies
+        run: npm install
+      
+      - name: Build content
+        run: |
+          if [ -d "content" ]; then
+            npm run build:content
+          else
+            echo "No content directory found, skipping content deployment"
+            exit 0
+          fi
+      
+      - name: Configure AWS credentials (eu-west-2)
+        uses: aws-actions/configure-aws-credentials@v2
+        with:
+          aws-access-key-id: ${{ secrets.AWS_ACCESS_KEY_ID }}
+          aws-secret-access-key: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
+          aws-region: eu-west-2
+          
+      - name: Deploy content to S3
+        run: |
+          if [ -d "dist-content" ]; then
+            echo "Deploying content to: ${{ needs.deploy-infrastructure.outputs.content_bucket_name }}"
+            aws s3 sync dist-content/ s3://${{ needs.deploy-infrastructure.outputs.content_bucket_name }}/ --delete
+          fi
+
+      - name: Configure AWS credentials (us-east-1)
+        uses: aws-actions/configure-aws-credentials@v2
+        with:
+          aws-access-key-id: ${{ secrets.AWS_ACCESS_KEY_ID }}
+          aws-secret-access-key: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
+          aws-region: us-east-1
+          
+      - name: Invalidate CloudFront cache for content
+        run: |
+          echo "Invalidating content cache for distribution: ${{ needs.deploy-infrastructure.outputs.distribution_id }}"
+          aws cloudfront create-invalidation --distribution-id ${{ needs.deploy-infrastructure.outputs.distribution_id }} --paths "/content/*"

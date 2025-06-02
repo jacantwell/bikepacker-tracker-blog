@@ -35,8 +35,21 @@ Resources:
       WebsiteConfiguration:
         IndexDocument: index.html
         ErrorDocument: index.html
-  
 
+  # S3 Bucket for Blog Content (posts, images, etc.)
+  ContentBucket:
+    Type: AWS::S3::Bucket
+    Properties:
+      BucketName: !Sub "content.${DomainName}"
+      AccessControl: Private
+      CorsConfiguration:
+        CorsRules:
+          - AllowedHeaders: ['*']
+            AllowedMethods: [GET, HEAD]
+            AllowedOrigins: 
+              - !Sub "https://${DomainName}"
+              - !Sub "https://www.${DomainName}"
+            MaxAge: 3600
 
   # S3 Bucket Policy for CloudFront (added only when CloudFront ARN is provided)
   AppBucketPolicy:
@@ -67,6 +80,20 @@ Resources:
             Action: 's3:GetObject'
             Resource: !Sub "${SubAppBucket.Arn}/*"
 
+  ContentBucketPolicy:
+    Type: AWS::S3::BucketPolicy
+    Condition: HasCloudFrontOAI
+    Properties:
+      Bucket: !Ref ContentBucket
+      PolicyDocument:
+        Version: '2012-10-17'
+        Statement:
+          - Effect: Allow
+            Principal:
+              AWS: !Sub "arn:aws:iam::cloudfront:user/CloudFront Origin Access Identity ${CloudFrontOriginAccessIdentity}"
+            Action: 's3:GetObject'
+            Resource: !Sub "${ContentBucket.Arn}/*"
+
 Outputs:
   BucketName:
     Description: Name of S3 bucket to hold website content (www)
@@ -78,8 +105,18 @@ Outputs:
     Value: !Ref SubAppBucket
     Export:
       Name: !Sub "${AWS::StackName}-RootBucketName"
+  ContentBucketName:
+    Description: Name of S3 bucket for blog content
+    Value: !Ref ContentBucket
+    Export:
+      Name: !Sub "${AWS::StackName}-ContentBucketName"
   BucketRegionalDomainName:
     Description: Regional domain name of S3 bucket
     Value: !GetAtt AppBucket.RegionalDomainName
     Export:
       Name: !Sub "${AWS::StackName}-BucketRegionalDomainName"
+  ContentBucketRegionalDomainName:
+    Description: Regional domain name of content S3 bucket
+    Value: !GetAtt ContentBucket.RegionalDomainName
+    Export:
+      Name: !Sub "${AWS::StackName}-ContentBucketRegionalDomainName"
