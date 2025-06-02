@@ -162,7 +162,6 @@ jobs:
           VITE_STRAVA_REFRESH_TOKEN: ${{ secrets.VITE_STRAVA_REFRESH_TOKEN }}
           VITE_JOURNEY_START_DATE: ${{ vars.VITE_JOURNEY_START_DATE }}
           VITE_API_URL: ${{ vars.VITE_API_URL }}
-          VITE_CONTENT_BASE_URL: https://${{ vars.DOMAIN_NAME }}/content
 
       - name: Configure AWS credentials (eu-west-2)
         uses: aws-actions/configure-aws-credentials@v2
