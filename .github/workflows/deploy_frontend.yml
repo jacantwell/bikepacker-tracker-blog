@@ -200,8 +200,6 @@ jobs:
   deploy-content:
     needs: deploy-infrastructure
     runs-on: ubuntu-latest
-    # Only run if content directory exists (will skip for now)
-    if: false  # Disabled until content is ready
     
     defaults:
       run:
