@@ -1,12 +1,12 @@
 import Container from '../components/layout/Container'
 import Intro from '../components/blog/Intro'
-// import MoreStories from '../components/blog/MoreStories'
+import MoreStories from '../components/blog/MoreStories'
 import { JourneyMap } from '../components/journey/JourneyMap'
-// import { useAllPosts } from '../hooks/usePosts'
+import { useAllPosts } from '../hooks/usePosts'
 import useStravaData from '../hooks/useStravaData'
 
 const HomePage = () => {
-  // const { posts, loading: postsLoading } = useAllPosts()
+  const { posts, loading: postsLoading, error: postsError } = useAllPosts()
   const { 
     activities, 
     loading: activitiesLoading, 
@@ -29,18 +29,22 @@ const HomePage = () => {
         onRefresh={refresh}
       />
 
-      <div className="my-12 flex justify-center">
-        <div className="text-lg">More coming soon...</div>
-      </div>
-      
-      {/* Show blog posts if loaded, otherwise show loading state */}
-      {/* {postsLoading ? (
+      {/* Blog posts section using existing MoreStories component */}
+      {postsLoading ? (
         <div className="my-12 flex justify-center">
-          <div className="animate-pulse text-lg">Loading blog posts...</div>
+          <div className="animate-pulse text-lg">Loading stories from the road...</div>
         </div>
+      ) : postsError ? (
+        <div className="my-12 flex justify-center">
+          <div className="text-red-600">Failed to load blog posts: {postsError}</div>
+        </div>
+      ) : posts.length > 0 ? (
+        <MoreStories posts={posts} />
       ) : (
-        posts.length > 0 && <MoreStories posts={posts} />
-      )} */}
+        <div className="my-12 flex justify-center">
+          <div className="text-lg text-gray-500">No stories yet... adventure coming soon!</div>
+        </div>
+      )}
     </Container>
   )
 }

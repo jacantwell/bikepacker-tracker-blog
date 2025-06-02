@@ -1,61 +1,87 @@
-import { useState, useEffect } from 'react';
-import { Post } from '../api/posts';
-import { PostSummary } from '../types/Post';
-import { getAllPosts, getPostBySlug } from '../services/posts';
+import { useState, useEffect } from 'react'
+import { Post, PostSummary, BlogPostsIndex } from '../types/blog'
 
-export function useAllPosts(page = 1, limit = 10) {
-  const [posts, setPosts] = useState<PostSummary[]>([]);
-  const [totalPosts, setTotalPosts] = useState(0);
-  const [totalPages, setTotalPages] = useState(0);
-  const [loading, setLoading] = useState(true);
-  const [error, setError] = useState<Error | null>(null);
+const CONTENT_BASE_URL = import.meta.env.VITE_API_URL || '/content'
+
+export const useAllPosts = () => {
+  const [posts, setPosts] = useState<PostSummary[]>([])
+  const [loading, setLoading] = useState(true)
+  const [error, setError] = useState<string | null>(null)
 
   useEffect(() => {
-    async function fetchPosts() {
+    const fetchPosts = async () => {
       try {
-        setLoading(true);
-        const data = await getAllPosts(page, limit);
-        setPosts(data.posts);
-        setTotalPosts(data.total);
-        setTotalPages(data.total_pages);
+        setLoading(true)
+        const response = await fetch(`${CONTENT_BASE_URL}/content/index.json`)
+        if (!response.ok) {
+          throw new Error(`Failed to fetch posts: ${response.statusText}`)
+        }
+        const data: BlogPostsIndex = await response.json()
+        setPosts(data.posts.sort((a, b) => new Date(b.date).getTime() - new Date(a.date).getTime()))
+        setError(null)
       } catch (err) {
-        setError(err instanceof Error ? err : new Error('Failed to fetch posts'));
+        setError(err instanceof Error ? err.message : 'Failed to load posts')
+        setPosts([])
       } finally {
-        setLoading(false);
+        setLoading(false)
       }
     }
 
-    fetchPosts();
-  }, [page, limit]);
+    fetchPosts()
+  }, [])
 
-  return { posts, totalPosts, totalPages, loading, error, currentPage: page };
+  return { posts, loading, error }
 }
 
-export function usePost(slug: string) {
-  const [post, setPost] = useState<Post | null>(null);
-  const [loading, setLoading] = useState(true);
-  const [error, setError] = useState<Error | null>(null);
+export const usePost = (slug: string) => {
+  const [post, setPost] = useState<Post | null>(null)
+  const [loading, setLoading] = useState(true)
+  const [error, setError] = useState<string | null>(null)
 
   useEffect(() => {
-    async function fetchPost() {
-      if (!slug) {
-        setLoading(false);
-        return;
-      }
-      
+    if (!slug) {
+      setLoading(false)
+      return
+    }
+
+    const fetchPost = async () => {
       try {
-        setLoading(true);
-        const data = await getPostBySlug(slug);
-        setPost(data);
+        setLoading(true)
+        
+        // First get the metadata
+        const indexResponse = await fetch(`${CONTENT_BASE_URL}/content/index.json`)
+        if (!indexResponse.ok) {
+          throw new Error('Failed to fetch posts index')
+        }
+        const index: BlogPostsIndex = await indexResponse.json()
+        const postMetadata = index.posts.find(p => p.slug === slug)
+        
+        if (!postMetadata) {
+          throw new Error('Post not found')
+        }
+
+        // Then get the full markdown content
+        const contentResponse = await fetch(`${CONTENT_BASE_URL}/content/posts/${slug}.md`)
+        if (!contentResponse.ok) {
+          throw new Error('Failed to fetch post content')
+        }
+        const markdownContent = await contentResponse.text()
+
+        setPost({
+          ...postMetadata,
+          content: markdownContent
+        })
+        setError(null)
       } catch (err) {
-        setError(err instanceof Error ? err : new Error('Failed to fetch post'));
+        setError(err instanceof Error ? err.message : 'Failed to load post')
+        setPost(null)
       } finally {
-        setLoading(false);
+        setLoading(false)
       }
     }
 
-    fetchPost();
-  }, [slug]);
+    fetchPost()
+  }, [slug])
 
-  return { post, loading, error };
+  return { post, loading, error }
 }
