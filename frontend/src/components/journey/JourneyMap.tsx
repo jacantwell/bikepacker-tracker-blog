@@ -479,8 +479,8 @@ export function JourneyMap({
         </Map>
       </div>
 
-      {/* Selected activity details */}
-      {selectedActivity && (
+{/* Selected activity details or click prompt */}
+      {selectedActivity ? (
         <div className="mt-6 rounded-lg bg-white p-5 shadow-md dark:bg-slate-800">
           <h3 className="mb-2 text-xl font-bold">{selectedActivity.name}</h3>
           <h3 className="mb-2 text-m">{selectedActivity.description}</h3>
@@ -513,6 +513,12 @@ export function JourneyMap({
               </p>
               <ActivityPhotos photoDetails={selectedActivity.photos} />
             </div>
+          </div>
+        </div>
+      ) : (
+        <div className="my-12 flex justify-center">
+          <div className="animate-pulse text-lg text-gray-600 dark:text-gray-400">
+            Click on any part of the route for more details...
           </div>
         </div>
       )}
