@@ -13,9 +13,6 @@ author:
   picture: "/content/images/profile.jpg"
 ---
 
-
-Three days into my cycling journey from England to Spain, I'm still processing that I actually did it. After three months of planning, the reality of this leap still hasn't quite sunk in.
-
 #### Exeter to Plymouth
 
 I began the journey towards the ferry with goodbyes and watery eyes. After living in Exeter for 7 years I was looking forward to a final trek over Dartmoor to catch my ferry from Plymouth. The sun was shining as I left, however this quickly changed as I approached the edge of Dartmoor and its ever unpredictable weather. Luckily the rain was light and warm; if anything it provided respite from the hills taking me up to the top of the moor.
