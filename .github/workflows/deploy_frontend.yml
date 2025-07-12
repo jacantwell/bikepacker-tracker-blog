@@ -236,7 +236,7 @@ jobs:
         run: |
           if [ -d "dist-content" ]; then
             echo "Deploying content to: ${{ needs.deploy-infrastructure.outputs.content_bucket_name }}/content/"
-            aws s3 sync dist-content/ s3://${{ needs.deploy-infrastructure.outputs.content_bucket_name }}/content/ --delete
+            aws s3 sync dist-content/ s3://${{ needs.deploy-infrastructure.outputs.content_bucket_name }}/content/
           fi
 
       - name: Configure AWS credentials (us-east-1)

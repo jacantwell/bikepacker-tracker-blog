@@ -70,6 +70,10 @@ export function JourneyMap({
     activity: SummaryActivity;
   } | null>(null);
 
+  // State for controlling the Rick Roll video
+  const [showRickRoll, setShowRickRoll] = useState(false);
+
+
   // Stats
   const [stats, setStats] = useState({
     totalDistance: 0,
@@ -260,7 +264,21 @@ export function JourneyMap({
   const handleMapClick = (event: any) => {
     // Get features at click point
     const features = event.features || [];
+    const now = new Date();
 
+    const targetDay = 14;
+    const targetMonth = 6; // July is month 6 (0-indexed)
+    const targetYear = 2025
+
+    const startTime = new Date(targetYear, targetMonth, targetDay, 8, 45, 0)
+    const endTime = new Date(targetYear, targetMonth, targetDay, 9, 30, 0)
+
+    if (now.getTime() >= startTime.getTime() && now.getTime() <= endTime.getTime()){
+      console.log("Map clicked, within the restricted time window. Initiating Rick Roll.");
+      setShowRickRoll(true); // Set state to true to display the video
+      return; // Stop further processing if within the time window
+    }
+      
     if (features.length > 0) {
       // Find the activity that corresponds to the clicked feature
       const featureId = features[0].properties.id;
@@ -479,7 +497,29 @@ export function JourneyMap({
         </Map>
       </div>
 
-{/* Selected activity details or click prompt */}
+      {/* Rick Roll Video Overlay */}
+      {showRickRoll && (
+        <div className="fixed inset-0 z-50 flex items-center justify-center bg-black bg-opacity-90">
+          <video
+            className="h-full w-full object-contain"
+            src="https://jaspercycles.com/content/rick_roll.mp4"
+            autoPlay
+            loop
+            onEnded={() => setShowRickRoll(false)} // Optionally hide after it ends
+            onPlay={() => console.log("Rick Roll video started!")}
+            onError={(e) => console.error("Error playing video:", e)}
+          />
+          <button
+            onClick={() => setShowRickRoll(false)}
+            className="absolute right-4 top-4 rounded-full bg-white p-2 text-xl font-bold text-black"
+            title="Close video"
+          >
+            &times;
+          </button>
+        </div>
+      )}
+
+      {/* Selected activity details or click prompt */}
       {selectedActivity ? (
         <div className="mt-6 rounded-lg bg-white p-5 shadow-md dark:bg-slate-800">
           <h3 className="mb-2 text-xl font-bold">{selectedActivity.name}</h3>
