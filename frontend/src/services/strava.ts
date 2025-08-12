@@ -59,6 +59,19 @@ export async function getJourneyActivities(
     
     cacheService.setItem(cacheKey, result, STRAVA_CACHE_TTL);
     
+    // Fetch detailed activity data for the 5 most recent activities
+    const detailedActivities = await Promise.all(
+      activities.slice(0, 5).map(activity => getDetailedActivity(activity.id?.toString() || '0'))
+    );
+
+    console.log(`Fetched detailed data for ${detailedActivities.length} activities`);
+
+    // Cache detailed activities
+    detailedActivities.forEach(activity => {
+      const activityCacheKey = cacheService.generateStravaDetailedKey(activity.id?.toString() || "");
+      cacheService.setItem(activityCacheKey, activity, STRAVA_CACHE_TTL);
+    });
+
     return result;
   } catch (error) {
     console.error('Error fetching Strava activities:', error);

@@ -13,6 +13,7 @@ import { SummaryActivity, DetailedActivity } from "@/api/strava/api";
 import { getDetailedActivity } from "@/services/strava";
 import { processActivities, calculateBounds } from "@/lib/activity-processor";
 import { formatDistance, formatTime } from "@/lib/dates";
+import { cacheService } from "@/services/cache"
 
 interface JourneyMapProps {
   activities: SummaryActivity[];
@@ -264,20 +265,6 @@ export function JourneyMap({
   const handleMapClick = (event: any) => {
     // Get features at click point
     const features = event.features || [];
-    const now = new Date();
-
-    const targetDay = 14;
-    const targetMonth = 6; // July is month 6 (0-indexed)
-    const targetYear = 2025
-
-    const startTime = new Date(targetYear, targetMonth, targetDay, 8, 45, 0)
-    const endTime = new Date(targetYear, targetMonth, targetDay, 9, 30, 0)
-
-    if (now.getTime() >= startTime.getTime() && now.getTime() <= endTime.getTime()){
-      console.log("Map clicked, within the restricted time window. Initiating Rick Roll.");
-      setShowRickRoll(true); // Set state to true to display the video
-      return; // Stop further processing if within the time window
-    }
       
     if (features.length > 0) {
       // Find the activity that corresponds to the clicked feature
@@ -287,12 +274,20 @@ export function JourneyMap({
 
       if (activity) {
         const activityId = activity.id?.toString() || "";
-        getDetailedActivity(activityId).then((detailedActivity) => {
-          console.log("Detailed activity:", detailedActivity);
-          console.log("Photo info:", detailedActivity.photos);
-          setSelectedActivity(detailedActivity);
-        });
 
+        // Try fetching from the cache
+        const cachedData = cacheService.getItem(`cache:strava:activity:${activityId}`)
+
+        if (cachedData) {
+          setSelectedActivity(cachedData);
+        } else {
+          getDetailedActivity(activityId).then((detailedActivity) => {
+            console.log("Detailed activity:", detailedActivity);
+            console.log("Photo info:", detailedActivity.photos);
+            setSelectedActivity(detailedActivity);
+          });
+        }
+        
         // Get coordinates for the popup - use the first point of the activity
         if (activity.start_latlng && activity.start_latlng.length === 2) {
           setPopupInfo({
