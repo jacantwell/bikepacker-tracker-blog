@@ -19,6 +19,6 @@ export function formatTime(seconds: number | undefined): string {
 
 export function formatDistance(meters: number | undefined, unit?: string): string {
   if (!meters) return '0 m'
-  if (unit === "km") return (meters / 1000).toFixed(1) + ' km'
-  return meters ? meters + ' m' : '0 m'
+  if (unit === "km") return (meters / 1000).toFixed(2) + ' km'
+  return meters ? meters.toFixed(2) + ' m' : '0 m'
 }
