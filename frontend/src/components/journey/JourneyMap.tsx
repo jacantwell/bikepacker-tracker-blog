@@ -422,11 +422,7 @@ export function JourneyMap({
                   anchor="bottom"
                 >
                   <div
-                    className={`h-1 w-1 rounded-full border shadow-sm cursor-pointer transition-transform hover:scale-150 bg-red-500 ${
-                      isDarkMode === true 
-                        ? 'border-black' 
-                        : 'border-white'
-                    }`}
+                    className={`h-1 w-1 rounded-full shadow-sm cursor-pointer transition-transform hover:scale-150 bg-slate-700 dark:bg-gray-200`}
                     onClick={() => {
                       // Trigger the same click handler as the polylines
                       const activityId = activity.id?.toString() || "";
