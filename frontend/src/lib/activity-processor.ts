@@ -104,7 +104,7 @@ export function processActivities(
  * @param limit Number of most recent activities to consider (default: 3)
  * @returns [minLng, minLat, maxLng, maxLat] or null if no valid coordinates
  */
-export function calculateBounds(activities: SummaryActivity[], limit: number = 3): [number, number, number, number] | null {
+export function calculateBounds(activities: SummaryActivity[], limit: number = 7): [number, number, number, number] | null {
   if (!activities || activities.length === 0) {
     return null;
   }
