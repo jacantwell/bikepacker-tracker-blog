@@ -10,6 +10,9 @@ const STRAVA_CACHE_TTL = 4 * 60 * 60 * 1000;
 // Hardcoded planned route ID
 const PLANNED_ROUTE_ID = '3354080609481872430';
 
+// Number of detailed activities to cache
+const DETAILED_ACTIVITIES_CACHE_COUNT = 10;
+
 /**
  * Gets journey activities from Strava using the refresh token flow
  * with caching support
@@ -59,9 +62,9 @@ export async function getJourneyActivities(
     
     cacheService.setItem(cacheKey, result, STRAVA_CACHE_TTL);
     
-    // Fetch detailed activity data for the 5 most recent activities
+    // Fetch detailed activity data for the most recent activities
     const detailedActivities = await Promise.all(
-      activities.slice(0, 5).map(activity => getDetailedActivity(activity.id?.toString() || '0'))
+      activities.slice(0, DETAILED_ACTIVITIES_CACHE_COUNT).map(activity => getDetailedActivity(activity.id?.toString() || '0'))
     );
 
     console.log(`Fetched detailed data for ${detailedActivities.length} activities`);
