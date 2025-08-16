@@ -8,6 +8,7 @@ import Map, {
   ViewStateChangeEvent,
   LineLayerSpecification,
 } from "react-map-gl/mapbox";
+import "mapbox-gl/dist/mapbox-gl.css";
 import ActivityPhotos from "./ActivityPhotos";
 import { SummaryActivity, DetailedActivity } from "@/api/strava/api";
 import { getDetailedActivity } from "@/services/strava";
@@ -37,10 +38,7 @@ function formatDate(dateString: string | undefined): string {
 export function JourneyMap({
   activities = [],
   startDate,
-  isLoading = false,
-  isRefreshing = false,
-  lastUpdated = null,
-  onRefresh,
+  isLoading = false
 }: JourneyMapProps) {
   const [currentViewState, setCurrentViewState] = useState<ViewState>({
     longitude: 0,
@@ -54,26 +52,16 @@ export function JourneyMap({
   const [journeyData, setJourneyData] = useState<any>(null);
   const [processingData, setProcessingData] = useState(false);
   const [isDarkMode, setIsDarkMode] = useState(false);
+  const [cursor, setCursor] = useState<string>('auto');
 
   // State for activity hover and selection
   const [selectedActivity, setSelectedActivity] =
     useState<DetailedActivity | null>(null);
-  const [popupInfo, setPopupInfo] = useState<{
+      const [popupInfo, setPopupInfo] = useState<{
     longitude: number;
     latitude: number;
     activity: SummaryActivity;
   } | null>(null);
-
-  // State for current location marker
-  const [currentLocation, setCurrentLocation] = useState<{
-    longitude: number;
-    latitude: number;
-    activity: SummaryActivity;
-  } | null>(null);
-
-  // State for controlling the Rick Roll video
-  const [showRickRoll, setShowRickRoll] = useState(false);
-
 
   // Stats
   const [stats, setStats] = useState({
@@ -123,29 +111,6 @@ export function JourneyMap({
       latitude: centerLat,
       zoom: zoom,
     }));
-  }, [activities]);
-
-  // Find most recent activity and set current location
-  const findCurrentLocation = useCallback(() => {
-    if (!activities || activities.length === 0) return;
-
-    // Sort activities by date, most recent first
-    const sortedActivities = [...activities].sort((a, b) => {
-      const dateA = new Date(a.start_date || "").getTime();
-      const dateB = new Date(b.start_date || "").getTime();
-      return dateB - dateA; // Descending order
-    });
-
-    const mostRecent = sortedActivities[0];
-
-    // Try to get the end point if available
-    if (mostRecent.end_latlng && mostRecent.end_latlng.length === 2) {
-      setCurrentLocation({
-        latitude: mostRecent.end_latlng[0],
-        longitude: mostRecent.end_latlng[1],
-        activity: mostRecent,
-      });
-    }
   }, [activities]);
 
   // Effect to handle dark mode
@@ -206,9 +171,6 @@ export function JourneyMap({
             activityTypes,
           });
 
-          // Find current location marker
-          findCurrentLocation();
-
           // Fit map to activity bounds after a short delay
           setTimeout(fitBounds, 300);
         } finally {
@@ -225,7 +187,7 @@ export function JourneyMap({
         activityTypes: {},
       });
     }
-  }, [activities, startDate, fitBounds, findCurrentLocation]);
+  }, [activities, startDate, fitBounds]);
 
   // Map style based on dark/light mode
   const mapStyle = isDarkMode
@@ -282,8 +244,6 @@ export function JourneyMap({
           setSelectedActivity(cachedData);
         } else {
           getDetailedActivity(activityId).then((detailedActivity) => {
-            console.log("Detailed activity:", detailedActivity);
-            console.log("Photo info:", detailedActivity.photos);
             setSelectedActivity(detailedActivity);
           });
         }
@@ -304,21 +264,10 @@ export function JourneyMap({
     }
   };
 
-  // Callbacks for map interactions
-  const onMouseEnter = useCallback(() => {
-    // Change cursor to pointer when hovering over a feature
-    const mapCanvas = document.querySelector(".mapboxgl-canvas-container");
-    if (mapCanvas) {
-      mapCanvas.classList.add("cursor-pointer");
-    }
-  }, []);
-
-  const onMouseLeave = useCallback(() => {
-    // Restore default cursor
-    const mapCanvas = document.querySelector(".mapboxgl-canvas-container");
-    if (mapCanvas) {
-      mapCanvas.classList.remove("cursor-pointer");
-    }
+  // Handle mouse move over map - this will update cursor based on features
+  const handleMouseMove = useCallback((event: any) => {
+    const features = event.features || [];
+    setCursor(features.length > 0 ? 'pointer' : 'auto');
   }, []);
 
   // Button handler for fitting bounds
@@ -385,8 +334,8 @@ export function JourneyMap({
           style={{ width: "100%", height: "100%" }}
           interactiveLayerIds={["journey-lines-hit-area"]}
           onClick={handleMapClick}
-          onMouseEnter={onMouseEnter}
-          onMouseLeave={onMouseLeave}
+          onMouseMove={handleMouseMove}
+          cursor={cursor}
         >
           <NavigationControl position="top-right" />
 
@@ -412,40 +361,6 @@ export function JourneyMap({
                   d="M4 8V4m0 0h4M4 4l5 5m11-1V4m0 0h-4m4 0l-5 5M4 16v4m0 0h4m-4 0l5-5m11 5v-4m0 4h-4m4 0l-5-5"
                 />
               </svg>
-            </button>
-          </div>
-
-          <div className="absolute right-2 top-2 flex space-x-2">
-            {/* Refresh button */}
-            <button
-              onClick={onRefresh}
-              disabled={isLoading || isRefreshing}
-              className={`flex items-center rounded bg-white p-2 shadow dark:bg-slate-700 ${
-                isLoading || isRefreshing
-                  ? "cursor-not-allowed opacity-50"
-                  : "hover:bg-gray-100 dark:hover:bg-slate-600"
-              }`}
-              title="Refresh journey data"
-            >
-              <svg
-                xmlns="http://www.w3.org/2000/svg"
-                width="20"
-                height="20"
-                fill="none"
-                viewBox="0 0 24 24"
-                stroke="currentColor"
-                className={isRefreshing ? "animate-spin" : ""}
-              >
-                <path
-                  strokeLinecap="round"
-                  strokeLinejoin="round"
-                  strokeWidth={2}
-                  d="M4 4v5h.582m15.356 2A8.001 8.001 0 004.582 9m0 0H9m11 11v-5h-.581m0 0a8.003 8.003 0 01-15.357-2m15.357 2H15"
-                />
-              </svg>
-              {isRefreshing && (
-                <span className="ml-2 text-xs">Refreshing...</span>
-              )}
             </button>
           </div>
 
@@ -489,30 +404,52 @@ export function JourneyMap({
                 <Layer {...hitAreaLayer} />
               </Source>
             )}
+          {/* Activity endpoint markers */}
+          {activities && activities.length > 0 && 
+            activities.map((activity) => {
+              // Use end coordinates if available, otherwise use start coordinates
+              const coords = activity.end_latlng || activity.start_latlng;
+              if (!coords || coords.length !== 2) return null;
+
+              const [lat, lng] = coords;
+              console.log("Activity endpoint:", activity.name, lat, lng);
+              
+              return (
+                <Marker
+                  key={`endpoint-${activity.id}`}
+                  longitude={lng}
+                  latitude={lat}
+                  anchor="bottom"
+                >
+                  <div
+                    className={`h-1 w-1 rounded-full shadow-sm cursor-pointer transition-transform hover:scale-150 bg-slate-700 dark:bg-gray-200`}
+                    onClick={() => {
+                      // Trigger the same click handler as the polylines
+                      const activityId = activity.id?.toString() || "";
+                      const cachedData = cacheService.getItem(`cache:strava:activity:${activityId}`)
+
+                      if (cachedData) {
+                        setSelectedActivity(cachedData);
+                      } else {
+                        getDetailedActivity(activityId).then((detailedActivity) => {
+                          setSelectedActivity(detailedActivity);
+                        });
+                      }
+                      
+                      setPopupInfo({
+                        longitude: lng,
+                        latitude: lat,
+                        activity,
+                      });
+                    }}
+                    title={`${activity.name} - ${activity.type}`}
+                  />
+                </Marker>
+              );
+            })
+          }
         </Map>
       </div>
-
-      {/* Rick Roll Video Overlay */}
-      {showRickRoll && (
-        <div className="fixed inset-0 z-50 flex items-center justify-center bg-black bg-opacity-90">
-          <video
-            className="h-full w-full object-contain"
-            src="https://jaspercycles.com/content/rick_roll.mp4"
-            autoPlay
-            loop
-            onEnded={() => setShowRickRoll(false)} // Optionally hide after it ends
-            onPlay={() => console.log("Rick Roll video started!")}
-            onError={(e) => console.error("Error playing video:", e)}
-          />
-          <button
-            onClick={() => setShowRickRoll(false)}
-            className="absolute right-4 top-4 rounded-full bg-white p-2 text-xl font-bold text-black"
-            title="Close video"
-          >
-            &times;
-          </button>
-        </div>
-      )}
 
       {/* Selected activity details or click prompt */}
       {selectedActivity ? (
