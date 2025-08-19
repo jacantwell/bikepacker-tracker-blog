@@ -57,11 +57,10 @@ export function JourneyMap({
   // State for activity hover and selection
   const [selectedActivity, setSelectedActivity] =
     useState<DetailedActivity | null>(null);
-      const [popupInfo, setPopupInfo] = useState<{
-    longitude: number;
-    latitude: number;
-    activity: SummaryActivity;
-  } | null>(null);
+
+  // Add loading state for activity details
+  const [isLoadingActivity, setIsLoadingActivity] = useState(false);
+  const [loadingActivityId, setLoadingActivityId] = useState<string | null>(null);
 
   // Stats
   const [stats, setStats] = useState({
@@ -223,11 +222,47 @@ export function JourneyMap({
     },
   };
 
+  // Helper function to handle activity selection with loading state
+  const handleActivitySelection = async (activity: SummaryActivity) => {
+    const activityId = activity.id?.toString() || "";
+
+    // Don't do anything if we're already loading this activity
+    if (isLoadingActivity && loadingActivityId === activityId) {
+      return;
+    }
+
+    // Set loading state
+    setIsLoadingActivity(true);
+    setLoadingActivityId(activityId);
+
+    // Clear previous selection immediately to show loading state
+    setSelectedActivity(null);
+
+    try {
+      // Try fetching from the cache first
+      const cachedData = cacheService.getItem(`cache:strava:activity:${activityId}`);
+
+      if (cachedData) {
+        setSelectedActivity(cachedData);
+      } else {
+        // Fetch from API if not cached
+        const detailedActivity = await getDetailedActivity(activityId);
+        setSelectedActivity(detailedActivity);
+      }
+
+    } catch (error) {
+      console.error('Failed to load activity details:', error);
+    } finally {
+      setIsLoadingActivity(false);
+      setLoadingActivityId(null);
+    }
+  };
+
   // Handle map click
   const handleMapClick = (event: any) => {
     // Get features at click point
     const features = event.features || [];
-      
+
     if (features.length > 0) {
       // Find the activity that corresponds to the clicked feature
       const featureId = features[0].properties.id;
@@ -235,32 +270,13 @@ export function JourneyMap({
       console.log("Activity selected", activity);
 
       if (activity) {
-        const activityId = activity.id?.toString() || "";
-
-        // Try fetching from the cache
-        const cachedData = cacheService.getItem(`cache:strava:activity:${activityId}`)
-
-        if (cachedData) {
-          setSelectedActivity(cachedData);
-        } else {
-          getDetailedActivity(activityId).then((detailedActivity) => {
-            setSelectedActivity(detailedActivity);
-          });
-        }
-        
-        // Get coordinates for the popup - use the first point of the activity
-        if (activity.start_latlng && activity.start_latlng.length === 2) {
-          setPopupInfo({
-            longitude: activity.start_latlng[1],
-            latitude: activity.start_latlng[0],
-            activity,
-          });
-        }
+        handleActivitySelection(activity);
       }
     } else {
       // Clicked away from a feature
       setSelectedActivity(null);
-      setPopupInfo(null);
+      setIsLoadingActivity(false);
+      setLoadingActivityId(null);
     }
   };
 
@@ -405,7 +421,7 @@ export function JourneyMap({
               </Source>
             )}
           {/* Activity endpoint markers */}
-          {activities && activities.length > 0 && 
+          {activities && activities.length > 0 &&
             activities.map((activity) => {
               // Use end coordinates if available, otherwise use start coordinates
               const coords = activity.end_latlng || activity.start_latlng;
@@ -413,7 +429,10 @@ export function JourneyMap({
 
               const [lat, lng] = coords;
               console.log("Activity endpoint:", activity.name, lat, lng);
-              
+
+              const activityId = activity.id?.toString() || "";
+              const isThisActivityLoading = isLoadingActivity && loadingActivityId === activityId;
+
               return (
                 <Marker
                   key={`endpoint-${activity.id}`}
@@ -422,26 +441,11 @@ export function JourneyMap({
                   anchor="bottom"
                 >
                   <div
-                    className={`h-1 w-1 rounded-full shadow-sm cursor-pointer transition-transform hover:scale-150 bg-slate-700 dark:bg-gray-200`}
-                    onClick={() => {
-                      // Trigger the same click handler as the polylines
-                      const activityId = activity.id?.toString() || "";
-                      const cachedData = cacheService.getItem(`cache:strava:activity:${activityId}`)
-
-                      if (cachedData) {
-                        setSelectedActivity(cachedData);
-                      } else {
-                        getDetailedActivity(activityId).then((detailedActivity) => {
-                          setSelectedActivity(detailedActivity);
-                        });
-                      }
-                      
-                      setPopupInfo({
-                        longitude: lng,
-                        latitude: lat,
-                        activity,
-                      });
-                    }}
+                    className={`h-1 w-1 rounded-full shadow-sm cursor-pointer transition-transform hover:scale-150 ${isThisActivityLoading
+                        ? 'bg-blue-500 animate-pulse scale-150'
+                        : 'bg-slate-700 dark:bg-gray-200'
+                      }`}
+                    onClick={() => handleActivitySelection(activity)}
                     title={`${activity.name} - ${activity.type}`}
                   />
                 </Marker>
@@ -451,8 +455,34 @@ export function JourneyMap({
         </Map>
       </div>
 
-      {/* Selected activity details or click prompt */}
-      {selectedActivity ? (
+      {/* Selected activity details, loading state, or click prompt */}
+      {isLoadingActivity ? (
+        <div className="mt-6 rounded-lg bg-white p-5 shadow-md dark:bg-slate-800">
+          <div className="flex items-center justify-center py-8">
+            <svg
+              className="-ml-1 mr-3 h-6 w-6 animate-spin text-blue-500"
+              xmlns="http://www.w3.org/2000/svg"
+              fill="none"
+              viewBox="0 0 24 24"
+            >
+              <circle
+                className="opacity-25"
+                cx="12"
+                cy="12"
+                r="10"
+                stroke="currentColor"
+                strokeWidth="4"
+              ></circle>
+              <path
+                className="opacity-75"
+                fill="currentColor"
+                d="M4 12a8 8 0 018-8V0C5.373 0 0 5.373 0 12h4zm2 5.291A7.962 7.962 0 014 12H0c0 3.042 1.135 5.824 3 7.938l3-2.647z"
+              ></path>
+            </svg>
+            <span className="text-lg">Loading activity details...</span>
+          </div>
+        </div>
+      ) : selectedActivity ? (
         <div className="mt-6 rounded-lg bg-white p-5 shadow-md dark:bg-slate-800">
           <h3 className="mb-2 text-xl font-bold">{selectedActivity.name}</h3>
           <h3 className="mb-2 text-m">{selectedActivity.description}</h3>
