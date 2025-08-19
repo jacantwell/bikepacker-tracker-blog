@@ -107,16 +107,39 @@ export function JourneyMap({
     }));
   }, [activities]);
 
-  // Function to scroll to activity details
+  // Function to check if element is in viewport
+  const isElementInViewport = useCallback((element: HTMLElement) => {
+    const rect = element.getBoundingClientRect();
+    const windowHeight = window.innerHeight || document.documentElement.clientHeight;
+    const windowWidth = window.innerWidth || document.documentElement.clientWidth;
+    
+    // Check if the element is at least partially visible
+    // We consider it visible if at least 50% of its height is in the viewport
+    const elementHeight = rect.height;
+    const visibleHeight = Math.min(rect.bottom, windowHeight) - Math.max(rect.top, 0);
+    const visibilityRatio = visibleHeight / elementHeight;
+    
+    return (
+      rect.left >= 0 &&
+      rect.top >= 0 &&
+      rect.right <= windowWidth &&
+      visibilityRatio >= 0.5 // At least 50% visible
+    );
+  }, []);
+
+  // Function to scroll to activity details only if not already visible
   const scrollToActivityDetails = useCallback(() => {
     if (activityDetailsRef.current) {
-      activityDetailsRef.current.scrollIntoView({ 
-        behavior: 'smooth',
-        block: 'start',
-        inline: 'nearest'
-      });
+      // Check if the element is already sufficiently visible
+      if (!isElementInViewport(activityDetailsRef.current)) {
+        activityDetailsRef.current.scrollIntoView({ 
+          behavior: 'smooth',
+          block: 'start',
+          inline: 'nearest'
+        });
+      }
     }
-  }, []);
+  }, [isElementInViewport]);
 
   // Effect to handle dark mode
   useEffect(() => {
