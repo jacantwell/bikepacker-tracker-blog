@@ -1,4 +1,4 @@
-import { useState, useEffect, useCallback } from "react";
+import { useState, useEffect, useCallback, useRef } from "react";
 import Map, {
   Source,
   Layer,
@@ -62,6 +62,9 @@ export function JourneyMap({
   const [isLoadingActivity, setIsLoadingActivity] = useState(false);
   const [loadingActivityId, setLoadingActivityId] = useState<string | null>(null);
 
+  // Ref for the activity details section
+  const activityDetailsRef = useRef<HTMLDivElement>(null);
+
   // Auto fit bounds when map data changes
   const fitBounds = useCallback(() => {
     if (!activities || activities.length === 0) return;
@@ -103,6 +106,17 @@ export function JourneyMap({
       zoom: zoom,
     }));
   }, [activities]);
+
+  // Function to scroll to activity details
+  const scrollToActivityDetails = useCallback(() => {
+    if (activityDetailsRef.current) {
+      activityDetailsRef.current.scrollIntoView({ 
+        behavior: 'smooth',
+        block: 'start',
+        inline: 'nearest'
+      });
+    }
+  }, []);
 
   // Effect to handle dark mode
   useEffect(() => {
@@ -167,6 +181,14 @@ export function JourneyMap({
     }
   }, [activities, startDate, fitBounds]);
 
+  // Effect to scroll to details when activity is selected or loaded
+  useEffect(() => {
+    if (selectedActivity && !isLoadingActivity) {
+      // Small delay to ensure the DOM has updated
+      setTimeout(scrollToActivityDetails, 100);
+    }
+  }, [selectedActivity, isLoadingActivity, scrollToActivityDetails]);
+
   // Map style based on dark/light mode
   const mapStyle = isDarkMode
     ? "mapbox://styles/mapbox/dark-v11"
@@ -216,6 +238,9 @@ export function JourneyMap({
 
     // Clear previous selection immediately to show loading state
     setSelectedActivity(null);
+
+    // Scroll to the details section immediately to show loading state
+    setTimeout(scrollToActivityDetails, 100);
 
     try {
       // Try fetching from the cache first
@@ -393,74 +418,76 @@ export function JourneyMap({
       </div>
 
       {/* Selected activity details, loading state, or click prompt */}
-      {isLoadingActivity ? (
-        <div className="mt-6 rounded-lg bg-white p-5 shadow-md dark:bg-slate-800">
-          <div className="flex items-center justify-center py-8">
-            <svg
-              className="-ml-1 mr-3 h-6 w-6 animate-spin text-blue-500"
-              xmlns="http://www.w3.org/2000/svg"
-              fill="none"
-              viewBox="0 0 24 24"
-            >
-              <circle
-                className="opacity-25"
-                cx="12"
-                cy="12"
-                r="10"
-                stroke="currentColor"
-                strokeWidth="4"
-              ></circle>
-              <path
-                className="opacity-75"
-                fill="currentColor"
-                d="M4 12a8 8 0 018-8V0C5.373 0 0 5.373 0 12h4zm2 5.291A7.962 7.962 0 014 12H0c0 3.042 1.135 5.824 3 7.938l3-2.647z"
-              ></path>
-            </svg>
-            <span className="text-lg">Loading activity details...</span>
-          </div>
-        </div>
-      ) : selectedActivity ? (
-        <div className="mt-6 rounded-lg bg-white p-5 shadow-md dark:bg-slate-800">
-          <h3 className="mb-2 text-xl font-bold">{selectedActivity.name}</h3>
-          <h3 className="mb-2 text-m">{selectedActivity.description}</h3>
-          <div className="grid grid-cols-1 gap-5 sm:grid-cols-2 md:grid-cols-5">
-            <div>
-              <p className="text-sm text-gray-600 dark:text-gray-400">Date</p>
-              <p>{formatDate(selectedActivity.start_date)}</p>
-            </div>
-            <div>
-              <p className="text-sm text-gray-600 dark:text-gray-400">
-                Distance
-              </p>
-              <p>{formatDistance(selectedActivity.distance, "km")}</p>
-            </div>
-            <div>
-              <p className="text-sm text-gray-600 dark:text-gray-400">
-                Duration
-              </p>
-              <p>{formatTime(selectedActivity.elapsed_time)}</p>
-            </div>
-            <div>
-              <p className="text-sm text-gray-600 dark:text-gray-400">
-                Elevation Gain
-              </p>
-              <p>{selectedActivity.total_elevation_gain} m</p>
-            </div>
-            <div>
-              <p className="text-sm text-gray-600 dark:text-gray-400">
-                Activity Photos
-              </p>
-              <ActivityPhotos photoDetails={selectedActivity.photos} />
+      <div ref={activityDetailsRef}>
+        {isLoadingActivity ? (
+          <div className="mt-6 rounded-lg bg-white p-5 shadow-md dark:bg-slate-800">
+            <div className="flex items-center justify-center py-8">
+              <svg
+                className="-ml-1 mr-3 h-6 w-6 animate-spin text-blue-500"
+                xmlns="http://www.w3.org/2000/svg"
+                fill="none"
+                viewBox="0 0 24 24"
+              >
+                <circle
+                  className="opacity-25"
+                  cx="12"
+                  cy="12"
+                  r="10"
+                  stroke="currentColor"
+                  strokeWidth="4"
+                ></circle>
+                <path
+                  className="opacity-75"
+                  fill="currentColor"
+                  d="M4 12a8 8 0 018-8V0C5.373 0 0 5.373 0 12h4zm2 5.291A7.962 7.962 0 014 12H0c0 3.042 1.135 5.824 3 7.938l3-2.647z"
+                ></path>
+              </svg>
+              <span className="text-lg">Loading activity details...</span>
             </div>
           </div>
-        </div>
-      ) : (
-        <div className="my-12 flex justify-center">
-          <div className="animate-pulse text-lg text-gray-600 dark:text-gray-400">
-            Click on any part of the route for more details...
+        ) : selectedActivity ? (
+          <div className="mt-6 rounded-lg bg-white p-5 shadow-md dark:bg-slate-800">
+            <h3 className="mb-2 text-xl font-bold">{selectedActivity.name}</h3>
+            <h3 className="mb-2 text-m">{selectedActivity.description}</h3>
+            <div className="grid grid-cols-1 gap-5 sm:grid-cols-2 md:grid-cols-5">
+              <div>
+                <p className="text-sm text-gray-600 dark:text-gray-400">Date</p>
+                <p>{formatDate(selectedActivity.start_date)}</p>
+              </div>
+              <div>
+                <p className="text-sm text-gray-600 dark:text-gray-400">
+                  Distance
+                </p>
+                <p>{formatDistance(selectedActivity.distance, "km")}</p>
+              </div>
+              <div>
+                <p className="text-sm text-gray-600 dark:text-gray-400">
+                  Duration
+                </p>
+                <p>{formatTime(selectedActivity.elapsed_time)}</p>
+              </div>
+              <div>
+                <p className="text-sm text-gray-600 dark:text-gray-400">
+                  Elevation Gain
+                </p>
+                <p>{selectedActivity.total_elevation_gain} m</p>
+              </div>
+              <div>
+                <p className="text-sm text-gray-600 dark:text-gray-400">
+                  Activity Photos
+                </p>
+                <ActivityPhotos photoDetails={selectedActivity.photos} />
+              </div>
+            </div>
           </div>
-        </div>
-      )}
+        ) : (
+          <div className="my-12 flex justify-center">
+            <div className="animate-pulse text-lg text-gray-600 dark:text-gray-400">
+              Click on any part of the route for more details...
+            </div>
+          </div>
+        )}
+      </div>
     </section>
   );
 }
