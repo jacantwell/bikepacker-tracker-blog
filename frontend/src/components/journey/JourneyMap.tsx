@@ -57,19 +57,6 @@ export function JourneyMap({
   // State for activity hover and selection
   const [selectedActivity, setSelectedActivity] =
     useState<DetailedActivity | null>(null);
-      const [popupInfo, setPopupInfo] = useState<{
-    longitude: number;
-    latitude: number;
-    activity: SummaryActivity;
-  } | null>(null);
-
-  // Stats
-  const [stats, setStats] = useState({
-    totalDistance: 0,
-    totalElevationGain: 0,
-    totalActivities: 0,
-    activityTypes: {} as Record<string, number>,
-  });
 
   // Auto fit bounds when map data changes
   const fitBounds = useCallback(() => {
@@ -164,13 +151,6 @@ export function JourneyMap({
             }
           });
 
-          setStats({
-            totalDistance,
-            totalElevationGain,
-            totalActivities: activities.length,
-            activityTypes,
-          });
-
           // Fit map to activity bounds after a short delay
           setTimeout(fitBounds, 300);
         } finally {
@@ -180,12 +160,6 @@ export function JourneyMap({
     } else {
       // Reset data if no activities
       setJourneyData(null);
-      setStats({
-        totalDistance: 0,
-        totalElevationGain: 0,
-        totalActivities: 0,
-        activityTypes: {},
-      });
     }
   }, [activities, startDate, fitBounds]);
 
@@ -227,12 +201,11 @@ export function JourneyMap({
   const handleMapClick = (event: any) => {
     // Get features at click point
     const features = event.features || [];
-      
+
     if (features.length > 0) {
       // Find the activity that corresponds to the clicked feature
       const featureId = features[0].properties.id;
       const activity = activities.find((a) => a.id === featureId);
-      console.log("Activity selected", activity);
 
       if (activity) {
         const activityId = activity.id?.toString() || "";
@@ -247,20 +220,10 @@ export function JourneyMap({
             setSelectedActivity(detailedActivity);
           });
         }
-        
-        // Get coordinates for the popup - use the first point of the activity
-        if (activity.start_latlng && activity.start_latlng.length === 2) {
-          setPopupInfo({
-            longitude: activity.start_latlng[1],
-            latitude: activity.start_latlng[0],
-            activity,
-          });
-        }
       }
     } else {
       // Clicked away from a feature
       setSelectedActivity(null);
-      setPopupInfo(null);
     }
   };
 
@@ -280,43 +243,7 @@ export function JourneyMap({
 
   return (
     <section className="mb-16 md:mb-20">
-      <h2 className="mb-4 text-4xl font-bold leading-tight tracking-tighter md:text-5xl">
-        My Journey Map
-      </h2>
 
-      {/* Stats summary with loading states */}
-      <div className="mb-6 grid grid-cols-1 gap-4 sm:grid-cols-3">
-        <div className="rounded-lg bg-white p-3 shadow-sm dark:bg-slate-800">
-          <h3 className="text-lg font-semibold">Total Distance</h3>
-          {showLoadingOverlay ? (
-            <div className="mt-1 h-8 w-24 animate-pulse rounded bg-gray-200 dark:bg-gray-700"></div>
-          ) : (
-            <p className="text-2xl font-bold text-blue-600 dark:text-blue-400">
-              {formatDistance(stats.totalDistance, "km")}
-            </p>
-          )}
-        </div>
-        <div className="rounded-lg bg-white p-3 shadow-sm dark:bg-slate-800">
-          <h3 className="text-lg font-semibold">Activities</h3>
-          {showLoadingOverlay ? (
-            <div className="mt-1 h-8 w-16 animate-pulse rounded bg-gray-200 dark:bg-gray-700"></div>
-          ) : (
-            <p className="text-2xl font-bold text-green-600 dark:text-green-400">
-              {stats.totalActivities}
-            </p>
-          )}
-        </div>
-        <div className="rounded-lg bg-white p-3 shadow-sm dark:bg-slate-800">
-          <h3 className="text-lg font-semibold">Total Elevation</h3>
-          {showLoadingOverlay ? (
-            <div className="mt-1 h-8 w-20 animate-pulse rounded bg-gray-200 dark:bg-gray-700"></div>
-          ) : (
-            <p className="text-2xl font-bold text-purple-600 dark:text-purple-400">
-              {formatDistance(stats.totalElevationGain, undefined)}
-            </p>
-          )}
-        </div>
-      </div>
 
       {/* The map container - always rendered */}
       <div
@@ -405,15 +332,14 @@ export function JourneyMap({
               </Source>
             )}
           {/* Activity endpoint markers */}
-          {activities && activities.length > 0 && 
+          {activities && activities.length > 0 &&
             activities.map((activity) => {
               // Use end coordinates if available, otherwise use start coordinates
               const coords = activity.end_latlng || activity.start_latlng;
               if (!coords || coords.length !== 2) return null;
 
               const [lat, lng] = coords;
-              console.log("Activity endpoint:", activity.name, lat, lng);
-              
+
               return (
                 <Marker
                   key={`endpoint-${activity.id}`}
@@ -435,12 +361,6 @@ export function JourneyMap({
                           setSelectedActivity(detailedActivity);
                         });
                       }
-                      
-                      setPopupInfo({
-                        longitude: lng,
-                        latitude: lat,
-                        activity,
-                      });
                     }}
                     title={`${activity.name} - ${activity.type}`}
                   />
