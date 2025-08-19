@@ -15,12 +15,7 @@ function useStravaData(startDate: string) {
     const isBackgroundRefresh = skipCache;
     
     try {
-      // Only show loading indicator for initial load, not background refresh
-      if (!isBackgroundRefresh) {
-        setLoading(true);
-      } else {
-        setRefreshing(true);
-      }
+      setLoading(true);
       
       const data = await getJourneyActivities(startDate, skipCache);
       setActivities(data.activities);
@@ -45,19 +40,6 @@ function useStravaData(startDate: string) {
   useEffect(() => {
     loadData(false); // Try to use cache for initial load
   }, [loadData]); // Now we can safely include loadData in dependencies
-
-  // Background refresh after initial load
-  useEffect(() => {
-    if (!loading && activities.length > 0) {
-      // If we have data and aren't in initial loading state,
-      // do a background refresh after a short delay
-      const timer = setTimeout(() => {
-        loadData(true); // Skip cache for background refresh
-      }, 1000);
-      
-      return () => clearTimeout(timer);
-    }
-  }, [loading, activities.length, loadData]); // Include loadData in dependencies
 
   return { 
     activities, 
