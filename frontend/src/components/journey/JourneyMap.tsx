@@ -134,7 +134,7 @@ export function JourneyMap({
       if (!isElementInViewport(activityDetailsRef.current)) {
         activityDetailsRef.current.scrollIntoView({ 
           behavior: 'smooth',
-          block: 'start',
+          block: 'nearest',   // Ensure it scrolls to the nearest edge
           inline: 'nearest'
         });
       }
