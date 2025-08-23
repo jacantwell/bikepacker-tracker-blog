@@ -846,6 +846,36 @@ export interface DetailedActivity {
     'best_efforts'?: Array<DetailedSegmentEffort>;
 }
 
+export interface StravaPhoto {
+  unique_id: string;
+  athlete_id: number;
+  activity_id: number;
+  activity_name: string;
+  post_id: string | null;
+  resource_state: number;
+  caption: string;
+  type: number; // 1 = photo, 2 = video
+  source: number;
+  status: number;
+  uploaded_at: string;
+  created_at: string;
+  created_at_local: string;
+  urls: {
+    [key: string]: string; // e.g., "1800": "url"
+  };
+  placeholder_image: {
+    light_url: string;
+    dark_url: string;
+  };
+  sizes: {
+    [key: string]: [number, number]; // e.g., "1800": [width, height]
+  };
+  default_photo: boolean;
+  cursor: string | null;
+  location?: [number, number]; // [latitude, longitude]
+  duration?: number; // for videos
+  video_url?: string; // for videos
+}
 
 /**
  * 

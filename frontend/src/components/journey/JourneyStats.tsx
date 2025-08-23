@@ -8,6 +8,14 @@ interface JourneyStatsProps {
     isLoading?: boolean;
 }
 
+function getDaysSinceStart(startDate: string): number {
+    const start = new Date(startDate);
+    const now = new Date();
+    // Calculate difference in ms and convert to days
+    const diffTime = now.getTime() - start.getTime();
+    return Math.max(0, Math.floor(diffTime / (1000 * 60 * 60 * 24)));
+}
+
 export function JourneyStats({
     activities = [],
     startDate,
@@ -66,6 +74,16 @@ export function JourneyStats({
     return (
         <div className="mb-6 grid grid-cols-1 gap-4 sm:grid-cols-3">
             <div className="rounded-lg bg-white p-3 shadow-sm dark:bg-slate-800">
+                <h3 className="text-lg font-semibold">Total Days</h3>
+                {isLoading ? (
+                    <div className="mt-1 h-8 w-16 animate-pulse rounded bg-gray-200 dark:bg-gray-700"></div>
+                ) : (
+                    <p className="text-2xl font-bold text-green-600 dark:text-green-400">
+                        {getDaysSinceStart(startDate)}
+                    </p>
+                )}
+            </div>
+            <div className="rounded-lg bg-white p-3 shadow-sm dark:bg-slate-800">
                 <h3 className="text-lg font-semibold">Total Distance</h3>
                 {isLoading ? (
                     <div className="mt-1 h-8 w-24 animate-pulse rounded bg-gray-200 dark:bg-gray-700"></div>
@@ -75,16 +93,7 @@ export function JourneyStats({
                     </p>
                 )}
             </div>
-            <div className="rounded-lg bg-white p-3 shadow-sm dark:bg-slate-800">
-                <h3 className="text-lg font-semibold">Activities</h3>
-                {isLoading ? (
-                    <div className="mt-1 h-8 w-16 animate-pulse rounded bg-gray-200 dark:bg-gray-700"></div>
-                ) : (
-                    <p className="text-2xl font-bold text-green-600 dark:text-green-400">
-                        {stats.totalActivities}
-                    </p>
-                )}
-            </div>
+
             <div className="rounded-lg bg-white p-3 shadow-sm dark:bg-slate-800">
                 <h3 className="text-lg font-semibold">Total Elevation</h3>
                 {isLoading ? (

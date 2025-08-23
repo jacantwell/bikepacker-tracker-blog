@@ -9,9 +9,10 @@ import Map, {
   LineLayerSpecification,
 } from "react-map-gl/mapbox";
 import "mapbox-gl/dist/mapbox-gl.css";
-import ActivityPhotos from "./ActivityPhotos";
+import Photos from "./Photos";
+import { Photo } from "./Photos";
 import { SummaryActivity, DetailedActivity } from "@/api/strava/api";
-import { getDetailedActivity } from "@/services/strava";
+import { getDetailedActivity, getActivityPhotos } from "@/services/strava";
 import { processActivities, calculateBounds } from "@/lib/activity-processor";
 import { formatDistance, formatTime } from "@/lib/dates";
 import { cacheService } from "@/services/cache"
@@ -24,6 +25,8 @@ interface JourneyMapProps {
   lastUpdated?: Date | null;
   onRefresh?: () => void;
 }
+
+
 
 // Helper function to format date
 function formatDate(dateString: string | undefined): string {
@@ -53,6 +56,11 @@ export function JourneyMap({
   const [processingData, setProcessingData] = useState(false);
   const [isDarkMode, setIsDarkMode] = useState(false);
   const [cursor, setCursor] = useState<string>('auto');
+
+  // Photo stuff
+  const [photoDetails, setPhotoDetails] = useState<Photo[]>([]);
+
+
 
   // State for activity hover and selection
   const [selectedActivity, setSelectedActivity] =
@@ -112,13 +120,13 @@ export function JourneyMap({
     const rect = element.getBoundingClientRect();
     const windowHeight = window.innerHeight || document.documentElement.clientHeight;
     const windowWidth = window.innerWidth || document.documentElement.clientWidth;
-    
+
     // Check if the element is at least partially visible
     // We consider it visible if at least 50% of its height is in the viewport
     const elementHeight = rect.height;
     const visibleHeight = Math.min(rect.bottom, windowHeight) - Math.max(rect.top, 0);
     const visibilityRatio = visibleHeight / elementHeight;
-    
+
     return (
       rect.left >= 0 &&
       rect.top >= 0 &&
@@ -132,7 +140,7 @@ export function JourneyMap({
     if (activityDetailsRef.current) {
       // Check if the element is already sufficiently visible
       if (!isElementInViewport(activityDetailsRef.current)) {
-        activityDetailsRef.current.scrollIntoView({ 
+        activityDetailsRef.current.scrollIntoView({
           behavior: 'smooth',
           block: 'nearest',   // Ensure it scrolls to the nearest edge
           inline: 'nearest'
@@ -275,6 +283,28 @@ export function JourneyMap({
         // Fetch from API if not cached
         const detailedActivity = await getDetailedActivity(activityId);
         setSelectedActivity(detailedActivity);
+      }
+
+      // Fetch the activity photos
+      const photos = await getActivityPhotos(activityId.toString());
+      const previewPhotos = await getActivityPhotos(activityId.toString(), 100);
+
+      // Extract photos into the desired json format
+      if (photos && previewPhotos) {
+        const extractedPhotos: Photo[] = photos.map((activity, index) => {
+          // TODO
+          const smallSize = 100
+          const largeSize = 5000
+
+          return {
+            id: activity.unique_id,
+            smallUrl: previewPhotos[index]?.urls[smallSize.toString()] || '',
+            largeUrl: activity.urls[largeSize.toString()] || '',
+            videoUrl: activity.video_url || null
+          };
+        });
+
+        setPhotoDetails(extractedPhotos);
       }
 
     } catch (error) {
@@ -427,8 +457,8 @@ export function JourneyMap({
                 >
                   <div
                     className={`h-1 w-1 rounded-full shadow-sm cursor-pointer transition-transform hover:scale-150 ${isLoadingActivity && loadingActivityId == activity.id?.toString() || ""
-                        ? 'bg-blue-500 animate-pulse scale-150'
-                        : 'bg-slate-700 dark:bg-gray-200'
+                      ? 'bg-blue-500 animate-pulse scale-150'
+                      : 'bg-slate-700 dark:bg-gray-200'
                       }`}
                     onClick={() => handleActivitySelection(activity)}
                     title={`${activity.name} - ${activity.type}`}
@@ -474,32 +504,32 @@ export function JourneyMap({
             <h3 className="mb-2 text-m">{selectedActivity.description}</h3>
             <div className="grid grid-cols-1 gap-5 sm:grid-cols-2 md:grid-cols-5">
               <div>
-                <p className="text-sm text-gray-600 dark:text-gray-400">Date</p>
+                <p className="text-l font-bold text-gray-600 dark:text-gray-400">Date</p>
                 <p>{formatDate(selectedActivity.start_date)}</p>
               </div>
               <div>
-                <p className="text-sm text-gray-600 dark:text-gray-400">
+                <p className="text-l font-boldtext-gray-600 dark:text-gray-400">
                   Distance
                 </p>
                 <p>{formatDistance(selectedActivity.distance, "km")}</p>
               </div>
               <div>
-                <p className="text-sm text-gray-600 dark:text-gray-400">
+                <p className="text-l font-bold text-gray-600 dark:text-gray-400">
                   Duration
                 </p>
                 <p>{formatTime(selectedActivity.elapsed_time)}</p>
               </div>
               <div>
-                <p className="text-sm text-gray-600 dark:text-gray-400">
+                <p className="text-l font-bold text-gray-600 dark:text-gray-400">
                   Elevation Gain
                 </p>
                 <p>{selectedActivity.total_elevation_gain} m</p>
               </div>
               <div>
-                <p className="text-sm text-gray-600 dark:text-gray-400">
+                <p className="text-l font-bold text-gray-600 dark:text-gray-400">
                   Activity Photos
                 </p>
-                <ActivityPhotos photoDetails={selectedActivity.photos} />
+                <Photos photoDetails={photoDetails} />
               </div>
             </div>
           </div>

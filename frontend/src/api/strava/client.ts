@@ -1,5 +1,5 @@
 import axios from 'axios';
-import { SummaryActivity, DetailedActivity } from './api';
+import { SummaryActivity, DetailedActivity, StravaPhoto} from './api';
 
 /**
  * Strava API client for handling authentication and API requests
@@ -167,6 +167,15 @@ export class StravaClient {
     return this.request<DetailedActivity>('GET', `activities/${id}`);
   }
 
+  /**
+   * Get the photos of a specific activity
+   */
+  async getActivityPhotos(id: string | number, size: number = 5000): Promise<StravaPhoto[]> {
+    console.log("Fetching photos for activity ID:", id);
+    return this.request<StravaPhoto[]>('GET', `activities/${id}/photos?size=${size}`);
+  }
+
+  
   /**
    * Get the most recent activity
    */
