@@ -91,6 +91,13 @@ export async function getDetailedActivity(activity_id: string) {
   return activity
 }
 
+export async function getActivityPhotos(activity_id: string, size: number = 5000) {
+  
+  const stravaClient = new StravaClient();
+  const photos = await stravaClient.getActivityPhotos(activity_id, size);
+  return photos
+}
+
 /**
  * Get the planned route from Strava using the generated API client
  * @param skipCache Force a fresh API call, bypassing cache
