@@ -99,6 +99,52 @@ export async function getActivityPhotos(activity_id: string, size: number = 5000
 }
 
 /**
+ * Get a route from strava by its ID
+ * @param routeId The ID of the route to fetch
+ * @param skipCache Force a fresh API call, bypassing cache
+ */
+export async function getRouteById(routeId: string, skipCache: boolean = false): Promise<Route> {
+  const cacheKey = `cache:strava:route:${routeId}`;
+
+  // Try to get from cache first (unless skipCache is true)
+  if (!skipCache) {
+    const cachedRoute = cacheService.getItem<Route>(cacheKey, STRAVA_CACHE_TTL);
+    if (cachedRoute) {
+      console.log(`Using cached route data for route ID: ${routeId}`);
+      return cachedRoute;
+    }
+  }
+
+  try {
+    // Get access token using the StravaClient
+    const stravaClient = new StravaClient();
+    const accessToken = await stravaClient.getValidAccessToken();
+
+    // Configure the RoutesApi with the access token
+    const configuration = new Configuration({
+      accessToken: accessToken,
+    });
+
+    const routesApi = new RoutesApi(configuration);
+    
+    // Fetch the route by ID
+    console.log(`Fetching route with ID: ${routeId}`);
+    const response = await routesApi.getRouteById(routeId);
+    const route = response.data;
+    
+    console.log('Successfully fetched route:', route.name);
+    
+    // Cache the result
+    cacheService.setItem(cacheKey, route, STRAVA_CACHE_TTL);
+    
+    return route;
+  } catch (error) {
+    console.error(`Error fetching route with ID ${routeId}:`, error);
+    throw new Error(`Failed to fetch route: ${error}`);
+  }
+}
+
+/**
  * Get the planned route from Strava using the generated API client
  * @param skipCache Force a fresh API call, bypassing cache
  */
