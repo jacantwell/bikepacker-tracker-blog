@@ -8,14 +8,15 @@ import Map, {
   ViewStateChangeEvent,
   LineLayerSpecification,
 } from "react-map-gl/mapbox";
-import { getPlannedRoute } from "@/services/strava";
+// import { getPlannedRoute } from "@/services/strava";
+import { getRouteById } from "@/services/strava";
 import { Route } from "@/api/strava/api";
 import { decodePolyline } from "@/lib/polyline";
 import { formatDistance, formatTime } from "@/lib/dates";
 
-interface PlannedRouteMapProps {
+interface RouteMapProps {
   className?: string;
-  useMockData?: boolean;
+  routeId: string;
 }
 
 // Function to convert Strava Route to GeoJSON
@@ -79,48 +80,7 @@ const processStravaRoute = (route: Route) => {
   }
 };
 
-// Mock data for fallback
-const mockRouteData = {
-  geoJson: {
-    type: "FeatureCollection" as const,
-    features: [
-      {
-        type: "Feature" as const,
-        properties: {
-          name: "Planned Route (Mock)",
-          route_type: "mock_route"
-        },
-        geometry: {
-          type: "LineString" as const,
-          coordinates: [
-            [1.25, 51.13], // Dover, UK
-            [1.85, 50.95], // Calais, France
-            [2.35, 48.86], // Paris, France
-            [-0.58, 44.84], // Bordeaux, France
-            [-2.17, 43.31], // San Sebastián, Spain
-            [2.17, 41.38],  // Barcelona, Spain
-            [-9.13, 38.71], // Lisbon, Portugal
-          ]
-        }
-      }
-    ]
-  },
-  waypoints: [
-    { name: "Dover, UK", coordinates: [1.25, 51.13] },
-    { name: "Paris, France", coordinates: [2.35, 48.86] },
-    { name: "Barcelona, Spain", coordinates: [2.17, 41.38] },
-    { name: "Lisbon, Portugal", coordinates: [-9.13, 38.71] },
-  ],
-  stats: {
-    name: "Planned Route (Mock Data)",
-    totalDistance: 5000000, // 5000km
-    totalElevationGain: 50000, // 50km
-    estimatedTime: 360000, // 100 hours
-    description: "Mock planned route for testing"
-  }
-};
-
-const PlannedRouteMap = ({ className, useMockData = false }: PlannedRouteMapProps) => {
+const RouteMap = ({ className, routeId }: RouteMapProps) => {
   const [currentViewState, setCurrentViewState] = useState<ViewState>({
     longitude: 0,
     latitude: 45,
@@ -160,14 +120,6 @@ const PlannedRouteMap = ({ className, useMockData = false }: PlannedRouteMapProp
     let mounted = true;
 
     async function loadRouteData() {
-      if (useMockData) {
-        if (mounted) {
-          setRouteData(mockRouteData.geoJson);
-          setWaypoints(mockRouteData.waypoints);
-          setStats(mockRouteData.stats);
-        }
-        return;
-      }
 
       if (mounted) {
         setLoading(true);
@@ -176,7 +128,7 @@ const PlannedRouteMap = ({ className, useMockData = false }: PlannedRouteMapProp
 
       try {
         console.log('Fetching planned route from Strava...');
-        const route = await getPlannedRoute();
+        const route = await getRouteById(routeId);
         console.log('Successfully fetched route:', route);
         
         const processedRoute = processStravaRoute(route);
@@ -188,19 +140,6 @@ const PlannedRouteMap = ({ className, useMockData = false }: PlannedRouteMapProp
         }
       } catch (err) {
         console.error('Failed to load Strava route:', err);
-        
-        if (mounted) {
-          setError('Failed to load route data from Strava');
-          
-          // Fallback to mock data
-          console.log('Falling back to mock data');
-          setRouteData(mockRouteData.geoJson);
-          setWaypoints(mockRouteData.waypoints);
-          setStats({
-            ...mockRouteData.stats,
-            name: "Planned Route (Fallback)"
-          });
-        }
       } finally {
         if (mounted) {
           setLoading(false);
@@ -213,7 +152,7 @@ const PlannedRouteMap = ({ className, useMockData = false }: PlannedRouteMapProp
     return () => {
       mounted = false;
     };
-  }, [useMockData]);
+  }, []);
 
   // Calculate bounds and fit map to show the entire route
   const fitBounds = useCallback(() => {
@@ -471,4 +410,4 @@ const PlannedRouteMap = ({ className, useMockData = false }: PlannedRouteMapProp
   );
 };
 
-export default PlannedRouteMap;
+export default RouteMap;

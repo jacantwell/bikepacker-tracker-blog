@@ -1,14 +1,19 @@
 import Container from '@/components/layout/Container';
 import PostHeader from '@/components/blog/PostHeader';
-import PlannedRouteMap from '@/components/journey/PlannedRouteMap';
 import MarkdownRenderer from '@/components/blog/MarkdownRenderer';
 import { PLANNED_ROUTE_POST, PlannedRoutePost } from '@/data/plannedRoutePost';
+import RouteMap from '@/components/journey/RouteMap';
+// Planned route ID
+
+const PLANNED_ROUTE_ID = '3398297883408418150';
 
 interface PlannedRoutePageProps {
   post?: PlannedRoutePost;
+  routeId?: string;
 }
 
-const PlannedRoutePage = ({ post = PLANNED_ROUTE_POST }: PlannedRoutePageProps) => {
+const PlannedRoutePage = ({ post = PLANNED_ROUTE_POST, routeId = PLANNED_ROUTE_ID }: PlannedRoutePageProps) => {
+
   return (
     <Container>
       <article className="mb-32">
@@ -26,7 +31,7 @@ const PlannedRoutePage = ({ post = PLANNED_ROUTE_POST }: PlannedRoutePageProps) 
 
         {/* The planned route map - will try to load from Strava, fallback to mock */}
         <div className="my-12">
-          <PlannedRouteMap />
+          <RouteMap routeId={routeId} />
         </div>
 
         {/* Second part of the content */}
