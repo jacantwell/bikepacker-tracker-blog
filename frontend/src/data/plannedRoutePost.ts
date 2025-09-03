@@ -42,7 +42,7 @@ As I get to the end of the first leg of this trip, I thought I’d update this p
 
 From Aktau I’ll ride across the desert to the Uzbek border, but here things get tricky again. The land crossing has been shut for a few years, so the only way through is the overnight train from Beyneu to Nukus. It’s a ~12 hour ride and luckily I can take my bike with me. From Nukus I’ll head south east towards Bukhara and Samarkand before crossing into Tajikistan. Hopefully I can pick up my Indian visa there which I’ll need to get in from Pakistan.
 
-If all goes to plan the next step is Afghanistan. I’ll probably end up changing the route here, either going north to the Wakhan Corridor or further south towards Kandahar. From Afghanistan I’ll head into Pakistan, ride to Lahore, then continue on into India. The final leg will take me across India to Dhaka in Bangladesh. From there I’ll grab a flight to somewhere new, most likely decided by how much money I have left!
+If all goes to plan the next step is Afghanistan. I’ll probably end up changing the route here, either going north to the Wakhan Corridor or further south towards Kandahar. From Afghanistan I’ll head into Pakistan, ride to Lahore, then continue on into India. The final leg will take me across India to Dhaka in Bangladesh. From there I’ll get a flight to somewhere new, most likely decided by how much money I have left!
 
 Below you can explore my planned route interactively.`,
 
