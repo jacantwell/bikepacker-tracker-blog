@@ -13,9 +13,9 @@ const Intro = () => {
           className="relative inline-block w-full rounded-lg bg-blue-600 px-6 py-3 text-center font-medium text-white transition-colors hover:bg-blue-700"
         >
           View Planned Route →
-          <span className="absolute -right-1 -top-1 flex h-4 w-4 animate-pulse items-center justify-center rounded-full bg-red-500 text-xs font-bold text-white">
+          {/* <span className="absolute -right-1 -top-1 flex h-4 w-4 animate-pulse items-center justify-center rounded-full bg-red-500 text-xs font-bold text-white">
             !
-          </span>
+          </span> */}
         </Link>
       </div>
     </section>
