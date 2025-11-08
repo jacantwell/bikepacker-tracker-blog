@@ -1,4 +1,4 @@
-AWSTemplateFormatVersion: '2010-09-09'
+AWSTemplateFormatVersion: "2010-09-09"
 Parameters:
   DomainName:
     Type: String
@@ -66,8 +66,8 @@ Resources:
                 Forward: none
             # Shorter cache for content updates
             MinTTL: 0
-            DefaultTTL: 3600    # 1 hour
-            MaxTTL: 86400       # 24 hours
+            DefaultTTL: 3600 # 1 hour
+            MaxTTL: 86400 # 24 hours
         DefaultCacheBehavior:
           # App cache behavior (default)
           TargetOriginId: S3Origin
@@ -81,8 +81,13 @@ Resources:
               Forward: none
           # Longer cache for app files
           MinTTL: 0
-          DefaultTTL: 86400     # 24 hours
-          MaxTTL: 31536000      # 1 year
+          DefaultTTL: 86400 # 24 hours
+          MaxTTL: 31536000 # 1 year
+        DistributionConfig:
+          Logging:
+            Bucket: !GetAtt LoggingBucket.DomainName
+            IncludeCookies: false
+            Prefix: cloudfront-logs/
         ViewerCertificate:
           AcmCertificateArn: !Ref Certificate
           SslSupportMethod: sni-only
