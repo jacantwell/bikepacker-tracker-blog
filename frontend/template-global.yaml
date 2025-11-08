@@ -28,6 +28,9 @@ Resources:
     Type: AWS::S3::Bucket
     Properties:
       BucketName: !Sub "${DomainName}-logs"
+      OwnershipControls:
+        Rules:
+          - ObjectOwnership: BucketOwnerPreferred
       PublicAccessBlockConfiguration:
         BlockPublicAcls: true
         BlockPublicPolicy: true
@@ -45,13 +48,16 @@ Resources:
       Bucket: !Ref LoggingBucket
       PolicyDocument:
         Statement:
-          - Sid: S3ServerAccessLogsPolicy
+          - Sid: AWSCloudFrontLogsPermission
             Effect: Allow
             Principal:
-              Service: logging.s3.amazonaws.com
+              Service: cloudfront.amazonaws.com
             Action:
               - s3:PutObject
             Resource: !Sub "${LoggingBucket.Arn}/*"
+            Condition:
+              StringEquals:
+                "AWS:SourceArn": !Sub "arn:aws:cloudfront::${AWS::AccountId}:distribution/${CloudFrontDistribution}"
 
   # CloudFront Origin Access Identity (shared between app and content buckets)
   CloudFrontOriginAccessIdentity:
