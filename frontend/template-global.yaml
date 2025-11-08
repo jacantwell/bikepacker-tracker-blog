@@ -28,7 +28,6 @@ Resources:
     Type: AWS::S3::Bucket
     Properties:
       BucketName: !Sub "${DomainName}-logs"
-      AccessControl: LogDeliveryWrite
       PublicAccessBlockConfiguration:
         BlockPublicAcls: true
         BlockPublicPolicy: true
@@ -39,6 +38,20 @@ Resources:
           - Id: DeleteOldLogs
             Status: Enabled
             ExpirationInDays: 90
+
+  LoggingBucketPolicy:
+    Type: AWS::S3::BucketPolicy
+    Properties:
+      Bucket: !Ref LoggingBucket
+      PolicyDocument:
+        Statement:
+          - Sid: S3ServerAccessLogsPolicy
+            Effect: Allow
+            Principal:
+              Service: logging.s3.amazonaws.com
+            Action:
+              - s3:PutObject
+            Resource: !Sub "${LoggingBucket.Arn}/*"
 
   # CloudFront Origin Access Identity (shared between app and content buckets)
   CloudFrontOriginAccessIdentity:
