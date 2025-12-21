@@ -9,7 +9,7 @@ import { SummaryActivity, DetailedActivity, StravaPhoto } from '@/types/StravaTy
 const STATIC_DATA_BASE = '/strava_data';
 
 // Photo base URL - can be configured for S3 or local storage
-const PHOTO_BASE_URL = import.meta.env.VITE_STRAVA_PHOTOS_BASE_URL || '/strava_data/media';
+const PHOTO_BASE_URL = import.meta.env.VITE_STRAVA_PHOTOS_BASE_URL || 'https://jaspercycles.com/content/strava_data/media';
 
 /**
  * Fetch JSON data from a static file
