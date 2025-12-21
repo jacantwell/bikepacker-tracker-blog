@@ -277,22 +277,20 @@ export function JourneyMap({
       const detailedActivity = await getDetailedActivity(activityId);
       setSelectedActivity(detailedActivity);
 
-      // Fetch the activity photos
+      // Fetch the activity photos (they include all sizes)
       const photos = await getActivityPhotos(activityId.toString());
-      const previewPhotos = await getActivityPhotos(activityId.toString());
 
       // Extract photos into the desired json format
-      if (photos && previewPhotos) {
-        const extractedPhotos: Photo[] = photos.map((activity, index) => {
-          // TODO
-          const smallSize = 100
-          const largeSize = 5000
+      if (photos) {
+        const extractedPhotos: Photo[] = photos.map((photo) => {
+          const smallSize = 100;
+          const largeSize = 5000;
 
           return {
-            id: activity.unique_id,
-            smallUrl: previewPhotos[index]?.urls[smallSize.toString()] || '',
-            largeUrl: activity.urls[largeSize.toString()] || '',
-            videoUrl: activity.video_url || null
+            id: photo.unique_id,
+            smallUrl: photo.urls[smallSize.toString()] || photo.urls[largeSize.toString()] || '',
+            largeUrl: photo.urls[largeSize.toString()] || '',
+            videoUrl: photo.video_url || null
           };
         });
 
