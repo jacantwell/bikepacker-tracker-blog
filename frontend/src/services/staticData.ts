@@ -1,4 +1,4 @@
-import { SummaryActivity, DetailedActivity, StravaPhoto, Route } from '@/api/strava/api';
+import { SummaryActivity, DetailedActivity, StravaPhoto } from '@/types/StravaTypes';
 
 /**
  * Static data loader service for Strava data
@@ -115,29 +115,6 @@ function processPhotoUrls(photos: StravaPhoto[]): StravaPhoto[] {
   });
 }
 
-/**
- * Load a specific route by ID
- */
-export async function loadRouteById(routeId: string): Promise<Route | null> {
-  try {
-    return await fetchStaticJSON<Route>(`routes/${routeId}.json`);
-  } catch (error) {
-    console.warn(`Could not load route ${routeId}:`, error);
-    return null;
-  }
-}
-
-/**
- * Load the planned route
- */
-export async function loadPlannedRoute(): Promise<Route | null> {
-  try {
-    return await fetchStaticJSON<Route>('planned_route.json');
-  } catch (error) {
-    console.error('Could not load planned route:', error);
-    return null;
-  }
-}
 
 /**
  * Get photo base URL (useful for debugging and configuration)
