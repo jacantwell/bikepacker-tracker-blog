@@ -1,0 +1,4573 @@
+{
+  "resource_state": 3,
+  "athlete": {
+    "id": 49023768,
+    "resource_state": 1
+  },
+  "name": "14 madeleines and 6+ litres of water later",
+  "distance": 98538.7,
+  "moving_time": 17599,
+  "elapsed_time": 31228,
+  "total_elevation_gain": 1228.0,
+  "type": "Ride",
+  "sport_type": "Ride",
+  "workout_type": null,
+  "device_name": "Wahoo ELEMNT BOLT",
+  "id": 14634208703,
+  "start_date": "2025-05-29T07:28:34Z",
+  "start_date_local": "2025-05-29T09:28:34Z",
+  "timezone": "(GMT+01:00) Europe/Madrid",
+  "utc_offset": 7200.0,
+  "location_city": null,
+  "location_state": null,
+  "location_country": null,
+  "achievement_count": 0,
+  "kudos_count": 17,
+  "comment_count": 1,
+  "athlete_count": 1,
+  "photo_count": 0,
+  "map": {
+    "id": "a14634208703",
+    "polyline": "q{~dGv|}JXl@NVb@f@h@b@V^V`@Vp@J`@Jz@BbCHpADLB@LADEDQXaKLcCLeAd@sB\\y@v@yAvCqFjEyHhAwBj@uA\\eAZsAXoBLgAZsFReF?g@L_EBcCTwJLgC`@_Cb@cBv@cCR{@TeARsBHkCC_EBuBHuAx@aIFmB{@{X]gLAuA@mBDgABiCT_W\\wV^i[Bo@XmCD_CHeBXaDvAoTl@{GbA_OZaFlAuPViE^sEz@qLvCgb@N{@LUj@i@Pc@D]@]KoB?SJa@LIJCn@CFUPaUGkBGiAOuFEaHFSJC`@HxANV?NEVNPDVB^A^IPINM~@eARM`@Ml@?n@H`DT`AFX?d@C\\GRKZYTe@J_@l@}DtBg_@HaC?wBCkA[wH]_LAaA?yAV_P\\aP@w@Ec@Ie@Wk@UYKK_@Qa@GQ?QBkATe@@_AEy@Iu@Oi@YOA[D[?oBUOKKS_@_@EMC_@?wDKoB_DqY}@_IUqAeBeJiD_RcC{LkAmGaAgGcAkFMw@QuBUqFMqBMoAq@sCk@qBk@iBcCmIi@{AKk@Cs@Hw@Vs@t@wAPs@By@C_DI_DBkAQsAS_ICGOAAG?y@CaA?WHg@KwDB_@FSPUPGV?bAB|AT~@R\\Dz@Dx@CzFk@fAWx@MRFrCrAj@Pd@FdBDdGV`AHhDLR?f@MPAt@@|@CLCNKJK\\_A`@k@fEsD^c@hAeA\\W|A}Ab@_@h@Yp@Sf@Ed@@h@Hj@Td@\\XXb@p@rApCZb@PNl@Zh@FX?TERIf@YhA{@PILAZFLHRZXLh@D\\AXKVUpAoCTU`@[f@SlBq@`Bg@r@Y`LqDf@EbC@hEv@nCPd@Ex@OhBk@fCgBvKiIfHcF~@c@j@Mz@EdA?rAHb@H~IxD~A`AXV^d@\\Pn@PdALZ?rAUf@OTOf@o@R_@Li@@iAJ{@H_@Be@PeALc@NWTOd@GRKVa@Vk@b@c@p@e@|@g@fB}@rE_CpIwErBwAdCqC^]^U\\Mr@M`@An@BRAh@c@pAu@FKBOAKIMKG[K}@KaAQq@Ug@[US_@e@u@q@_C}Ak@W{BoBOEO@o@HMFKJGRIDMGCM?INi@D]Pe@p@iC`AaDz@yAHWd@eCFQRe@^g@Pa@jCaLX_AZw@~C{G\\eA|F{U`@kBDk@Aw@yCcb@Ms@qAoDc@uAu@{DWcCs@oEU_A[y@QkAOo@y@uBi@gB}@qA_AeAS]o@sAu@kAQa@Kg@U{Bm@iDWg@UUm@e@UYK[W}BIe@o@wAOc@Gi@Es@EaEIe@Wm@OSO[WaAQa@Y_@Se@i@oBE]EuASaB?y@JyB?}@G_AKaACs@?YD_ATwCB_B?aWIeBSwAi@wCEg@CyD[qESe@MOMGcA_@QCo@QM?MDm@t@GBGCMOUe@IGIAyALFMAU[m@IWCMDGLKfBw@`DkAlC}@lAm@v@m@h@m@r@kAh@sAVaANu@LiADi@B_A?kBOiGAyBFeBLyANaAtBgJ`FqS\\_B~@{DVaApBqITu@rB{IpCaLnFgUhAkEvBeJ`BsGj@iCzCcMv@iDvEsRt@}BdBsE~La[pKsXfDiInFiN~B{FlBiFt@cBvBkFxCaIhCkGvB{FxEoLxD}JbFeMpEkLnAuCzBkG~ByF`CgG~@yBh@}ALW|AwDfByEl@oAtA{BhCqDlF}HRSJCd@CVEHEPUTg@T}AL[NYlBsCbDoExCoENO`@KHGTa@X}@nBsCTMb@KJIN[Fy@DOHO`GoI^_@VIXCn@DTGHGHY@]KiAA[@MLYtCwDTa@vBwCPOr@MPOFYBi@BYLUjHiK~AuB`CoDjA_Bz@sAh@o@XKNc@l@_A\\e@dEoG`GsIj@s@T_@JIJADCn@{@b@b@iG_MHNLR@EYm@k@w@}@eB@OHMn@MPOJ[@OE]EOIIg@WYUm@}@We@DGZNPBHK@QGIc@OYUKO]aAWg@o@y@SQa@k@Q]Uk@[wAMYu@mAGa@@e@HU`BgCLe@JQLMl@]\\W`BgBDAFFBFADKCYLXYLS@GACOV]T?CTOGYQa@SJC?JM`@[@EC?k@`@C@CGDKlAw@D?WRm@ZOFE?]Qs@y@KQUq@Mm@CiAr@wMLeBDYEMGAi@@QAq@MWMKWW}@Ga@@YHi@JeBLgA\\oCr@eE^aDH{@FqABmCAkAG{AIgAYgCCa@?a@Du@Cc@I_@IKg@e@Wa@Wu@_@gBa@mCI_AMqBAsA?wAHqC`@yHN}DJiEByCFk@\\eABa@Ca@g@uACMEm@YiPSkICgD@cCJuC`@qFLmAPiAJ[b@q@H[@QEa@CMGM[]GMM]Ko@Ec@CeABgAFu@ZsCZ}AXkAnAcErDaKZg@|@q@TWFOReAJa@P]^c@`@[zA}@`@Sl@Md@?JCJGLY@OGa@GOc@m@OYy@eCQo@Ie@DKZYbD}ITY`@QH?d@NH@FAPKp@iAhCwEPSRGFG\\a@ZSLOZ}@\\m@|@mAPQ\\SDK@MCO[gAmB_KQgAA_@@_AXqAJcA?_AG}@I]M[aAcBKi@?mAR}BTmEPuAf@oBb@eAjA_C\\m@p@_AP_@|@yANGZEJIFQF_@HSPWRSx@]d@Kn@Gz@A\\AtAUv@WZOZSf@i@j@{@x@s@HS@WAKMUSQEKE[?]DgBF]\\qALQfBkA`@_@bAiB\\_@zAy@jCcBv@c@l@m@j@}@b@_@n@s@Vu@@qBDyAF]Ps@r@mBLsAJk@j@cBRc@POXMLCRBJAHIBOAIGMe@OuCwBuCkBUWc@gAWSOGQCQDa@P]@mCq@_HmAuAOsBGKEKMUgAOSSK{@Ge@Qm@c@qAiA{@cAu@cAoAyBi@eAUk@cA_Da@kBc@wCMmAMsBIyB?_CHoCNsBRmB|@_GJ]^s@DO@MAcA@a@T{BdCiQhAqHnGoc@V{ARcALY\\s@BUCw@@k@Fi@T_BVyAT_AVo@NY\\c@HQL_ATy@f@cA|@yArAeCn@wAd@uAZeAj@uCRmBHiAJcCCiDMiCMkAUaBc@yB[eAmAgD{A_FIq@@aACMKUc@g@O_@i@oCc@gCo@wE_@uDQ_CcAgQm@aMG}AAwBFuDNgCT}Bh@cDb@cBdA{F\\sCL{AzAyWVyCRmAZ}A|AyEx@sCn@eDLw@dAyFRy@Vw@p@sAbE{G`ByCbGsLfBuD~BqF^eAlAgEfAmCr@qA|CcEjR}UnBsBdBwAzA_AbAe@rBu@jPgFbAc@~@q@b@c@t@eAfFcJ`BmCbAwAtCoDrAkBf@{@dAqBnJuRf@cAx@qAvAqB`AiAlDsD~@kAn@{@d@cAf@aBb@aCxBkRj@wDb@iB|AqEz@}BVaAXsAj@gFTmA\\qARi@Xm@`@q@f@m@h@m@vBmB^e@dAiAz@mAfEmH|BsEdAmBbU}^`JwNn@u@bAs@lJgE|@g@n@e@b@a@fAwA\\i@h@sAd@{ATqARmBFeA@yBGeBS{CEeCJcCXwBT_A`@iAjDsH~AeEnByFdAoDpTqy@~@gE`@mCPcCDiCEkMIgNDwBL_ClUyzBj@gGHwAB}CI_Di@qJaAqSAyA@{A^iJBsAAwACo@Q{Ak@iCCe@FYZq@p@eA`ByCdBqChBaDbAeB~@oAt@oAlBgDxDqGvAwBnBsBbAs@l@a@`JaFrBqAhIgGrEqD^Uf@M~DUh@IpCSbD[fFe@ZGZMPOPSNm@De@J{GEyBUaCM_CC}AJaS@qAFoAXkAVo@zAmBfC}CbByB^m@Rg@r@oB`FuOfBgFv@kCn@gB`P{f@F[Bc@E]Sa@gEgGKSEWEu@@YNm@|@mCfAwDvAoJd@uBNa@T_@f@m@h@a@tB_AnG}ChC}@dAWf@Kd@CjA@tHn@|@N`B^hBj@bDnA~@TbAFz@E\\Ex@Sz@_@|@k@lBsA^]^e@l@cA\\s@tNk]b@sA\\yAVoCVeGPcTDoBFw@R{ATaARk@Ri@^q@hBoCv@w@f@_@^Ql@St@Ox@Uz@_@ZQzAoAbB{Ap@o@|@mA`@u@b@oAT}@NqAJgB^kLn@cOD_B?cBEkBSiDQgAQu@a@qA]u@gBoCUc@Wq@[kBEaA?eABg@J{@Lm@Ro@p@gAZYTM\\_@b@SpAY|G_A|BQvGUnDSfDOlBAxADzATjAXxBp@`ATfAJ~DBzAJ~Ex@`KtBf@Hf@Bd@AXCx@QdDqAvHoCtCeA`Ac@jLgE~KgEjPcGl@Yn@Qv@]tCaAnQyGfJeDxHyC^QrBkAfFcD~EoCj@_@nAiAdN_OrGwGlAwAbA{A~@qBdAuBfAcCb@w@p@aA|EgFbCaCV]dDkDV[t@w@nDoDrB_BpA}@lF{DbH_FbAy@fH}Er@a@v@[hAU`AGfA?~KTpCH|CBdQ`@|MRhLX~@Hl@LnAb@|D`BjClAp@^xAbAfEhD~IbHjDfCXVrA`BnDxExArBVf@v@n@LDBC?U@EFCzA@TAF@BJ@`@J|@r@fBXnALxA?b@CNEDb@AJFP@RJRDPN`@Fv@^T?N@JJJ`@JNBFAQEMGEm@My@]YWQAy@]OCM@ODEHETDr@n@vCp@|DV\\GEQ]GQ@EDHFZLNLFjATdBx@nEhCv@Xj@X`BfAVVHNDPAr@D\\n@`Cb@tDn@tGZvDDp@DhBP~Dj@tHF`CGlAOjAsCzN_@dCKjAIlCCjCCr@AxDKtDE~EBjDLbARx@^fAd@x@TX|@r@pAn@pJvD~@j@x@t@b@h@zAxBpExGz@rAj@fAdBhC|@jAp@pAt@jAd@n@NTjBvBb@bAVnAV^PJXFZEPIRULUHa@?]Cs@F[Vc@v@w@b@i@p@iAv@aBn@mBTy@n@mCrAqGZkAbA{Cl@{AbAyBhBeDl@mAZw@j@wBVu@JMHGJCL?ZFLH^^\\t@Zd@DXFdAHRLJLDT@|@M\\I`@YTe@ZcB\\mAf@qAf@{@|A_CfBwCbLmSfGcLd@eAlBsE|F_Pf@aBtAeG`AsDvBgGvAmE\\}@zFmQTm@DJCMDKnAeDn@{AvBgEtBmDjDgFfDuEt@{@~@s@~@c@jBu@ZSVWLUPa@Lk@J{@Vu@Vc@n@}@HYRcANiCL}A\\iCzAuJz@}Gx@uI^uFR}BFg@j@_Dz@{DNgAJcADeA?mBKwFYeKAiC@cAJ{ATwBd@yDNeBnAiILk@Rg@PURQRMl@Ub@Gn@DHAPQHYA]MUUMa@GSMQUiBcDSWWKcCc@a@QsIeIoE{DaDuCoAeAmCiCw@aAU_@}@aBeBqDc@g@SM[IaBM_@G]OOQEQ?SB]Rm@Lk@Dm@Ak@WaBkAuFQ{AUoD[qG]gEi@gFK_Bg@yFWuEQ_G@o@CUCoDCcA@i@IaE]_KGwG?eGJkF@yKE}G?aNGmLJwDVwFfAcS^eIf@aKZmHH{IGoJ?qCFyFXmFLeBNaBbBgLZyCPuCt@_En@{ERwCF_C\\c[Hw@Ja@v@eBJk@?UAWSy@?_@AK?EXi@DQBU?]Iw@o@{CQ_CA}AHoFFsADi@ReAN_@FGPKdAIRGDMHg@NSNg@Nq@JOP?FGLOJ]JOP]Tq@H{@?KMi@Es@?o@Do@AKYi@GWEaAB}CFkAJ{@Ny@Pq@Dc@Bs@@oAC}AImCE[Ca@Fa@GeCBcBJ_ARcAV}@r@iBXcAb@eCd@iF^sC\\kDJuAp@sGJaBT_C?u@@SAsAk@{GEuABcB\\iEHwBAaAO}Ae@uB[aCUcAOc@a@cAYm@wA}Be@{@GSJOGEKBGCg@iAqBkFSw@Kw@CgAByADUDED@FHBPj@PJALBv@URQHKJ[@UEe@BM",
+    "resource_state": 3,
+    "summary_polyline": "q{~dGv|}J~DdG|@`IfBwUlQs]nAiJxAgf@zD}QtAg]{Ayh@~AauAfSavCzA_DFaFpAg@Sok@xGRvDcCnMInAcG~Bic@_A}]p@wf@cBiCqHBwG{@aAmAOgI}Eqc@{RueAqAaRcIeYhBeJgAee@bAq@rV[xFtBxWb@vO{OfDsA`D~@lFlH~FiB~C~@zDcFlUyHdOdAhEaAr\\gUxFLvOjIdFHxBoBhA_JrDmD|VcNxH}GzHaC}S_NmCRzNuf@xEyK~GgYuCge@yI_a@mJuQoAmIqB}BmB{H]eIyDwJk@}R^sa@mBiWuDsBqA~@yCu@c@wBxNcG~D{Fz@kFVqXfy@wiDrwBasFzN{TxB}@hA{DlUoZhHeM`Dw@LeEzJ_L\\sB|f@ms@nC_Db@b@sJmRzAgB}CiE~@QmFaHoCkHfC{FjEwCe@Ha@oAn@o@w@ZxAcA{Av@sBoCt@oUsCk@k@wBlDe_@o@uOkCqG{@sKtBye@u@sDq@}_@|@yQlAeEoAwD@gFpA}HbGeQhEkHxGaDwCeJdEcKjCg@~MwR}CmP\\sJeBgEbB_RfKwPvJcBdE}Dc@eDj@wEfUiSfCaQ~@gCfBy@mL_KkViC}@oBuFsCeIsOkB_Ql@qN~UoaB`DsKnGqMdBsKi@eRuHgX}BoNmDuo@l@{LpDwS`Co_@~Ik`@zUkd@tHmSpEuG`Yi\\b]yMpUo]~Py\\|M{PpFg_@|Jo`@lKyLpl@ebAnQ_KrDwFvAaJ_@aOd@{FxNm`@rWgdAZyl@bWyeCqBai@`@kU}@uIh`@qn@dc@yYj[}DKiYTcXlLwQf_@}iAD}AsFkKzHu\\tVsKl_@nF`HsDjC{DvPyb@fAid@dAaGtEcH`HkClGmFxCqGpBmh@}@sKqFyMHkFrAeDbNuDzYmAro@pIdsBwu@vU{NfYoZfJaQ|WwXba@qYvF{AriAjCjMrFlXxSfM~OtC[bBvL`HfCoGiB`B~K`SlKfBjL|C`f@wEfZe@|[d@hHxCnE|PhIl]ji@zA]ZeD|EqHhHoXhJoTxBV~AzE`Di@vBiHx[ek@pKyX~D{OfS_l@`QsXtIuFbDqI`NchAa@{\\xAwPpB}K`F{BkFiH}DaAc\\gZuG}K_FoAb@wFuBsLwEat@w@}d@?y`AnEi`AHwa@nHip@x@{c@xAkFJiGkAsINaLh@oCrBe@rDiIm@uKbAiNQeShDuNbEub@q@oOXeQgB_JkK{VDwDtCTh@cC"
+  },
+  "trainer": false,
+  "commute": false,
+  "manual": false,
+  "private": false,
+  "visibility": "everyone",
+  "flagged": false,
+  "gear_id": "b11943195",
+  "start_latlng": [
+    42.92553,
+    -1.960592
+  ],
+  "end_latlng": [
+    42.61953,
+    -1.174021
+  ],
+  "average_speed": 5.599,
+  "max_speed": 17.96,
+  "average_temp": 30,
+  "average_watts": 129.9,
+  "device_watts": false,
+  "kilojoules": 2286.7,
+  "has_heartrate": false,
+  "heartrate_opt_out": false,
+  "display_hide_heartrate_option": false,
+  "elev_high": 540.8,
+  "elev_low": 394.2,
+  "upload_id": 15615990139,
+  "upload_id_str": "15615990139",
+  "external_id": "51017293-f9fb-4ad6-bd7b-67ebcff0b4eb.fit",
+  "from_accepted_tag": false,
+  "pr_count": 0,
+  "total_photo_count": 3,
+  "has_kudoed": false,
+  "description": "Perfect end to a hot ride.\nLet's see if jaspercycles.com supports videos \ud83d\udc40",
+  "calories": 2550.0,
+  "perceived_exertion": null,
+  "prefer_perceived_exertion": false,
+  "segment_efforts": [
+    {
+      "id": 3363240639134481256,
+      "resource_state": 2,
+      "name": "Hiriberri-Ekai",
+      "activity": {
+        "id": 14634208703,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 594,
+      "moving_time": 594,
+      "start_date": "2025-05-29T07:51:03Z",
+      "start_date_local": "2025-05-29T09:51:03Z",
+      "distance": 2515.7,
+      "start_index": 1057,
+      "end_index": 1651,
+      "device_watts": false,
+      "segment": {
+        "id": 25380527,
+        "resource_state": 2,
+        "name": "Hiriberri-Ekai",
+        "activity_type": "Ride",
+        "distance": 2515.7,
+        "average_grade": 2.2,
+        "maximum_grade": 6.6,
+        "elevation_high": 499.4,
+        "elevation_low": 442.8,
+        "start_latlng": [
+          42.914414,
+          -1.890976
+        ],
+        "end_latlng": [
+          42.908871,
+          -1.866498
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": null,
+        "state": "Navarra",
+        "country": "Spain",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3363240639136636776,
+      "resource_state": 2,
+      "name": "bajada etxarren",
+      "activity": {
+        "id": 14634208703,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 236,
+      "moving_time": 236,
+      "start_date": "2025-05-29T08:01:21Z",
+      "start_date_local": "2025-05-29T10:01:21Z",
+      "distance": 2143.3,
+      "start_index": 1675,
+      "end_index": 1911,
+      "device_watts": false,
+      "segment": {
+        "id": 24918956,
+        "resource_state": 2,
+        "name": "bajada etxarren",
+        "activity_type": "Ride",
+        "distance": 2143.3,
+        "average_grade": -2.5,
+        "maximum_grade": 7.3,
+        "elevation_high": 507.6,
+        "elevation_low": 446.8,
+        "start_latlng": [
+          42.909955,
+          -1.865413
+        ],
+        "end_latlng": [
+          42.917343,
+          -1.843385
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": null,
+        "state": "Navarra",
+        "country": "Spain",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3363240639135272808,
+      "resource_state": 2,
+      "name": "Cota de Izurdiaga",
+      "activity": {
+        "id": 14634208703,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 48,
+      "moving_time": 48,
+      "start_date": "2025-05-29T08:14:48Z",
+      "start_date_local": "2025-05-29T10:14:48Z",
+      "distance": 233.2,
+      "start_index": 2296,
+      "end_index": 2344,
+      "device_watts": false,
+      "segment": {
+        "id": 12877900,
+        "resource_state": 2,
+        "name": "Cota de Izurdiaga",
+        "activity_type": "Ride",
+        "distance": 233.2,
+        "average_grade": 6.0,
+        "maximum_grade": 9.5,
+        "elevation_high": 451.6,
+        "elevation_low": 437.2,
+        "start_latlng": [
+          42.909325,
+          -1.831182
+        ],
+        "end_latlng": [
+          42.907782,
+          -1.829364
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": null,
+        "state": "Navarra",
+        "country": "Spain",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3363240639136320360,
+      "resource_state": 2,
+      "name": "Nuevo paso sobre v\u00edas desde Irurzun",
+      "activity": {
+        "id": 14634208703,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 65,
+      "moving_time": 65,
+      "start_date": "2025-05-29T08:14:56Z",
+      "start_date_local": "2025-05-29T10:14:56Z",
+      "distance": 261.0,
+      "start_index": 2304,
+      "end_index": 2369,
+      "device_watts": false,
+      "segment": {
+        "id": 13670359,
+        "resource_state": 2,
+        "name": "Nuevo paso sobre v\u00edas desde Irurzun",
+        "activity_type": "Ride",
+        "distance": 261.0,
+        "average_grade": 6.4,
+        "maximum_grade": 8.4,
+        "elevation_high": 461.8,
+        "elevation_low": 445.2,
+        "start_latlng": [
+          42.909012,
+          -1.830545
+        ],
+        "end_latlng": [
+          42.907097,
+          -1.828695
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Izurdiaga",
+        "state": "Navarra",
+        "country": "Spain",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3363240639134649192,
+      "resource_state": 2,
+      "name": "Izurdiaga norte up-down",
+      "activity": {
+        "id": 14634208703,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 146,
+      "moving_time": 146,
+      "start_date": "2025-05-29T08:15:07Z",
+      "start_date_local": "2025-05-29T10:15:07Z",
+      "distance": 1006.8,
+      "start_index": 2315,
+      "end_index": 2461,
+      "device_watts": false,
+      "segment": {
+        "id": 12873423,
+        "resource_state": 2,
+        "name": "Izurdiaga norte up-down",
+        "activity_type": "Ride",
+        "distance": 1006.8,
+        "average_grade": -1.7,
+        "maximum_grade": 7.9,
+        "elevation_high": 456.6,
+        "elevation_low": 425.4,
+        "start_latlng": [
+          42.908634,
+          -1.830184
+        ],
+        "end_latlng": [
+          42.901081,
+          -1.828649
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": null,
+        "state": "Navarra",
+        "country": "Spain",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3363240639137248104,
+      "resource_state": 2,
+      "name": "basilica oskia-puente tren",
+      "activity": {
+        "id": 14634208703,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 279,
+      "moving_time": 279,
+      "start_date": "2025-05-29T08:22:15Z",
+      "start_date_local": "2025-05-29T10:22:15Z",
+      "distance": 1234.9,
+      "start_index": 2743,
+      "end_index": 3022,
+      "device_watts": false,
+      "segment": {
+        "id": 11316914,
+        "resource_state": 2,
+        "name": "basilica oskia-puente tren",
+        "activity_type": "Ride",
+        "distance": 1234.9,
+        "average_grade": 2.3,
+        "maximum_grade": 12.3,
+        "elevation_high": 499.0,
+        "elevation_low": 470.4,
+        "start_latlng": [
+          42.88497,
+          -1.825219
+        ],
+        "end_latlng": [
+          42.875948,
+          -1.818032
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": null,
+        "state": "Navarra",
+        "country": "Spain",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3363240639137690472,
+      "resource_state": 2,
+      "name": "Subidon Atondo",
+      "activity": {
+        "id": 14634208703,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 226,
+      "moving_time": 226,
+      "start_date": "2025-05-29T08:27:36Z",
+      "start_date_local": "2025-05-29T10:27:36Z",
+      "distance": 452.0,
+      "start_index": 3064,
+      "end_index": 3290,
+      "device_watts": false,
+      "segment": {
+        "id": 24554766,
+        "resource_state": 2,
+        "name": "Subidon Atondo",
+        "activity_type": "Ride",
+        "distance": 452.0,
+        "average_grade": 11.0,
+        "maximum_grade": 15.0,
+        "elevation_high": 496.9,
+        "elevation_low": 447.3,
+        "start_latlng": [
+          42.875633,
+          -1.817113
+        ],
+        "end_latlng": [
+          42.879196,
+          -1.815178
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Atondo",
+        "state": "Navarra",
+        "country": "Spain",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3363240639134833512,
+      "resource_state": 2,
+      "name": "Atondo, PURO CEMENTO",
+      "activity": {
+        "id": 14634208703,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 62,
+      "moving_time": 62,
+      "start_date": "2025-05-29T08:30:25Z",
+      "start_date_local": "2025-05-29T10:30:25Z",
+      "distance": 122.7,
+      "start_index": 3233,
+      "end_index": 3295,
+      "device_watts": false,
+      "segment": {
+        "id": 10499991,
+        "resource_state": 2,
+        "name": "Atondo, PURO CEMENTO",
+        "activity_type": "Ride",
+        "distance": 122.7,
+        "average_grade": 13.9,
+        "maximum_grade": 19.4,
+        "elevation_high": 495.0,
+        "elevation_low": 478.0,
+        "start_latlng": [
+          42.878392,
+          -1.81518
+        ],
+        "end_latlng": [
+          42.879153,
+          -1.815067
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Iza",
+        "state": "Navarra",
+        "country": "Spain",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3363240639135270760,
+      "resource_state": 2,
+      "name": "atondo-erice",
+      "activity": {
+        "id": 14634208703,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 932,
+      "moving_time": 867,
+      "start_date": "2025-05-29T08:31:21Z",
+      "start_date_local": "2025-05-29T10:31:21Z",
+      "distance": 4392.6,
+      "start_index": 3289,
+      "end_index": 4157,
+      "device_watts": false,
+      "segment": {
+        "id": 15815735,
+        "resource_state": 2,
+        "name": "atondo-erice",
+        "activity_type": "Ride",
+        "distance": 4392.6,
+        "average_grade": -0.0,
+        "maximum_grade": 22.3,
+        "elevation_high": 504.5,
+        "elevation_low": 456.4,
+        "start_latlng": [
+          42.879186,
+          -1.815217
+        ],
+        "end_latlng": [
+          42.882923,
+          -1.767804
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Atondo",
+        "state": "Navarra",
+        "country": "Spain",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3363240639135046504,
+      "resource_state": 2,
+      "name": "Erice de Iza - Berriozar",
+      "activity": {
+        "id": 14634208703,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 1287,
+      "moving_time": 1287,
+      "start_date": "2025-05-29T08:47:43Z",
+      "start_date_local": "2025-05-29T10:47:43Z",
+      "distance": 8610.1,
+      "start_index": 4207,
+      "end_index": 5494,
+      "device_watts": false,
+      "segment": {
+        "id": 28599343,
+        "resource_state": 2,
+        "name": "Erice de Iza - Berriozar",
+        "activity_type": "Ride",
+        "distance": 8610.1,
+        "average_grade": -0.7,
+        "maximum_grade": 7.3,
+        "elevation_high": 524.6,
+        "elevation_low": 433.6,
+        "start_latlng": [
+          42.884386,
+          -1.767115
+        ],
+        "end_latlng": [
+          42.842702,
+          -1.681262
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": null,
+        "state": "Navarra",
+        "country": "Spain",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3363240639135156072,
+      "resource_state": 2,
+      "name": "Repecheo ",
+      "activity": {
+        "id": 14634208703,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 546,
+      "moving_time": 546,
+      "start_date": "2025-05-29T08:49:05Z",
+      "start_date_local": "2025-05-29T10:49:05Z",
+      "distance": 2960.0,
+      "start_index": 4289,
+      "end_index": 4835,
+      "device_watts": false,
+      "segment": {
+        "id": 17136499,
+        "resource_state": 2,
+        "name": "Repecheo ",
+        "activity_type": "Ride",
+        "distance": 2960.0,
+        "average_grade": 0.9,
+        "maximum_grade": 9.1,
+        "elevation_high": 515.1,
+        "elevation_low": 482.1,
+        "start_latlng": [
+          42.880628,
+          -1.764788
+        ],
+        "end_latlng": [
+          42.870753,
+          -1.732038
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Iza",
+        "state": "Navarra",
+        "country": "Spain",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3363240639137319784,
+      "resource_state": 2,
+      "name": "Ezkidi - Rotonda Berrioplano",
+      "activity": {
+        "id": 14634208703,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 548,
+      "moving_time": 548,
+      "start_date": "2025-05-29T08:57:59Z",
+      "start_date_local": "2025-05-29T10:57:59Z",
+      "distance": 4403.0,
+      "start_index": 4823,
+      "end_index": 5371,
+      "device_watts": false,
+      "segment": {
+        "id": 34767861,
+        "resource_state": 2,
+        "name": "Ezkidi - Rotonda Berrioplano",
+        "activity_type": "Ride",
+        "distance": 4403.0,
+        "average_grade": -1.7,
+        "maximum_grade": 5.8,
+        "elevation_high": 544.2,
+        "elevation_low": 467.0,
+        "start_latlng": [
+          42.871036,
+          -1.732788
+        ],
+        "end_latlng": [
+          42.848241,
+          -1.688886
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Berrioplano/Berriobeiti",
+        "state": "Navarre",
+        "country": "Spain",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3363240639137635176,
+      "resource_state": 2,
+      "name": "Bajad\u00f3n hasta A\u00f1ezcar",
+      "activity": {
+        "id": 14634208703,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 131,
+      "moving_time": 131,
+      "start_date": "2025-05-29T08:58:09Z",
+      "start_date_local": "2025-05-29T10:58:09Z",
+      "distance": 1578.8,
+      "start_index": 4833,
+      "end_index": 4964,
+      "device_watts": false,
+      "segment": {
+        "id": 12070862,
+        "resource_state": 2,
+        "name": "Bajad\u00f3n hasta A\u00f1ezcar",
+        "activity_type": "Ride",
+        "distance": 1578.8,
+        "average_grade": -5.5,
+        "maximum_grade": 0.4,
+        "elevation_high": 536.7,
+        "elevation_low": 447.0,
+        "start_latlng": [
+          42.87084,
+          -1.73212
+        ],
+        "end_latlng": [
+          42.86294,
+          -1.716056
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Berrioplano",
+        "state": "Navarra",
+        "country": "Spain",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3420352665546330924,
+      "resource_state": 2,
+      "name": "Fuah* 1er repecho",
+      "activity": {
+        "id": 14634208703,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 78,
+      "moving_time": 78,
+      "start_date": "2025-05-29T08:59:56Z",
+      "start_date_local": "2025-05-29T10:59:56Z",
+      "distance": 507.2,
+      "start_index": 4940,
+      "end_index": 5018,
+      "device_watts": false,
+      "segment": {
+        "id": 40444822,
+        "resource_state": 2,
+        "name": "Fuah* 1er repecho",
+        "activity_type": "Ride",
+        "distance": 507.2,
+        "average_grade": 1.5,
+        "maximum_grade": 3.4,
+        "elevation_high": 456.8,
+        "elevation_low": 449.2,
+        "start_latlng": [
+          42.863788,
+          -1.717769
+        ],
+        "end_latlng": [
+          42.861234,
+          -1.712625
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Berrioplano/Berriobeiti",
+        "state": "Navarre",
+        "country": "Spain",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3420351909189947586,
+      "resource_state": 2,
+      "name": "Fuah* 2\u00ba repecho",
+      "activity": {
+        "id": 14634208703,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 84,
+      "moving_time": 84,
+      "start_date": "2025-05-29T09:01:56Z",
+      "start_date_local": "2025-05-29T11:01:56Z",
+      "distance": 502.8,
+      "start_index": 5060,
+      "end_index": 5144,
+      "device_watts": false,
+      "segment": {
+        "id": 40444812,
+        "resource_state": 2,
+        "name": "Fuah* 2\u00ba repecho",
+        "activity_type": "Ride",
+        "distance": 502.8,
+        "average_grade": 1.0,
+        "maximum_grade": 5.6,
+        "elevation_high": 446.8,
+        "elevation_low": 437.4,
+        "start_latlng": [
+          42.859135,
+          -1.708402
+        ],
+        "end_latlng": [
+          42.856611,
+          -1.703298
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Berrioplano/Berriobeiti",
+        "state": "Navarre",
+        "country": "Spain",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3363240639135261544,
+      "resource_state": 2,
+      "name": "Casi en casita",
+      "activity": {
+        "id": 14634208703,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 308,
+      "moving_time": 308,
+      "start_date": "2025-05-29T12:04:11Z",
+      "start_date_local": "2025-05-29T14:04:11Z",
+      "distance": 2165.2,
+      "start_index": 6289,
+      "end_index": 6597,
+      "device_watts": false,
+      "segment": {
+        "id": 26474591,
+        "resource_state": 2,
+        "name": "Casi en casita",
+        "activity_type": "Ride",
+        "distance": 2165.2,
+        "average_grade": -0.0,
+        "maximum_grade": 2.7,
+        "elevation_high": 444.2,
+        "elevation_low": 435.6,
+        "start_latlng": [
+          42.836265,
+          -1.652537
+        ],
+        "end_latlng": [
+          42.836397,
+          -1.626788
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Anso\u00e1in",
+        "state": "Navarra",
+        "country": "Spain",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3363240639134581608,
+      "resource_state": 2,
+      "name": "Ronda Ezkaba",
+      "activity": {
+        "id": 14634208703,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 206,
+      "moving_time": 206,
+      "start_date": "2025-05-29T12:07:33Z",
+      "start_date_local": "2025-05-29T14:07:33Z",
+      "distance": 1445.4,
+      "start_index": 6491,
+      "end_index": 6697,
+      "device_watts": false,
+      "segment": {
+        "id": 37140364,
+        "resource_state": 2,
+        "name": "Ronda Ezkaba",
+        "activity_type": "Ride",
+        "distance": 1445.4,
+        "average_grade": 0.0,
+        "maximum_grade": 2.1,
+        "elevation_high": 442.4,
+        "elevation_low": 435.1,
+        "start_latlng": [
+          42.836248,
+          -1.63508
+        ],
+        "end_latlng": [
+          42.834331,
+          -1.618552
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Anso\u00e1in/Antsoain",
+        "state": "Navarre",
+        "country": "Spain",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3363240639134989160,
+      "resource_state": 2,
+      "name": "Sprint Olaztxipi",
+      "activity": {
+        "id": 14634208703,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 67,
+      "moving_time": 67,
+      "start_date": "2025-05-29T12:19:39Z",
+      "start_date_local": "2025-05-29T14:19:39Z",
+      "distance": 339.6,
+      "start_index": 7217,
+      "end_index": 7284,
+      "device_watts": false,
+      "segment": {
+        "id": 8277207,
+        "resource_state": 2,
+        "name": "Sprint Olaztxipi",
+        "activity_type": "Ride",
+        "distance": 339.6,
+        "average_grade": 3.2,
+        "maximum_grade": 12.7,
+        "elevation_high": 455.2,
+        "elevation_low": 443.0,
+        "start_latlng": [
+          42.823382,
+          -1.593304
+        ],
+        "end_latlng": [
+          42.82092,
+          -1.59098
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Huarte",
+        "state": "Navarre",
+        "country": "Spain",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3363240639135389544,
+      "resource_state": 2,
+      "name": "repecho Olaz",
+      "activity": {
+        "id": 14634208703,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 98,
+      "moving_time": 98,
+      "start_date": "2025-05-29T12:19:58Z",
+      "start_date_local": "2025-05-29T14:19:58Z",
+      "distance": 349.8,
+      "start_index": 7236,
+      "end_index": 7334,
+      "device_watts": false,
+      "segment": {
+        "id": 22961297,
+        "resource_state": 2,
+        "name": "repecho Olaz",
+        "activity_type": "Ride",
+        "distance": 349.8,
+        "average_grade": 1.1,
+        "maximum_grade": 1.8,
+        "elevation_high": 428.0,
+        "elevation_low": 424.2,
+        "start_latlng": [
+          42.822171,
+          -1.592451
+        ],
+        "end_latlng": [
+          42.820511,
+          -1.589143
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Olaz",
+        "state": "Navarra",
+        "country": "Spain",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3363240639133618024,
+      "resource_state": 2,
+      "name": "P. Itaroa- Urroz",
+      "activity": {
+        "id": 14634208703,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 2626,
+      "moving_time": 2295,
+      "start_date": "2025-05-29T12:24:52Z",
+      "start_date_local": "2025-05-29T14:24:52Z",
+      "distance": 13216.5,
+      "start_index": 7530,
+      "end_index": 9826,
+      "device_watts": false,
+      "segment": {
+        "id": 14666555,
+        "resource_state": 2,
+        "name": "P. Itaroa- Urroz",
+        "activity_type": "Ride",
+        "distance": 13216.5,
+        "average_grade": 0.3,
+        "maximum_grade": 43.1,
+        "elevation_high": 567.8,
+        "elevation_low": 462.2,
+        "start_latlng": [
+          42.826052,
+          -1.584206
+        ],
+        "end_latlng": [
+          42.779316,
+          -1.453078
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Huarte",
+        "state": "Navarra",
+        "country": "Spain",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3363240639130047336,
+      "resource_state": 2,
+      "name": "Pamplona-Lumbier",
+      "activity": {
+        "id": 14634208703,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 6382,
+      "moving_time": 5861,
+      "start_date": "2025-05-29T12:24:56Z",
+      "start_date_local": "2025-05-29T14:24:56Z",
+      "distance": 35931.2,
+      "start_index": 7534,
+      "end_index": 13397,
+      "device_watts": false,
+      "segment": {
+        "id": 6235437,
+        "resource_state": 2,
+        "name": "Pamplona-Lumbier",
+        "activity_type": "Ride",
+        "distance": 35931.2,
+        "average_grade": 0.0,
+        "maximum_grade": 13.6,
+        "elevation_high": 550.2,
+        "elevation_low": 432.0,
+        "start_latlng": [
+          42.826367,
+          -1.584101
+        ],
+        "end_latlng": [
+          42.655936,
+          -1.303757
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Huarte",
+        "state": "Navarre",
+        "country": "Spain",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3363240639138003816,
+      "resource_state": 2,
+      "name": "C\u00f4te du Frijolito",
+      "activity": {
+        "id": 14634208703,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 169,
+      "moving_time": 169,
+      "start_date": "2025-05-29T12:47:58Z",
+      "start_date_local": "2025-05-29T14:47:58Z",
+      "distance": 511.0,
+      "start_index": 8586,
+      "end_index": 8755,
+      "device_watts": false,
+      "segment": {
+        "id": 31145175,
+        "resource_state": 2,
+        "name": "C\u00f4te du Frijolito",
+        "activity_type": "Ride",
+        "distance": 511.0,
+        "average_grade": 5.2,
+        "maximum_grade": 7.4,
+        "elevation_high": 614.0,
+        "elevation_low": 587.4,
+        "start_latlng": [
+          42.823748,
+          -1.524196
+        ],
+        "end_latlng": [
+          42.821617,
+          -1.518718
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Eg\u00fc\u00e9s",
+        "state": "Navarra",
+        "country": "Spain",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3363240639136958312,
+      "resource_state": 2,
+      "name": "cuesta del frijolito",
+      "activity": {
+        "id": 14634208703,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 455,
+      "moving_time": 455,
+      "start_date": "2025-05-29T12:48:13Z",
+      "start_date_local": "2025-05-29T14:48:13Z",
+      "distance": 2098.0,
+      "start_index": 8601,
+      "end_index": 9056,
+      "device_watts": false,
+      "segment": {
+        "id": 8770587,
+        "resource_state": 2,
+        "name": "cuesta del frijolito",
+        "activity_type": "Ride",
+        "distance": 2098.0,
+        "average_grade": 1.5,
+        "maximum_grade": 12.9,
+        "elevation_high": 557.5,
+        "elevation_low": 525.8,
+        "start_latlng": [
+          42.823574,
+          -1.523668
+        ],
+        "end_latlng": [
+          42.811598,
+          -1.504404
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Eg\u00fc\u00e9s",
+        "state": "Navarra",
+        "country": "Spain",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3363240639137929064,
+      "resource_state": 2,
+      "name": "Frijolito a ras! By pepecar",
+      "activity": {
+        "id": 14634208703,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 603,
+      "moving_time": 603,
+      "start_date": "2025-05-29T12:51:19Z",
+      "start_date_local": "2025-05-29T14:51:19Z",
+      "distance": 4178.5,
+      "start_index": 8787,
+      "end_index": 9390,
+      "device_watts": false,
+      "segment": {
+        "id": 28430946,
+        "resource_state": 2,
+        "name": "Frijolito a ras! By pepecar",
+        "activity_type": "Ride",
+        "distance": 4178.5,
+        "average_grade": -0.8,
+        "maximum_grade": 4.2,
+        "elevation_high": 554.8,
+        "elevation_low": 512.8,
+        "start_latlng": [
+          42.820793,
+          -1.517542
+        ],
+        "end_latlng": [
+          42.795785,
+          -1.481663
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Eg\u00fc\u00e9s",
+        "state": "Navarra",
+        "country": "Spain",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3363240639134784360,
+      "resource_state": 2,
+      "name": "Ascenzione L\u00e9rruz",
+      "activity": {
+        "id": 14634208703,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 117,
+      "moving_time": 117,
+      "start_date": "2025-05-29T13:00:17Z",
+      "start_date_local": "2025-05-29T15:00:17Z",
+      "distance": 631.7,
+      "start_index": 9325,
+      "end_index": 9442,
+      "device_watts": false,
+      "segment": {
+        "id": 8277337,
+        "resource_state": 2,
+        "name": "Ascenzione L\u00e9rruz",
+        "activity_type": "Ride",
+        "distance": 631.7,
+        "average_grade": 3.5,
+        "maximum_grade": 13.0,
+        "elevation_high": 543.9,
+        "elevation_low": 521.5,
+        "start_latlng": [
+          42.797493,
+          -1.487096
+        ],
+        "end_latlng": [
+          42.795406,
+          -1.479982
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": null,
+        "state": "Navarre",
+        "country": "Spain",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3363240639138116456,
+      "resource_state": 2,
+      "name": "LERRUZ",
+      "activity": {
+        "id": 14634208703,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 151,
+      "moving_time": 151,
+      "start_date": "2025-05-29T13:00:35Z",
+      "start_date_local": "2025-05-29T15:00:35Z",
+      "distance": 604.6,
+      "start_index": 9343,
+      "end_index": 9494,
+      "device_watts": false,
+      "segment": {
+        "id": 33014703,
+        "resource_state": 2,
+        "name": "LERRUZ",
+        "activity_type": "Ride",
+        "distance": 604.6,
+        "average_grade": 3.5,
+        "maximum_grade": 9.9,
+        "elevation_high": 554.0,
+        "elevation_low": 532.6,
+        "start_latlng": [
+          42.797104,
+          -1.485115
+        ],
+        "end_latlng": [
+          42.794647,
+          -1.478623
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": null,
+        "state": "Navarra",
+        "country": "Spain",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3363240639137822568,
+      "resource_state": 2,
+      "name": "Subida Lerruz",
+      "activity": {
+        "id": 14634208703,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 182,
+      "moving_time": 182,
+      "start_date": "2025-05-29T13:00:59Z",
+      "start_date_local": "2025-05-29T15:00:59Z",
+      "distance": 633.8,
+      "start_index": 9367,
+      "end_index": 9549,
+      "device_watts": false,
+      "segment": {
+        "id": 26361932,
+        "resource_state": 2,
+        "name": "Subida Lerruz",
+        "activity_type": "Ride",
+        "distance": 633.8,
+        "average_grade": 3.6,
+        "maximum_grade": 8.1,
+        "elevation_high": 542.2,
+        "elevation_low": 518.2,
+        "start_latlng": [
+          42.796328,
+          -1.483007
+        ],
+        "end_latlng": [
+          42.793053,
+          -1.476965
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": null,
+        "state": "Navarra",
+        "country": "Spain",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3363240639135051624,
+      "resource_state": 2,
+      "name": "Pasa por el aro Genaro!",
+      "activity": {
+        "id": 14634208703,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 86,
+      "moving_time": 86,
+      "start_date": "2025-05-29T13:03:57Z",
+      "start_date_local": "2025-05-29T15:03:57Z",
+      "distance": 923.9,
+      "start_index": 9545,
+      "end_index": 9631,
+      "device_watts": false,
+      "segment": {
+        "id": 32938766,
+        "resource_state": 2,
+        "name": "Pasa por el aro Genaro!",
+        "activity_type": "Ride",
+        "distance": 923.9,
+        "average_grade": -3.9,
+        "maximum_grade": -0.4,
+        "elevation_high": 548.0,
+        "elevation_low": 511.8,
+        "start_latlng": [
+          42.793185,
+          -1.47717
+        ],
+        "end_latlng": [
+          42.787583,
+          -1.46883
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": null,
+        "state": "Navarra",
+        "country": "Spain",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3363240639133468520,
+      "resource_state": 2,
+      "name": "CRI Urroz-Villaveta",
+      "activity": {
+        "id": 14634208703,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 620,
+      "moving_time": 620,
+      "start_date": "2025-05-29T13:08:44Z",
+      "start_date_local": "2025-05-29T15:08:44Z",
+      "distance": 4445.7,
+      "start_index": 9832,
+      "end_index": 10452,
+      "device_watts": false,
+      "segment": {
+        "id": 10449036,
+        "resource_state": 2,
+        "name": "CRI Urroz-Villaveta",
+        "activity_type": "Ride",
+        "distance": 4445.7,
+        "average_grade": 0.3,
+        "maximum_grade": 10.9,
+        "elevation_high": 496.2,
+        "elevation_low": 465.8,
+        "start_latlng": [
+          42.779298,
+          -1.45236
+        ],
+        "end_latlng": [
+          42.771728,
+          -1.400318
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Urroz Villa",
+        "state": "Navarra",
+        "country": "Spain",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3363240639133054824,
+      "resource_state": 2,
+      "name": "NA-8103",
+      "activity": {
+        "id": 14634208703,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 304,
+      "moving_time": 304,
+      "start_date": "2025-05-29T13:10:52Z",
+      "start_date_local": "2025-05-29T15:10:52Z",
+      "distance": 2511.0,
+      "start_index": 9960,
+      "end_index": 10264,
+      "device_watts": false,
+      "segment": {
+        "id": 9789713,
+        "resource_state": 2,
+        "name": "NA-8103",
+        "activity_type": "Ride",
+        "distance": 2511.0,
+        "average_grade": -0.3,
+        "maximum_grade": 0.0,
+        "elevation_high": 457.4,
+        "elevation_low": 450.2,
+        "start_latlng": [
+          42.775034,
+          -1.441256
+        ],
+        "end_latlng": [
+          42.770964,
+          -1.411237
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Urroz Villa",
+        "state": "Navarra",
+        "country": "Spain",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3363240639130622824,
+      "resource_state": 2,
+      "name": "Villaveta por Urrotz",
+      "activity": {
+        "id": 14634208703,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 172,
+      "moving_time": 172,
+      "start_date": "2025-05-29T13:16:45Z",
+      "start_date_local": "2025-05-29T15:16:45Z",
+      "distance": 583.2,
+      "start_index": 10313,
+      "end_index": 10485,
+      "device_watts": false,
+      "segment": {
+        "id": 11601387,
+        "resource_state": 2,
+        "name": "Villaveta por Urrotz",
+        "activity_type": "Ride",
+        "distance": 583.2,
+        "average_grade": 5.5,
+        "maximum_grade": 12.4,
+        "elevation_high": 501.0,
+        "elevation_low": 469.1,
+        "start_latlng": [
+          42.771435,
+          -1.40624
+        ],
+        "end_latlng": [
+          42.771239,
+          -1.399379
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": null,
+        "state": "Navarra",
+        "country": "Spain",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3363240639132984168,
+      "resource_state": 2,
+      "name": "Villaveta-Lumbier",
+      "activity": {
+        "id": 14634208703,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 3126,
+      "moving_time": 2936,
+      "start_date": "2025-05-29T13:19:19Z",
+      "start_date_local": "2025-05-29T15:19:19Z",
+      "distance": 18247.3,
+      "start_index": 10467,
+      "end_index": 13404,
+      "device_watts": false,
+      "segment": {
+        "id": 6235455,
+        "resource_state": 2,
+        "name": "Villaveta-Lumbier",
+        "activity_type": "Ride",
+        "distance": 18247.3,
+        "average_grade": -0.2,
+        "maximum_grade": 13.6,
+        "elevation_high": 495.4,
+        "elevation_low": 432.0,
+        "start_latlng": [
+          42.771538,
+          -1.399839
+        ],
+        "end_latlng": [
+          42.655635,
+          -1.3042
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Billabeta",
+        "state": "Navarre",
+        "country": "Spain",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3363240639132455784,
+      "resource_state": 2,
+      "name": "Villaveta - Repecho Artajo",
+      "activity": {
+        "id": 14634208703,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 1598,
+      "moving_time": 1408,
+      "start_date": "2025-05-29T13:21:56Z",
+      "start_date_local": "2025-05-29T15:21:56Z",
+      "distance": 8640.5,
+      "start_index": 10624,
+      "end_index": 12033,
+      "device_watts": false,
+      "segment": {
+        "id": 26488826,
+        "resource_state": 2,
+        "name": "Villaveta - Repecho Artajo",
+        "activity_type": "Ride",
+        "distance": 8640.5,
+        "average_grade": 0.2,
+        "maximum_grade": 7.9,
+        "elevation_high": 492.0,
+        "elevation_low": 446.9,
+        "start_latlng": [
+          42.765163,
+          -1.391724
+        ],
+        "end_latlng": [
+          42.725993,
+          -1.322417
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": null,
+        "state": "Navarra",
+        "country": "Spain",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3363240639132180328,
+      "resource_state": 2,
+      "name": "Aos-Murillo",
+      "activity": {
+        "id": 14634208703,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 329,
+      "moving_time": 329,
+      "start_date": "2025-05-29T13:28:00Z",
+      "start_date_local": "2025-05-29T15:28:00Z",
+      "distance": 2215.1,
+      "start_index": 10799,
+      "end_index": 11128,
+      "device_watts": false,
+      "segment": {
+        "id": 7624246,
+        "resource_state": 2,
+        "name": "Aos-Murillo",
+        "activity_type": "Ride",
+        "distance": 2215.1,
+        "average_grade": -0.1,
+        "maximum_grade": 10.1,
+        "elevation_high": 397.2,
+        "elevation_low": 379.4,
+        "start_latlng": [
+          42.756258,
+          -1.38748
+        ],
+        "end_latlng": [
+          42.748613,
+          -1.363733
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "A\u00f3s",
+        "state": "Navarre",
+        "country": "Spain",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3363240639132325736,
+      "resource_state": 2,
+      "name": "Repecho Artajo",
+      "activity": {
+        "id": 14634208703,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 240,
+      "moving_time": 240,
+      "start_date": "2025-05-29T13:44:25Z",
+      "start_date_local": "2025-05-29T15:44:25Z",
+      "distance": 674.7,
+      "start_index": 11784,
+      "end_index": 12024,
+      "device_watts": false,
+      "segment": {
+        "id": 8753938,
+        "resource_state": 2,
+        "name": "Repecho Artajo",
+        "activity_type": "Ride",
+        "distance": 674.7,
+        "average_grade": 6.3,
+        "maximum_grade": 14.3,
+        "elevation_high": 328.6,
+        "elevation_low": 286.2,
+        "start_latlng": [
+          42.729229,
+          -1.326804
+        ],
+        "end_latlng": [
+          42.72632,
+          -1.322454
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": null,
+        "state": "Navarra",
+        "country": "Spain",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3363240639131571048,
+      "resource_state": 2,
+      "name": "Artieda-Lumbier",
+      "activity": {
+        "id": 14634208703,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 1185,
+      "moving_time": 1185,
+      "start_date": "2025-05-29T13:51:27Z",
+      "start_date_local": "2025-05-29T15:51:27Z",
+      "distance": 7144.2,
+      "start_index": 12206,
+      "end_index": 13391,
+      "device_watts": false,
+      "segment": {
+        "id": 32278766,
+        "resource_state": 2,
+        "name": "Artieda-Lumbier",
+        "activity_type": "Ride",
+        "distance": 7144.2,
+        "average_grade": -0.2,
+        "maximum_grade": 5.9,
+        "elevation_high": 468.5,
+        "elevation_low": 433.9,
+        "start_latlng": [
+          42.713713,
+          -1.323296
+        ],
+        "end_latlng": [
+          42.656255,
+          -1.303342
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Artieda",
+        "state": "Navarra",
+        "country": "Spain",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3363240639133327208,
+      "resource_state": 2,
+      "name": "Artieda-R\u00edpodas",
+      "activity": {
+        "id": 14634208703,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 428,
+      "moving_time": 428,
+      "start_date": "2025-05-29T13:52:46Z",
+      "start_date_local": "2025-05-29T15:52:46Z",
+      "distance": 2949.2,
+      "start_index": 12285,
+      "end_index": 12713,
+      "device_watts": false,
+      "segment": {
+        "id": 7624267,
+        "resource_state": 2,
+        "name": "Artieda-R\u00edpodas",
+        "activity_type": "Ride",
+        "distance": 2949.2,
+        "average_grade": -0.6,
+        "maximum_grade": 4.7,
+        "elevation_high": 378.8,
+        "elevation_low": 361.4,
+        "start_latlng": [
+          42.708982,
+          -1.321053
+        ],
+        "end_latlng": [
+          42.685965,
+          -1.304496
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Lumbier, Spain",
+        "state": "Navarre",
+        "country": "Spain",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3363240639131880296,
+      "resource_state": 2,
+      "name": "Salida Artieda",
+      "activity": {
+        "id": 14634208703,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 170,
+      "moving_time": 170,
+      "start_date": "2025-05-29T13:53:59Z",
+      "start_date_local": "2025-05-29T15:53:59Z",
+      "distance": 1141.2,
+      "start_index": 12358,
+      "end_index": 12528,
+      "device_watts": false,
+      "segment": {
+        "id": 33411569,
+        "resource_state": 2,
+        "name": "Salida Artieda",
+        "activity_type": "Ride",
+        "distance": 1141.2,
+        "average_grade": -0.5,
+        "maximum_grade": 2.2,
+        "elevation_high": 459.2,
+        "elevation_low": 451.4,
+        "start_latlng": [
+          42.704233,
+          -1.318836
+        ],
+        "end_latlng": [
+          42.694622,
+          -1.313962
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": null,
+        "state": "Navarra",
+        "country": "Spain",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3363240639130080104,
+      "resource_state": 2,
+      "name": "repecho lumbier",
+      "activity": {
+        "id": 14634208703,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 212,
+      "moving_time": 212,
+      "start_date": "2025-05-29T14:01:11Z",
+      "start_date_local": "2025-05-29T16:01:11Z",
+      "distance": 757.7,
+      "start_index": 12790,
+      "end_index": 13002,
+      "device_watts": false,
+      "segment": {
+        "id": 9187574,
+        "resource_state": 2,
+        "name": "repecho lumbier",
+        "activity_type": "Ride",
+        "distance": 757.7,
+        "average_grade": 3.6,
+        "maximum_grade": 7.5,
+        "elevation_high": 231.4,
+        "elevation_low": 204.2,
+        "start_latlng": [
+          42.683388,
+          -1.301818
+        ],
+        "end_latlng": [
+          42.677536,
+          -1.297107
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": null,
+        "state": "Navarra",
+        "country": "Spain",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3363240639130041192,
+      "resource_state": 2,
+      "name": "R\u00edpodas-Lumbier",
+      "activity": {
+        "id": 14634208703,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 306,
+      "moving_time": 306,
+      "start_date": "2025-05-29T14:05:23Z",
+      "start_date_local": "2025-05-29T16:05:23Z",
+      "distance": 2049.9,
+      "start_index": 13042,
+      "end_index": 13348,
+      "device_watts": false,
+      "segment": {
+        "id": 7624286,
+        "resource_state": 2,
+        "name": "R\u00edpodas-Lumbier",
+        "activity_type": "Ride",
+        "distance": 2049.9,
+        "average_grade": -1.1,
+        "maximum_grade": 5.4,
+        "elevation_high": 399.4,
+        "elevation_low": 376.6,
+        "start_latlng": [
+          42.675982,
+          -1.296426
+        ],
+        "end_latlng": [
+          42.658333,
+          -1.301178
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Lumbier, Spain",
+        "state": "Navarre",
+        "country": "Spain",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3363240639132790632,
+      "resource_state": 2,
+      "name": "Bajada del hospital",
+      "activity": {
+        "id": 14634208703,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 31,
+      "moving_time": 31,
+      "start_date": "2025-05-29T14:56:36Z",
+      "start_date_local": "2025-05-29T16:56:36Z",
+      "distance": 307.2,
+      "start_index": 13734,
+      "end_index": 13765,
+      "device_watts": false,
+      "segment": {
+        "id": 14966062,
+        "resource_state": 2,
+        "name": "Bajada del hospital",
+        "activity_type": "Ride",
+        "distance": 307.2,
+        "average_grade": -5.8,
+        "maximum_grade": -1.9,
+        "elevation_high": 446.9,
+        "elevation_low": 429.2,
+        "start_latlng": [
+          42.652697,
+          -1.309085
+        ],
+        "end_latlng": [
+          42.650227,
+          -1.310743
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Lumbier",
+        "state": "Navarra",
+        "country": "Spain",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3363240639130342248,
+      "resource_state": 2,
+      "name": "NA-150 Climb",
+      "activity": {
+        "id": 14634208703,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 176,
+      "moving_time": 176,
+      "start_date": "2025-05-29T14:57:08Z",
+      "start_date_local": "2025-05-29T16:57:08Z",
+      "distance": 921.8,
+      "start_index": 13766,
+      "end_index": 13942,
+      "device_watts": false,
+      "segment": {
+        "id": 6254482,
+        "resource_state": 2,
+        "name": "NA-150 Climb",
+        "activity_type": "Ride",
+        "distance": 921.8,
+        "average_grade": 15.0,
+        "maximum_grade": 43.4,
+        "elevation_high": 422.2,
+        "elevation_low": 283.6,
+        "start_latlng": [
+          42.650289,
+          -1.310831
+        ],
+        "end_latlng": [
+          42.649716,
+          -1.32168
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 1,
+        "city": "Lumbier",
+        "state": "Navarre",
+        "country": "Spain",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3363240639133028200,
+      "resource_state": 2,
+      "name": "Lumbier - Venta de Judas Climb",
+      "activity": {
+        "id": 14634208703,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 737,
+      "moving_time": 737,
+      "start_date": "2025-05-29T14:58:02Z",
+      "start_date_local": "2025-05-29T16:58:02Z",
+      "distance": 2387.7,
+      "start_index": 13820,
+      "end_index": 14557,
+      "device_watts": false,
+      "segment": {
+        "id": 29887984,
+        "resource_state": 2,
+        "name": "Lumbier - Venta de Judas Climb",
+        "activity_type": "Ride",
+        "distance": 2387.7,
+        "average_grade": 3.0,
+        "maximum_grade": 6.4,
+        "elevation_high": 499.6,
+        "elevation_low": 427.6,
+        "start_latlng": [
+          42.649435,
+          -1.315431
+        ],
+        "end_latlng": [
+          42.641898,
+          -1.338567
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Lumbier",
+        "state": "Navarra",
+        "country": "Spain",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3363240639133243240,
+      "resource_state": 2,
+      "name": "Ventas Liedena",
+      "activity": {
+        "id": 14634208703,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 886,
+      "moving_time": 791,
+      "start_date": "2025-05-29T15:11:11Z",
+      "start_date_local": "2025-05-29T17:11:11Z",
+      "distance": 6160.1,
+      "start_index": 14609,
+      "end_index": 15411,
+      "device_watts": false,
+      "segment": {
+        "id": 30901832,
+        "resource_state": 2,
+        "name": "Ventas Liedena",
+        "activity_type": "Ride",
+        "distance": 6160.1,
+        "average_grade": -1.4,
+        "maximum_grade": 8.4,
+        "elevation_high": 505.0,
+        "elevation_low": 410.4,
+        "start_latlng": [
+          42.640918,
+          -1.337804
+        ],
+        "end_latlng": [
+          42.613928,
+          -1.278523
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": null,
+        "state": "Navarra",
+        "country": "Spain",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3384298009528292754,
+      "resource_state": 2,
+      "name": "Baja sube full gass",
+      "activity": {
+        "id": 14634208703,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 223,
+      "moving_time": 128,
+      "start_date": "2025-05-29T15:17:27Z",
+      "start_date_local": "2025-05-29T17:17:27Z",
+      "distance": 936.6,
+      "start_index": 14985,
+      "end_index": 15124,
+      "device_watts": false,
+      "segment": {
+        "id": 39722949,
+        "resource_state": 2,
+        "name": "Baja sube full gass",
+        "activity_type": "Ride",
+        "distance": 936.6,
+        "average_grade": -1.1,
+        "maximum_grade": 2.3,
+        "elevation_high": 492.0,
+        "elevation_low": 474.8,
+        "start_latlng": [
+          42.627696,
+          -1.317697
+        ],
+        "end_latlng": [
+          42.623533,
+          -1.307784
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Lumbier",
+        "state": "Navarre",
+        "country": "Spain",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3363240639132583784,
+      "resource_state": 2,
+      "name": "Salida A-15- Rotonda Latorre",
+      "activity": {
+        "id": 14634208703,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 192,
+      "moving_time": 192,
+      "start_date": "2025-05-29T15:22:40Z",
+      "start_date_local": "2025-05-29T17:22:40Z",
+      "distance": 2046.0,
+      "start_index": 15214,
+      "end_index": 15406,
+      "device_watts": false,
+      "segment": {
+        "id": 29189976,
+        "resource_state": 2,
+        "name": "Salida A-15- Rotonda Latorre",
+        "activity_type": "Ride",
+        "distance": 2046.0,
+        "average_grade": -2.3,
+        "maximum_grade": 5.7,
+        "elevation_high": 515.0,
+        "elevation_low": 460.0,
+        "start_latlng": [
+          42.618777,
+          -1.302082
+        ],
+        "end_latlng": [
+          42.61423,
+          -1.278638
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Li\u00e9dena",
+        "state": "Navarra",
+        "country": "Spain",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3363240639130399592,
+      "resource_state": 2,
+      "name": "N 240 Climb",
+      "activity": {
+        "id": 14634208703,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 749,
+      "moving_time": 749,
+      "start_date": "2025-05-29T15:29:32Z",
+      "start_date_local": "2025-05-29T17:29:32Z",
+      "distance": 2044.26,
+      "start_index": 15626,
+      "end_index": 16375,
+      "device_watts": false,
+      "segment": {
+        "id": 1043356,
+        "resource_state": 2,
+        "name": "N 240 Climb",
+        "activity_type": "Ride",
+        "distance": 2044.26,
+        "average_grade": 7.7,
+        "maximum_grade": 23.9,
+        "elevation_high": 577.5,
+        "elevation_low": 419.6,
+        "start_latlng": [
+          42.6214174,
+          -1.27045265
+        ],
+        "end_latlng": [
+          42.62450542,
+          -1.24722424
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 1,
+        "city": "Li\u00e9dena",
+        "state": "Comunidad Foral de Navarra",
+        "country": "Spain",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3363240639133057896,
+      "resource_state": 2,
+      "name": "Canteras Liedena - Yesa",
+      "activity": {
+        "id": 14634208703,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 1697,
+      "moving_time": 1402,
+      "start_date": "2025-05-29T15:30:43Z",
+      "start_date_local": "2025-05-29T17:30:43Z",
+      "distance": 6138.8,
+      "start_index": 15697,
+      "end_index": 17101,
+      "device_watts": false,
+      "segment": {
+        "id": 34999878,
+        "resource_state": 2,
+        "name": "Canteras Liedena - Yesa",
+        "activity_type": "Ride",
+        "distance": 6138.8,
+        "average_grade": 1.3,
+        "maximum_grade": 9.6,
+        "elevation_high": 549.0,
+        "elevation_low": 428.8,
+        "start_latlng": [
+          42.622646,
+          -1.268351
+        ],
+        "end_latlng": [
+          42.619752,
+          -1.195068
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Li\u00e9dena",
+        "state": "Navarre",
+        "country": "Spain",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3363240639130476392,
+      "resource_state": 2,
+      "name": "N 240 Climb",
+      "activity": {
+        "id": 14634208703,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 450,
+      "moving_time": 450,
+      "start_date": "2025-05-29T15:34:31Z",
+      "start_date_local": "2025-05-29T17:34:31Z",
+      "distance": 1062.27,
+      "start_index": 15925,
+      "end_index": 16375,
+      "device_watts": false,
+      "segment": {
+        "id": 1043355,
+        "resource_state": 2,
+        "name": "N 240 Climb",
+        "activity_type": "Ride",
+        "distance": 1062.27,
+        "average_grade": 8.2,
+        "maximum_grade": 23.4,
+        "elevation_high": 577.9,
+        "elevation_low": 490.2,
+        "start_latlng": [
+          42.62403811,
+          -1.26000885
+        ],
+        "end_latlng": [
+          42.62449212,
+          -1.24722283
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 1,
+        "city": "Li\u00e9dena",
+        "state": "Comunidad Foral de Navarra",
+        "country": "Spain",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3363240639132226408,
+      "resource_state": 2,
+      "name": "Alto de Liedena a Yesa",
+      "activity": {
+        "id": 14634208703,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 171,
+      "moving_time": 171,
+      "start_date": "2025-05-29T15:42:06Z",
+      "start_date_local": "2025-05-29T17:42:06Z",
+      "distance": 2141.8,
+      "start_index": 16380,
+      "end_index": 16551,
+      "device_watts": false,
+      "segment": {
+        "id": 28302123,
+        "resource_state": 2,
+        "name": "Alto de Liedena a Yesa",
+        "activity_type": "Ride",
+        "distance": 2141.8,
+        "average_grade": -4.1,
+        "maximum_grade": -0.1,
+        "elevation_high": 547.7,
+        "elevation_low": 460.4,
+        "start_latlng": [
+          42.624563,
+          -1.246911
+        ],
+        "end_latlng": [
+          42.622774,
+          -1.220991
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Li\u00e9dena",
+        "state": "Navarra",
+        "country": "Spain",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3363240639131579240,
+      "resource_state": 2,
+      "name": "lasaitasuna",
+      "activity": {
+        "id": 14634208703,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 245,
+      "moving_time": 245,
+      "start_date": "2025-05-29T15:59:53Z",
+      "start_date_local": "2025-05-29T17:59:53Z",
+      "distance": 696.8,
+      "start_index": 17154,
+      "end_index": 17399,
+      "device_watts": false,
+      "segment": {
+        "id": 15547483,
+        "resource_state": 2,
+        "name": "lasaitasuna",
+        "activity_type": "Ride",
+        "distance": 696.8,
+        "average_grade": 6.4,
+        "maximum_grade": 8.7,
+        "elevation_high": 541.0,
+        "elevation_low": 496.0,
+        "start_latlng": [
+          42.618888,
+          -1.192049
+        ],
+        "end_latlng": [
+          42.618157,
+          -1.183735
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Yesa",
+        "state": "Navarra",
+        "country": "Spain",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    }
+  ],
+  "splits_metric": [
+    {
+      "distance": 1004.4,
+      "elapsed_time": 165,
+      "elevation_difference": -27.0,
+      "moving_time": 165,
+      "split": 1,
+      "average_speed": 6.09,
+      "average_grade_adjusted_speed": 5.85,
+      "pace_zone": 0
+    },
+    {
+      "distance": 999.5,
+      "elapsed_time": 509,
+      "elevation_difference": 10.0,
+      "moving_time": 217,
+      "split": 2,
+      "average_speed": 4.61,
+      "average_grade_adjusted_speed": 4.73,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1002.0,
+      "elapsed_time": 161,
+      "elevation_difference": -8.4,
+      "moving_time": 161,
+      "split": 3,
+      "average_speed": 6.22,
+      "average_grade_adjusted_speed": 6.13,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1000.2,
+      "elapsed_time": 132,
+      "elevation_difference": -6.4,
+      "moving_time": 132,
+      "split": 4,
+      "average_speed": 7.58,
+      "average_grade_adjusted_speed": 7.52,
+      "pace_zone": 0
+    },
+    {
+      "distance": 997.9,
+      "elapsed_time": 152,
+      "elevation_difference": -4.6,
+      "moving_time": 152,
+      "split": 5,
+      "average_speed": 6.57,
+      "average_grade_adjusted_speed": 6.52,
+      "pace_zone": 0
+    },
+    {
+      "distance": 996.9,
+      "elapsed_time": 154,
+      "elevation_difference": -3.2,
+      "moving_time": 154,
+      "split": 6,
+      "average_speed": 6.47,
+      "average_grade_adjusted_speed": 6.45,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1000.4,
+      "elapsed_time": 206,
+      "elevation_difference": 11.2,
+      "moving_time": 206,
+      "split": 7,
+      "average_speed": 4.86,
+      "average_grade_adjusted_speed": 5.1,
+      "pace_zone": 0
+    },
+    {
+      "distance": 999.2,
+      "elapsed_time": 246,
+      "elevation_difference": 18.8,
+      "moving_time": 246,
+      "split": 8,
+      "average_speed": 4.06,
+      "average_grade_adjusted_speed": 4.36,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1004.6,
+      "elapsed_time": 226,
+      "elevation_difference": 20.4,
+      "moving_time": 226,
+      "split": 9,
+      "average_speed": 4.45,
+      "average_grade_adjusted_speed": 4.77,
+      "pace_zone": 0
+    },
+    {
+      "distance": 998.0,
+      "elapsed_time": 115,
+      "elevation_difference": -36.0,
+      "moving_time": 115,
+      "split": 10,
+      "average_speed": 8.68,
+      "average_grade_adjusted_speed": 8.05,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1002.0,
+      "elapsed_time": 89,
+      "elevation_difference": -27.6,
+      "moving_time": 89,
+      "split": 11,
+      "average_speed": 11.26,
+      "average_grade_adjusted_speed": 10.67,
+      "pace_zone": 0
+    },
+    {
+      "distance": 994.9,
+      "elapsed_time": 154,
+      "elevation_difference": -1.4,
+      "moving_time": 154,
+      "split": 12,
+      "average_speed": 6.46,
+      "average_grade_adjusted_speed": 6.58,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1002.9,
+      "elapsed_time": 399,
+      "elevation_difference": 13.2,
+      "moving_time": 213,
+      "split": 13,
+      "average_speed": 4.71,
+      "average_grade_adjusted_speed": 4.94,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1001.5,
+      "elapsed_time": 170,
+      "elevation_difference": 7.2,
+      "moving_time": 170,
+      "split": 14,
+      "average_speed": 5.89,
+      "average_grade_adjusted_speed": 6.17,
+      "pace_zone": 0
+    },
+    {
+      "distance": 998.5,
+      "elapsed_time": 114,
+      "elevation_difference": -30.6,
+      "moving_time": 114,
+      "split": 15,
+      "average_speed": 8.76,
+      "average_grade_adjusted_speed": 8.3,
+      "pace_zone": 0
+    },
+    {
+      "distance": 998.4,
+      "elapsed_time": 151,
+      "elevation_difference": -1.6,
+      "moving_time": 151,
+      "split": 16,
+      "average_speed": 6.61,
+      "average_grade_adjusted_speed": 6.6,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1000.4,
+      "elapsed_time": 200,
+      "elevation_difference": 14.0,
+      "moving_time": 200,
+      "split": 17,
+      "average_speed": 5.0,
+      "average_grade_adjusted_speed": 5.33,
+      "pace_zone": 0
+    },
+    {
+      "distance": 998.7,
+      "elapsed_time": 232,
+      "elevation_difference": 17.2,
+      "moving_time": 232,
+      "split": 18,
+      "average_speed": 4.3,
+      "average_grade_adjusted_speed": 4.61,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1002.5,
+      "elapsed_time": 308,
+      "elevation_difference": 35.0,
+      "moving_time": 308,
+      "split": 19,
+      "average_speed": 3.25,
+      "average_grade_adjusted_speed": 3.94,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1000.9,
+      "elapsed_time": 126,
+      "elevation_difference": -18.4,
+      "moving_time": 126,
+      "split": 20,
+      "average_speed": 7.94,
+      "average_grade_adjusted_speed": 7.67,
+      "pace_zone": 0
+    },
+    {
+      "distance": 997.4,
+      "elapsed_time": 250,
+      "elevation_difference": 24.4,
+      "moving_time": 250,
+      "split": 21,
+      "average_speed": 3.99,
+      "average_grade_adjusted_speed": 4.35,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1001.5,
+      "elapsed_time": 257,
+      "elevation_difference": 17.4,
+      "moving_time": 257,
+      "split": 22,
+      "average_speed": 3.9,
+      "average_grade_adjusted_speed": 4.19,
+      "pace_zone": 0
+    },
+    {
+      "distance": 999.2,
+      "elapsed_time": 250,
+      "elevation_difference": -20.0,
+      "moving_time": 186,
+      "split": 23,
+      "average_speed": 5.37,
+      "average_grade_adjusted_speed": 5.23,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1001.2,
+      "elapsed_time": 212,
+      "elevation_difference": 11.0,
+      "moving_time": 212,
+      "split": 24,
+      "average_speed": 4.72,
+      "average_grade_adjusted_speed": 4.9,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1003.4,
+      "elapsed_time": 218,
+      "elevation_difference": 15.4,
+      "moving_time": 218,
+      "split": 25,
+      "average_speed": 4.6,
+      "average_grade_adjusted_speed": 4.82,
+      "pace_zone": 0
+    },
+    {
+      "distance": 996.4,
+      "elapsed_time": 133,
+      "elevation_difference": -10.8,
+      "moving_time": 133,
+      "split": 26,
+      "average_speed": 7.49,
+      "average_grade_adjusted_speed": 7.39,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1004.7,
+      "elapsed_time": 99,
+      "elevation_difference": -37.0,
+      "moving_time": 99,
+      "split": 27,
+      "average_speed": 10.15,
+      "average_grade_adjusted_speed": 9.54,
+      "pace_zone": 0
+    },
+    {
+      "distance": 992.8,
+      "elapsed_time": 102,
+      "elevation_difference": -15.4,
+      "moving_time": 102,
+      "split": 28,
+      "average_speed": 9.73,
+      "average_grade_adjusted_speed": 9.46,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1001.5,
+      "elapsed_time": 132,
+      "elevation_difference": -8.4,
+      "moving_time": 132,
+      "split": 29,
+      "average_speed": 7.59,
+      "average_grade_adjusted_speed": 7.54,
+      "pace_zone": 0
+    },
+    {
+      "distance": 998.4,
+      "elapsed_time": 168,
+      "elevation_difference": -1.6,
+      "moving_time": 168,
+      "split": 30,
+      "average_speed": 5.94,
+      "average_grade_adjusted_speed": 6.01,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1004.2,
+      "elapsed_time": 136,
+      "elevation_difference": -15.0,
+      "moving_time": 136,
+      "split": 31,
+      "average_speed": 7.38,
+      "average_grade_adjusted_speed": 7.18,
+      "pace_zone": 0
+    },
+    {
+      "distance": 997.9,
+      "elapsed_time": 146,
+      "elevation_difference": -2.6,
+      "moving_time": 146,
+      "split": 32,
+      "average_speed": 6.83,
+      "average_grade_adjusted_speed": 6.81,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1002.1,
+      "elapsed_time": 218,
+      "elevation_difference": 1.8,
+      "moving_time": 207,
+      "split": 33,
+      "average_speed": 4.84,
+      "average_grade_adjusted_speed": 4.86,
+      "pace_zone": 0
+    },
+    {
+      "distance": 997.5,
+      "elapsed_time": 9930,
+      "elevation_difference": -15.4,
+      "moving_time": 235,
+      "split": 34,
+      "average_speed": 4.24,
+      "average_grade_adjusted_speed": 4.3,
+      "pace_zone": 0
+    },
+    {
+      "distance": 999.4,
+      "elapsed_time": 272,
+      "elevation_difference": 10.4,
+      "moving_time": 272,
+      "split": 35,
+      "average_speed": 3.67,
+      "average_grade_adjusted_speed": 3.85,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1005.7,
+      "elapsed_time": 139,
+      "elevation_difference": -7.0,
+      "moving_time": 139,
+      "split": 36,
+      "average_speed": 7.24,
+      "average_grade_adjusted_speed": 7.15,
+      "pace_zone": 0
+    },
+    {
+      "distance": 998.0,
+      "elapsed_time": 147,
+      "elevation_difference": 5.6,
+      "moving_time": 147,
+      "split": 37,
+      "average_speed": 6.79,
+      "average_grade_adjusted_speed": 6.9,
+      "pace_zone": 0
+    },
+    {
+      "distance": 996.0,
+      "elapsed_time": 131,
+      "elevation_difference": -6.6,
+      "moving_time": 131,
+      "split": 38,
+      "average_speed": 7.6,
+      "average_grade_adjusted_speed": 7.53,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1003.0,
+      "elapsed_time": 170,
+      "elevation_difference": -2.4,
+      "moving_time": 170,
+      "split": 39,
+      "average_speed": 5.9,
+      "average_grade_adjusted_speed": 5.88,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1000.9,
+      "elapsed_time": 189,
+      "elevation_difference": 5.2,
+      "moving_time": 189,
+      "split": 40,
+      "average_speed": 5.3,
+      "average_grade_adjusted_speed": 5.45,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1002.2,
+      "elapsed_time": 170,
+      "elevation_difference": -1.4,
+      "moving_time": 170,
+      "split": 41,
+      "average_speed": 5.9,
+      "average_grade_adjusted_speed": 5.93,
+      "pace_zone": 0
+    },
+    {
+      "distance": 996.6,
+      "elapsed_time": 236,
+      "elevation_difference": 24.4,
+      "moving_time": 236,
+      "split": 42,
+      "average_speed": 4.22,
+      "average_grade_adjusted_speed": 4.58,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1000.2,
+      "elapsed_time": 168,
+      "elevation_difference": 6.6,
+      "moving_time": 168,
+      "split": 43,
+      "average_speed": 5.95,
+      "average_grade_adjusted_speed": 6.08,
+      "pace_zone": 0
+    },
+    {
+      "distance": 997.5,
+      "elapsed_time": 149,
+      "elevation_difference": 2.6,
+      "moving_time": 149,
+      "split": 44,
+      "average_speed": 6.69,
+      "average_grade_adjusted_speed": 6.78,
+      "pace_zone": 0
+    },
+    {
+      "distance": 999.9,
+      "elapsed_time": 227,
+      "elevation_difference": 20.6,
+      "moving_time": 227,
+      "split": 45,
+      "average_speed": 4.4,
+      "average_grade_adjusted_speed": 4.66,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1000.4,
+      "elapsed_time": 532,
+      "elevation_difference": 8.2,
+      "moving_time": 202,
+      "split": 46,
+      "average_speed": 4.95,
+      "average_grade_adjusted_speed": 5.04,
+      "pace_zone": 0
+    },
+    {
+      "distance": 998.8,
+      "elapsed_time": 238,
+      "elevation_difference": 24.4,
+      "moving_time": 238,
+      "split": 47,
+      "average_speed": 4.2,
+      "average_grade_adjusted_speed": 4.51,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1002.4,
+      "elapsed_time": 237,
+      "elevation_difference": 20.2,
+      "moving_time": 237,
+      "split": 48,
+      "average_speed": 4.23,
+      "average_grade_adjusted_speed": 4.57,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1000.5,
+      "elapsed_time": 223,
+      "elevation_difference": 11.2,
+      "moving_time": 223,
+      "split": 49,
+      "average_speed": 4.49,
+      "average_grade_adjusted_speed": 4.66,
+      "pace_zone": 0
+    },
+    {
+      "distance": 998.9,
+      "elapsed_time": 171,
+      "elevation_difference": 5.6,
+      "moving_time": 171,
+      "split": 50,
+      "average_speed": 5.84,
+      "average_grade_adjusted_speed": 5.95,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1001.9,
+      "elapsed_time": 123,
+      "elevation_difference": -15.4,
+      "moving_time": 123,
+      "split": 51,
+      "average_speed": 8.15,
+      "average_grade_adjusted_speed": 7.92,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1002.0,
+      "elapsed_time": 117,
+      "elevation_difference": -18.0,
+      "moving_time": 117,
+      "split": 52,
+      "average_speed": 8.56,
+      "average_grade_adjusted_speed": 8.27,
+      "pace_zone": 0
+    },
+    {
+      "distance": 998.0,
+      "elapsed_time": 223,
+      "elevation_difference": 20.2,
+      "moving_time": 223,
+      "split": 53,
+      "average_speed": 4.48,
+      "average_grade_adjusted_speed": 4.81,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1001.6,
+      "elapsed_time": 94,
+      "elevation_difference": -33.6,
+      "moving_time": 94,
+      "split": 54,
+      "average_speed": 10.66,
+      "average_grade_adjusted_speed": 9.94,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1001.0,
+      "elapsed_time": 115,
+      "elevation_difference": -11.0,
+      "moving_time": 115,
+      "split": 55,
+      "average_speed": 8.7,
+      "average_grade_adjusted_speed": 8.54,
+      "pace_zone": 0
+    },
+    {
+      "distance": 997.9,
+      "elapsed_time": 119,
+      "elevation_difference": -7.0,
+      "moving_time": 119,
+      "split": 56,
+      "average_speed": 8.39,
+      "average_grade_adjusted_speed": 8.29,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1002.9,
+      "elapsed_time": 123,
+      "elevation_difference": -3.6,
+      "moving_time": 123,
+      "split": 57,
+      "average_speed": 8.15,
+      "average_grade_adjusted_speed": 8.12,
+      "pace_zone": 0
+    },
+    {
+      "distance": 996.9,
+      "elapsed_time": 126,
+      "elevation_difference": -2.8,
+      "moving_time": 126,
+      "split": 58,
+      "average_speed": 7.91,
+      "average_grade_adjusted_speed": 7.89,
+      "pace_zone": 0
+    },
+    {
+      "distance": 997.6,
+      "elapsed_time": 118,
+      "elevation_difference": -6.6,
+      "moving_time": 118,
+      "split": 59,
+      "average_speed": 8.45,
+      "average_grade_adjusted_speed": 8.38,
+      "pace_zone": 0
+    },
+    {
+      "distance": 998.4,
+      "elapsed_time": 166,
+      "elevation_difference": 14.6,
+      "moving_time": 166,
+      "split": 60,
+      "average_speed": 6.01,
+      "average_grade_adjusted_speed": 6.37,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1003.8,
+      "elapsed_time": 208,
+      "elevation_difference": -0.6,
+      "moving_time": 208,
+      "split": 61,
+      "average_speed": 4.83,
+      "average_grade_adjusted_speed": 4.94,
+      "pace_zone": 0
+    },
+    {
+      "distance": 998.2,
+      "elapsed_time": 336,
+      "elevation_difference": -14.6,
+      "moving_time": 147,
+      "split": 62,
+      "average_speed": 6.79,
+      "average_grade_adjusted_speed": 6.68,
+      "pace_zone": 0
+    },
+    {
+      "distance": 999.7,
+      "elapsed_time": 120,
+      "elevation_difference": -15.8,
+      "moving_time": 120,
+      "split": 63,
+      "average_speed": 8.33,
+      "average_grade_adjusted_speed": 8.08,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1001.8,
+      "elapsed_time": 161,
+      "elevation_difference": 5.6,
+      "moving_time": 161,
+      "split": 64,
+      "average_speed": 6.22,
+      "average_grade_adjusted_speed": 6.32,
+      "pace_zone": 0
+    },
+    {
+      "distance": 998.7,
+      "elapsed_time": 155,
+      "elevation_difference": -7.8,
+      "moving_time": 155,
+      "split": 65,
+      "average_speed": 6.44,
+      "average_grade_adjusted_speed": 6.42,
+      "pace_zone": 0
+    },
+    {
+      "distance": 999.5,
+      "elapsed_time": 138,
+      "elevation_difference": -3.4,
+      "moving_time": 138,
+      "split": 66,
+      "average_speed": 7.24,
+      "average_grade_adjusted_speed": 7.21,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1004.0,
+      "elapsed_time": 162,
+      "elevation_difference": -1.8,
+      "moving_time": 162,
+      "split": 67,
+      "average_speed": 6.2,
+      "average_grade_adjusted_speed": 6.23,
+      "pace_zone": 0
+    },
+    {
+      "distance": 997.7,
+      "elapsed_time": 147,
+      "elevation_difference": 5.2,
+      "moving_time": 147,
+      "split": 68,
+      "average_speed": 6.79,
+      "average_grade_adjusted_speed": 6.91,
+      "pace_zone": 0
+    },
+    {
+      "distance": 996.7,
+      "elapsed_time": 128,
+      "elevation_difference": -8.4,
+      "moving_time": 128,
+      "split": 69,
+      "average_speed": 7.79,
+      "average_grade_adjusted_speed": 7.67,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1000.8,
+      "elapsed_time": 298,
+      "elevation_difference": 38.8,
+      "moving_time": 298,
+      "split": 70,
+      "average_speed": 3.36,
+      "average_grade_adjusted_speed": 3.87,
+      "pace_zone": 0
+    },
+    {
+      "distance": 999.3,
+      "elapsed_time": 102,
+      "elevation_difference": -31.2,
+      "moving_time": 102,
+      "split": 71,
+      "average_speed": 9.8,
+      "average_grade_adjusted_speed": 9.2,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1001.3,
+      "elapsed_time": 147,
+      "elevation_difference": -10.6,
+      "moving_time": 147,
+      "split": 72,
+      "average_speed": 6.81,
+      "average_grade_adjusted_speed": 6.68,
+      "pace_zone": 0
+    },
+    {
+      "distance": 999.7,
+      "elapsed_time": 139,
+      "elevation_difference": -8.8,
+      "moving_time": 139,
+      "split": 73,
+      "average_speed": 7.19,
+      "average_grade_adjusted_speed": 7.09,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1003.8,
+      "elapsed_time": 159,
+      "elevation_difference": 1.8,
+      "moving_time": 159,
+      "split": 74,
+      "average_speed": 6.31,
+      "average_grade_adjusted_speed": 6.34,
+      "pace_zone": 0
+    },
+    {
+      "distance": 995.5,
+      "elapsed_time": 160,
+      "elevation_difference": -1.4,
+      "moving_time": 160,
+      "split": 75,
+      "average_speed": 6.22,
+      "average_grade_adjusted_speed": 6.22,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1003.0,
+      "elapsed_time": 268,
+      "elevation_difference": 27.8,
+      "moving_time": 268,
+      "split": 76,
+      "average_speed": 3.74,
+      "average_grade_adjusted_speed": 4.08,
+      "pace_zone": 0
+    },
+    {
+      "distance": 996.4,
+      "elapsed_time": 134,
+      "elevation_difference": -18.4,
+      "moving_time": 134,
+      "split": 77,
+      "average_speed": 7.44,
+      "average_grade_adjusted_speed": 7.17,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1002.0,
+      "elapsed_time": 163,
+      "elevation_difference": 0.4,
+      "moving_time": 163,
+      "split": 78,
+      "average_speed": 6.15,
+      "average_grade_adjusted_speed": 6.18,
+      "pace_zone": 0
+    },
+    {
+      "distance": 998.8,
+      "elapsed_time": 2256,
+      "elevation_difference": 15.8,
+      "moving_time": 283,
+      "split": 79,
+      "average_speed": 3.53,
+      "average_grade_adjusted_speed": 3.84,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1000.9,
+      "elapsed_time": 584,
+      "elevation_difference": -35.8,
+      "moving_time": 176,
+      "split": 80,
+      "average_speed": 5.69,
+      "average_grade_adjusted_speed": 5.32,
+      "pace_zone": 0
+    },
+    {
+      "distance": 999.6,
+      "elapsed_time": 229,
+      "elevation_difference": 14.2,
+      "moving_time": 229,
+      "split": 81,
+      "average_speed": 4.37,
+      "average_grade_adjusted_speed": 4.54,
+      "pace_zone": 0
+    },
+    {
+      "distance": 998.8,
+      "elapsed_time": 351,
+      "elevation_difference": 40.0,
+      "moving_time": 351,
+      "split": 82,
+      "average_speed": 2.85,
+      "average_grade_adjusted_speed": 3.24,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1003.4,
+      "elapsed_time": 255,
+      "elevation_difference": 0.4,
+      "moving_time": 255,
+      "split": 83,
+      "average_speed": 3.93,
+      "average_grade_adjusted_speed": 4.01,
+      "pace_zone": 0
+    },
+    {
+      "distance": 997.1,
+      "elapsed_time": 163,
+      "elevation_difference": 5.2,
+      "moving_time": 163,
+      "split": 84,
+      "average_speed": 6.12,
+      "average_grade_adjusted_speed": 6.27,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1001.9,
+      "elapsed_time": 170,
+      "elevation_difference": 1.0,
+      "moving_time": 170,
+      "split": 85,
+      "average_speed": 5.89,
+      "average_grade_adjusted_speed": 5.96,
+      "pace_zone": 0
+    },
+    {
+      "distance": 997.5,
+      "elapsed_time": 115,
+      "elevation_difference": -14.4,
+      "moving_time": 115,
+      "split": 86,
+      "average_speed": 8.67,
+      "average_grade_adjusted_speed": 8.47,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1003.1,
+      "elapsed_time": 244,
+      "elevation_difference": -8.2,
+      "moving_time": 160,
+      "split": 87,
+      "average_speed": 6.27,
+      "average_grade_adjusted_speed": 6.18,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1008.0,
+      "elapsed_time": 85,
+      "elevation_difference": -39.8,
+      "moving_time": 85,
+      "split": 88,
+      "average_speed": 11.86,
+      "average_grade_adjusted_speed": 10.96,
+      "pace_zone": 0
+    },
+    {
+      "distance": 994.7,
+      "elapsed_time": 100,
+      "elevation_difference": -15.2,
+      "moving_time": 100,
+      "split": 89,
+      "average_speed": 9.95,
+      "average_grade_adjusted_speed": 9.67,
+      "pace_zone": 0
+    },
+    {
+      "distance": 996.9,
+      "elapsed_time": 182,
+      "elevation_difference": 6.2,
+      "moving_time": 182,
+      "split": 90,
+      "average_speed": 5.48,
+      "average_grade_adjusted_speed": 5.56,
+      "pace_zone": 0
+    },
+    {
+      "distance": 998.5,
+      "elapsed_time": 289,
+      "elevation_difference": 42.2,
+      "moving_time": 289,
+      "split": 91,
+      "average_speed": 3.46,
+      "average_grade_adjusted_speed": 3.97,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1000.0,
+      "elapsed_time": 438,
+      "elevation_difference": 80.8,
+      "moving_time": 438,
+      "split": 92,
+      "average_speed": 2.28,
+      "average_grade_adjusted_speed": 3.07,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1004.2,
+      "elapsed_time": 120,
+      "elevation_difference": -35.8,
+      "moving_time": 120,
+      "split": 93,
+      "average_speed": 8.37,
+      "average_grade_adjusted_speed": 7.85,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1002.9,
+      "elapsed_time": 73,
+      "elevation_difference": -38.2,
+      "moving_time": 73,
+      "split": 94,
+      "average_speed": 13.74,
+      "average_grade_adjusted_speed": 12.67,
+      "pace_zone": 0
+    },
+    {
+      "distance": 994.3,
+      "elapsed_time": 143,
+      "elevation_difference": 1.8,
+      "moving_time": 143,
+      "split": 95,
+      "average_speed": 6.95,
+      "average_grade_adjusted_speed": 7.06,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1002.3,
+      "elapsed_time": 282,
+      "elevation_difference": 16.4,
+      "moving_time": 242,
+      "split": 96,
+      "average_speed": 4.14,
+      "average_grade_adjusted_speed": 4.38,
+      "pace_zone": 0
+    },
+    {
+      "distance": 997.6,
+      "elapsed_time": 523,
+      "elevation_difference": 14.2,
+      "moving_time": 270,
+      "split": 97,
+      "average_speed": 3.69,
+      "average_grade_adjusted_speed": 3.91,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1000.6,
+      "elapsed_time": 325,
+      "elevation_difference": 24.6,
+      "moving_time": 309,
+      "split": 98,
+      "average_speed": 3.24,
+      "average_grade_adjusted_speed": 3.74,
+      "pace_zone": 0
+    },
+    {
+      "distance": 535.1,
+      "elapsed_time": 193,
+      "elevation_difference": -31.0,
+      "moving_time": 120,
+      "split": 99,
+      "average_speed": 4.46,
+      "average_grade_adjusted_speed": 4.09,
+      "pace_zone": 0
+    }
+  ],
+  "splits_standard": [
+    {
+      "distance": 1613.4,
+      "elapsed_time": 588,
+      "elevation_difference": -23.6,
+      "moving_time": 296,
+      "split": 1,
+      "average_speed": 5.45,
+      "average_grade_adjusted_speed": 5.35,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1611.4,
+      "elapsed_time": 274,
+      "elevation_difference": -2.2,
+      "moving_time": 274,
+      "split": 2,
+      "average_speed": 5.88,
+      "average_grade_adjusted_speed": 5.89,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1606.5,
+      "elapsed_time": 231,
+      "elevation_difference": -10.0,
+      "moving_time": 231,
+      "split": 3,
+      "average_speed": 6.95,
+      "average_grade_adjusted_speed": 6.89,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1610.6,
+      "elapsed_time": 254,
+      "elevation_difference": -10.6,
+      "moving_time": 254,
+      "split": 4,
+      "average_speed": 6.34,
+      "average_grade_adjusted_speed": 6.28,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1607.2,
+      "elapsed_time": 386,
+      "elevation_difference": 37.4,
+      "moving_time": 386,
+      "split": 5,
+      "average_speed": 4.16,
+      "average_grade_adjusted_speed": 4.52,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1608.6,
+      "elapsed_time": 299,
+      "elevation_difference": -5.0,
+      "moving_time": 299,
+      "split": 6,
+      "average_speed": 5.38,
+      "average_grade_adjusted_speed": 5.45,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1609.7,
+      "elapsed_time": 165,
+      "elevation_difference": -32.0,
+      "moving_time": 165,
+      "split": 7,
+      "average_speed": 9.76,
+      "average_grade_adjusted_speed": 9.44,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1609.8,
+      "elapsed_time": 487,
+      "elevation_difference": 2.8,
+      "moving_time": 301,
+      "split": 8,
+      "average_speed": 5.35,
+      "average_grade_adjusted_speed": 5.48,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1608.8,
+      "elapsed_time": 242,
+      "elevation_difference": -18.4,
+      "moving_time": 242,
+      "split": 9,
+      "average_speed": 6.65,
+      "average_grade_adjusted_speed": 6.67,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1613.0,
+      "elapsed_time": 232,
+      "elevation_difference": -4.4,
+      "moving_time": 232,
+      "split": 10,
+      "average_speed": 6.95,
+      "average_grade_adjusted_speed": 6.93,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1605.3,
+      "elapsed_time": 334,
+      "elevation_difference": 24.2,
+      "moving_time": 334,
+      "split": 11,
+      "average_speed": 4.81,
+      "average_grade_adjusted_speed": 5.09,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1617.1,
+      "elapsed_time": 428,
+      "elevation_difference": 31.4,
+      "moving_time": 428,
+      "split": 12,
+      "average_speed": 3.78,
+      "average_grade_adjusted_speed": 4.32,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1601.5,
+      "elapsed_time": 311,
+      "elevation_difference": 12.2,
+      "moving_time": 311,
+      "split": 13,
+      "average_speed": 5.15,
+      "average_grade_adjusted_speed": 5.34,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1610.6,
+      "elapsed_time": 344,
+      "elevation_difference": 4.6,
+      "moving_time": 344,
+      "split": 14,
+      "average_speed": 4.68,
+      "average_grade_adjusted_speed": 4.85,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1611.2,
+      "elapsed_time": 435,
+      "elevation_difference": 10.6,
+      "moving_time": 371,
+      "split": 15,
+      "average_speed": 4.34,
+      "average_grade_adjusted_speed": 4.48,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1605.2,
+      "elapsed_time": 285,
+      "elevation_difference": 7.2,
+      "moving_time": 285,
+      "split": 16,
+      "average_speed": 5.63,
+      "average_grade_adjusted_speed": 5.77,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1614.5,
+      "elapsed_time": 157,
+      "elevation_difference": -56.8,
+      "moving_time": 157,
+      "split": 17,
+      "average_speed": 10.28,
+      "average_grade_adjusted_speed": 9.65,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1604.3,
+      "elapsed_time": 201,
+      "elevation_difference": -9.8,
+      "moving_time": 201,
+      "split": 18,
+      "average_speed": 7.98,
+      "average_grade_adjusted_speed": 7.95,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1611.9,
+      "elapsed_time": 253,
+      "elevation_difference": -13.4,
+      "moving_time": 253,
+      "split": 19,
+      "average_speed": 6.37,
+      "average_grade_adjusted_speed": 6.33,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1609.8,
+      "elapsed_time": 245,
+      "elevation_difference": -4.8,
+      "moving_time": 245,
+      "split": 20,
+      "average_speed": 6.57,
+      "average_grade_adjusted_speed": 6.55,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1610.0,
+      "elapsed_time": 10071,
+      "elevation_difference": -14.4,
+      "moving_time": 365,
+      "split": 21,
+      "average_speed": 4.41,
+      "average_grade_adjusted_speed": 4.45,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1608.4,
+      "elapsed_time": 364,
+      "elevation_difference": 4.4,
+      "moving_time": 364,
+      "split": 22,
+      "average_speed": 4.42,
+      "average_grade_adjusted_speed": 4.52,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1610.7,
+      "elapsed_time": 234,
+      "elevation_difference": 5.2,
+      "moving_time": 234,
+      "split": 23,
+      "average_speed": 6.88,
+      "average_grade_adjusted_speed": 6.95,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1606.1,
+      "elapsed_time": 225,
+      "elevation_difference": -7.6,
+      "moving_time": 225,
+      "split": 24,
+      "average_speed": 7.14,
+      "average_grade_adjusted_speed": 7.09,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1608.9,
+      "elapsed_time": 316,
+      "elevation_difference": 9.2,
+      "moving_time": 316,
+      "split": 25,
+      "average_speed": 5.09,
+      "average_grade_adjusted_speed": 5.23,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1610.3,
+      "elapsed_time": 323,
+      "elevation_difference": 17.4,
+      "moving_time": 323,
+      "split": 26,
+      "average_speed": 4.99,
+      "average_grade_adjusted_speed": 5.21,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1610.2,
+      "elapsed_time": 269,
+      "elevation_difference": 6.8,
+      "moving_time": 269,
+      "split": 27,
+      "average_speed": 5.99,
+      "average_grade_adjusted_speed": 6.07,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1610.9,
+      "elapsed_time": 319,
+      "elevation_difference": 24.0,
+      "moving_time": 319,
+      "split": 28,
+      "average_speed": 5.05,
+      "average_grade_adjusted_speed": 5.28,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1606.1,
+      "elapsed_time": 663,
+      "elevation_difference": 21.2,
+      "moving_time": 333,
+      "split": 29,
+      "average_speed": 4.82,
+      "average_grade_adjusted_speed": 4.99,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1609.3,
+      "elapsed_time": 416,
+      "elevation_difference": 41.4,
+      "moving_time": 416,
+      "split": 30,
+      "average_speed": 3.87,
+      "average_grade_adjusted_speed": 4.23,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1613.1,
+      "elapsed_time": 292,
+      "elevation_difference": 7.6,
+      "moving_time": 292,
+      "split": 31,
+      "average_speed": 5.52,
+      "average_grade_adjusted_speed": 5.6,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1612.1,
+      "elapsed_time": 210,
+      "elevation_difference": -21.4,
+      "moving_time": 210,
+      "split": 32,
+      "average_speed": 7.68,
+      "average_grade_adjusted_speed": 7.5,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1606.9,
+      "elapsed_time": 285,
+      "elevation_difference": 3.4,
+      "moving_time": 285,
+      "split": 33,
+      "average_speed": 5.64,
+      "average_grade_adjusted_speed": 5.78,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1609.5,
+      "elapsed_time": 163,
+      "elevation_difference": -35.2,
+      "moving_time": 163,
+      "split": 34,
+      "average_speed": 9.87,
+      "average_grade_adjusted_speed": 9.46,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1610.9,
+      "elapsed_time": 188,
+      "elevation_difference": -15.2,
+      "moving_time": 188,
+      "split": 35,
+      "average_speed": 8.57,
+      "average_grade_adjusted_speed": 8.42,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1605.8,
+      "elapsed_time": 202,
+      "elevation_difference": -3.8,
+      "moving_time": 202,
+      "split": 36,
+      "average_speed": 7.95,
+      "average_grade_adjusted_speed": 7.93,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1609.7,
+      "elapsed_time": 187,
+      "elevation_difference": -9.8,
+      "moving_time": 187,
+      "split": 37,
+      "average_speed": 8.61,
+      "average_grade_adjusted_speed": 8.54,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1617.5,
+      "elapsed_time": 324,
+      "elevation_difference": 7.2,
+      "moving_time": 324,
+      "split": 38,
+      "average_speed": 4.99,
+      "average_grade_adjusted_speed": 5.21,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1601.1,
+      "elapsed_time": 417,
+      "elevation_difference": -20.4,
+      "moving_time": 228,
+      "split": 39,
+      "average_speed": 7.02,
+      "average_grade_adjusted_speed": 6.9,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1608.3,
+      "elapsed_time": 256,
+      "elevation_difference": 9.8,
+      "moving_time": 256,
+      "split": 40,
+      "average_speed": 6.28,
+      "average_grade_adjusted_speed": 6.39,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1607.4,
+      "elapsed_time": 223,
+      "elevation_difference": -16.2,
+      "moving_time": 223,
+      "split": 41,
+      "average_speed": 7.21,
+      "average_grade_adjusted_speed": 7.11,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1613.3,
+      "elapsed_time": 243,
+      "elevation_difference": -3.4,
+      "moving_time": 243,
+      "split": 42,
+      "average_speed": 6.64,
+      "average_grade_adjusted_speed": 6.65,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1606.3,
+      "elapsed_time": 240,
+      "elevation_difference": 6.4,
+      "moving_time": 240,
+      "split": 43,
+      "average_speed": 6.69,
+      "average_grade_adjusted_speed": 6.83,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1615.3,
+      "elapsed_time": 332,
+      "elevation_difference": -1.4,
+      "moving_time": 332,
+      "split": 44,
+      "average_speed": 4.87,
+      "average_grade_adjusted_speed": 5.04,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1604.8,
+      "elapsed_time": 229,
+      "elevation_difference": -15.4,
+      "moving_time": 229,
+      "split": 45,
+      "average_speed": 7.01,
+      "average_grade_adjusted_speed": 6.89,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1609.4,
+      "elapsed_time": 245,
+      "elevation_difference": -0.6,
+      "moving_time": 245,
+      "split": 46,
+      "average_speed": 6.57,
+      "average_grade_adjusted_speed": 6.57,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1606.5,
+      "elapsed_time": 333,
+      "elevation_difference": 21.6,
+      "moving_time": 333,
+      "split": 47,
+      "average_speed": 4.82,
+      "average_grade_adjusted_speed": 5.06,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1614.5,
+      "elapsed_time": 264,
+      "elevation_difference": -11.0,
+      "moving_time": 264,
+      "split": 48,
+      "average_speed": 6.12,
+      "average_grade_adjusted_speed": 6.06,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1607.4,
+      "elapsed_time": 546,
+      "elevation_difference": 13.0,
+      "moving_time": 350,
+      "split": 49,
+      "average_speed": 4.59,
+      "average_grade_adjusted_speed": 4.84,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1608.8,
+      "elapsed_time": 2511,
+      "elevation_difference": -30.4,
+      "moving_time": 326,
+      "split": 50,
+      "average_speed": 4.93,
+      "average_grade_adjusted_speed": 4.79,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1609.5,
+      "elapsed_time": 513,
+      "elevation_difference": 50.8,
+      "moving_time": 513,
+      "split": 51,
+      "average_speed": 3.14,
+      "average_grade_adjusted_speed": 3.47,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1612.0,
+      "elapsed_time": 325,
+      "elevation_difference": -1.0,
+      "moving_time": 325,
+      "split": 52,
+      "average_speed": 4.96,
+      "average_grade_adjusted_speed": 5.04,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1610.1,
+      "elapsed_time": 265,
+      "elevation_difference": -6.6,
+      "moving_time": 265,
+      "split": 53,
+      "average_speed": 6.08,
+      "average_grade_adjusted_speed": 6.07,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1607.5,
+      "elapsed_time": 316,
+      "elevation_difference": -10.6,
+      "moving_time": 232,
+      "split": 54,
+      "average_speed": 6.93,
+      "average_grade_adjusted_speed": 6.87,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1609.8,
+      "elapsed_time": 136,
+      "elevation_difference": -55.4,
+      "moving_time": 136,
+      "split": 55,
+      "average_speed": 11.84,
+      "average_grade_adjusted_speed": 11.05,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1606.4,
+      "elapsed_time": 274,
+      "elevation_difference": 9.4,
+      "moving_time": 274,
+      "split": 56,
+      "average_speed": 5.86,
+      "average_grade_adjusted_speed": 5.96,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1608.2,
+      "elapsed_time": 583,
+      "elevation_difference": 101.0,
+      "moving_time": 583,
+      "split": 57,
+      "average_speed": 2.76,
+      "average_grade_adjusted_speed": 3.46,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1610.0,
+      "elapsed_time": 263,
+      "elevation_difference": -27.4,
+      "moving_time": 263,
+      "split": 58,
+      "average_speed": 6.12,
+      "average_grade_adjusted_speed": 6.11,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1610.3,
+      "elapsed_time": 178,
+      "elevation_difference": -27.0,
+      "moving_time": 178,
+      "split": 59,
+      "average_speed": 9.05,
+      "average_grade_adjusted_speed": 8.79,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1609.7,
+      "elapsed_time": 731,
+      "elevation_difference": 33.6,
+      "moving_time": 438,
+      "split": 60,
+      "average_speed": 3.68,
+      "average_grade_adjusted_speed": 3.95,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1611.5,
+      "elapsed_time": 492,
+      "elevation_difference": 12.0,
+      "moving_time": 431,
+      "split": 61,
+      "average_speed": 3.74,
+      "average_grade_adjusted_speed": 4.07,
+      "pace_zone": 0
+    },
+    {
+      "distance": 363.8,
+      "elapsed_time": 111,
+      "elevation_difference": -19.4,
+      "moving_time": 83,
+      "split": 62,
+      "average_speed": 4.38,
+      "average_grade_adjusted_speed": 4.07,
+      "pace_zone": 0
+    }
+  ],
+  "laps": [
+    {
+      "id": 52029547348,
+      "resource_state": 2,
+      "name": "Lap 1",
+      "activity": {
+        "id": 14634208703,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 31229,
+      "moving_time": 17615,
+      "start_date": "2025-05-29T07:28:34Z",
+      "start_date_local": "2025-05-29T09:28:34Z",
+      "distance": 98541.4,
+      "average_speed": 5.59,
+      "max_speed": 17.96,
+      "lap_index": 1,
+      "split": 1,
+      "start_index": 0,
+      "end_index": 17614,
+      "total_elevation_gain": 1080.4,
+      "device_watts": false,
+      "average_watts": 129.9
+    }
+  ],
+  "gear": {
+    "id": "b11943195",
+    "primary": false,
+    "name": "Betty",
+    "nickname": "Betty",
+    "resource_state": 2,
+    "retired": false,
+    "distance": 12373192,
+    "converted_distance": 12373.2
+  },
+  "photos": {
+    "primary": {
+      "unique_id": "775385e2-ab68-4ebe-b227-cbf5821c6756",
+      "urls": {
+        "600": "https://d35tn3x5zm6xrc.cloudfront.net/tlIH5ZJfKfsidnzq9Mp0ndIyxhjBysGNAKYduf52M8k/thumbnails/tlIH5ZJfKfsidnzq9Mp0ndIyxhjBysGNAKYduf52M8k_600x600.jpg",
+        "100": "https://d35tn3x5zm6xrc.cloudfront.net/tlIH5ZJfKfsidnzq9Mp0ndIyxhjBysGNAKYduf52M8k/thumbnails/tlIH5ZJfKfsidnzq9Mp0ndIyxhjBysGNAKYduf52M8k_600x600.jpg"
+      },
+      "source": 1,
+      "media_type": 2
+    },
+    "use_primary_photo": false,
+    "count": 3
+  },
+  "stats_visibility": [
+    {
+      "type": "heart_rate",
+      "visibility": "everyone"
+    },
+    {
+      "type": "pace",
+      "visibility": "everyone"
+    },
+    {
+      "type": "power",
+      "visibility": "everyone"
+    },
+    {
+      "type": "speed",
+      "visibility": "everyone"
+    },
+    {
+      "type": "calories",
+      "visibility": "everyone"
+    }
+  ],
+  "hide_from_home": false,
+  "embed_token": "f570c7f6ae830ceaa4553d283e8baf36f3d2d182",
+  "available_zones": [
+    "power"
+  ]
+}

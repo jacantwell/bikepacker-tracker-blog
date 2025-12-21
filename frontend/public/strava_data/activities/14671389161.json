@@ -1,0 +1,689 @@
+{
+  "resource_state": 3,
+  "athlete": {
+    "id": 49023768,
+    "resource_state": 1
+  },
+  "name": "Lunch Ride",
+  "distance": 5322.5,
+  "moving_time": 1937,
+  "elapsed_time": 2499,
+  "total_elevation_gain": 216.0,
+  "type": "Ride",
+  "sport_type": "Ride",
+  "workout_type": null,
+  "device_name": "Wahoo ELEMNT BOLT",
+  "id": 14671389161,
+  "start_date": "2025-06-02T10:55:20Z",
+  "start_date_local": "2025-06-02T12:55:20Z",
+  "timezone": "(GMT+01:00) Europe/Andorra",
+  "utc_offset": 7200.0,
+  "location_city": null,
+  "location_state": null,
+  "location_country": null,
+  "achievement_count": 0,
+  "kudos_count": 2,
+  "comment_count": 0,
+  "athlete_count": 1,
+  "photo_count": 0,
+  "map": {
+    "id": "a14671389161",
+    "polyline": "mnmbGcdjHe@CODK?WM[FICGKc@iBG_@OwBUkA?ODa@Ko@Ba@Ae@Bg@KkB@WCMCEG?OTCn@@j@Jz@RJFLFr@EZME[c@SQm@a@_@Kk@I[GGGCKQSdAe@GSQWSQg@u@a@eAQW]]i@]a@]OQKGQ_@CAMBs@d@S`@Qt@IPC@UI]Aa@R[^Uv@Gx@@PGPCj@E\\Qp@Cv@GZEt@MZGZEDA^G\\Yh@@VALg@|@WX@FIJg@b@UFQTMFE@CAC@KL@PIVOFIJULCJUZYr@_BbBEZYr@s@nAe@nAKj@M`@Ez@Kv@U`Ay@|BS^Sh@c@bBc@bAWTGLYRs@t@q@fAe@n@IHyAxBUN_@HY@e@FaARcA`@aBf@e@Vu@r@sA~Bg@n@o@b@YLQHq@JGNmFnDADfACcCLTBGAKBIFS@_@H_AJwDDu@DgAXQFIHK??A_@L[@WF}JmBQAo@Na@Z[RYAKEg@g@QKUGY?ODMHMJMVKb@AP@n@EPMH[Bi@Py@`@k@LW@[Aw@Yo@OMGKGIAUDWTu@Rg@V_ARYDYG{@g@a@]iAmAeA_AwAeBKEUEg@@a@Le@d@a@b@o@f@_@Rq@Vs@^aC|@}FpA}@B[Cw@OkAa@YEi@Be@Rc@`@MTUf@I^Yv@KRYV[bA_@x@s@f@M@uAn@m@RQHg@\\g@T_@f@Yh@\\ADGD@ACEBAF@?BECAEHCGENBJH@@CAFEICY@PSL?FLFD??@HA?GB?AB",
+    "resource_state": 3,
+    "summary_polyline": "mnmbGcdjHe@CODK?WM[FICGKc@iBG_@OwBUkA?ODa@Ko@Ba@Ae@Bg@KkB@WCMCEG?OTCn@@j@Jz@RJFLFr@EZME[c@SQm@a@_@Kk@I[GGGCKQSdAe@GSQWSQg@u@a@eAQW]]i@]a@]OQKGQ_@CAMBs@d@S`@Qt@IPC@UI]Aa@R[^Uv@Gx@@PGPCj@E\\Qp@Cv@GZEt@MZGZEDA^G\\Yh@@VALg@|@WX@FIJg@b@UFQTMFE@CAC@KL@PIVOFIJULCJUZYr@_BbBEZYr@s@nAe@nAKj@M`@Ez@Kv@U`Ay@|BS^Sh@c@bBc@bAWTGLYRs@t@q@fAe@n@IHyAxBUN_@HY@e@FaARcA`@aBf@e@Vu@r@sA~Bg@n@o@b@YLQHq@JGNmFnDADfACcCLTBGAKBIFS@_@H_AJwDDu@DgAXQFIHK??A_@L[@WF}JmBQAo@Na@Z[RYAKEg@g@QKUGY?ODMHMJMVKb@AP@n@EPMH[Bi@Py@`@k@LW@[Aw@Yo@OMGKGIAUDWTu@Rg@V_ARYDYG{@g@a@]iAmAeA_AwAeBKEUEg@@a@Le@d@a@b@o@f@_@Rq@Vs@^aC|@}FpA}@B[Cw@OkAa@YEi@Be@Rc@`@MTUf@I^Yv@KRYV[bA_@x@s@f@M@uAn@m@RQHg@\\g@T_@f@Yh@\\ADGD@ACEBAF@?BECAEHCGENBJH@@CAFEICY@PSL?FLFD??@HA?GB?AB"
+  },
+  "trainer": false,
+  "commute": false,
+  "manual": false,
+  "private": false,
+  "visibility": "everyone",
+  "flagged": false,
+  "gear_id": "b11943195",
+  "start_latlng": [
+    42.508717,
+    1.531708
+  ],
+  "end_latlng": [
+    42.543609,
+    1.516286
+  ],
+  "average_speed": 2.748,
+  "max_speed": 12.8,
+  "average_temp": 13,
+  "average_watts": 118.7,
+  "device_watts": false,
+  "kilojoules": 229.9,
+  "has_heartrate": false,
+  "heartrate_opt_out": false,
+  "display_hide_heartrate_option": false,
+  "elev_high": 1256.2,
+  "elev_low": 1041.6,
+  "upload_id": 15656068913,
+  "upload_id_str": "15656068913",
+  "external_id": "bd3da718-409d-4314-a399-705effcda5f3.fit",
+  "from_accepted_tag": false,
+  "pr_count": 0,
+  "total_photo_count": 0,
+  "has_kudoed": false,
+  "description": null,
+  "calories": 256.0,
+  "perceived_exertion": null,
+  "prefer_perceived_exertion": null,
+  "segment_efforts": [
+    {
+      "id": 3364584546360446918,
+      "resource_state": 2,
+      "name": "CG-3 Climb",
+      "activity": {
+        "id": 14671389161,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 250,
+      "moving_time": 218,
+      "start_date": "2025-06-02T11:01:48Z",
+      "start_date_local": "2025-06-02T13:01:48Z",
+      "distance": 503.3,
+      "start_index": 298,
+      "end_index": 518,
+      "device_watts": false,
+      "segment": {
+        "id": 15104777,
+        "resource_state": 2,
+        "name": "CG-3 Climb",
+        "activity_type": "Ride",
+        "distance": 503.3,
+        "average_grade": 4.5,
+        "maximum_grade": 14.7,
+        "elevation_high": 1082.0,
+        "elevation_low": 1056.4,
+        "start_latlng": [
+          42.513052,
+          1.536629
+        ],
+        "end_latlng": [
+          42.515119,
+          1.531515
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Andorra la Vella",
+        "state": "Parr\u00f2quia d'Andorra la Vella",
+        "country": "Andorra",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3364584546361456582,
+      "resource_state": 2,
+      "name": "La Massana Climb",
+      "activity": {
+        "id": 14671389161,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 1591,
+      "moving_time": 1261,
+      "start_date": "2025-06-02T11:02:20Z",
+      "start_date_local": "2025-06-02T13:02:20Z",
+      "distance": 3574.4,
+      "start_index": 330,
+      "end_index": 1700,
+      "device_watts": false,
+      "segment": {
+        "id": 10039643,
+        "resource_state": 2,
+        "name": "La Massana Climb",
+        "activity_type": "Ride",
+        "distance": 3574.4,
+        "average_grade": 5.9,
+        "maximum_grade": 42.3,
+        "elevation_high": 1261.7,
+        "elevation_low": 1051.0,
+        "start_latlng": [
+          42.513247,
+          1.5363
+        ],
+        "end_latlng": [
+          42.53713,
+          1.52021
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 2,
+        "city": "Escaldes-Engordany",
+        "state": "Escaldes-Engordany",
+        "country": "Andorra",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3364584546360758214,
+      "resource_state": 2,
+      "name": "Pujadon escaldes",
+      "activity": {
+        "id": 14671389161,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 297,
+      "moving_time": 265,
+      "start_date": "2025-06-02T11:03:09Z",
+      "start_date_local": "2025-06-02T13:03:09Z",
+      "distance": 563.4,
+      "start_index": 379,
+      "end_index": 646,
+      "device_watts": false,
+      "segment": {
+        "id": 8417676,
+        "resource_state": 2,
+        "name": "Pujadon escaldes",
+        "activity_type": "Ride",
+        "distance": 563.4,
+        "average_grade": 7.5,
+        "maximum_grade": 22.1,
+        "elevation_high": 1106.7,
+        "elevation_low": 1064.5,
+        "start_latlng": [
+          42.513663,
+          1.534192
+        ],
+        "end_latlng": [
+          42.516723,
+          1.529139
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Les Escaldes",
+        "state": "Escaldes-Engordany",
+        "country": "Andorra",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3364584546360073158,
+      "resource_state": 2,
+      "name": "Les Valires",
+      "activity": {
+        "id": 14671389161,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 854,
+      "moving_time": 642,
+      "start_date": "2025-06-02T11:08:30Z",
+      "start_date_local": "2025-06-02T13:08:30Z",
+      "distance": 2083.3,
+      "start_index": 670,
+      "end_index": 1418,
+      "device_watts": false,
+      "segment": {
+        "id": 15104891,
+        "resource_state": 2,
+        "name": "Les Valires",
+        "activity_type": "Ride",
+        "distance": 2083.3,
+        "average_grade": 5.0,
+        "maximum_grade": 21.7,
+        "elevation_high": 1205.4,
+        "elevation_low": 1101.0,
+        "start_latlng": [
+          42.516806,
+          1.52802
+        ],
+        "end_latlng": [
+          42.532554,
+          1.519902
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 1,
+        "city": "Andorra la Vella",
+        "state": "Parr\u00f2quia d'Andorra la Vella",
+        "country": "Andorra",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3364584546360013766,
+      "resource_state": 2,
+      "name": "Pujada La Massana a fons",
+      "activity": {
+        "id": 14671389161,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 862,
+      "moving_time": 573,
+      "start_date": "2025-06-02T11:13:37Z",
+      "start_date_local": "2025-06-02T13:13:37Z",
+      "distance": 1462.3,
+      "start_index": 969,
+      "end_index": 1648,
+      "device_watts": false,
+      "segment": {
+        "id": 16475911,
+        "resource_state": 2,
+        "name": "Pujada La Massana a fons",
+        "activity_type": "Ride",
+        "distance": 1462.3,
+        "average_grade": 8.1,
+        "maximum_grade": 34.5,
+        "elevation_high": 1267.0,
+        "elevation_low": 1148.0,
+        "start_latlng": [
+          42.52418,
+          1.520744
+        ],
+        "end_latlng": [
+          42.535875,
+          1.521282
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 1,
+        "city": "Sispony",
+        "state": "La Massana",
+        "country": "Andorra",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3364584546359228358,
+      "resource_state": 2,
+      "name": "Fins a la Rotonda d'Any\u00f3s",
+      "activity": {
+        "id": 14671389161,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 516,
+      "moving_time": 313,
+      "start_date": "2025-06-02T11:14:08Z",
+      "start_date_local": "2025-06-02T13:14:08Z",
+      "distance": 927.0,
+      "start_index": 1000,
+      "end_index": 1418,
+      "device_watts": false,
+      "segment": {
+        "id": 19246883,
+        "resource_state": 2,
+        "name": "Fins a la Rotonda d'Any\u00f3s",
+        "activity_type": "Ride",
+        "distance": 927.0,
+        "average_grade": 8.2,
+        "maximum_grade": 30.0,
+        "elevation_high": 1217.0,
+        "elevation_low": 1141.0,
+        "start_latlng": [
+          42.525035,
+          1.520788
+        ],
+        "end_latlng": [
+          42.53256,
+          1.519843
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Sispony",
+        "state": null,
+        "country": "Andorra",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3364584546362846150,
+      "resource_state": 2,
+      "name": "Dos Valires-Entrada Massana",
+      "activity": {
+        "id": 14671389161,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 503,
+      "moving_time": 417,
+      "start_date": "2025-06-02T11:20:31Z",
+      "start_date_local": "2025-06-02T13:20:31Z",
+      "distance": 898.5,
+      "start_index": 1285,
+      "end_index": 1703,
+      "device_watts": false,
+      "segment": {
+        "id": 32418322,
+        "resource_state": 2,
+        "name": "Dos Valires-Entrada Massana",
+        "activity_type": "Ride",
+        "distance": 898.5,
+        "average_grade": 6.2,
+        "maximum_grade": 25.0,
+        "elevation_high": 1245.0,
+        "elevation_low": 1189.0,
+        "start_latlng": [
+          42.530503,
+          1.52077
+        ],
+        "end_latlng": [
+          42.537189,
+          1.520108
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "La Massana",
+        "state": "La Massana",
+        "country": "Andorra",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3364584546361983942,
+      "resource_state": 2,
+      "name": "Rot. Any - Entrada La Massana",
+      "activity": {
+        "id": 14671389161,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 415,
+      "moving_time": 329,
+      "start_date": "2025-06-02T11:22:58Z",
+      "start_date_local": "2025-06-02T13:22:58Z",
+      "distance": 819.4,
+      "start_index": 1432,
+      "end_index": 1762,
+      "device_watts": false,
+      "segment": {
+        "id": 32853274,
+        "resource_state": 2,
+        "name": "Rot. Any - Entrada La Massana",
+        "activity_type": "Ride",
+        "distance": 819.4,
+        "average_grade": 4.1,
+        "maximum_grade": 11.3,
+        "elevation_high": 1244.7,
+        "elevation_low": 1210.9,
+        "start_latlng": [
+          42.532765,
+          1.519845
+        ],
+        "end_latlng": [
+          42.539238,
+          1.519326
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "La Massana",
+        "state": "La Massana",
+        "country": "Andorra",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    }
+  ],
+  "splits_metric": [
+    {
+      "distance": 1000.0,
+      "elapsed_time": 393,
+      "elevation_difference": 24.4,
+      "moving_time": 303,
+      "split": 1,
+      "average_speed": 3.3,
+      "average_grade_adjusted_speed": 3.61,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1003.1,
+      "elapsed_time": 427,
+      "elevation_difference": 49.6,
+      "moving_time": 397,
+      "split": 2,
+      "average_speed": 2.53,
+      "average_grade_adjusted_speed": 3.04,
+      "pace_zone": 0
+    },
+    {
+      "distance": 999.3,
+      "elapsed_time": 286,
+      "elevation_difference": 27.8,
+      "moving_time": 278,
+      "split": 3,
+      "average_speed": 3.59,
+      "average_grade_adjusted_speed": 3.93,
+      "pace_zone": 0
+    },
+    {
+      "distance": 998.6,
+      "elapsed_time": 758,
+      "elevation_difference": 98.4,
+      "moving_time": 575,
+      "split": 4,
+      "average_speed": 1.74,
+      "average_grade_adjusted_speed": 2.33,
+      "pace_zone": 0
+    },
+    {
+      "distance": 999.2,
+      "elapsed_time": 317,
+      "elevation_difference": 11.8,
+      "moving_time": 317,
+      "split": 5,
+      "average_speed": 3.15,
+      "average_grade_adjusted_speed": 3.33,
+      "pace_zone": 0
+    },
+    {
+      "distance": 323.5,
+      "elapsed_time": 318,
+      "elevation_difference": 1.8,
+      "moving_time": 299,
+      "split": 6,
+      "average_speed": 1.08,
+      "average_grade_adjusted_speed": 1.09,
+      "pace_zone": 0
+    }
+  ],
+  "splits_standard": [
+    {
+      "distance": 1610.0,
+      "elapsed_time": 678,
+      "elevation_difference": 63.6,
+      "moving_time": 558,
+      "split": 1,
+      "average_speed": 2.89,
+      "average_grade_adjusted_speed": 3.34,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1609.3,
+      "elapsed_time": 517,
+      "elevation_difference": 54.8,
+      "moving_time": 509,
+      "split": 2,
+      "average_speed": 3.16,
+      "average_grade_adjusted_speed": 3.57,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1611.8,
+      "elapsed_time": 943,
+      "elevation_difference": 94.4,
+      "moving_time": 760,
+      "split": 3,
+      "average_speed": 2.12,
+      "average_grade_adjusted_speed": 2.56,
+      "pace_zone": 0
+    },
+    {
+      "distance": 492.6,
+      "elapsed_time": 361,
+      "elevation_difference": 1.0,
+      "moving_time": 342,
+      "split": 4,
+      "average_speed": 1.44,
+      "average_grade_adjusted_speed": 1.44,
+      "pace_zone": 0
+    }
+  ],
+  "laps": [
+    {
+      "id": 52168583144,
+      "resource_state": 2,
+      "name": "Lap 1",
+      "activity": {
+        "id": 14671389161,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 2500,
+      "moving_time": 2170,
+      "start_date": "2025-06-02T10:55:20Z",
+      "start_date_local": "2025-06-02T12:55:20Z",
+      "distance": 5327.52,
+      "average_speed": 2.46,
+      "max_speed": 12.8,
+      "lap_index": 1,
+      "split": 1,
+      "start_index": 0,
+      "end_index": 2169,
+      "total_elevation_gain": 217.6,
+      "device_watts": false,
+      "average_watts": 118.7
+    }
+  ],
+  "gear": {
+    "id": "b11943195",
+    "primary": false,
+    "name": "Betty",
+    "nickname": "Betty",
+    "resource_state": 2,
+    "retired": false,
+    "distance": 12373192,
+    "converted_distance": 12373.2
+  },
+  "photos": {
+    "primary": null,
+    "count": 0
+  },
+  "stats_visibility": [
+    {
+      "type": "heart_rate",
+      "visibility": "everyone"
+    },
+    {
+      "type": "pace",
+      "visibility": "everyone"
+    },
+    {
+      "type": "power",
+      "visibility": "everyone"
+    },
+    {
+      "type": "speed",
+      "visibility": "everyone"
+    },
+    {
+      "type": "calories",
+      "visibility": "everyone"
+    }
+  ],
+  "hide_from_home": false,
+  "embed_token": "4dd8385ac23f42dd8a824c07f7718539f8385b70",
+  "available_zones": [
+    "power"
+  ]
+}

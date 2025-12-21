@@ -1,0 +1,263 @@
+{
+  "resource_state": 3,
+  "athlete": {
+    "id": 49023768,
+    "resource_state": 1
+  },
+  "name": "Moving \"campsite\"",
+  "distance": 2471.6,
+  "moving_time": 777,
+  "elapsed_time": 1154,
+  "total_elevation_gain": 79.0,
+  "type": "Ride",
+  "sport_type": "Ride",
+  "workout_type": null,
+  "device_name": "Wahoo ELEMNT BOLT",
+  "id": 14622746327,
+  "start_date": "2025-05-28T16:31:03Z",
+  "start_date_local": "2025-05-28T18:31:03Z",
+  "timezone": "(GMT+01:00) Europe/Madrid",
+  "utc_offset": 7200.0,
+  "location_city": null,
+  "location_state": null,
+  "location_country": null,
+  "achievement_count": 0,
+  "kudos_count": 6,
+  "comment_count": 0,
+  "athlete_count": 1,
+  "photo_count": 0,
+  "map": {
+    "id": "a14622746327",
+    "polyline": "ca`eG|vbK@G?eBC}@Bo@AiCCcA@kAIeI?iCC}A@sEEoCBmAAa@Jq@Xu@jAkCzBuERg@lA_Cf@eANSb@eANUHUf@o@VqAnC}IR{@d@aBHSv@qCZ_AdBkG|@kCXiA@BSh@?DBAD[DK\\k@z@u@vH_GRGZAJF@PBACs@@c@AwADk@?m@CYSe@EOEi@?eABq@Ei@Ii@Ok@Ug@g@q@eAkAc@_AKYIKC??CAGE?E@@@",
+    "resource_state": 3,
+    "summary_polyline": "ca`eG|vbK@G?eBC}@Bo@AiCCcA@kAIeI?iCC}A@sEEoCBmAAa@Jq@Xu@jAkCzBuERg@lA_Cf@eANSb@eANUHUf@o@VqAnC}IR{@d@aBHSv@qCZ_AdBkG|@kCXiA@BSh@?DBAD[DK\\k@z@u@vH_GRGZAJF@PBACs@@c@AwADk@?m@CYSe@EOEi@?eABq@Ei@Ii@Ok@Ug@g@q@eAkAc@_AKYIKC??CAGE?E@@@"
+  },
+  "trainer": false,
+  "commute": false,
+  "manual": false,
+  "private": false,
+  "visibility": "everyone",
+  "flagged": false,
+  "gear_id": "b11943195",
+  "start_latlng": [
+    42.931541,
+    -1.985262
+  ],
+  "end_latlng": [
+    42.925628,
+    -1.960517
+  ],
+  "average_speed": 3.181,
+  "max_speed": 11.34,
+  "average_temp": 25,
+  "average_watts": 109.7,
+  "device_watts": false,
+  "kilojoules": 85.2,
+  "has_heartrate": false,
+  "heartrate_opt_out": false,
+  "display_hide_heartrate_option": false,
+  "elev_high": 510.8,
+  "elev_low": 468.0,
+  "upload_id": 15603721528,
+  "upload_id_str": "15603721528",
+  "external_id": "8e71149f-76ec-4a3d-ac33-4b2b82f34a4a.fit",
+  "from_accepted_tag": false,
+  "pr_count": 0,
+  "total_photo_count": 1,
+  "has_kudoed": false,
+  "description": "Mosquitos kicked me out",
+  "calories": 95.0,
+  "perceived_exertion": null,
+  "prefer_perceived_exertion": false,
+  "segment_efforts": [
+    {
+      "id": 3362858848097714804,
+      "resource_state": 2,
+      "name": "Uhartemur",
+      "activity": {
+        "id": 14622746327,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 444,
+      "moving_time": 444,
+      "start_date": "2025-05-28T16:31:28Z",
+      "start_date_local": "2025-05-28T18:31:28Z",
+      "distance": 1549.0,
+      "start_index": 25,
+      "end_index": 469,
+      "device_watts": false,
+      "segment": {
+        "id": 21125923,
+        "resource_state": 2,
+        "name": "Uhartemur",
+        "activity_type": "Ride",
+        "distance": 1549.0,
+        "average_grade": 2.0,
+        "maximum_grade": 16.7,
+        "elevation_high": 511.4,
+        "elevation_low": 479.0,
+        "start_latlng": [
+          42.931551,
+          -1.984489
+        ],
+        "end_latlng": [
+          42.926902,
+          -1.96744
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Lakuntza",
+        "state": "Navarra",
+        "country": "Spain",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    }
+  ],
+  "splits_metric": [
+    {
+      "distance": 1000.8,
+      "elapsed_time": 288,
+      "elevation_difference": 15.4,
+      "moving_time": 288,
+      "split": 1,
+      "average_speed": 3.47,
+      "average_grade_adjusted_speed": 3.78,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1000.3,
+      "elapsed_time": 261,
+      "elevation_difference": -20.8,
+      "moving_time": 261,
+      "split": 2,
+      "average_speed": 3.83,
+      "average_grade_adjusted_speed": 4.0,
+      "pace_zone": 0
+    },
+    {
+      "distance": 470.5,
+      "elapsed_time": 605,
+      "elevation_difference": 22.4,
+      "moving_time": 594,
+      "split": 3,
+      "average_speed": 0.79,
+      "average_grade_adjusted_speed": 1.0,
+      "pace_zone": 0
+    }
+  ],
+  "splits_standard": [
+    {
+      "distance": 1616.5,
+      "elapsed_time": 469,
+      "elevation_difference": 23.8,
+      "moving_time": 469,
+      "split": 1,
+      "average_speed": 3.45,
+      "average_grade_adjusted_speed": 3.8,
+      "pace_zone": 0
+    },
+    {
+      "distance": 855.1,
+      "elapsed_time": 685,
+      "elevation_difference": -6.8,
+      "moving_time": 674,
+      "split": 2,
+      "average_speed": 1.27,
+      "average_grade_adjusted_speed": 1.4,
+      "pace_zone": 0
+    }
+  ],
+  "laps": [
+    {
+      "id": 51986934190,
+      "resource_state": 2,
+      "name": "Lap 1",
+      "activity": {
+        "id": 14622746327,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 1155,
+      "moving_time": 1144,
+      "start_date": "2025-05-28T16:31:03Z",
+      "start_date_local": "2025-05-28T18:31:03Z",
+      "distance": 2471.58,
+      "average_speed": 2.16,
+      "max_speed": 11.34,
+      "lap_index": 1,
+      "split": 1,
+      "start_index": 0,
+      "end_index": 1143,
+      "total_elevation_gain": 78.8,
+      "device_watts": false,
+      "average_watts": 109.7
+    }
+  ],
+  "gear": {
+    "id": "b11943195",
+    "primary": false,
+    "name": "Betty",
+    "nickname": "Betty",
+    "resource_state": 2,
+    "retired": false,
+    "distance": 12373192,
+    "converted_distance": 12373.2
+  },
+  "photos": {
+    "primary": {
+      "unique_id": "91b6edb2-039e-444b-9b92-380eab1f5e3c",
+      "urls": {
+        "600": "https://dgtzuqphqg23d.cloudfront.net/H87Xmos4htQH3jN0DnXbi5nUOnaREY0kelLMxyfv1jA-576x768.jpg",
+        "100": "https://dgtzuqphqg23d.cloudfront.net/H87Xmos4htQH3jN0DnXbi5nUOnaREY0kelLMxyfv1jA-96x128.jpg"
+      },
+      "source": 1,
+      "media_type": 1
+    },
+    "use_primary_photo": false,
+    "count": 1
+  },
+  "stats_visibility": [
+    {
+      "type": "heart_rate",
+      "visibility": "everyone"
+    },
+    {
+      "type": "pace",
+      "visibility": "everyone"
+    },
+    {
+      "type": "power",
+      "visibility": "everyone"
+    },
+    {
+      "type": "speed",
+      "visibility": "everyone"
+    },
+    {
+      "type": "calories",
+      "visibility": "everyone"
+    }
+  ],
+  "hide_from_home": false,
+  "embed_token": "98b093db4911afc9b27d91e411b565bf66ffb33c",
+  "available_zones": [
+    "power"
+  ]
+}

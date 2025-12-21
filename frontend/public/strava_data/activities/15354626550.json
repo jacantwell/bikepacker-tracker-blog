@@ -1,0 +1,5573 @@
+{
+  "resource_state": 3,
+  "athlete": {
+    "id": 49023768,
+    "resource_state": 1
+  },
+  "name": "Feeling heavy",
+  "distance": 126142.0,
+  "moving_time": 25054,
+  "elapsed_time": 51041,
+  "total_elevation_gain": 979.0,
+  "type": "Ride",
+  "sport_type": "Ride",
+  "workout_type": null,
+  "device_name": "Wahoo ELEMNT BOLT",
+  "id": 15354626550,
+  "start_date": "2025-08-05T02:23:34Z",
+  "start_date_local": "2025-08-05T05:23:34Z",
+  "timezone": "(GMT+03:00) Europe/Istanbul",
+  "utc_offset": 10800.0,
+  "location_city": null,
+  "location_state": null,
+  "location_country": null,
+  "achievement_count": 0,
+  "kudos_count": 17,
+  "comment_count": 0,
+  "athlete_count": 1,
+  "photo_count": 0,
+  "map": {
+    "id": "a15354626550",
+    "polyline": "gafyFskdpDHc@GQAe@Ku@AWI}@Og@Ec@?MJS`@W\\Mp@EVGV@ZGb@?HEVEh@WVIH?f@UPQJEUP_@HEPB|ADnABrBBP@~ABdADj@@tAN`B?PEZHd@Bl@?^E^@h@BBTG\\?NBPGV@FBJVRFpACv@?h@HvAn@rAr@Z\\TZNl@Fx@Jz@|@`DZtA?PCD_@HKFQTM\\ARBRh@rApAvEHHL?BDGJEb@Db@FR?Re@tB?VD\\bAxD?VC?JOZQpBo@hAg@bAi@fAo@zDeCV[N[LKpBcA`@INGxD}BrAk@VEfBHxA_@p@Mt@Gj@?nBLdBP`@L|AZpAh@PBXC^Ip@WhBeAvBgBZ_@NYvAyAX{AAUEOWa@Ys@EQIKGWOY?SCKMEW_@KIOEUUQo@OUQBSJ{@f@URCACEhA}Ab@a@^k@FOOqAC]Bg@AUUsBKsBLg@n@q@b@s@BOCm@Fk@GYk@u@IWCQ?kCCYSaAM]mA}B_@y@_@wCWmAMYe@o@wAmAk@B@a@EMKMyBmBi@_@YKu@Oi@CuADg@AqEQ_E]}AEcBU_@AGCCIEc@@G@EHEnADJID?`@Jd@DvF\\pABtHWhAJb@?|AWd@Of@[\\_@f@aAr@iAhEsG^_@lAgBpBeBd@g@b@_@BQA_@MmBK{@Ew@BO`Ak@lB}@fAWz@QrBq@h@IP@d@FD??EG?CBK^?b@HX\\n@TRbAr@PRjA~EZx@dAtFDNDBD@LGnBeBPMPI|IeBXCpCANFpCrBRX`AjBJHRFVd@TJJK?[OkB@QXmAJeAf@qB?YK]KQ{@a@MOKQy@}CMs@M[Ok@M[Ow@]aAKe@Ug@WwAY]?GPSRg@D_AHS@WNw@^sCp@uDVi@FaBAk@B_@xA{LRu@tDeLBa@GwBDUn@cBlBaE`AsAf@_@XIfASXEd@?VKzAkApEyEHOBSo@}BAmB@YFUXcAN_@b@{@fAmANEjAOvAELIBGLeAEm@?oBKoABwA^gBjBiDBIBWCc@SgAg@{Bi@aBC?QPNM@Ia@uAG[GsASyB?i@HsCEkATm@BUIsBB_@PcALYGMUICG~@yAL[LMf@_@PSVc@Zw@lAiBRC~ARJ?lBeBv@g@tAo@ZK\\G~Cq@XAr@?PGLQh@{@\\u@n@gCzAuE@UEm@GUYq@EUEkDH{@v@_DJm@t@kAnD}Er@u@dAqAnAsAj@i@z@s@TWR[h@iAVa@Ri@PkABaAUwDIc@Q]WS[KoAWQG]]M]Q_BSiCQw@AU`@iIFS^u@\\k@TWl@e@h@m@lGeGNGTER?DCICa@Ja@V[XKBIEKSM?Ik@?c@BM`AoAd@eAFq@DcAAa@k@kI?SRoBJg@P_@b@eBLYf@u@Na@h@}@v@gALK\\O`@e@`FcICAEDiD|FIDcAm@MEEKQKe@UICK@UNE@S]OGKMGg@K?a@NT]NGVc@LOJ]?s@GOI[g@s@O[]c@Oa@Yg@]a@MSQc@_@o@G[?IKQ?CPa@P[`As@JOl@_@b@]LQRQVMVYJE`AiATc@Zc@LWJc@Xs@BO`@_A@KCCC?WZe@lAI`@_@FGMBGn@c@Tb@CDASFIBUFMDc@X]DA@WLq@JWJIDQHEAO@G@Ae@bAQl@?VOj@GP_@n@ELBHMRJOCCn@kBErACH@HEF@KDCICWBFLDBF?CKEGC@ADGCIYC?RU^u@RCJKx@oBr@iAnBcCj@iAh@u@n@k@f@_@ZQPU^Yf@Mf@Ir@e@\\[Ta@Vs@Va@p@wB^s@To@VoAJaATuAXeAz@yB^w@p@{@|BuBFIAIOKUg@QUg@e@MQKCKOUQGSYa@[]GAh@bA@J`@h@DJH?FGB@DJn@j@d@r@FBHCB@LVHBNMl@q@Tg@HOlAcAl@o@`@]T_@d@]nAmAvBcCv@u@j@u@rAuAn@g@f@k@Ze@d@[PSb@m@Xg@hAqA`AaAf@g@n@y@hCkCR_@DQHy@?k@@]h@qDNm@XURW^q@V[z@mARUj@e@\\e@z@u@lBmCh@m@PYbA}Bf@{@f@eAXe@^e@Ra@PU\\]p@g@pAkAv@m@b@k@tAuAr@{@jC_C`B_Ah@SjE_At@Sp@MtBW~BSn@AbCWhAI`@I~@Ib@Kl@S`B{@LOnBeENaANa@PUDu@b@gABWNOJ_@TYp@w@Pa@@KDMlAgAj@y@NKJCVa@ROBG?BbGqMTa@HIFULUNKL[NW@KAM]]u@yAy@sAaAiBMQ?QBKTSp@]FGN^NVPn@|@bBf@fAJb@Rf@CJc@z@AFFHD?JEZa@Zi@X]LWTm@Fc@l@mAILHOH_@^}@j@cBPc@Zg@H]Z}@n@wA^q@hAsCV{@Vk@H]^cAHa@Xs@zAyCJCbAj@tC|Bb@h@`@x@f@lBJd@Hv@~AlHF^Dn@N|@|F`UNt@lAhEFj@LvCF\\D`A@DFDZIF@Gv@Mh@?PLVZ`@VI^WfAqA~@s@pBqBlAyAvIqJ~A{ApAuAXSh@k@jBgBv@}@z@u@dAiAdD_DjBuBdDgD`CiCNSlBcDxA_DlAcDbAuDx@_EHq@Cc@Qc@MMm@UWWOc@OaAMmEEkE@wBPgEL_ANi@VYh@YJOJSD}@A}ABg@TeDNsAbAgCTaAh@aBzB_GP_@tAcEzAcEtA_DjBoFn@{AVe@hBoEd@_A~@iDNMt@_B^gAv@mB~@qB`AgCBEAS@c@DSVQd@c@XMDEvBoDfAqB~C_FhBoErAqDfAeCPm@~A_Db@s@|@_AbA}@vDoChDsCtA_ApBkBb@m@n@eA`BeDTk@Nk@Lk@`@iDLeBDgBHiALgDJ{EE_AQiA[sASu@Sg@gAwBqB_Do@_BUKOSGi@EMECOBICIs@@qARgBVaBX{@P}@TuAFw@|@mE~AwGJUHCLDx@f@N?BGx@}BdB_GHa@\\aAp@aC`@mANq@ZgAXqAPi@VeBRwC?KCSOU_@Qk@yAk@w@MGYAKGAG?]Ck@K_@?Iz@uGXuAb@_BR{A@u@LyAHsBTyDZsCZ_BjB{FDCFAr@?b@GRQXa@Z_AZMx@UXKt@a@HOlB{GN_@TyAhAcEnAkEl@kBl@uA\\e@dAcCnBqDhCwGR{@^iCRmCLmAHuANiAR_Af@eBPc@lAoC^s@T]N_@T]|@iAtA{Ad@[`@_@dDaCfAaAx@i@T[hAs@`AaApAqBt@yA\\gAZiAXwAXkBHeADkBCeDKaAc@o@SyAUgAe@}A_@s@k@w@g@c@u@e@e@Qm@MaCSmAOy@Qc@ScAo@g@c@UYa@o@i@mAMa@SiAUaCScCI_D@uAJaCJyAh@iDl@iCp@eB\\sA`AiCj@uBDI`@c@ZK^o@~AoBJSj@oBZ{@DEr@{BxAcFHe@Je@Vo@Rc@t@_Cp@{Ab@qAtAiG~@mDzAaE~@yBLa@j@iAZgA^u@fCgGfAuCp@uAj@eBH_@ReBBkAIUOQMAKvACHAAHs@@cAI}@Ic@_@u@OQQO}A_A_B{@e@_@QOc@u@EScAqBQu@Ec@@_A@c@Jg@h@{AhAmCjA_Ch@qA`AaEtAkD`AwBtC{FbG{JJMvDcDfBwArAkBv@q@CGC@OPCEFM~A}A\\WfCsApA_@\\Cj@@xIl@h@?f@Cd@Id@MvAg@f@]|AmBfAcB`@eANc@TkAL}@XaET}F@aA^iGVaCHa@Hu@PgARwB\\yC\\yBVqCDiAAs@?_@OuBg@qDScA_@gCGaAE}AFeAP}@XaAlA{CJUbBeC|@eA`AaAtByAdE_D~DsCzAkAdFoDf@WfA{@RCF@|@~@\\Nf@^NBHChBqBpAgBp@m@vAaBZWf@s@@GfGgFLS`@]V_@^eA`@c@Zo@LO\\g@X_@Xy@DFML@DQ@AA@ATUz@eAv@{@\\S|AwAZo@t@kCz@}E\\cADc@@a@H]Pg@v@wCl@}A@M?OPw@XmBRm@Hc@^iAHSDCB?NJ?RELKw@@MHSVYnAoBz@gAjB_DB?AN^w@TSdB{BdA_BTo@PWZ]NYvBiCf@y@v@u@d@i@zAsBTg@V_@b@{@bA}AFOAYCI[UGG]w@AMLc@\\e@j@o@r@_@h@_@n@u@\\k@^eAxBaEZg@pA{Av@sAbAmBb@eAH[Pe@|@yAHS@YEa@iAsCMc@]w@Q}@QoAUu@c@y@CM?O@IZw@j@cA~@iB@UEk@G{@Kq@Es@B]LOfBg@ZS^QDMAEKCcA\\qA`@Q?ICMMMk@MyBQmAM][c@MMkDiCEGEQ@S^iBf@aB|@mCfCeHvOod@p@cBn@kB~@}Bn@wATm@`@aBjAgDtAqE\\}@Tg@zBgHtBgGh@sAl@mB`DiI~@oCZcAZw@t@}BlAgDz@oCLe@hAeDVq@^s@Ts@d@eAp@mATYPQh@{@rAaCjA{BxLoPnDyEz@oAjBaCdDuEnAsAb@W`Bc@l@CdA@pAIz@[TOZYLURk@ViANiCDkCPsALe@p@eA`B}BvCsE|G{I|B_CnB_DpC_E~EqGhI}KbEoFbBgC~CwDxC_ExBmCvF_IzAoB~@wA|@aAdDuE~EuG`DuE|AqCj@mAbB_Et@sBt@gCr@kD\\gCz@cE\\{BL_@TcA|DiUVkAlAuH`C{Lf@qBhBiLfAoFdAmERqAj@kEoA|HQbAEFACFUzAoJXwAX}Bx@qELg@ZuBXaBx@_ETyAb@iBtAqIdAuHZeBt@kFz@cFPyAXcDFcCCuCB[F_@@c@IWKoAM}@UmAeA_Ek@yASa@k@aAy@eAg@k@_@YoEqCaE}C}@w@g@Yo@i@}@m@c@_@OEm@e@WWW]u@w@s@eAMS?GHILD@ZCBCA_AoAi@}@mByDcBoE]eACK@Mk@iBwAsFy@gDMq@{@uCy@_D[{@}B_KOk@Wu@c@{BY{@e@wB_@uAm@_EGq@Os@g@mEYwDYgCc@mFOoC_@_Fa@cIUeCc@iGIeB]oFY{GkAsQE}@?sBCo@MoAQy@Gy@[eFQyDIWKiBA_@UmD?_@G}AKcAGiA?u@A}@@UOwBGyAAw@GcA@iDHkBVsBBu@p@sDDo@?m@Mw@Mg@]o@e@c@w@Uk@Wc@KW?i@UCG@EDF@VEVEBE_@U}@E[?CC@AIBC@@@AKQIUAIDU@k@aB_MYcBk@iIO{@[gAYyA[qCAq@E}@DeADc@Py@Z_Ab@y@r@y@lDqCd@e@HOHQD]AUKs@a@aBEIMMMIWEsD?q@Gm@I]OWUUe@AQL_BHm@VmEX}Cp@{JHmC?kBF}E^wO?iBEyA@s@Ci@Bq@F[Xs@jBwDXc@VYLGd@OFGDU?WI_@Qc@SU{AqAKOEUCWFmAF]h@wBLiABu@C_ABmAKuBc@eDKsAO{EA}BIaBYoCs@_FIuABm@ZeCl@_DJqA\\aHFg@Tw@zEiJjBgCrB{C^a@DQ@SCSOq@BMtAu@PBX[\\q@j@uAfDwIZm@|@wAnDiFX]ZWrAq@LIVW|@sAb@w@NOzAmA|AaAnBeAzEkBVGZALDFHF?FEFSZc@x@_@D?F@JPfA~CJb@N^LLZFR?r@Eh@M^?nCM\\AZ@t@MPGhAw@v@s@NUF[Dq@AkCC_AGuJ?mA@QCcA@a@GMWI}@LcAXS?]I_@YQ]E[Fg@tCqFP[FGZ{@r@kA~@{ArBmClBmBnCgCrAsAdAaAxFwFtA{AzGsGpCsC`CyBl@s@pAqAr@}@\\k@Z]Pg@F}@FIRMHSb@uCVuCPqCVgBXuAZeAt@qBhAuBd@s@d@i@jAmAxCiCtCqC|@qA`AqB\\uAXuANoAHcCAy@IeBi@cFI_B?wAJcAJc@Rw@Re@zB}Db@aARo@^gBhBsKPu@X{@\\o@d@k@b@c@hAeAdAq@l@e@d@m@NWj@uAfCaKzCqNrA}F`@cCr@yEd@_EPaCTyGBoC[cMK{ASmBiAgH_@sBYmAe@{A_AsB}@{AyBwCiAgBcBoDu@iBYy@u@uCWw@uDgNaBsF[sAUg@q@eCiBcFuAoDoD{IqH{RIc@M_@qDeJmA_EYiAM}@UcAiAmEOu@cAmDsAeEIo@Ak@DM`@_@B_@E]s@gAm@y@]q@a@i@Se@Ss@_@e@MUg@aBUcAo@mBWmAOwAMqBOuAOaAEi@YgAGo@BMHENBLHD?@I?SG]g@eBWWC_@QUX_@L_@BSBsAAeAEiABQHSQa@Em@I]e@y@W_A]y@Sc@Km@kA{CQmAI[GmALcCj@qFF_@ZgAP}@XaBTkBH]Fy@DaBRwBr@kEt@yCv@mBl@aBT]rHmJlBoBn@w@vCsCtDiET]rAcCnA}CJc@`@mAr@yC\\yCp@gLD}BBmCIkBKaAAaAMkAY_I@MDINCHIToB@]GB?l@MlAKNO?EEGWKUYiBm@iF[oBKYKm@SqA]oD[yBa@eEEgA[mEMeECoBEc@?w@OyDGcCBiAGyACkC@c@AwBDoDAcB@cBEkDScIWkCImA?]NsA?y@Ee@EeACMUWIQGk@B]^eCBs@BAIn@EHGB_@?WWEO@c@Cm@MiJE}ICyMHaJd@c[D{IEgIYqNQwUDsFNcE|@aND{@N}AJwBPeCF}AAgAn@m]Bw@LcCF{EXoLZ{G?k@FmBAkAcAn@SnD?l@AHC?CC?MLyCBcBZqJDqFD{AFmI?oCEcC@yHAqA@_DDmBLaCXuCJgBJm@LgA|@kJLmB@g@r@_HXyDb@cDJiB^sBFw@`@wHHeE`@wILeD^{GHmCV_DNkE@y@JyBBsAFUFEHCNBd@PADFHn@j@j@d@VHD?JG@SJSZiAL}APaFD[JgCFk@BiBH_AD_@B}ACMIGh@eC\\gC`@qCBCBN@gADi@p@kFNq@Rc@f@q@f@g@b@_@RITCz@A^MHGJSTaAB[?e@MoADs@?_AKoL?g@JoC?{A@U?oGH}FJsAd@eDTcAjAyDJe@|@{C^eAHg@Te@XaAnBkEv@sAbAwBd@s@l@uAhBiDj@yAFU?WCIk@u@gFuEs@{@e@i@_B}A]YOSwA}ASMi@s@GKAQ\\cCb@oBl@sBz@cCF_@Z{@d@cAdAoCXg@|@s@^a@Vg@Ps@L_ABOCYLgAVeA\\}@hAuBfA_Bp@}AnAkC\\m@xCqD\\s@d@_Bz@qDX{@Lg@n@}BNa@~@_D\\cAz@cDh@cBf@gBR_An@uBj@}BpBwGT}@v@mCJi@Z}@Nm@j@kBH_@n@mBd@oBh@_B?KMM_@OWUaA]ECBc@AGOEO@IM?Qn@yCf@sAfBmHhAsD\\y@XqA|AeGd@}B^sBr@}Ff@eGf@yJD_@F[GEAIXqHlAqTZmHnAwU^cIL{AJaDN}GFeIJ}CBiFNeJTmS?gBHoE@_EHgEAwCFyBDwCHmQFeAAy@Do@Ay@DkHIwBMiBa@aC[sAs@mD_AeF_@gBM{@S}@Eg@_@}AUy@u@cEM_@}@oE_@gB_EgT[qAq@_EiAsFO}@oBiK_AcGg@yB[wBe@{EQyEEgBBaT?oBGkE@eDFKV@JGb@iBh@mHF_CA{GEeAIs@GcACyF?kJI{ECaAQgDK}@L}DDWVu@z@yAVk@Hg@B[Cy@KcAU}@KSQQ_CkBIO?IDQRIfCWhFc@f@Ij@KbBw@NCH@FFLb@@@g@_B?EJK@YBORY?KGYAOy@oA]o@kAoC]m@a@k@]oAKsAEgB@kAVcEZ}DBuBFaAAaABcADi@BmAJqBF}FAiAQqB]gAi@}CGaACuAVoFNkADg@Nq@|@qBj@yAViA^qDLyBZeBJqABw@C[Qo@U[WSa@QuA@m@KQEYOm@i@]i@Ys@UqACs@@s@Hs@`@aBHe@NaCEoAGe@]uACaA?i@P_CHkG\\eCr@qCNqANwBC_A?g@ImAHKp@Q`@QqCwNg@wDCEGC[FYPS@GACES{AK]O?IEGo@GUE[CeB_@}GCgB@_CLiDFs@XiEF_CBoBLiCFKL@FFLXFBVCRDV@B?DLEABMZgALo@AMCCw@_@EKDe@G]NaCJ{@RgCJmC\\sE@_AL_A@{EHyCV_CJk@DIh@UfAo@VU\\g@n@oAFe@L}A@mARkBVmBVmCi@g@M?KJW^_@Zo@fAMNWDiCAM@KDCDCZAhDCLc@@eBGSGKKGQASGkLU}KSmG_@gOOyIG{@@_@EiALeCGoAIo@@KBMRSfAa@RCLFRTDRBZ?XGVCFMFu@DuCDQEEGGSQyIe@sLBy@Ay@GmAq@ya@CgGBeCd@yTHyA?mBNqFAg@BuAPoEl@qLxByZj@iJz@cMTcBVqDp@_Ih@_Hv@yIHuAp@yHP}AxA_SFcBTaCbAwMtA{QNiCj@gG`@oF`@qEPoCpAcPDkATkDd@oFv@oKf@iFVeELw@f@gIx@}Kb@cFzAaSJeA|@kM\\aDJcBJiAp@aJBq@FeAfAmNXkFH{@HmCRq@PgBR{CFe@RaC~A{SPoALcC|AuRZkFf@eGHsBRaCRyAj@aHDiANgALkCb@eEHoAPeBJ}BHs@J]NUPMr@c@RSvAoBjBsC`AgBh@q@dD}E~B}DnAsA\\[jAsAt@i@n@]pAi@tC}@hAYpAQtCMdCWfBe@|Ci@bB[XIxDa@vAc@pCcAd@ObL_Cz@Wz@[pAq@lBqAJYhAuAr@_Af@y@t@}An@cBd@kBb@sBdBqMt@uD`@{Dn@aFlBmMp@kFl@_ErCoSh@aD\\yCj@cEN{@j@kE\\iBXqCXeBhC_RDy@VoAb@{CbAuEF[PoBZiGD}BFqOD}BDu@T{BfAcI`@iDtAaN~AeQh@wGf@_IVaFTgGTcEJ_DFs@VuBn@cDTy@t@sBl@cAbKaNhGgHxDaEX_@`@q@l@oA^iALk@XwA\\sCTiCFgBb@oETgBFS?QVoBF{BZqGB_BRoYb@qc@@{CDuCXiDLa@d@gA@[C[IKQIm@EOKKQaA}EQsAEwA@gCCg@Bg@?aDWwU@qB?wDEeAcAuIQeBKaBW}O@y@AGOGyACs@@MBGJM~A?DPyABIFGTCbBDTDJJPOHCb@Bh@?TGp@_@NQRMLQDD",
+    "resource_state": 3,
+    "summary_polyline": "gafyFskdpDa@uItKuC{@l@r@h\\jP`Ej@lOzCnI^xNr_@}S`Y`AvLcJkAgIyBqC_CbAtC{Ds@uKhBwF{GwXwJqIaZwCf`@OtSqWYcHpMoExDpFxDbPpToFpIxH~@yLcJgVtGee@hJq\\pQiMNcLpHwD?kKrCsHsDoST_RvG}JbUoGrEoMq@mIlAiGvSmXIiJsEyCWaS`OyNcDGrByFSuPxOkX}DfGgH}CvAkDcGoLbJ{IlCsG_A~Bv@_CnIqM|IiGfHyUvEsFcFgGbGzF~f@oi@~AuKxU{\\rO}Nhe@uJxFuOnS_]yE_KhBK|CpHe@tAtAsAhSsg@jHhG|R~_Alx@ey@vEwItEkQiCiF?yUdD_SbCkHba@cfA|LkQzKiWjTmQzEqJ`Bq\\{KuYrGw\\pBJjKm_@NwDmEgItFye@jB{F~IcFzIq[jKiUjG{[`WqVzEuLd@cM_CqJmTmKmBiFq@{NlHi]nEmFhc@wpAa@{BGyE{IyHqAkJxQ}c@fTkXvIiF`QNdHwGlI_y@uBqX`CaJ|c@a_@xDlBfc@mg@~Lcg@`\\ad@|CqF{@kDvVg`@qE{QhCoFYaGvDkB_Ep@iA_H_FiF`cAowCni@ey@hOaF`DaR`hBgdCbGgR`\\khBiBfK~Mew@~Fib@g@mRkFcMoWkRmJ}NkWaaAaDsXgNy{B_@aS|AgP_BsDoEa@yH{m@p@sIbIaKaAmDgK_CzBuZl@ci@`G{J}CiFfAiOoDqf@tCgXzMoTnSu`@`MwKbOiGfDlGtPyD?uYsEDo@{BrLgSdo@oo@pGe]pSaWpA_Kg@cTzEmKtDmRfKyLdOqw@AmZcDsTaOeYcNef@y\\u}@oHcYXgE}JuUoCyVt@}ImGgUtHak@d_@cg@pDiLnAaQu@g[x@sDu@lCaG_c@kCeaBuAPUgiCtGctBeA[]bFbAgeA`Ik{@~Dy_AzExAxGqt@hIkIx@gv@dGuS|M{XuS_URaDpOgd@hNsUr]anAuDqDxOqq@`JwfB~BehC_`@esByAuSAcc@`CiPiAcq@lCuMe@{DgDkDtRyBKkFmGmOzA{i@gByPxGge@cIwEqAcFr@u`@bBwS|Ao@yDoT{CuB{@mUhAaX`Cl@f@gCeAaClC}g@hFiGzAyPyDvB{DJMxEqDk@sByjA`DEeGj@oBi`ArAoy@biAydOz\\ad@x`A{ShIsHrDgJlc@e{CfA}d@vNafBhDuKb[}_@rCqLzCma@bAsjAnAoH}DgKYsm@}B{d@mDMUjB\\eBdKoA"
+  },
+  "trainer": false,
+  "commute": false,
+  "manual": false,
+  "private": false,
+  "visibility": "everyone",
+  "flagged": false,
+  "gear_id": "b16337781",
+  "start_latlng": [
+    40.996208,
+    29.027308
+  ],
+  "end_latlng": [
+    40.716717,
+    30.148691
+  ],
+  "average_speed": 5.035,
+  "max_speed": 15.26,
+  "average_temp": 28,
+  "average_watts": 104.6,
+  "device_watts": false,
+  "kilojoules": 2620.0,
+  "has_heartrate": false,
+  "heartrate_opt_out": false,
+  "display_hide_heartrate_option": false,
+  "elev_high": 172.0,
+  "elev_low": -8.8,
+  "upload_id": 16397661003,
+  "upload_id_str": "16397661003",
+  "external_id": "9c804b0e-8810-49c1-a0e6-fb0a6f7caa25.fit",
+  "from_accepted_tag": false,
+  "pr_count": 0,
+  "total_photo_count": 3,
+  "has_kudoed": false,
+  "description": "Slightly better than entering Istanbul ",
+  "calories": 2921.0,
+  "perceived_exertion": null,
+  "prefer_perceived_exertion": null,
+  "segment_efforts": [
+    {
+      "id": 3387853095192642936,
+      "resource_state": 2,
+      "name": "Kadikoi - Bostanci %100 CyclingRoad",
+      "activity": {
+        "id": 15354626550,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 5982,
+      "moving_time": 2603,
+      "start_date": "2025-08-05T02:53:53Z",
+      "start_date_local": "2025-08-05T05:53:53Z",
+      "distance": 12325.0,
+      "start_index": 563,
+      "end_index": 3181,
+      "device_watts": false,
+      "segment": {
+        "id": 12208861,
+        "resource_state": 2,
+        "name": "Kadikoi - Bostanci %100 CyclingRoad",
+        "activity_type": "Ride",
+        "distance": 12325.0,
+        "average_grade": -0.0,
+        "maximum_grade": 46.7,
+        "elevation_high": 21.6,
+        "elevation_low": -1.1,
+        "start_latlng": [
+          40.990759,
+          29.017374
+        ],
+        "end_latlng": [
+          40.951954,
+          29.089675
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": null,
+        "state": "\u0130stanbul",
+        "country": "Turkey",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3387853095192390008,
+      "resource_state": 2,
+      "name": "Kadik\u00f6y Sahil (Bisiklet Yolu)",
+      "activity": {
+        "id": 15354626550,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 268,
+      "moving_time": 268,
+      "start_date": "2025-08-05T02:55:41Z",
+      "start_date_local": "2025-08-05T05:55:41Z",
+      "distance": 1241.9,
+      "start_index": 581,
+      "end_index": 849,
+      "device_watts": false,
+      "segment": {
+        "id": 7315075,
+        "resource_state": 2,
+        "name": "Kadik\u00f6y Sahil (Bisiklet Yolu)",
+        "activity_type": "Ride",
+        "distance": 1241.9,
+        "average_grade": 0.2,
+        "maximum_grade": 4.7,
+        "elevation_high": 12.8,
+        "elevation_low": 3.3,
+        "start_latlng": [
+          40.990445,
+          29.01711
+        ],
+        "end_latlng": [
+          40.980045,
+          29.020607
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Istanbul",
+        "state": "Istanbul Province",
+        "country": "Turkey",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3387853095193099640,
+      "resource_state": 2,
+      "name": "Tarihi Moda \u0130skelesi Yoku\u015fu",
+      "activity": {
+        "id": 15354626550,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 75,
+      "moving_time": 39,
+      "start_date": "2025-08-05T03:02:39Z",
+      "start_date_local": "2025-08-05T06:02:39Z",
+      "distance": 90.855,
+      "start_index": 999,
+      "end_index": 1039,
+      "device_watts": false,
+      "segment": {
+        "id": 2473734,
+        "resource_state": 2,
+        "name": "Tarihi Moda \u0130skelesi Yoku\u015fu",
+        "activity_type": "Ride",
+        "distance": 90.855,
+        "average_grade": 13.0,
+        "maximum_grade": 14.1,
+        "elevation_high": 20.4,
+        "elevation_low": 8.6,
+        "start_latlng": [
+          40.97987653,
+          29.02465351
+        ],
+        "end_latlng": [
+          40.98049231,
+          29.02395075
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Kad\u0131k\u00f6y",
+        "state": null,
+        "country": "Turkey",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3387853095193610616,
+      "resource_state": 2,
+      "name": "Kurba\u011fal\u0131dere-Kalam\u0131\u015f",
+      "activity": {
+        "id": 15354626550,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 218,
+      "moving_time": 218,
+      "start_date": "2025-08-05T03:24:36Z",
+      "start_date_local": "2025-08-05T06:24:36Z",
+      "distance": 1141.4,
+      "start_index": 1432,
+      "end_index": 1650,
+      "device_watts": false,
+      "segment": {
+        "id": 6873789,
+        "resource_state": 2,
+        "name": "Kurba\u011fal\u0131dere-Kalam\u0131\u015f",
+        "activity_type": "Ride",
+        "distance": 1141.4,
+        "average_grade": -0.3,
+        "maximum_grade": 19.8,
+        "elevation_high": 9.4,
+        "elevation_low": -0.7,
+        "start_latlng": [
+          40.986682,
+          29.034699
+        ],
+        "end_latlng": [
+          40.978582,
+          29.03975
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Istanbul",
+        "state": "Istanbul Province",
+        "country": "Turkey",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3387853095190011256,
+      "resource_state": 2,
+      "name": "Fenerbah\u00e7e Marina Southbound(Pav\u00e9)",
+      "activity": {
+        "id": 15354626550,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 146,
+      "moving_time": 146,
+      "start_date": "2025-08-05T03:30:03Z",
+      "start_date_local": "2025-08-05T06:30:03Z",
+      "distance": 748.4,
+      "start_index": 1759,
+      "end_index": 1905,
+      "device_watts": false,
+      "segment": {
+        "id": 6616173,
+        "resource_state": 2,
+        "name": "Fenerbah\u00e7e Marina Southbound(Pav\u00e9)",
+        "activity_type": "Ride",
+        "distance": 748.4,
+        "average_grade": 0.5,
+        "maximum_grade": 26.4,
+        "elevation_high": 14.9,
+        "elevation_low": 2.2,
+        "start_latlng": [
+          40.975133,
+          29.039739
+        ],
+        "end_latlng": [
+          40.970016,
+          29.037792
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Istanbul",
+        "state": "Istanbul Province",
+        "country": "Turkey",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3387853095190001016,
+      "resource_state": 2,
+      "name": "Orduevi climb full",
+      "activity": {
+        "id": 15354626550,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 175,
+      "moving_time": 129,
+      "start_date": "2025-08-05T03:34:04Z",
+      "start_date_local": "2025-08-05T06:34:04Z",
+      "distance": 550.2,
+      "start_index": 2000,
+      "end_index": 2130,
+      "device_watts": false,
+      "segment": {
+        "id": 12936570,
+        "resource_state": 2,
+        "name": "Orduevi climb full",
+        "activity_type": "Ride",
+        "distance": 550.2,
+        "average_grade": -0.3,
+        "maximum_grade": 8.7,
+        "elevation_high": 16.8,
+        "elevation_low": 3.4,
+        "start_latlng": [
+          40.969526,
+          29.039563
+        ],
+        "end_latlng": [
+          40.969947,
+          29.045519
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": null,
+        "state": "\u0130stanbul",
+        "country": "Turkey",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3387853095193036152,
+      "resource_state": 2,
+      "name": "Dalyan Club Climb",
+      "activity": {
+        "id": 15354626550,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 80,
+      "moving_time": 80,
+      "start_date": "2025-08-05T03:34:06Z",
+      "start_date_local": "2025-08-05T06:34:06Z",
+      "distance": 271.7,
+      "start_index": 2002,
+      "end_index": 2082,
+      "device_watts": false,
+      "segment": {
+        "id": 4248907,
+        "resource_state": 2,
+        "name": "Dalyan Club Climb",
+        "activity_type": "Ride",
+        "distance": 271.7,
+        "average_grade": 4.4,
+        "maximum_grade": 13.0,
+        "elevation_high": 26.2,
+        "elevation_low": 14.0,
+        "start_latlng": [
+          40.969546,
+          29.03972
+        ],
+        "end_latlng": [
+          40.970627,
+          29.042635
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Istanbul",
+        "state": "Istanbul",
+        "country": "Turkey",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3387853095192095096,
+      "resource_state": 2,
+      "name": "Moda - Bostanc\u0131 iskeleler bisiklet yolu ba\u015flang\u0131c\u0131 ve biti\u015fi aras\u0131",
+      "activity": {
+        "id": 15354626550,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 3336,
+      "moving_time": 981,
+      "start_date": "2025-08-05T03:37:26Z",
+      "start_date_local": "2025-08-05T06:37:26Z",
+      "distance": 4680.2,
+      "start_index": 2157,
+      "end_index": 3148,
+      "device_watts": false,
+      "segment": {
+        "id": 7145973,
+        "resource_state": 2,
+        "name": "Moda - Bostanc\u0131 iskeleler bisiklet yolu ba\u015flang\u0131c\u0131 ve biti\u015fi aras\u0131",
+        "activity_type": "Ride",
+        "distance": 4680.2,
+        "average_grade": 0.0,
+        "maximum_grade": 28.0,
+        "elevation_high": 12.6,
+        "elevation_low": -30.6,
+        "start_latlng": [
+          40.969733,
+          29.04717
+        ],
+        "end_latlng": [
+          40.953318,
+          29.088868
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Istanbul",
+        "state": "Istanbul Province",
+        "country": "Turkey",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3387853095190957432,
+      "resource_state": 2,
+      "name": "Dalyan - Caddebostan Migros",
+      "activity": {
+        "id": 15354626550,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 412,
+      "moving_time": 359,
+      "start_date": "2025-08-05T03:38:20Z",
+      "start_date_local": "2025-08-05T06:38:20Z",
+      "distance": 1864.4,
+      "start_index": 2158,
+      "end_index": 2518,
+      "device_watts": false,
+      "segment": {
+        "id": 4251955,
+        "resource_state": 2,
+        "name": "Dalyan - Caddebostan Migros",
+        "activity_type": "Ride",
+        "distance": 1864.4,
+        "average_grade": -0.3,
+        "maximum_grade": 31.7,
+        "elevation_high": 11.8,
+        "elevation_low": -1.0,
+        "start_latlng": [
+          40.969535,
+          29.047728
+        ],
+        "end_latlng": [
+          40.962672,
+          29.064013
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Istanbul",
+        "state": "Istanbul",
+        "country": "Turkey",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3387853095192345976,
+      "resource_state": 2,
+      "name": "Yogac\u0131lar D\u00fczl\u00fc\u011f\u00fc",
+      "activity": {
+        "id": 15354626550,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 187,
+      "moving_time": 187,
+      "start_date": "2025-08-05T03:39:33Z",
+      "start_date_local": "2025-08-05T06:39:33Z",
+      "distance": 939.0,
+      "start_index": 2231,
+      "end_index": 2418,
+      "device_watts": false,
+      "segment": {
+        "id": 18218327,
+        "resource_state": 2,
+        "name": "Yogac\u0131lar D\u00fczl\u00fc\u011f\u00fc",
+        "activity_type": "Ride",
+        "distance": 939.0,
+        "average_grade": -0.3,
+        "maximum_grade": 9.2,
+        "elevation_high": 4.0,
+        "elevation_low": -4.1,
+        "start_latlng": [
+          40.968337,
+          29.052024
+        ],
+        "end_latlng": [
+          40.962993,
+          29.058866
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": null,
+        "state": "\u0130stanbul",
+        "country": "Turkey",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3387853095192202616,
+      "resource_state": 2,
+      "name": "Goztepe-Erenkoy",
+      "activity": {
+        "id": 15354626550,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 2598,
+      "moving_time": 315,
+      "start_date": "2025-08-05T03:40:40Z",
+      "start_date_local": "2025-08-05T06:40:40Z",
+      "distance": 1434.4,
+      "start_index": 2298,
+      "end_index": 2620,
+      "device_watts": false,
+      "segment": {
+        "id": 9334181,
+        "resource_state": 2,
+        "name": "Goztepe-Erenkoy",
+        "activity_type": "Ride",
+        "distance": 1434.4,
+        "average_grade": -0.3,
+        "maximum_grade": 32.8,
+        "elevation_high": 10.4,
+        "elevation_low": -1.7,
+        "start_latlng": [
+          40.966078,
+          29.054287
+        ],
+        "end_latlng": [
+          40.96305,
+          29.068007
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "\u0130stanbul",
+        "state": "\u0130stanbul",
+        "country": "Turkey",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3387853095193948536,
+      "resource_state": 2,
+      "name": "Erenkoy-Suadiye",
+      "activity": {
+        "id": 15354626550,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 345,
+      "moving_time": 327,
+      "start_date": "2025-08-05T04:23:59Z",
+      "start_date_local": "2025-08-05T07:23:59Z",
+      "distance": 1494.9,
+      "start_index": 2621,
+      "end_index": 2950,
+      "device_watts": false,
+      "segment": {
+        "id": 9334206,
+        "resource_state": 2,
+        "name": "Erenkoy-Suadiye",
+        "activity_type": "Ride",
+        "distance": 1494.9,
+        "average_grade": 0.6,
+        "maximum_grade": 34.2,
+        "elevation_high": 13.1,
+        "elevation_low": -30.5,
+        "start_latlng": [
+          40.963026,
+          29.068071
+        ],
+        "end_latlng": [
+          40.955219,
+          29.079485
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "\u0130stanbul",
+        "state": "\u0130stanbul",
+        "country": "Turkey",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3387853095192413560,
+      "resource_state": 2,
+      "name": "Dalyan Park - Bostanc\u0131",
+      "activity": {
+        "id": 15354626550,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 374,
+      "moving_time": 374,
+      "start_date": "2025-08-05T04:26:51Z",
+      "start_date_local": "2025-08-05T07:26:51Z",
+      "distance": 1932.3,
+      "start_index": 2777,
+      "end_index": 3151,
+      "device_watts": false,
+      "segment": {
+        "id": 8403106,
+        "resource_state": 2,
+        "name": "Dalyan Park - Bostanc\u0131",
+        "activity_type": "Ride",
+        "distance": 1932.3,
+        "average_grade": -0.2,
+        "maximum_grade": 11.0,
+        "elevation_high": 11.8,
+        "elevation_low": -30.5,
+        "start_latlng": [
+          40.959127,
+          29.071735
+        ],
+        "end_latlng": [
+          40.953223,
+          29.089025
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "\u0130stanbul",
+        "state": "Istanbul",
+        "country": "Turkey",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3387853095192827256,
+      "resource_state": 2,
+      "name": "Suadiye-Bostanci",
+      "activity": {
+        "id": 15354626550,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 183,
+      "moving_time": 183,
+      "start_date": "2025-08-05T04:29:49Z",
+      "start_date_local": "2025-08-05T07:29:49Z",
+      "distance": 956.3,
+      "start_index": 2955,
+      "end_index": 3138,
+      "device_watts": false,
+      "segment": {
+        "id": 9335423,
+        "resource_state": 2,
+        "name": "Suadiye-Bostanci",
+        "activity_type": "Ride",
+        "distance": 956.3,
+        "average_grade": -0.4,
+        "maximum_grade": 21.0,
+        "elevation_high": 9.9,
+        "elevation_low": -0.5,
+        "start_latlng": [
+          40.954997,
+          29.079715
+        ],
+        "end_latlng": [
+          40.953701,
+          29.088475
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "\u0130stanbul",
+        "state": "\u0130stanbul",
+        "country": "Turkey",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3387853095190449528,
+      "resource_state": 2,
+      "name": "Minib\u00fcs Yoluna \u00c7\u0131k\u0131\u015f K\u0131sa T\u0131rman\u0131\u015f",
+      "activity": {
+        "id": 15354626550,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 924,
+      "moving_time": 98,
+      "start_date": "2025-08-05T05:13:57Z",
+      "start_date_local": "2025-08-05T08:13:57Z",
+      "distance": 288.9,
+      "start_index": 3544,
+      "end_index": 3654,
+      "device_watts": false,
+      "segment": {
+        "id": 6856866,
+        "resource_state": 2,
+        "name": "Minib\u00fcs Yoluna \u00c7\u0131k\u0131\u015f K\u0131sa T\u0131rman\u0131\u015f",
+        "activity_type": "Ride",
+        "distance": 288.9,
+        "average_grade": 6.5,
+        "maximum_grade": 9.5,
+        "elevation_high": 19.5,
+        "elevation_low": 0.6,
+        "start_latlng": [
+          40.951684,
+          29.097853
+        ],
+        "end_latlng": [
+          40.953065,
+          29.100574
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Istanbul",
+        "state": "Istanbul Province",
+        "country": "Turkey",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3387853095191381368,
+      "resource_state": 2,
+      "name": "Maltepe Mezarl\u0131\u011f\u0131'na T\u0131rman\u0131\u015f",
+      "activity": {
+        "id": 15354626550,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 155,
+      "moving_time": 126,
+      "start_date": "2025-08-05T06:04:16Z",
+      "start_date_local": "2025-08-05T09:04:16Z",
+      "distance": 532.9,
+      "start_index": 4840,
+      "end_index": 4967,
+      "device_watts": false,
+      "segment": {
+        "id": 32325786,
+        "resource_state": 2,
+        "name": "Maltepe Mezarl\u0131\u011f\u0131'na T\u0131rman\u0131\u015f",
+        "activity_type": "Ride",
+        "distance": 532.9,
+        "average_grade": 2.6,
+        "maximum_grade": 4.6,
+        "elevation_high": 23.3,
+        "elevation_low": 9.7,
+        "start_latlng": [
+          40.936216,
+          29.122897
+        ],
+        "end_latlng": [
+          40.932698,
+          29.12714
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": null,
+        "state": "\u0130stanbul",
+        "country": "Turkey",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3387853095190975864,
+      "resource_state": 2,
+      "name": "Piri Reis Down (Full)",
+      "activity": {
+        "id": 15354626550,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 143,
+      "moving_time": 143,
+      "start_date": "2025-08-05T06:40:28Z",
+      "start_date_local": "2025-08-05T09:40:28Z",
+      "distance": 939.2,
+      "start_index": 5705,
+      "end_index": 5848,
+      "device_watts": false,
+      "segment": {
+        "id": 8189244,
+        "resource_state": 2,
+        "name": "Piri Reis Down (Full)",
+        "activity_type": "Ride",
+        "distance": 939.2,
+        "average_grade": -0.6,
+        "maximum_grade": 3.5,
+        "elevation_high": 7.9,
+        "elevation_low": 1.2,
+        "start_latlng": [
+          40.916918,
+          29.144544
+        ],
+        "end_latlng": [
+          40.912885,
+          29.13529
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Istanbul",
+        "state": "Istanbul Province",
+        "country": "Turkey",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3387853095190942072,
+      "resource_state": 2,
+      "name": "Piri Reis Down",
+      "activity": {
+        "id": 15354626550,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 69,
+      "moving_time": 69,
+      "start_date": "2025-08-05T06:40:29Z",
+      "start_date_local": "2025-08-05T09:40:29Z",
+      "distance": 426.0,
+      "start_index": 5706,
+      "end_index": 5775,
+      "device_watts": false,
+      "segment": {
+        "id": 7283427,
+        "resource_state": 2,
+        "name": "Piri Reis Down",
+        "activity_type": "Ride",
+        "distance": 426.0,
+        "average_grade": -0.4,
+        "maximum_grade": 4.0,
+        "elevation_high": 7.9,
+        "elevation_low": 5.0,
+        "start_latlng": [
+          40.916879,
+          29.1445
+        ],
+        "end_latlng": [
+          40.914708,
+          29.140674
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Istanbul",
+        "state": "Istanbul Province",
+        "country": "Turkey",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3387853095191448952,
+      "resource_state": 2,
+      "name": "iskele - kumcular",
+      "activity": {
+        "id": 15354626550,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 399,
+      "moving_time": 399,
+      "start_date": "2025-08-05T07:44:42Z",
+      "start_date_local": "2025-08-05T10:44:42Z",
+      "distance": 1819.7,
+      "start_index": 7044,
+      "end_index": 7443,
+      "device_watts": false,
+      "segment": {
+        "id": 26811704,
+        "resource_state": 2,
+        "name": "iskele - kumcular",
+        "activity_type": "Ride",
+        "distance": 1819.7,
+        "average_grade": -0.0,
+        "maximum_grade": 1.0,
+        "elevation_high": 6.1,
+        "elevation_low": 3.6,
+        "start_latlng": [
+          40.887439,
+          29.187564
+        ],
+        "end_latlng": [
+          40.882902,
+          29.207904
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": null,
+        "state": "\u0130stanbul",
+        "country": "Turkey",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3387853095193254264,
+      "resource_state": 2,
+      "name": "pendik yard\u0131rmacas\u0131",
+      "activity": {
+        "id": 15354626550,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 156,
+      "moving_time": 156,
+      "start_date": "2025-08-05T07:54:58Z",
+      "start_date_local": "2025-08-05T10:54:58Z",
+      "distance": 890.4,
+      "start_index": 7660,
+      "end_index": 7816,
+      "device_watts": false,
+      "segment": {
+        "id": 7178959,
+        "resource_state": 2,
+        "name": "pendik yard\u0131rmacas\u0131",
+        "activity_type": "Ride",
+        "distance": 890.4,
+        "average_grade": 0.0,
+        "maximum_grade": 2.0,
+        "elevation_high": 6.1,
+        "elevation_low": 0.0,
+        "start_latlng": [
+          40.877003,
+          29.218145
+        ],
+        "end_latlng": [
+          40.872079,
+          29.22588
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Istanbul",
+        "state": "Istanbul Province",
+        "country": "Turkey",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3387853095191397752,
+      "resource_state": 2,
+      "name": "Cabin crew check",
+      "activity": {
+        "id": 15354626550,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 377,
+      "moving_time": 377,
+      "start_date": "2025-08-05T07:56:18Z",
+      "start_date_local": "2025-08-05T10:56:18Z",
+      "distance": 2112.8,
+      "start_index": 7740,
+      "end_index": 8117,
+      "device_watts": false,
+      "segment": {
+        "id": 29507032,
+        "resource_state": 2,
+        "name": "Cabin crew check",
+        "activity_type": "Ride",
+        "distance": 2112.8,
+        "average_grade": 0.0,
+        "maximum_grade": 1.0,
+        "elevation_high": 4.8,
+        "elevation_low": 3.9,
+        "start_latlng": [
+          40.875674,
+          29.223267
+        ],
+        "end_latlng": [
+          40.874613,
+          29.241599
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": null,
+        "state": "\u0130stanbul",
+        "country": "Turkey",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3387853095191112056,
+      "resource_state": 2,
+      "name": "Viraj alma challenge",
+      "activity": {
+        "id": 15354626550,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 205,
+      "moving_time": 205,
+      "start_date": "2025-08-05T07:57:31Z",
+      "start_date_local": "2025-08-05T10:57:31Z",
+      "distance": 1097.0,
+      "start_index": 7813,
+      "end_index": 8018,
+      "device_watts": false,
+      "segment": {
+        "id": 29883904,
+        "resource_state": 2,
+        "name": "Viraj alma challenge",
+        "activity_type": "Ride",
+        "distance": 1097.0,
+        "average_grade": 0.1,
+        "maximum_grade": 1.2,
+        "elevation_high": 17.6,
+        "elevation_low": 15.6,
+        "start_latlng": [
+          40.872391,
+          29.226087
+        ],
+        "end_latlng": [
+          40.875267,
+          29.235025
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": null,
+        "state": "\u0130stanbul",
+        "country": "Turkey",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3387853095190218104,
+      "resource_state": 2,
+      "name": "Pendik Sahil Yolu",
+      "activity": {
+        "id": 15354626550,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 347,
+      "moving_time": 328,
+      "start_date": "2025-08-05T08:01:54Z",
+      "start_date_local": "2025-08-05T11:01:54Z",
+      "distance": 1789.9,
+      "start_index": 8076,
+      "end_index": 8406,
+      "device_watts": false,
+      "segment": {
+        "id": 14535403,
+        "resource_state": 2,
+        "name": "Pendik Sahil Yolu",
+        "activity_type": "Ride",
+        "distance": 1789.9,
+        "average_grade": 0.0,
+        "maximum_grade": 1.0,
+        "elevation_high": 15.6,
+        "elevation_low": 14.0,
+        "start_latlng": [
+          40.874991,
+          29.238671
+        ],
+        "end_latlng": [
+          40.867209,
+          29.257139
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": null,
+        "state": "\u0130stanbul",
+        "country": "Turkey",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3387853095194042744,
+      "resource_state": 2,
+      "name": "Tersaneler - Holiday Inn ",
+      "activity": {
+        "id": 15354626550,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 587,
+      "moving_time": 536,
+      "start_date": "2025-08-05T08:07:37Z",
+      "start_date_local": "2025-08-05T11:07:37Z",
+      "distance": 2855.6,
+      "start_index": 8402,
+      "end_index": 8950,
+      "device_watts": false,
+      "segment": {
+        "id": 29469865,
+        "resource_state": 2,
+        "name": "Tersaneler - Holiday Inn ",
+        "activity_type": "Ride",
+        "distance": 2855.6,
+        "average_grade": 0.4,
+        "maximum_grade": 10.7,
+        "elevation_high": -10.0,
+        "elevation_low": -27.2,
+        "start_latlng": [
+          40.867679,
+          29.257162
+        ],
+        "end_latlng": [
+          40.856332,
+          29.279447
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": null,
+        "state": "\u0130stanbul",
+        "country": "Turkey",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3387853095193740664,
+      "resource_state": 2,
+      "name": "\u0130stasyon Caddesi Climb",
+      "activity": {
+        "id": 15354626550,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 105,
+      "moving_time": 101,
+      "start_date": "2025-08-05T08:08:34Z",
+      "start_date_local": "2025-08-05T11:08:34Z",
+      "distance": 515.2,
+      "start_index": 8454,
+      "end_index": 8557,
+      "device_watts": false,
+      "segment": {
+        "id": 5819975,
+        "resource_state": 2,
+        "name": "\u0130stasyon Caddesi Climb",
+        "activity_type": "Ride",
+        "distance": 515.2,
+        "average_grade": 18.1,
+        "maximum_grade": 48.5,
+        "elevation_high": 0.8,
+        "elevation_low": -92.6,
+        "start_latlng": [
+          40.867441,
+          29.257624
+        ],
+        "end_latlng": [
+          40.869571,
+          29.262249
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 1,
+        "city": "Istanbul",
+        "state": "Istanbul Province",
+        "country": "Turkey",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3387853095193941368,
+      "resource_state": 2,
+      "name": "G\u00fczelyal\u0131",
+      "activity": {
+        "id": 15354626550,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 681,
+      "moving_time": 644,
+      "start_date": "2025-08-05T08:10:27Z",
+      "start_date_local": "2025-08-05T11:10:27Z",
+      "distance": 4004.1,
+      "start_index": 8565,
+      "end_index": 9214,
+      "device_watts": false,
+      "segment": {
+        "id": 19362886,
+        "resource_state": 2,
+        "name": "G\u00fczelyal\u0131",
+        "activity_type": "Ride",
+        "distance": 4004.1,
+        "average_grade": -0.1,
+        "maximum_grade": 11.6,
+        "elevation_high": 17.0,
+        "elevation_low": 3.2,
+        "start_latlng": [
+          40.869388,
+          29.262634
+        ],
+        "end_latlng": [
+          40.848951,
+          29.294624
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": null,
+        "state": "\u0130stanbul",
+        "country": "Turkey",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3387853095193728376,
+      "resource_state": 2,
+      "name": "Tersane K\u00f6pr\u00fc Yolu",
+      "activity": {
+        "id": 15354626550,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 208,
+      "moving_time": 171,
+      "start_date": "2025-08-05T08:12:23Z",
+      "start_date_local": "2025-08-05T11:12:23Z",
+      "distance": 928.2,
+      "start_index": 8681,
+      "end_index": 8857,
+      "device_watts": false,
+      "segment": {
+        "id": 23452305,
+        "resource_state": 2,
+        "name": "Tersane K\u00f6pr\u00fc Yolu",
+        "activity_type": "Ride",
+        "distance": 928.2,
+        "average_grade": -0.3,
+        "maximum_grade": 10.1,
+        "elevation_high": 9.8,
+        "elevation_low": -1.8,
+        "start_latlng": [
+          40.865341,
+          29.269906
+        ],
+        "end_latlng": [
+          40.857753,
+          29.273789
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": null,
+        "state": "\u0130stanbul",
+        "country": "Turkey",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3387853095193976184,
+      "resource_state": 2,
+      "name": "Tersane K\u00f6pr\u00fcs\u00fc - \u00dcst Ge\u00e7it - Holiday Inn",
+      "activity": {
+        "id": 15354626550,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 288,
+      "moving_time": 251,
+      "start_date": "2025-08-05T08:12:36Z",
+      "start_date_local": "2025-08-05T11:12:36Z",
+      "distance": 1354.3,
+      "start_index": 8694,
+      "end_index": 8950,
+      "device_watts": false,
+      "segment": {
+        "id": 29471785,
+        "resource_state": 2,
+        "name": "Tersane K\u00f6pr\u00fcs\u00fc - \u00dcst Ge\u00e7it - Holiday Inn",
+        "activity_type": "Ride",
+        "distance": 1354.3,
+        "average_grade": 0.5,
+        "maximum_grade": 8.2,
+        "elevation_high": -10.0,
+        "elevation_low": -22.2,
+        "start_latlng": [
+          40.864504,
+          29.270781
+        ],
+        "end_latlng": [
+          40.856332,
+          29.279447
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": null,
+        "state": "\u0130stanbul",
+        "country": "Turkey",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3387853095190547832,
+      "resource_state": 2,
+      "name": "neomarin kpr\u00fc",
+      "activity": {
+        "id": 15354626550,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 112,
+      "moving_time": 112,
+      "start_date": "2025-08-05T08:16:07Z",
+      "start_date_local": "2025-08-05T11:16:07Z",
+      "distance": 647.4,
+      "start_index": 8873,
+      "end_index": 8985,
+      "device_watts": false,
+      "segment": {
+        "id": 34970237,
+        "resource_state": 2,
+        "name": "neomarin kpr\u00fc",
+        "activity_type": "Ride",
+        "distance": 647.4,
+        "average_grade": 0.8,
+        "maximum_grade": 3.6,
+        "elevation_high": 15.4,
+        "elevation_low": 9.8,
+        "start_latlng": [
+          40.857075,
+          29.27468
+        ],
+        "end_latlng": [
+          40.855815,
+          29.28212
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "G\u00fczelyal\u0131 Mahallesi",
+        "state": "Istanbul",
+        "country": "Turkey",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3387853095192011128,
+      "resource_state": 2,
+      "name": "Sizin komunuzu al\u0131yorlar biz de\u011filiz o",
+      "activity": {
+        "id": 15354626550,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 84,
+      "moving_time": 84,
+      "start_date": "2025-08-05T08:17:57Z",
+      "start_date_local": "2025-08-05T11:17:57Z",
+      "distance": 587.5,
+      "start_index": 8983,
+      "end_index": 9067,
+      "device_watts": false,
+      "segment": {
+        "id": 32933772,
+        "resource_state": 2,
+        "name": "Sizin komunuzu al\u0131yorlar biz de\u011filiz o",
+        "activity_type": "Ride",
+        "distance": 587.5,
+        "average_grade": -1.4,
+        "maximum_grade": 0.0,
+        "elevation_high": 24.0,
+        "elevation_low": 15.8,
+        "start_latlng": [
+          40.855836,
+          29.282
+        ],
+        "end_latlng": [
+          40.855889,
+          29.288761
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": null,
+        "state": "\u0130stanbul",
+        "country": "Turkey",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3387853095193010552,
+      "resource_state": 2,
+      "name": "Hac\u0131o\u011flu Rampas\u0131",
+      "activity": {
+        "id": 15354626550,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 251,
+      "moving_time": 251,
+      "start_date": "2025-08-05T09:25:41Z",
+      "start_date_local": "2025-08-05T12:25:41Z",
+      "distance": 1271.9,
+      "start_index": 10228,
+      "end_index": 10479,
+      "device_watts": false,
+      "segment": {
+        "id": 20188967,
+        "resource_state": 2,
+        "name": "Hac\u0131o\u011flu Rampas\u0131",
+        "activity_type": "Ride",
+        "distance": 1271.9,
+        "average_grade": 2.3,
+        "maximum_grade": 5.2,
+        "elevation_high": 56.8,
+        "elevation_low": 25.9,
+        "start_latlng": [
+          40.832477,
+          29.331916
+        ],
+        "end_latlng": [
+          40.826639,
+          29.34483
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": null,
+        "state": "\u0130stanbul",
+        "country": "Turkey",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3387853095193505144,
+      "resource_state": 2,
+      "name": "\u0130stanbul'dan Gebze'ye Giri\u015f",
+      "activity": {
+        "id": 15354626550,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 97,
+      "moving_time": 97,
+      "start_date": "2025-08-05T09:32:19Z",
+      "start_date_local": "2025-08-05T12:32:19Z",
+      "distance": 931.3,
+      "start_index": 10626,
+      "end_index": 10723,
+      "device_watts": false,
+      "segment": {
+        "id": 22667649,
+        "resource_state": 2,
+        "name": "\u0130stanbul'dan Gebze'ye Giri\u015f",
+        "activity_type": "Ride",
+        "distance": 931.3,
+        "average_grade": -4.0,
+        "maximum_grade": 0.2,
+        "elevation_high": 51.3,
+        "elevation_low": 13.8,
+        "start_latlng": [
+          40.822351,
+          29.354254
+        ],
+        "end_latlng": [
+          40.816452,
+          29.362074
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": null,
+        "state": "Kocaeli",
+        "country": "Turkey",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3387853095190977912,
+      "resource_state": 2,
+      "name": "WATTT BASSS (S2R Team)",
+      "activity": {
+        "id": 15354626550,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 91,
+      "moving_time": 91,
+      "start_date": "2025-08-05T09:32:46Z",
+      "start_date_local": "2025-08-05T12:32:46Z",
+      "distance": 957.5,
+      "start_index": 10653,
+      "end_index": 10744,
+      "device_watts": false,
+      "segment": {
+        "id": 31428034,
+        "resource_state": 2,
+        "name": "WATTT BASSS (S2R Team)",
+        "activity_type": "Ride",
+        "distance": 957.5,
+        "average_grade": -4.1,
+        "maximum_grade": -0.7,
+        "elevation_high": 36.4,
+        "elevation_low": -3.0,
+        "start_latlng": [
+          40.82157,
+          29.355608
+        ],
+        "end_latlng": [
+          40.815338,
+          29.363491
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": null,
+        "state": "\u0130stanbul",
+        "country": "Turkey",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3387853095191673208,
+      "resource_state": 2,
+      "name": "Minib\u00fcs Av\u0131 Parkuru",
+      "activity": {
+        "id": 15354626550,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 1117,
+      "moving_time": 836,
+      "start_date": "2025-08-05T09:36:01Z",
+      "start_date_local": "2025-08-05T12:36:01Z",
+      "distance": 4199.4,
+      "start_index": 10848,
+      "end_index": 11686,
+      "device_watts": false,
+      "segment": {
+        "id": 36420410,
+        "resource_state": 2,
+        "name": "Minib\u00fcs Av\u0131 Parkuru",
+        "activity_type": "Ride",
+        "distance": 4199.4,
+        "average_grade": 1.7,
+        "maximum_grade": 6.6,
+        "elevation_high": 100.6,
+        "elevation_low": 30.4,
+        "start_latlng": [
+          40.811199,
+          29.36853
+        ],
+        "end_latlng": [
+          40.789783,
+          29.407978
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Cumhuriyet Mahallesi",
+        "state": "Kocaeli",
+        "country": "Turkey",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3387853095191388536,
+      "resource_state": 2,
+      "name": "Gebze \u00c7\u0131k\u0131\u015f E-5' ten",
+      "activity": {
+        "id": 15354626550,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 1972,
+      "moving_time": 1506,
+      "start_date": "2025-08-05T09:36:55Z",
+      "start_date_local": "2025-08-05T12:36:55Z",
+      "distance": 6299.32,
+      "start_index": 10902,
+      "end_index": 12413,
+      "device_watts": false,
+      "segment": {
+        "id": 717212,
+        "resource_state": 2,
+        "name": "Gebze \u00c7\u0131k\u0131\u015f E-5' ten",
+        "activity_type": "Ride",
+        "distance": 6299.32,
+        "average_grade": 2.3,
+        "maximum_grade": 5.4,
+        "elevation_high": 163.6,
+        "elevation_low": 18.8,
+        "start_latlng": [
+          40.80886635929346,
+          29.371518502011895
+        ],
+        "end_latlng": [
+          40.79400256276131,
+          29.43218110129237
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Cumhuriyet Mh., Gebze/Kocaeli Province, Turkey",
+        "state": "Kocaeli",
+        "country": "Turkey",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3387853095192674680,
+      "resource_state": 2,
+      "name": "Gebze Climb",
+      "activity": {
+        "id": 15354626550,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 653,
+      "moving_time": 613,
+      "start_date": "2025-08-05T09:59:20Z",
+      "start_date_local": "2025-08-05T12:59:20Z",
+      "distance": 2298.8,
+      "start_index": 11824,
+      "end_index": 12439,
+      "device_watts": false,
+      "segment": {
+        "id": 15928043,
+        "resource_state": 2,
+        "name": "Gebze Climb",
+        "activity_type": "Ride",
+        "distance": 2298.8,
+        "average_grade": 3.3,
+        "maximum_grade": 7.1,
+        "elevation_high": 146.6,
+        "elevation_low": 70.2,
+        "start_latlng": [
+          40.789108,
+          29.410852
+        ],
+        "end_latlng": [
+          40.794379,
+          29.432973
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": null,
+        "state": "Kocaeli",
+        "country": "Turkey",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3387853095191246200,
+      "resource_state": 2,
+      "name": "opet yanyol hafif t\u0131rman\u0131\u015f",
+      "activity": {
+        "id": 15354626550,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 152,
+      "moving_time": 152,
+      "start_date": "2025-08-05T10:04:45Z",
+      "start_date_local": "2025-08-05T13:04:45Z",
+      "distance": 682.7,
+      "start_index": 12118,
+      "end_index": 12270,
+      "device_watts": false,
+      "segment": {
+        "id": 14514145,
+        "resource_state": 2,
+        "name": "opet yanyol hafif t\u0131rman\u0131\u015f",
+        "activity_type": "Ride",
+        "distance": 682.7,
+        "average_grade": 1.9,
+        "maximum_grade": 7.9,
+        "elevation_high": 140.0,
+        "elevation_low": 123.6,
+        "start_latlng": [
+          40.786909,
+          29.424263
+        ],
+        "end_latlng": [
+          40.791682,
+          29.429097
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": null,
+        "state": "Kocaeli",
+        "country": "Turkey",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3387853095192417656,
+      "resource_state": 2,
+      "name": "Dilovas\u0131 E5 Climb",
+      "activity": {
+        "id": 15354626550,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 381,
+      "moving_time": 381,
+      "start_date": "2025-08-05T11:14:26Z",
+      "start_date_local": "2025-08-05T14:14:26Z",
+      "distance": 1557.6,
+      "start_index": 14628,
+      "end_index": 15009,
+      "device_watts": false,
+      "segment": {
+        "id": 12991950,
+        "resource_state": 2,
+        "name": "Dilovas\u0131 E5 Climb",
+        "activity_type": "Ride",
+        "distance": 1557.6,
+        "average_grade": 4.1,
+        "maximum_grade": 9.4,
+        "elevation_high": 75.0,
+        "elevation_low": 11.6,
+        "start_latlng": [
+          40.781561,
+          29.53891
+        ],
+        "end_latlng": [
+          40.774863,
+          29.553513
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": null,
+        "state": "Kocaeli",
+        "country": "Turkey",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3387853095190951288,
+      "resource_state": 2,
+      "name": "\u0130stanbul \u0130zmit Yolu",
+      "activity": {
+        "id": 15354626550,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 1199,
+      "moving_time": 1133,
+      "start_date": "2025-08-05T12:15:35Z",
+      "start_date_local": "2025-08-05T15:15:35Z",
+      "distance": 5379.3,
+      "start_index": 16742,
+      "end_index": 17877,
+      "device_watts": false,
+      "segment": {
+        "id": 17287441,
+        "resource_state": 2,
+        "name": "\u0130stanbul \u0130zmit Yolu",
+        "activity_type": "Ride",
+        "distance": 5379.3,
+        "average_grade": -0.1,
+        "maximum_grade": 6.8,
+        "elevation_high": 6.0,
+        "elevation_low": -4.8,
+        "start_latlng": [
+          40.778004,
+          29.647332
+        ],
+        "end_latlng": [
+          40.777194,
+          29.711444
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": null,
+        "state": "Kocaeli",
+        "country": "Turkey",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3387853095193717112,
+      "resource_state": 2,
+      "name": "Mimar Sinan - T\u00fcpra\u015f Yan Yol ",
+      "activity": {
+        "id": 15354626550,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 136,
+      "moving_time": 126,
+      "start_date": "2025-08-05T14:15:50Z",
+      "start_date_local": "2025-08-05T17:15:50Z",
+      "distance": 629.1,
+      "start_index": 18900,
+      "end_index": 19027,
+      "device_watts": false,
+      "segment": {
+        "id": 24826575,
+        "resource_state": 2,
+        "name": "Mimar Sinan - T\u00fcpra\u015f Yan Yol ",
+        "activity_type": "Ride",
+        "distance": 629.1,
+        "average_grade": 2.7,
+        "maximum_grade": 7.7,
+        "elevation_high": 43.6,
+        "elevation_low": 26.5,
+        "start_latlng": [
+          40.766875,
+          29.759254
+        ],
+        "end_latlng": [
+          40.769696,
+          29.764387
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": null,
+        "state": "Kocaeli",
+        "country": "Turkey",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3387853095192590712,
+      "resource_state": 2,
+      "name": "95 evler kav\u015fak 60 evler kav\u015fak ",
+      "activity": {
+        "id": 15354626550,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 253,
+      "moving_time": 253,
+      "start_date": "2025-08-05T14:29:14Z",
+      "start_date_local": "2025-08-05T17:29:14Z",
+      "distance": 1748.3,
+      "start_index": 19653,
+      "end_index": 19906,
+      "device_watts": false,
+      "segment": {
+        "id": 24671930,
+        "resource_state": 2,
+        "name": "95 evler kav\u015fak 60 evler kav\u015fak ",
+        "activity_type": "Ride",
+        "distance": 1748.3,
+        "average_grade": -0.6,
+        "maximum_grade": 6.2,
+        "elevation_high": 49.1,
+        "elevation_low": 28.0,
+        "start_latlng": [
+          40.757831,
+          29.798905
+        ],
+        "end_latlng": [
+          40.756185,
+          29.819367
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": null,
+        "state": "Kocaeli",
+        "country": "Turkey",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3387853095190507896,
+      "resource_state": 2,
+      "name": "Plaj yolu Attack Ters",
+      "activity": {
+        "id": 15354626550,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 218,
+      "moving_time": 218,
+      "start_date": "2025-08-05T14:44:49Z",
+      "start_date_local": "2025-08-05T17:44:49Z",
+      "distance": 1296.4,
+      "start_index": 20511,
+      "end_index": 20729,
+      "device_watts": false,
+      "segment": {
+        "id": 14806020,
+        "resource_state": 2,
+        "name": "Plaj yolu Attack Ters",
+        "activity_type": "Ride",
+        "distance": 1296.4,
+        "average_grade": -0.9,
+        "maximum_grade": 9.0,
+        "elevation_high": 23.4,
+        "elevation_low": 4.6,
+        "start_latlng": [
+          40.761217,
+          29.861634
+        ],
+        "end_latlng": [
+          40.761602,
+          29.876062
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": null,
+        "state": "Kocaeli",
+        "country": "Turkey",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3387853095190083960,
+      "resource_state": 2,
+      "name": "Plajyolu Demiryolu \u00dcst ge\u00e7it-Plajyolu Sahil",
+      "activity": {
+        "id": 15354626550,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 106,
+      "moving_time": 106,
+      "start_date": "2025-08-05T14:48:27Z",
+      "start_date_local": "2025-08-05T17:48:27Z",
+      "distance": 418.2,
+      "start_index": 20729,
+      "end_index": 20835,
+      "device_watts": false,
+      "segment": {
+        "id": 21244540,
+        "resource_state": 2,
+        "name": "Plajyolu Demiryolu \u00dcst ge\u00e7it-Plajyolu Sahil",
+        "activity_type": "Ride",
+        "distance": 418.2,
+        "average_grade": -2.2,
+        "maximum_grade": 2.7,
+        "elevation_high": 11.7,
+        "elevation_low": 2.7,
+        "start_latlng": [
+          40.761583,
+          29.876074
+        ],
+        "end_latlng": [
+          40.75831,
+          29.877509
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": null,
+        "state": "Kocaeli",
+        "country": "Turkey",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3387853095193366904,
+      "resource_state": 2,
+      "name": "SekaPark 2",
+      "activity": {
+        "id": 15354626550,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 755,
+      "moving_time": 569,
+      "start_date": "2025-08-05T14:50:38Z",
+      "start_date_local": "2025-08-05T17:50:38Z",
+      "distance": 3079.7,
+      "start_index": 20856,
+      "end_index": 21426,
+      "device_watts": false,
+      "segment": {
+        "id": 8211350,
+        "resource_state": 2,
+        "name": "SekaPark 2",
+        "activity_type": "Ride",
+        "distance": 3079.7,
+        "average_grade": 0.2,
+        "maximum_grade": 18.6,
+        "elevation_high": 7.9,
+        "elevation_low": 0.0,
+        "start_latlng": [
+          40.758764,
+          29.878211
+        ],
+        "end_latlng": [
+          40.760843,
+          29.911394
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "\u0130zmit",
+        "state": "Kocaeli Province",
+        "country": "Turkey",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3387853095191986552,
+      "resource_state": 2,
+      "name": "Demokrasi Park\u0131 - Sekapark R\u00fczgarl\u0131 tepe",
+      "activity": {
+        "id": 15354626550,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 199,
+      "moving_time": 199,
+      "start_date": "2025-08-05T14:52:08Z",
+      "start_date_local": "2025-08-05T17:52:08Z",
+      "distance": 1201.0,
+      "start_index": 20946,
+      "end_index": 21145,
+      "device_watts": false,
+      "segment": {
+        "id": 21244654,
+        "resource_state": 2,
+        "name": "Demokrasi Park\u0131 - Sekapark R\u00fczgarl\u0131 tepe",
+        "activity_type": "Ride",
+        "distance": 1201.0,
+        "average_grade": -0.0,
+        "maximum_grade": 5.3,
+        "elevation_high": 4.2,
+        "elevation_low": -0.3,
+        "start_latlng": [
+          40.759674,
+          29.883478
+        ],
+        "end_latlng": [
+          40.758378,
+          29.89675
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": null,
+        "state": "Kocaeli",
+        "country": "Turkey",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3387853095190697336,
+      "resource_state": 2,
+      "name": "Seka Park  Etap \u0130zmit Go",
+      "activity": {
+        "id": 15354626550,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 529,
+      "moving_time": 343,
+      "start_date": "2025-08-05T14:54:19Z",
+      "start_date_local": "2025-08-05T17:54:19Z",
+      "distance": 1809.6,
+      "start_index": 21077,
+      "end_index": 21421,
+      "device_watts": false,
+      "segment": {
+        "id": 8589688,
+        "resource_state": 2,
+        "name": "Seka Park  Etap \u0130zmit Go",
+        "activity_type": "Ride",
+        "distance": 1809.6,
+        "average_grade": 0.2,
+        "maximum_grade": 21.7,
+        "elevation_high": 7.7,
+        "elevation_low": 0.0,
+        "start_latlng": [
+          40.759587,
+          29.892253
+        ],
+        "end_latlng": [
+          40.760812,
+          29.911235
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "\u0130zmit",
+        "state": "Kocaeli",
+        "country": "Turkey",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3387853095191270776,
+      "resource_state": 2,
+      "name": "d100 attack",
+      "activity": {
+        "id": 15354626550,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 111,
+      "moving_time": 111,
+      "start_date": "2025-08-05T15:36:42Z",
+      "start_date_local": "2025-08-05T18:36:42Z",
+      "distance": 916.2,
+      "start_index": 22268,
+      "end_index": 22379,
+      "device_watts": false,
+      "segment": {
+        "id": 17503724,
+        "resource_state": 2,
+        "name": "d100 attack",
+        "activity_type": "Ride",
+        "distance": 916.2,
+        "average_grade": 0.1,
+        "maximum_grade": 1.1,
+        "elevation_high": 4.9,
+        "elevation_low": 3.1,
+        "start_latlng": [
+          40.762302,
+          29.945223
+        ],
+        "end_latlng": [
+          40.762324,
+          29.95606
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": null,
+        "state": "Kocaeli",
+        "country": "Turkey",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3387853095193042296,
+      "resource_state": 2,
+      "name": "YAHYA KAPTAN KAV\u015eAK-K\u00d6SEK\u00d6Y",
+      "activity": {
+        "id": 15354626550,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 610,
+      "moving_time": 610,
+      "start_date": "2025-08-05T15:40:59Z",
+      "start_date_local": "2025-08-05T18:40:59Z",
+      "distance": 4699.1,
+      "start_index": 22525,
+      "end_index": 23135,
+      "device_watts": false,
+      "segment": {
+        "id": 7399259,
+        "resource_state": 2,
+        "name": "YAHYA KAPTAN KAV\u015eAK-K\u00d6SEK\u00d6Y",
+        "activity_type": "Ride",
+        "distance": 4699.1,
+        "average_grade": 0.2,
+        "maximum_grade": 3.1,
+        "elevation_high": 15.6,
+        "elevation_low": 1.1,
+        "start_latlng": [
+          40.761094,
+          29.969334
+        ],
+        "end_latlng": [
+          40.75344,
+          30.022502
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "\u0130zmit",
+        "state": "Kocaeli Province",
+        "country": "Turkey",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3387853095190846840,
+      "resource_state": 2,
+      "name": "Goodyear Sapa\u011f\u0131-Mobesko ",
+      "activity": {
+        "id": 15354626550,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 148,
+      "moving_time": 148,
+      "start_date": "2025-08-05T15:44:47Z",
+      "start_date_local": "2025-08-05T18:44:47Z",
+      "distance": 1199.6,
+      "start_index": 22753,
+      "end_index": 22901,
+      "device_watts": false,
+      "segment": {
+        "id": 14261627,
+        "resource_state": 2,
+        "name": "Goodyear Sapa\u011f\u0131-Mobesko ",
+        "activity_type": "Ride",
+        "distance": 1199.6,
+        "average_grade": 0.3,
+        "maximum_grade": 3.0,
+        "elevation_high": 8.7,
+        "elevation_low": 5.7,
+        "start_latlng": [
+          40.758023,
+          29.989511
+        ],
+        "end_latlng": [
+          40.755936,
+          30.003463
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": null,
+        "state": "Kocaeli",
+        "country": "Turkey",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3387853095191261560,
+      "resource_state": 2,
+      "name": "k\u00f6sek\u00f6yden sar\u0131me\u015fe sapa\u011f\u0131na",
+      "activity": {
+        "id": 15354626550,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 480,
+      "moving_time": 480,
+      "start_date": "2025-08-05T15:51:24Z",
+      "start_date_local": "2025-08-05T18:51:24Z",
+      "distance": 3160.0,
+      "start_index": 23150,
+      "end_index": 23630,
+      "device_watts": false,
+      "segment": {
+        "id": 16545641,
+        "resource_state": 2,
+        "name": "k\u00f6sek\u00f6yden sar\u0131me\u015fe sapa\u011f\u0131na",
+        "activity_type": "Ride",
+        "distance": 3160.0,
+        "average_grade": 0.5,
+        "maximum_grade": 6.1,
+        "elevation_high": 30.5,
+        "elevation_low": 14.4,
+        "start_latlng": [
+          40.753135,
+          30.023948
+        ],
+        "end_latlng": [
+          40.739439,
+          30.05182
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": null,
+        "state": "Kocaeli",
+        "country": "Turkey",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3387853095187743096,
+      "resource_state": 2,
+      "name": "k\u00f6sek\u00f6y-ac\u0131su 9km TT",
+      "activity": {
+        "id": 15354626550,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 1552,
+      "moving_time": 1500,
+      "start_date": "2025-08-05T15:51:25Z",
+      "start_date_local": "2025-08-05T18:51:25Z",
+      "distance": 9218.6,
+      "start_index": 23151,
+      "end_index": 24652,
+      "device_watts": false,
+      "segment": {
+        "id": 17133604,
+        "resource_state": 2,
+        "name": "k\u00f6sek\u00f6y-ac\u0131su 9km TT",
+        "activity_type": "Ride",
+        "distance": 9218.6,
+        "average_grade": 0.3,
+        "maximum_grade": 5.4,
+        "elevation_high": 71.9,
+        "elevation_low": 15.9,
+        "start_latlng": [
+          40.75323,
+          30.024025
+        ],
+        "end_latlng": [
+          40.717808,
+          30.11288
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": null,
+        "state": "Kocaeli",
+        "country": "Turkey",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3387853095192794488,
+      "resource_state": 2,
+      "name": "hiltondan sar\u0131me\u015fe \u0131\u015f\u0131klara",
+      "activity": {
+        "id": 15354626550,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 292,
+      "moving_time": 292,
+      "start_date": "2025-08-05T15:54:32Z",
+      "start_date_local": "2025-08-05T18:54:32Z",
+      "distance": 1919.3,
+      "start_index": 23338,
+      "end_index": 23630,
+      "device_watts": false,
+      "segment": {
+        "id": 16257749,
+        "resource_state": 2,
+        "name": "hiltondan sar\u0131me\u015fe \u0131\u015f\u0131klara",
+        "activity_type": "Ride",
+        "distance": 1919.3,
+        "average_grade": 0.5,
+        "maximum_grade": 4.2,
+        "elevation_high": 30.5,
+        "elevation_low": 20.0,
+        "start_latlng": [
+          40.751068,
+          30.038447
+        ],
+        "end_latlng": [
+          40.739421,
+          30.05183
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": null,
+        "state": "Kocaeli",
+        "country": "Turkey",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3387853095191856504,
+      "resource_state": 2,
+      "name": "Atakent Sprint",
+      "activity": {
+        "id": 15354626550,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 137,
+      "moving_time": 137,
+      "start_date": "2025-08-05T15:57:16Z",
+      "start_date_local": "2025-08-05T18:57:16Z",
+      "distance": 867.9,
+      "start_index": 23502,
+      "end_index": 23639,
+      "device_watts": false,
+      "segment": {
+        "id": 14510003,
+        "resource_state": 2,
+        "name": "Atakent Sprint",
+        "activity_type": "Ride",
+        "distance": 867.9,
+        "average_grade": 0.7,
+        "maximum_grade": 4.3,
+        "elevation_high": 30.8,
+        "elevation_low": 23.1,
+        "start_latlng": [
+          40.746449,
+          30.049096
+        ],
+        "end_latlng": [
+          40.739055,
+          30.051816
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": null,
+        "state": "Kocaeli",
+        "country": "Turkey",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3387853095193316728,
+      "resource_state": 2,
+      "name": "afad puncher climb attack",
+      "activity": {
+        "id": 15354626550,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 71,
+      "moving_time": 71,
+      "start_date": "2025-08-05T15:59:43Z",
+      "start_date_local": "2025-08-05T18:59:43Z",
+      "distance": 320.6,
+      "start_index": 23649,
+      "end_index": 23720,
+      "device_watts": false,
+      "segment": {
+        "id": 18904919,
+        "resource_state": 2,
+        "name": "afad puncher climb attack",
+        "activity_type": "Ride",
+        "distance": 320.6,
+        "average_grade": 3.7,
+        "maximum_grade": 5.0,
+        "elevation_high": 44.0,
+        "elevation_low": 32.0,
+        "start_latlng": [
+          40.73868,
+          30.052003
+        ],
+        "end_latlng": [
+          40.735893,
+          30.05298
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": null,
+        "state": "Kocaeli",
+        "country": "Turkey",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3387853095189228920,
+      "resource_state": 2,
+      "name": "starting segment- Ascending",
+      "activity": {
+        "id": 15354626550,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 652,
+      "moving_time": 600,
+      "start_date": "2025-08-05T15:59:50Z",
+      "start_date_local": "2025-08-05T18:59:50Z",
+      "distance": 3096.0,
+      "start_index": 23656,
+      "end_index": 24257,
+      "device_watts": false,
+      "segment": {
+        "id": 13486318,
+        "resource_state": 2,
+        "name": "starting segment- Ascending",
+        "activity_type": "Ride",
+        "distance": 3096.0,
+        "average_grade": 1.1,
+        "maximum_grade": 6.9,
+        "elevation_high": 68.8,
+        "elevation_low": 33.5,
+        "start_latlng": [
+          40.738388,
+          30.052197
+        ],
+        "end_latlng": [
+          40.726565,
+          30.082204
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": null,
+        "state": "Kocaeli",
+        "country": "Turkey",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3387853095193490808,
+      "resource_state": 2,
+      "name": "\u0131\u015f\u0131klar aras\u0131 afad atak",
+      "activity": {
+        "id": 15354626550,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 270,
+      "moving_time": 218,
+      "start_date": "2025-08-05T15:59:51Z",
+      "start_date_local": "2025-08-05T18:59:51Z",
+      "distance": 1121.5,
+      "start_index": 23657,
+      "end_index": 23876,
+      "device_watts": false,
+      "segment": {
+        "id": 17691531,
+        "resource_state": 2,
+        "name": "\u0131\u015f\u0131klar aras\u0131 afad atak",
+        "activity_type": "Ride",
+        "distance": 1121.5,
+        "average_grade": 0.4,
+        "maximum_grade": 5.1,
+        "elevation_high": 44.0,
+        "elevation_low": 36.0,
+        "start_latlng": [
+          40.73834,
+          30.052107
+        ],
+        "end_latlng": [
+          40.731525,
+          30.060331
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": null,
+        "state": "Kocaeli",
+        "country": "Turkey",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3387853095190422904,
+      "resource_state": 2,
+      "name": "sapanca road elevation",
+      "activity": {
+        "id": 15354626550,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 317,
+      "moving_time": 317,
+      "start_date": "2025-08-05T16:04:29Z",
+      "start_date_local": "2025-08-05T19:04:29Z",
+      "distance": 1645.3,
+      "start_index": 23884,
+      "end_index": 24201,
+      "device_watts": false,
+      "segment": {
+        "id": 21947626,
+        "resource_state": 2,
+        "name": "sapanca road elevation",
+        "activity_type": "Ride",
+        "distance": 1645.3,
+        "average_grade": 1.8,
+        "maximum_grade": 3.1,
+        "elevation_high": 71.8,
+        "elevation_low": 41.7,
+        "start_latlng": [
+          40.731356,
+          30.06084
+        ],
+        "end_latlng": [
+          40.727198,
+          30.079537
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": null,
+        "state": "Kocaeli",
+        "country": "Turkey",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3387853095185978744,
+      "resource_state": 2,
+      "name": "suadiye sapa\u011f\u0131 - ac\u0131su sapa\u011f\u0131",
+      "activity": {
+        "id": 15354626550,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 802,
+      "moving_time": 802,
+      "start_date": "2025-08-05T16:04:31Z",
+      "start_date_local": "2025-08-05T19:04:31Z",
+      "distance": 5002.4,
+      "start_index": 23886,
+      "end_index": 24688,
+      "device_watts": false,
+      "segment": {
+        "id": 19461879,
+        "resource_state": 2,
+        "name": "suadiye sapa\u011f\u0131 - ac\u0131su sapa\u011f\u0131",
+        "activity_type": "Ride",
+        "distance": 5002.4,
+        "average_grade": 0.0,
+        "maximum_grade": 2.9,
+        "elevation_high": 71.0,
+        "elevation_low": 37.6,
+        "start_latlng": [
+          40.731413,
+          30.060954
+        ],
+        "end_latlng": [
+          40.717367,
+          30.115579
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": null,
+        "state": "Kocaeli",
+        "country": "Turkey",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3387853095187855736,
+      "resource_state": 2,
+      "name": "Askeriye \u0131\u015f\u0131klar\u0131 sprint",
+      "activity": {
+        "id": 15354626550,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 253,
+      "moving_time": 253,
+      "start_date": "2025-08-05T16:10:34Z",
+      "start_date_local": "2025-08-05T19:10:34Z",
+      "distance": 1974.1,
+      "start_index": 24249,
+      "end_index": 24502,
+      "device_watts": false,
+      "segment": {
+        "id": 14223252,
+        "resource_state": 2,
+        "name": "Askeriye \u0131\u015f\u0131klar\u0131 sprint",
+        "activity_type": "Ride",
+        "distance": 1974.1,
+        "average_grade": -1.7,
+        "maximum_grade": -0.2,
+        "elevation_high": 71.0,
+        "elevation_low": 38.1,
+        "start_latlng": [
+          40.726581,
+          30.081721
+        ],
+        "end_latlng": [
+          40.723565,
+          30.104709
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": null,
+        "state": "Kocaeli",
+        "country": "Turkey",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3387853095187000696,
+      "resource_state": 2,
+      "name": "Resting after climb  - Descend",
+      "activity": {
+        "id": 15354626550,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 700,
+      "moving_time": 680,
+      "start_date": "2025-08-05T16:10:38Z",
+      "start_date_local": "2025-08-05T19:10:38Z",
+      "distance": 4669.8,
+      "start_index": 24253,
+      "end_index": 24934,
+      "device_watts": false,
+      "segment": {
+        "id": 13486321,
+        "resource_state": 2,
+        "name": "Resting after climb  - Descend",
+        "activity_type": "Ride",
+        "distance": 4669.8,
+        "average_grade": -0.7,
+        "maximum_grade": 3.0,
+        "elevation_high": 68.0,
+        "elevation_low": 35.4,
+        "start_latlng": [
+          40.726605,
+          30.081966
+        ],
+        "end_latlng": [
+          40.715845,
+          30.133094
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": null,
+        "state": "Kocaeli",
+        "country": "Turkey",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3387853095188102520,
+      "resource_state": 2,
+      "name": "Ac\u0131su I\u015f\u0131klar - Seka kamp \u0131\u015f\u0131klar(gidi\u015f)",
+      "activity": {
+        "id": 15354626550,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 211,
+      "moving_time": 211,
+      "start_date": "2025-08-05T16:18:46Z",
+      "start_date_local": "2025-08-05T19:18:46Z",
+      "distance": 1390.0,
+      "start_index": 24722,
+      "end_index": 24933,
+      "device_watts": false,
+      "segment": {
+        "id": 14234035,
+        "resource_state": 2,
+        "name": "Ac\u0131su I\u015f\u0131klar - Seka kamp \u0131\u015f\u0131klar(gidi\u015f)",
+        "activity_type": "Ride",
+        "distance": 1390.0,
+        "average_grade": -0.5,
+        "maximum_grade": 2.4,
+        "elevation_high": 42.7,
+        "elevation_low": 35.0,
+        "start_latlng": [
+          40.717138,
+          30.116709
+        ],
+        "end_latlng": [
+          40.715938,
+          30.132969
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": null,
+        "state": "Kocaeli",
+        "country": "Turkey",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    }
+  ],
+  "splits_metric": [
+    {
+      "distance": 1002.8,
+      "elapsed_time": 1607,
+      "elevation_difference": -20.6,
+      "moving_time": 351,
+      "split": 1,
+      "average_speed": 2.86,
+      "average_grade_adjusted_speed": 2.77,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1000.5,
+      "elapsed_time": 364,
+      "elevation_difference": 0.8,
+      "moving_time": 274,
+      "split": 2,
+      "average_speed": 3.65,
+      "average_grade_adjusted_speed": 3.66,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1001.1,
+      "elapsed_time": 212,
+      "elevation_difference": -1.0,
+      "moving_time": 212,
+      "split": 3,
+      "average_speed": 4.72,
+      "average_grade_adjusted_speed": 4.72,
+      "pace_zone": 0
+    },
+    {
+      "distance": 999.0,
+      "elapsed_time": 348,
+      "elevation_difference": 0.8,
+      "moving_time": 313,
+      "split": 4,
+      "average_speed": 3.19,
+      "average_grade_adjusted_speed": 3.28,
+      "pace_zone": 0
+    },
+    {
+      "distance": 998.6,
+      "elapsed_time": 999,
+      "elevation_difference": -2.4,
+      "moving_time": 232,
+      "split": 5,
+      "average_speed": 4.3,
+      "average_grade_adjusted_speed": 4.29,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1001.9,
+      "elapsed_time": 288,
+      "elevation_difference": 0.4,
+      "moving_time": 206,
+      "split": 6,
+      "average_speed": 4.86,
+      "average_grade_adjusted_speed": 4.88,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1000.7,
+      "elapsed_time": 204,
+      "elevation_difference": 0.2,
+      "moving_time": 204,
+      "split": 7,
+      "average_speed": 4.91,
+      "average_grade_adjusted_speed": 4.91,
+      "pace_zone": 0
+    },
+    {
+      "distance": 996.0,
+      "elapsed_time": 213,
+      "elevation_difference": 2.0,
+      "moving_time": 213,
+      "split": 8,
+      "average_speed": 4.68,
+      "average_grade_adjusted_speed": 4.71,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1000.7,
+      "elapsed_time": 323,
+      "elevation_difference": -1.4,
+      "moving_time": 225,
+      "split": 9,
+      "average_speed": 4.45,
+      "average_grade_adjusted_speed": 4.53,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1000.9,
+      "elapsed_time": 258,
+      "elevation_difference": -0.6,
+      "moving_time": 206,
+      "split": 10,
+      "average_speed": 4.86,
+      "average_grade_adjusted_speed": 4.86,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1000.0,
+      "elapsed_time": 2496,
+      "elevation_difference": -0.8,
+      "moving_time": 256,
+      "split": 11,
+      "average_speed": 3.91,
+      "average_grade_adjusted_speed": 3.9,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1002.1,
+      "elapsed_time": 207,
+      "elevation_difference": -1.0,
+      "moving_time": 207,
+      "split": 12,
+      "average_speed": 4.84,
+      "average_grade_adjusted_speed": 4.84,
+      "pace_zone": 0
+    },
+    {
+      "distance": 997.6,
+      "elapsed_time": 190,
+      "elevation_difference": 0.0,
+      "moving_time": 190,
+      "split": 13,
+      "average_speed": 5.25,
+      "average_grade_adjusted_speed": 5.25,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1000.7,
+      "elapsed_time": 231,
+      "elevation_difference": -1.2,
+      "moving_time": 231,
+      "split": 14,
+      "average_speed": 4.33,
+      "average_grade_adjusted_speed": 4.33,
+      "pace_zone": 0
+    },
+    {
+      "distance": 999.6,
+      "elapsed_time": 2350,
+      "elevation_difference": 8.4,
+      "moving_time": 291,
+      "split": 15,
+      "average_speed": 3.44,
+      "average_grade_adjusted_speed": 3.56,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1001.7,
+      "elapsed_time": 1700,
+      "elevation_difference": 10.0,
+      "moving_time": 596,
+      "split": 16,
+      "average_speed": 1.68,
+      "average_grade_adjusted_speed": 1.73,
+      "pace_zone": 0
+    },
+    {
+      "distance": 997.2,
+      "elapsed_time": 508,
+      "elevation_difference": -4.2,
+      "moving_time": 274,
+      "split": 17,
+      "average_speed": 3.64,
+      "average_grade_adjusted_speed": 3.67,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1002.8,
+      "elapsed_time": 665,
+      "elevation_difference": 8.6,
+      "moving_time": 280,
+      "split": 18,
+      "average_speed": 3.58,
+      "average_grade_adjusted_speed": 3.71,
+      "pace_zone": 0
+    },
+    {
+      "distance": 996.6,
+      "elapsed_time": 215,
+      "elevation_difference": 2.8,
+      "moving_time": 187,
+      "split": 19,
+      "average_speed": 5.33,
+      "average_grade_adjusted_speed": 5.43,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1000.7,
+      "elapsed_time": 170,
+      "elevation_difference": -1.4,
+      "moving_time": 170,
+      "split": 20,
+      "average_speed": 5.89,
+      "average_grade_adjusted_speed": 5.95,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1001.6,
+      "elapsed_time": 1686,
+      "elevation_difference": -6.2,
+      "moving_time": 411,
+      "split": 21,
+      "average_speed": 2.44,
+      "average_grade_adjusted_speed": 2.49,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1000.8,
+      "elapsed_time": 233,
+      "elevation_difference": -5.4,
+      "moving_time": 229,
+      "split": 22,
+      "average_speed": 4.37,
+      "average_grade_adjusted_speed": 4.38,
+      "pace_zone": 0
+    },
+    {
+      "distance": 997.5,
+      "elapsed_time": 269,
+      "elevation_difference": -4.0,
+      "moving_time": 190,
+      "split": 23,
+      "average_speed": 5.25,
+      "average_grade_adjusted_speed": 5.23,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1001.9,
+      "elapsed_time": 181,
+      "elevation_difference": -1.8,
+      "moving_time": 181,
+      "split": 24,
+      "average_speed": 5.54,
+      "average_grade_adjusted_speed": 5.52,
+      "pace_zone": 0
+    },
+    {
+      "distance": 998.8,
+      "elapsed_time": 176,
+      "elevation_difference": -1.2,
+      "moving_time": 176,
+      "split": 25,
+      "average_speed": 5.68,
+      "average_grade_adjusted_speed": 5.67,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1000.0,
+      "elapsed_time": 183,
+      "elevation_difference": -0.2,
+      "moving_time": 183,
+      "split": 26,
+      "average_speed": 5.46,
+      "average_grade_adjusted_speed": 5.47,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1000.2,
+      "elapsed_time": 2654,
+      "elevation_difference": -3.8,
+      "moving_time": 218,
+      "split": 27,
+      "average_speed": 4.59,
+      "average_grade_adjusted_speed": 4.59,
+      "pace_zone": 0
+    },
+    {
+      "distance": 998.8,
+      "elapsed_time": 182,
+      "elevation_difference": -0.8,
+      "moving_time": 182,
+      "split": 28,
+      "average_speed": 5.49,
+      "average_grade_adjusted_speed": 5.48,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1001.9,
+      "elapsed_time": 205,
+      "elevation_difference": -1.8,
+      "moving_time": 205,
+      "split": 29,
+      "average_speed": 4.89,
+      "average_grade_adjusted_speed": 4.88,
+      "pace_zone": 0
+    },
+    {
+      "distance": 998.1,
+      "elapsed_time": 210,
+      "elevation_difference": 2.6,
+      "moving_time": 210,
+      "split": 30,
+      "average_speed": 4.75,
+      "average_grade_adjusted_speed": 4.79,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1003.0,
+      "elapsed_time": 199,
+      "elevation_difference": -1.0,
+      "moving_time": 199,
+      "split": 31,
+      "average_speed": 5.04,
+      "average_grade_adjusted_speed": 5.06,
+      "pace_zone": 0
+    },
+    {
+      "distance": 997.9,
+      "elapsed_time": 182,
+      "elevation_difference": -0.2,
+      "moving_time": 182,
+      "split": 32,
+      "average_speed": 5.48,
+      "average_grade_adjusted_speed": 5.49,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1001.9,
+      "elapsed_time": 172,
+      "elevation_difference": -0.2,
+      "moving_time": 172,
+      "split": 33,
+      "average_speed": 5.83,
+      "average_grade_adjusted_speed": 5.84,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1000.4,
+      "elapsed_time": 184,
+      "elevation_difference": -1.4,
+      "moving_time": 184,
+      "split": 34,
+      "average_speed": 5.44,
+      "average_grade_adjusted_speed": 5.43,
+      "pace_zone": 0
+    },
+    {
+      "distance": 996.6,
+      "elapsed_time": 200,
+      "elevation_difference": 1.2,
+      "moving_time": 183,
+      "split": 35,
+      "average_speed": 5.45,
+      "average_grade_adjusted_speed": 5.47,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1000.3,
+      "elapsed_time": 179,
+      "elevation_difference": 0.2,
+      "moving_time": 179,
+      "split": 36,
+      "average_speed": 5.59,
+      "average_grade_adjusted_speed": 5.59,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1000.0,
+      "elapsed_time": 220,
+      "elevation_difference": 9.0,
+      "moving_time": 213,
+      "split": 37,
+      "average_speed": 4.69,
+      "average_grade_adjusted_speed": 4.87,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1000.3,
+      "elapsed_time": 211,
+      "elevation_difference": 1.2,
+      "moving_time": 179,
+      "split": 38,
+      "average_speed": 5.59,
+      "average_grade_adjusted_speed": 5.74,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1001.5,
+      "elapsed_time": 162,
+      "elevation_difference": -0.4,
+      "moving_time": 162,
+      "split": 39,
+      "average_speed": 6.18,
+      "average_grade_adjusted_speed": 6.22,
+      "pace_zone": 0
+    },
+    {
+      "distance": 997.6,
+      "elapsed_time": 149,
+      "elevation_difference": -4.6,
+      "moving_time": 149,
+      "split": 40,
+      "average_speed": 6.7,
+      "average_grade_adjusted_speed": 6.66,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1005.7,
+      "elapsed_time": 206,
+      "elevation_difference": -5.4,
+      "moving_time": 158,
+      "split": 41,
+      "average_speed": 6.37,
+      "average_grade_adjusted_speed": 6.32,
+      "pace_zone": 0
+    },
+    {
+      "distance": 998.1,
+      "elapsed_time": 773,
+      "elevation_difference": 2.2,
+      "moving_time": 263,
+      "split": 42,
+      "average_speed": 3.8,
+      "average_grade_adjusted_speed": 3.85,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1000.5,
+      "elapsed_time": 2274,
+      "elevation_difference": 5.2,
+      "moving_time": 245,
+      "split": 43,
+      "average_speed": 4.08,
+      "average_grade_adjusted_speed": 4.13,
+      "pace_zone": 0
+    },
+    {
+      "distance": 995.7,
+      "elapsed_time": 462,
+      "elevation_difference": 14.0,
+      "moving_time": 230,
+      "split": 44,
+      "average_speed": 4.33,
+      "average_grade_adjusted_speed": 4.53,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1001.3,
+      "elapsed_time": 212,
+      "elevation_difference": 7.2,
+      "moving_time": 212,
+      "split": 45,
+      "average_speed": 4.72,
+      "average_grade_adjusted_speed": 4.85,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1001.4,
+      "elapsed_time": 186,
+      "elevation_difference": 20.8,
+      "moving_time": 186,
+      "split": 46,
+      "average_speed": 5.38,
+      "average_grade_adjusted_speed": 5.78,
+      "pace_zone": 0
+    },
+    {
+      "distance": 998.7,
+      "elapsed_time": 151,
+      "elevation_difference": -10.8,
+      "moving_time": 151,
+      "split": 47,
+      "average_speed": 6.61,
+      "average_grade_adjusted_speed": 6.61,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1006.2,
+      "elapsed_time": 147,
+      "elevation_difference": -20.8,
+      "moving_time": 147,
+      "split": 48,
+      "average_speed": 6.84,
+      "average_grade_adjusted_speed": 6.62,
+      "pace_zone": 0
+    },
+    {
+      "distance": 992.5,
+      "elapsed_time": 128,
+      "elevation_difference": -7.0,
+      "moving_time": 128,
+      "split": 49,
+      "average_speed": 7.75,
+      "average_grade_adjusted_speed": 7.67,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1005.1,
+      "elapsed_time": 144,
+      "elevation_difference": 1.8,
+      "moving_time": 144,
+      "split": 50,
+      "average_speed": 6.98,
+      "average_grade_adjusted_speed": 7.01,
+      "pace_zone": 0
+    },
+    {
+      "distance": 997.2,
+      "elapsed_time": 331,
+      "elevation_difference": 17.4,
+      "moving_time": 190,
+      "split": 51,
+      "average_speed": 5.25,
+      "average_grade_adjusted_speed": 5.51,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1000.1,
+      "elapsed_time": 201,
+      "elevation_difference": 14.6,
+      "moving_time": 201,
+      "split": 52,
+      "average_speed": 4.98,
+      "average_grade_adjusted_speed": 5.2,
+      "pace_zone": 0
+    },
+    {
+      "distance": 999.6,
+      "elapsed_time": 384,
+      "elevation_difference": 26.2,
+      "moving_time": 246,
+      "split": 53,
+      "average_speed": 4.06,
+      "average_grade_adjusted_speed": 4.41,
+      "pace_zone": 0
+    },
+    {
+      "distance": 997.7,
+      "elapsed_time": 379,
+      "elevation_difference": 16.8,
+      "moving_time": 235,
+      "split": 54,
+      "average_speed": 4.25,
+      "average_grade_adjusted_speed": 4.47,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1000.5,
+      "elapsed_time": 282,
+      "elevation_difference": 38.0,
+      "moving_time": 251,
+      "split": 55,
+      "average_speed": 3.99,
+      "average_grade_adjusted_speed": 4.5,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1001.9,
+      "elapsed_time": 264,
+      "elevation_difference": 26.2,
+      "moving_time": 257,
+      "split": 56,
+      "average_speed": 3.9,
+      "average_grade_adjusted_speed": 4.29,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1002.2,
+      "elapsed_time": 254,
+      "elevation_difference": 19.8,
+      "moving_time": 254,
+      "split": 57,
+      "average_speed": 3.95,
+      "average_grade_adjusted_speed": 4.2,
+      "pace_zone": 0
+    },
+    {
+      "distance": 999.6,
+      "elapsed_time": 198,
+      "elevation_difference": -2.2,
+      "moving_time": 177,
+      "split": 58,
+      "average_speed": 5.65,
+      "average_grade_adjusted_speed": 5.63,
+      "pace_zone": 0
+    },
+    {
+      "distance": 997.8,
+      "elapsed_time": 147,
+      "elevation_difference": -16.0,
+      "moving_time": 147,
+      "split": 59,
+      "average_speed": 6.79,
+      "average_grade_adjusted_speed": 6.6,
+      "pace_zone": 0
+    },
+    {
+      "distance": 998.2,
+      "elapsed_time": 297,
+      "elevation_difference": 14.2,
+      "moving_time": 289,
+      "split": 60,
+      "average_speed": 3.45,
+      "average_grade_adjusted_speed": 3.7,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1001.5,
+      "elapsed_time": 1610,
+      "elevation_difference": 0.8,
+      "moving_time": 286,
+      "split": 61,
+      "average_speed": 3.5,
+      "average_grade_adjusted_speed": 3.58,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1000.1,
+      "elapsed_time": 192,
+      "elevation_difference": -13.6,
+      "moving_time": 192,
+      "split": 62,
+      "average_speed": 5.21,
+      "average_grade_adjusted_speed": 5.11,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1003.1,
+      "elapsed_time": 201,
+      "elevation_difference": 3.8,
+      "moving_time": 201,
+      "split": 63,
+      "average_speed": 4.99,
+      "average_grade_adjusted_speed": 5.1,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1000.4,
+      "elapsed_time": 153,
+      "elevation_difference": -28.2,
+      "moving_time": 153,
+      "split": 64,
+      "average_speed": 6.54,
+      "average_grade_adjusted_speed": 6.17,
+      "pace_zone": 0
+    },
+    {
+      "distance": 997.3,
+      "elapsed_time": 172,
+      "elevation_difference": -72.8,
+      "moving_time": 129,
+      "split": 65,
+      "average_speed": 7.73,
+      "average_grade_adjusted_speed": 7.02,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1002.1,
+      "elapsed_time": 169,
+      "elevation_difference": -47.6,
+      "moving_time": 166,
+      "split": 66,
+      "average_speed": 6.04,
+      "average_grade_adjusted_speed": 5.7,
+      "pace_zone": 0
+    },
+    {
+      "distance": 997.5,
+      "elapsed_time": 464,
+      "elevation_difference": 2.8,
+      "moving_time": 199,
+      "split": 67,
+      "average_speed": 5.01,
+      "average_grade_adjusted_speed": 5.07,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1000.8,
+      "elapsed_time": 174,
+      "elevation_difference": 14.4,
+      "moving_time": 174,
+      "split": 68,
+      "average_speed": 5.75,
+      "average_grade_adjusted_speed": 6.08,
+      "pace_zone": 0
+    },
+    {
+      "distance": 999.6,
+      "elapsed_time": 256,
+      "elevation_difference": 44.2,
+      "moving_time": 256,
+      "split": 69,
+      "average_speed": 3.9,
+      "average_grade_adjusted_speed": 4.52,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1011.3,
+      "elapsed_time": 117,
+      "elevation_difference": -41.0,
+      "moving_time": 117,
+      "split": 70,
+      "average_speed": 8.64,
+      "average_grade_adjusted_speed": 7.99,
+      "pace_zone": 0
+    },
+    {
+      "distance": 990.3,
+      "elapsed_time": 120,
+      "elevation_difference": -16.0,
+      "moving_time": 120,
+      "split": 71,
+      "average_speed": 8.25,
+      "average_grade_adjusted_speed": 8.01,
+      "pace_zone": 0
+    },
+    {
+      "distance": 998.0,
+      "elapsed_time": 171,
+      "elevation_difference": 4.2,
+      "moving_time": 171,
+      "split": 72,
+      "average_speed": 5.84,
+      "average_grade_adjusted_speed": 5.95,
+      "pace_zone": 0
+    },
+    {
+      "distance": 998.0,
+      "elapsed_time": 269,
+      "elevation_difference": 5.0,
+      "moving_time": 192,
+      "split": 73,
+      "average_speed": 5.2,
+      "average_grade_adjusted_speed": 5.32,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1003.1,
+      "elapsed_time": 243,
+      "elevation_difference": 0.4,
+      "moving_time": 213,
+      "split": 74,
+      "average_speed": 4.71,
+      "average_grade_adjusted_speed": 4.86,
+      "pace_zone": 0
+    },
+    {
+      "distance": 996.6,
+      "elapsed_time": 325,
+      "elevation_difference": -25.6,
+      "moving_time": 264,
+      "split": 75,
+      "average_speed": 3.78,
+      "average_grade_adjusted_speed": 3.71,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1000.7,
+      "elapsed_time": 1552,
+      "elevation_difference": 2.6,
+      "moving_time": 212,
+      "split": 76,
+      "average_speed": 4.72,
+      "average_grade_adjusted_speed": 4.8,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1000.6,
+      "elapsed_time": 173,
+      "elevation_difference": -0.6,
+      "moving_time": 173,
+      "split": 77,
+      "average_speed": 5.78,
+      "average_grade_adjusted_speed": 5.79,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1002.6,
+      "elapsed_time": 300,
+      "elevation_difference": 1.6,
+      "moving_time": 253,
+      "split": 78,
+      "average_speed": 3.96,
+      "average_grade_adjusted_speed": 4.0,
+      "pace_zone": 0
+    },
+    {
+      "distance": 998.8,
+      "elapsed_time": 211,
+      "elevation_difference": -3.2,
+      "moving_time": 211,
+      "split": 79,
+      "average_speed": 4.73,
+      "average_grade_adjusted_speed": 4.73,
+      "pace_zone": 0
+    },
+    {
+      "distance": 999.0,
+      "elapsed_time": 281,
+      "elevation_difference": 3.6,
+      "moving_time": 243,
+      "split": 80,
+      "average_speed": 4.11,
+      "average_grade_adjusted_speed": 4.22,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1002.3,
+      "elapsed_time": 166,
+      "elevation_difference": 1.6,
+      "moving_time": 166,
+      "split": 81,
+      "average_speed": 6.04,
+      "average_grade_adjusted_speed": 6.09,
+      "pace_zone": 0
+    },
+    {
+      "distance": 998.6,
+      "elapsed_time": 173,
+      "elevation_difference": 1.0,
+      "moving_time": 173,
+      "split": 82,
+      "average_speed": 5.77,
+      "average_grade_adjusted_speed": 5.83,
+      "pace_zone": 0
+    },
+    {
+      "distance": 998.5,
+      "elapsed_time": 204,
+      "elevation_difference": -2.4,
+      "moving_time": 178,
+      "split": 83,
+      "average_speed": 5.61,
+      "average_grade_adjusted_speed": 5.63,
+      "pace_zone": 0
+    },
+    {
+      "distance": 999.8,
+      "elapsed_time": 211,
+      "elevation_difference": 1.6,
+      "moving_time": 211,
+      "split": 84,
+      "average_speed": 4.74,
+      "average_grade_adjusted_speed": 4.85,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1001.1,
+      "elapsed_time": 215,
+      "elevation_difference": 10.4,
+      "moving_time": 215,
+      "split": 85,
+      "average_speed": 4.66,
+      "average_grade_adjusted_speed": 4.79,
+      "pace_zone": 0
+    },
+    {
+      "distance": 999.3,
+      "elapsed_time": 275,
+      "elevation_difference": -6.6,
+      "moving_time": 222,
+      "split": 86,
+      "average_speed": 4.5,
+      "average_grade_adjusted_speed": 4.46,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1001.4,
+      "elapsed_time": 5206,
+      "elevation_difference": 15.2,
+      "moving_time": 266,
+      "split": 87,
+      "average_speed": 3.76,
+      "average_grade_adjusted_speed": 3.75,
+      "pace_zone": 0
+    },
+    {
+      "distance": 998.6,
+      "elapsed_time": 219,
+      "elevation_difference": 12.4,
+      "moving_time": 219,
+      "split": 88,
+      "average_speed": 4.56,
+      "average_grade_adjusted_speed": 4.71,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1001.3,
+      "elapsed_time": 222,
+      "elevation_difference": 16.8,
+      "moving_time": 213,
+      "split": 89,
+      "average_speed": 4.7,
+      "average_grade_adjusted_speed": 4.95,
+      "pace_zone": 0
+    },
+    {
+      "distance": 999.4,
+      "elapsed_time": 180,
+      "elevation_difference": -1.0,
+      "moving_time": 180,
+      "split": 90,
+      "average_speed": 5.55,
+      "average_grade_adjusted_speed": 5.56,
+      "pace_zone": 0
+    },
+    {
+      "distance": 998.8,
+      "elapsed_time": 188,
+      "elevation_difference": -6.8,
+      "moving_time": 188,
+      "split": 91,
+      "average_speed": 5.31,
+      "average_grade_adjusted_speed": 5.33,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1003.8,
+      "elapsed_time": 209,
+      "elevation_difference": 9.8,
+      "moving_time": 195,
+      "split": 92,
+      "average_speed": 5.15,
+      "average_grade_adjusted_speed": 5.29,
+      "pace_zone": 0
+    },
+    {
+      "distance": 998.6,
+      "elapsed_time": 188,
+      "elevation_difference": -4.0,
+      "moving_time": 160,
+      "split": 93,
+      "average_speed": 6.24,
+      "average_grade_adjusted_speed": 6.2,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1002.2,
+      "elapsed_time": 154,
+      "elevation_difference": -0.2,
+      "moving_time": 154,
+      "split": 94,
+      "average_speed": 6.51,
+      "average_grade_adjusted_speed": 6.59,
+      "pace_zone": 0
+    },
+    {
+      "distance": 994.6,
+      "elapsed_time": 128,
+      "elevation_difference": -20.8,
+      "moving_time": 128,
+      "split": 95,
+      "average_speed": 7.77,
+      "average_grade_adjusted_speed": 7.45,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1001.4,
+      "elapsed_time": 186,
+      "elevation_difference": 2.0,
+      "moving_time": 178,
+      "split": 96,
+      "average_speed": 5.63,
+      "average_grade_adjusted_speed": 5.69,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1000.4,
+      "elapsed_time": 151,
+      "elevation_difference": -1.0,
+      "moving_time": 151,
+      "split": 97,
+      "average_speed": 6.63,
+      "average_grade_adjusted_speed": 6.62,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1003.7,
+      "elapsed_time": 253,
+      "elevation_difference": -2.2,
+      "moving_time": 184,
+      "split": 98,
+      "average_speed": 5.45,
+      "average_grade_adjusted_speed": 5.48,
+      "pace_zone": 0
+    },
+    {
+      "distance": 999.0,
+      "elapsed_time": 167,
+      "elevation_difference": -5.0,
+      "moving_time": 167,
+      "split": 99,
+      "average_speed": 5.98,
+      "average_grade_adjusted_speed": 5.93,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1000.6,
+      "elapsed_time": 219,
+      "elevation_difference": -5.4,
+      "moving_time": 215,
+      "split": 100,
+      "average_speed": 4.65,
+      "average_grade_adjusted_speed": 4.68,
+      "pace_zone": 0
+    },
+    {
+      "distance": 999.7,
+      "elapsed_time": 174,
+      "elevation_difference": 0.4,
+      "moving_time": 174,
+      "split": 101,
+      "average_speed": 5.75,
+      "average_grade_adjusted_speed": 5.76,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1000.5,
+      "elapsed_time": 179,
+      "elevation_difference": 1.4,
+      "moving_time": 179,
+      "split": 102,
+      "average_speed": 5.59,
+      "average_grade_adjusted_speed": 5.61,
+      "pace_zone": 0
+    },
+    {
+      "distance": 996.9,
+      "elapsed_time": 427,
+      "elevation_difference": -2.4,
+      "moving_time": 236,
+      "split": 103,
+      "average_speed": 4.22,
+      "average_grade_adjusted_speed": 4.21,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1000.4,
+      "elapsed_time": 269,
+      "elevation_difference": 0.0,
+      "moving_time": 237,
+      "split": 104,
+      "average_speed": 4.22,
+      "average_grade_adjusted_speed": 4.23,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1000.9,
+      "elapsed_time": 1388,
+      "elevation_difference": -0.4,
+      "moving_time": 259,
+      "split": 105,
+      "average_speed": 3.86,
+      "average_grade_adjusted_speed": 3.87,
+      "pace_zone": 0
+    },
+    {
+      "distance": 996.6,
+      "elapsed_time": 178,
+      "elevation_difference": -0.6,
+      "moving_time": 178,
+      "split": 106,
+      "average_speed": 5.6,
+      "average_grade_adjusted_speed": 5.6,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1004.1,
+      "elapsed_time": 141,
+      "elevation_difference": 0.6,
+      "moving_time": 141,
+      "split": 107,
+      "average_speed": 7.12,
+      "average_grade_adjusted_speed": 7.21,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1002.6,
+      "elapsed_time": 135,
+      "elevation_difference": 2.2,
+      "moving_time": 135,
+      "split": 108,
+      "average_speed": 7.43,
+      "average_grade_adjusted_speed": 7.52,
+      "pace_zone": 0
+    },
+    {
+      "distance": 996.0,
+      "elapsed_time": 115,
+      "elevation_difference": -2.0,
+      "moving_time": 115,
+      "split": 109,
+      "average_speed": 8.66,
+      "average_grade_adjusted_speed": 8.64,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1001.0,
+      "elapsed_time": 128,
+      "elevation_difference": 4.2,
+      "moving_time": 128,
+      "split": 110,
+      "average_speed": 7.82,
+      "average_grade_adjusted_speed": 7.9,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1004.1,
+      "elapsed_time": 133,
+      "elevation_difference": -1.6,
+      "moving_time": 133,
+      "split": 111,
+      "average_speed": 7.55,
+      "average_grade_adjusted_speed": 7.56,
+      "pace_zone": 0
+    },
+    {
+      "distance": 992.3,
+      "elapsed_time": 134,
+      "elevation_difference": 7.8,
+      "moving_time": 134,
+      "split": 112,
+      "average_speed": 7.41,
+      "average_grade_adjusted_speed": 7.54,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1002.2,
+      "elapsed_time": 146,
+      "elevation_difference": -1.8,
+      "moving_time": 146,
+      "split": 113,
+      "average_speed": 6.86,
+      "average_grade_adjusted_speed": 6.85,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1000.9,
+      "elapsed_time": 148,
+      "elevation_difference": 5.0,
+      "moving_time": 148,
+      "split": 114,
+      "average_speed": 6.76,
+      "average_grade_adjusted_speed": 6.89,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1002.0,
+      "elapsed_time": 135,
+      "elevation_difference": 0.4,
+      "moving_time": 135,
+      "split": 115,
+      "average_speed": 7.42,
+      "average_grade_adjusted_speed": 7.43,
+      "pace_zone": 0
+    },
+    {
+      "distance": 996.8,
+      "elapsed_time": 154,
+      "elevation_difference": 4.2,
+      "moving_time": 154,
+      "split": 116,
+      "average_speed": 6.47,
+      "average_grade_adjusted_speed": 6.54,
+      "pace_zone": 0
+    },
+    {
+      "distance": 998.9,
+      "elapsed_time": 186,
+      "elevation_difference": 20.0,
+      "moving_time": 186,
+      "split": 117,
+      "average_speed": 5.37,
+      "average_grade_adjusted_speed": 5.69,
+      "pace_zone": 0
+    },
+    {
+      "distance": 999.4,
+      "elapsed_time": 234,
+      "elevation_difference": 0.4,
+      "moving_time": 183,
+      "split": 118,
+      "average_speed": 5.46,
+      "average_grade_adjusted_speed": 5.49,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1000.0,
+      "elapsed_time": 191,
+      "elevation_difference": 17.8,
+      "moving_time": 191,
+      "split": 119,
+      "average_speed": 5.24,
+      "average_grade_adjusted_speed": 5.49,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1002.6,
+      "elapsed_time": 198,
+      "elevation_difference": 4.4,
+      "moving_time": 198,
+      "split": 120,
+      "average_speed": 5.06,
+      "average_grade_adjusted_speed": 5.13,
+      "pace_zone": 0
+    },
+    {
+      "distance": 998.1,
+      "elapsed_time": 120,
+      "elevation_difference": -18.8,
+      "moving_time": 120,
+      "split": 121,
+      "average_speed": 8.32,
+      "average_grade_adjusted_speed": 8.0,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1001.6,
+      "elapsed_time": 133,
+      "elevation_difference": -8.2,
+      "moving_time": 133,
+      "split": 122,
+      "average_speed": 7.53,
+      "average_grade_adjusted_speed": 7.42,
+      "pace_zone": 0
+    },
+    {
+      "distance": 999.1,
+      "elapsed_time": 199,
+      "elevation_difference": 3.4,
+      "moving_time": 180,
+      "split": 123,
+      "average_speed": 5.55,
+      "average_grade_adjusted_speed": 5.6,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1000.9,
+      "elapsed_time": 153,
+      "elevation_difference": -2.8,
+      "moving_time": 153,
+      "split": 124,
+      "average_speed": 6.54,
+      "average_grade_adjusted_speed": 6.52,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1001.2,
+      "elapsed_time": 206,
+      "elevation_difference": -0.2,
+      "moving_time": 170,
+      "split": 125,
+      "average_speed": 5.89,
+      "average_grade_adjusted_speed": 5.9,
+      "pace_zone": 0
+    },
+    {
+      "distance": 997.6,
+      "elapsed_time": 514,
+      "elevation_difference": -3.4,
+      "moving_time": 223,
+      "split": 126,
+      "average_speed": 4.47,
+      "average_grade_adjusted_speed": 4.48,
+      "pace_zone": 0
+    },
+    {
+      "distance": 140.9,
+      "elapsed_time": 51,
+      "elevation_difference": -2.6,
+      "moving_time": 42,
+      "split": 127,
+      "average_speed": 3.35,
+      "average_grade_adjusted_speed": 3.23,
+      "pace_zone": 0
+    }
+  ],
+  "splits_standard": [
+    {
+      "distance": 1610.2,
+      "elapsed_time": 1771,
+      "elevation_difference": -21.0,
+      "moving_time": 515,
+      "split": 1,
+      "average_speed": 3.13,
+      "average_grade_adjusted_speed": 3.07,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1610.8,
+      "elapsed_time": 471,
+      "elevation_difference": 2.0,
+      "moving_time": 381,
+      "split": 2,
+      "average_speed": 4.23,
+      "average_grade_adjusted_speed": 4.25,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1609.1,
+      "elapsed_time": 1254,
+      "elevation_difference": -3.4,
+      "moving_time": 452,
+      "split": 3,
+      "average_speed": 3.56,
+      "average_grade_adjusted_speed": 3.6,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1607.6,
+      "elapsed_time": 412,
+      "elevation_difference": 0.6,
+      "moving_time": 330,
+      "split": 4,
+      "average_speed": 4.87,
+      "average_grade_adjusted_speed": 4.89,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1610.7,
+      "elapsed_time": 339,
+      "elevation_difference": 3.6,
+      "moving_time": 339,
+      "split": 5,
+      "average_speed": 4.75,
+      "average_grade_adjusted_speed": 4.79,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1609.2,
+      "elapsed_time": 443,
+      "elevation_difference": -3.4,
+      "moving_time": 345,
+      "split": 6,
+      "average_speed": 4.66,
+      "average_grade_adjusted_speed": 4.7,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1612.6,
+      "elapsed_time": 2681,
+      "elevation_difference": -1.2,
+      "moving_time": 389,
+      "split": 7,
+      "average_speed": 4.15,
+      "average_grade_adjusted_speed": 4.14,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1606.1,
+      "elapsed_time": 314,
+      "elevation_difference": -0.6,
+      "moving_time": 314,
+      "split": 8,
+      "average_speed": 5.11,
+      "average_grade_adjusted_speed": 5.11,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1609.7,
+      "elapsed_time": 2294,
+      "elevation_difference": -0.8,
+      "moving_time": 362,
+      "split": 9,
+      "average_speed": 4.45,
+      "average_grade_adjusted_speed": 4.45,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1607.8,
+      "elapsed_time": 2035,
+      "elevation_difference": 20.2,
+      "moving_time": 804,
+      "split": 10,
+      "average_speed": 2.0,
+      "average_grade_adjusted_speed": 2.09,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1613.9,
+      "elapsed_time": 1021,
+      "elevation_difference": -6.4,
+      "moving_time": 457,
+      "split": 11,
+      "average_speed": 3.53,
+      "average_grade_adjusted_speed": 3.55,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1606.3,
+      "elapsed_time": 396,
+      "elevation_difference": 3.8,
+      "moving_time": 313,
+      "split": 12,
+      "average_speed": 5.13,
+      "average_grade_adjusted_speed": 5.24,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1608.3,
+      "elapsed_time": 1783,
+      "elevation_difference": -0.4,
+      "moving_time": 508,
+      "split": 13,
+      "average_speed": 3.17,
+      "average_grade_adjusted_speed": 3.26,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1614.2,
+      "elapsed_time": 329,
+      "elevation_difference": -9.2,
+      "moving_time": 325,
+      "split": 14,
+      "average_speed": 4.97,
+      "average_grade_adjusted_speed": 4.96,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1607.0,
+      "elapsed_time": 397,
+      "elevation_difference": -1.6,
+      "moving_time": 318,
+      "split": 15,
+      "average_speed": 5.05,
+      "average_grade_adjusted_speed": 5.05,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1610.1,
+      "elapsed_time": 291,
+      "elevation_difference": -1.8,
+      "moving_time": 291,
+      "split": 16,
+      "average_speed": 5.53,
+      "average_grade_adjusted_speed": 5.53,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1607.6,
+      "elapsed_time": 2766,
+      "elevation_difference": -4.6,
+      "moving_time": 330,
+      "split": 17,
+      "average_speed": 4.87,
+      "average_grade_adjusted_speed": 4.87,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1609.4,
+      "elapsed_time": 312,
+      "elevation_difference": -1.6,
+      "moving_time": 312,
+      "split": 18,
+      "average_speed": 5.16,
+      "average_grade_adjusted_speed": 5.16,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1610.7,
+      "elapsed_time": 331,
+      "elevation_difference": 2.0,
+      "moving_time": 331,
+      "split": 19,
+      "average_speed": 4.87,
+      "average_grade_adjusted_speed": 4.89,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1609.4,
+      "elapsed_time": 302,
+      "elevation_difference": -0.8,
+      "moving_time": 302,
+      "split": 20,
+      "average_speed": 5.33,
+      "average_grade_adjusted_speed": 5.35,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1610.7,
+      "elapsed_time": 286,
+      "elevation_difference": -1.4,
+      "moving_time": 286,
+      "split": 21,
+      "average_speed": 5.63,
+      "average_grade_adjusted_speed": 5.63,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1606.1,
+      "elapsed_time": 305,
+      "elevation_difference": 1.6,
+      "moving_time": 288,
+      "split": 22,
+      "average_speed": 5.58,
+      "average_grade_adjusted_speed": 5.59,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1612.3,
+      "elapsed_time": 333,
+      "elevation_difference": 8.8,
+      "moving_time": 326,
+      "split": 23,
+      "average_speed": 4.95,
+      "average_grade_adjusted_speed": 5.06,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1607.2,
+      "elapsed_time": 299,
+      "elevation_difference": -2.0,
+      "moving_time": 267,
+      "split": 24,
+      "average_speed": 6.02,
+      "average_grade_adjusted_speed": 6.12,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1607.5,
+      "elapsed_time": 254,
+      "elevation_difference": -3.4,
+      "moving_time": 254,
+      "split": 25,
+      "average_speed": 6.33,
+      "average_grade_adjusted_speed": 6.32,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1608.8,
+      "elapsed_time": 910,
+      "elevation_difference": -0.2,
+      "moving_time": 352,
+      "split": 26,
+      "average_speed": 4.57,
+      "average_grade_adjusted_speed": 4.6,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1609.4,
+      "elapsed_time": 2433,
+      "elevation_difference": 10.0,
+      "moving_time": 380,
+      "split": 27,
+      "average_speed": 4.24,
+      "average_grade_adjusted_speed": 4.32,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1611.7,
+      "elapsed_time": 556,
+      "elevation_difference": 12.6,
+      "moving_time": 348,
+      "split": 28,
+      "average_speed": 4.63,
+      "average_grade_adjusted_speed": 4.76,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1606.8,
+      "elapsed_time": 290,
+      "elevation_difference": 12.8,
+      "moving_time": 290,
+      "split": 29,
+      "average_speed": 5.54,
+      "average_grade_adjusted_speed": 5.76,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1616.1,
+      "elapsed_time": 214,
+      "elevation_difference": -28.0,
+      "moving_time": 214,
+      "split": 30,
+      "average_speed": 7.55,
+      "average_grade_adjusted_speed": 7.41,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1602.7,
+      "elapsed_time": 230,
+      "elevation_difference": 1.4,
+      "moving_time": 230,
+      "split": 31,
+      "average_speed": 6.97,
+      "average_grade_adjusted_speed": 6.99,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1611.6,
+      "elapsed_time": 447,
+      "elevation_difference": 26.2,
+      "moving_time": 306,
+      "split": 32,
+      "average_speed": 5.27,
+      "average_grade_adjusted_speed": 5.51,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1610.1,
+      "elapsed_time": 512,
+      "elevation_difference": 35.2,
+      "moving_time": 374,
+      "split": 33,
+      "average_speed": 4.31,
+      "average_grade_adjusted_speed": 4.61,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1607.4,
+      "elapsed_time": 523,
+      "elevation_difference": 39.8,
+      "moving_time": 379,
+      "split": 34,
+      "average_speed": 4.24,
+      "average_grade_adjusted_speed": 4.59,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1610.3,
+      "elapsed_time": 481,
+      "elevation_difference": 50.8,
+      "moving_time": 443,
+      "split": 35,
+      "average_speed": 3.63,
+      "average_grade_adjusted_speed": 4.05,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1609.7,
+      "elapsed_time": 336,
+      "elevation_difference": 4.8,
+      "moving_time": 315,
+      "split": 36,
+      "average_speed": 5.11,
+      "average_grade_adjusted_speed": 5.16,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1609.8,
+      "elapsed_time": 351,
+      "elevation_difference": 8.0,
+      "moving_time": 343,
+      "split": 37,
+      "average_speed": 4.69,
+      "average_grade_adjusted_speed": 4.87,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1609.5,
+      "elapsed_time": 1750,
+      "elevation_difference": -8.0,
+      "moving_time": 426,
+      "split": 38,
+      "average_speed": 3.78,
+      "average_grade_adjusted_speed": 3.79,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1608.3,
+      "elapsed_time": 313,
+      "elevation_difference": -5.8,
+      "moving_time": 313,
+      "split": 39,
+      "average_speed": 5.14,
+      "average_grade_adjusted_speed": 5.17,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1612.8,
+      "elapsed_time": 306,
+      "elevation_difference": -42.2,
+      "moving_time": 263,
+      "split": 40,
+      "average_speed": 6.13,
+      "average_grade_adjusted_speed": 5.82,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1605.0,
+      "elapsed_time": 228,
+      "elevation_difference": -111.0,
+      "moving_time": 225,
+      "split": 41,
+      "average_speed": 7.13,
+      "average_grade_adjusted_speed": 6.55,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1612.5,
+      "elapsed_time": 551,
+      "elevation_difference": 0.2,
+      "moving_time": 286,
+      "split": 42,
+      "average_speed": 5.64,
+      "average_grade_adjusted_speed": 5.68,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1606.9,
+      "elapsed_time": 393,
+      "elevation_difference": 61.8,
+      "moving_time": 393,
+      "split": 43,
+      "average_speed": 4.09,
+      "average_grade_adjusted_speed": 4.64,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1608.8,
+      "elapsed_time": 166,
+      "elevation_difference": -50.8,
+      "moving_time": 166,
+      "split": 44,
+      "average_speed": 9.69,
+      "average_grade_adjusted_speed": 9.12,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1610.2,
+      "elapsed_time": 273,
+      "elevation_difference": -4.4,
+      "moving_time": 273,
+      "split": 45,
+      "average_speed": 5.9,
+      "average_grade_adjusted_speed": 5.91,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1608.7,
+      "elapsed_time": 441,
+      "elevation_difference": 3.4,
+      "moving_time": 334,
+      "split": 46,
+      "average_speed": 4.82,
+      "average_grade_adjusted_speed": 4.99,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1612.1,
+      "elapsed_time": 1819,
+      "elevation_difference": -17.2,
+      "moving_time": 418,
+      "split": 47,
+      "average_speed": 3.86,
+      "average_grade_adjusted_speed": 3.86,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1608.8,
+      "elapsed_time": 277,
+      "elevation_difference": -1.4,
+      "moving_time": 277,
+      "split": 48,
+      "average_speed": 5.81,
+      "average_grade_adjusted_speed": 5.81,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1606.4,
+      "elapsed_time": 428,
+      "elevation_difference": -3.4,
+      "moving_time": 381,
+      "split": 49,
+      "average_speed": 4.22,
+      "average_grade_adjusted_speed": 4.23,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1612.3,
+      "elapsed_time": 385,
+      "elevation_difference": 5.6,
+      "moving_time": 347,
+      "split": 50,
+      "average_speed": 4.65,
+      "average_grade_adjusted_speed": 4.74,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1608.6,
+      "elapsed_time": 283,
+      "elevation_difference": 1.2,
+      "moving_time": 283,
+      "split": 51,
+      "average_speed": 5.68,
+      "average_grade_adjusted_speed": 5.73,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1607.6,
+      "elapsed_time": 334,
+      "elevation_difference": -1.6,
+      "moving_time": 308,
+      "split": 52,
+      "average_speed": 5.22,
+      "average_grade_adjusted_speed": 5.3,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1609.7,
+      "elapsed_time": 401,
+      "elevation_difference": 10.8,
+      "moving_time": 350,
+      "split": 53,
+      "average_speed": 4.6,
+      "average_grade_adjusted_speed": 4.7,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1610.4,
+      "elapsed_time": 5342,
+      "elevation_difference": 10.0,
+      "moving_time": 400,
+      "split": 54,
+      "average_speed": 4.03,
+      "average_grade_adjusted_speed": 3.99,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1608.9,
+      "elapsed_time": 352,
+      "elevation_difference": 12.6,
+      "moving_time": 352,
+      "split": 55,
+      "average_speed": 4.57,
+      "average_grade_adjusted_speed": 4.67,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1609.6,
+      "elapsed_time": 310,
+      "elevation_difference": 16.2,
+      "moving_time": 301,
+      "split": 56,
+      "average_speed": 5.35,
+      "average_grade_adjusted_speed": 5.53,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1610.6,
+      "elapsed_time": 326,
+      "elevation_difference": -1.8,
+      "moving_time": 312,
+      "split": 57,
+      "average_speed": 5.16,
+      "average_grade_adjusted_speed": 5.22,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1609.6,
+      "elapsed_time": 290,
+      "elevation_difference": 4.6,
+      "moving_time": 262,
+      "split": 58,
+      "average_speed": 6.14,
+      "average_grade_adjusted_speed": 6.21,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1606.9,
+      "elapsed_time": 219,
+      "elevation_difference": -26.2,
+      "moving_time": 219,
+      "split": 59,
+      "average_speed": 7.34,
+      "average_grade_adjusted_speed": 7.14,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1612.6,
+      "elapsed_time": 272,
+      "elevation_difference": -0.8,
+      "moving_time": 264,
+      "split": 60,
+      "average_speed": 6.11,
+      "average_grade_adjusted_speed": 6.14,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1605.2,
+      "elapsed_time": 343,
+      "elevation_difference": -8.4,
+      "moving_time": 274,
+      "split": 61,
+      "average_speed": 5.86,
+      "average_grade_adjusted_speed": 5.83,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1611.9,
+      "elapsed_time": 326,
+      "elevation_difference": -3.2,
+      "moving_time": 322,
+      "split": 62,
+      "average_speed": 5.01,
+      "average_grade_adjusted_speed": 5.04,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1606.4,
+      "elapsed_time": 282,
+      "elevation_difference": 1.4,
+      "moving_time": 282,
+      "split": 63,
+      "average_speed": 5.7,
+      "average_grade_adjusted_speed": 5.71,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1613.0,
+      "elapsed_time": 540,
+      "elevation_difference": -1.6,
+      "moving_time": 349,
+      "split": 64,
+      "average_speed": 4.62,
+      "average_grade_adjusted_speed": 4.62,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1606.9,
+      "elapsed_time": 1540,
+      "elevation_difference": -1.2,
+      "moving_time": 391,
+      "split": 65,
+      "average_speed": 4.11,
+      "average_grade_adjusted_speed": 4.11,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1611.7,
+      "elapsed_time": 333,
+      "elevation_difference": 5.0,
+      "moving_time": 321,
+      "split": 66,
+      "average_speed": 5.02,
+      "average_grade_adjusted_speed": 5.08,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1608.3,
+      "elapsed_time": 217,
+      "elevation_difference": 3.4,
+      "moving_time": 217,
+      "split": 67,
+      "average_speed": 7.41,
+      "average_grade_adjusted_speed": 7.5,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1606.7,
+      "elapsed_time": 190,
+      "elevation_difference": -7.0,
+      "moving_time": 190,
+      "split": 68,
+      "average_speed": 8.46,
+      "average_grade_adjusted_speed": 8.4,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1612.0,
+      "elapsed_time": 212,
+      "elevation_difference": 2.2,
+      "moving_time": 212,
+      "split": 69,
+      "average_speed": 7.6,
+      "average_grade_adjusted_speed": 7.65,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1607.9,
+      "elapsed_time": 232,
+      "elevation_difference": 7.4,
+      "moving_time": 232,
+      "split": 70,
+      "average_speed": 6.93,
+      "average_grade_adjusted_speed": 7.01,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1613.8,
+      "elapsed_time": 231,
+      "elevation_difference": 3.6,
+      "moving_time": 231,
+      "split": 71,
+      "average_speed": 6.99,
+      "average_grade_adjusted_speed": 7.06,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1605.0,
+      "elapsed_time": 231,
+      "elevation_difference": 5.4,
+      "moving_time": 231,
+      "split": 72,
+      "average_speed": 6.95,
+      "average_grade_adjusted_speed": 7.0,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1609.6,
+      "elapsed_time": 347,
+      "elevation_difference": 20.0,
+      "moving_time": 296,
+      "split": 73,
+      "average_speed": 5.44,
+      "average_grade_adjusted_speed": 5.66,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1612.1,
+      "elapsed_time": 300,
+      "elevation_difference": 18.4,
+      "moving_time": 300,
+      "split": 74,
+      "average_speed": 5.37,
+      "average_grade_adjusted_speed": 5.55,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1613.2,
+      "elapsed_time": 268,
+      "elevation_difference": -12.0,
+      "moving_time": 268,
+      "split": 75,
+      "average_speed": 6.02,
+      "average_grade_adjusted_speed": 5.94,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1603.9,
+      "elapsed_time": 215,
+      "elevation_difference": -8.0,
+      "moving_time": 215,
+      "split": 76,
+      "average_speed": 7.46,
+      "average_grade_adjusted_speed": 7.4,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1608.3,
+      "elapsed_time": 290,
+      "elevation_difference": -3.4,
+      "moving_time": 271,
+      "split": 77,
+      "average_speed": 5.93,
+      "average_grade_adjusted_speed": 5.92,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1609.7,
+      "elapsed_time": 315,
+      "elevation_difference": 0.6,
+      "moving_time": 279,
+      "split": 78,
+      "average_speed": 5.77,
+      "average_grade_adjusted_speed": 5.79,
+      "pace_zone": 0
+    },
+    {
+      "distance": 611.1,
+      "elapsed_time": 468,
+      "elevation_difference": -6.4,
+      "moving_time": 168,
+      "split": 79,
+      "average_speed": 3.64,
+      "average_grade_adjusted_speed": 3.6,
+      "pace_zone": 0
+    }
+  ],
+  "laps": [
+    {
+      "id": 54638565700,
+      "resource_state": 2,
+      "name": "Lap 1",
+      "activity": {
+        "id": 15354626550,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 51041,
+      "moving_time": 25315,
+      "start_date": "2025-08-05T02:23:34Z",
+      "start_date_local": "2025-08-05T05:23:34Z",
+      "distance": 126172.0,
+      "average_speed": 4.98,
+      "max_speed": 15.26,
+      "lap_index": 1,
+      "split": 1,
+      "start_index": 0,
+      "end_index": 25315,
+      "total_elevation_gain": 879.8,
+      "device_watts": false,
+      "average_watts": 104.6
+    }
+  ],
+  "gear": {
+    "id": "b16337781",
+    "primary": false,
+    "name": "Betty (Milan ->)",
+    "nickname": "Betty (Milan ->)",
+    "resource_state": 2,
+    "retired": false,
+    "distance": 9056030,
+    "converted_distance": 9056.0
+  },
+  "photos": {
+    "primary": {
+      "unique_id": "b6e34dee-9f8f-41a0-943f-c77e80e04fef",
+      "urls": {
+        "600": "https://dgtzuqphqg23d.cloudfront.net/a_nnjMwxsTtyvz9O8i7hfHeRlxWBrLhIGRaGJXtHai0-432x768.jpg",
+        "100": "https://dgtzuqphqg23d.cloudfront.net/a_nnjMwxsTtyvz9O8i7hfHeRlxWBrLhIGRaGJXtHai0-72x128.jpg"
+      },
+      "source": 1,
+      "media_type": 1
+    },
+    "use_primary_photo": false,
+    "count": 3
+  },
+  "stats_visibility": [
+    {
+      "type": "heart_rate",
+      "visibility": "everyone"
+    },
+    {
+      "type": "pace",
+      "visibility": "everyone"
+    },
+    {
+      "type": "power",
+      "visibility": "everyone"
+    },
+    {
+      "type": "speed",
+      "visibility": "everyone"
+    },
+    {
+      "type": "calories",
+      "visibility": "everyone"
+    }
+  ],
+  "hide_from_home": false,
+  "embed_token": "feec23953c2389f75b11aabac567ea9ad62464cf",
+  "available_zones": [
+    "power"
+  ]
+}

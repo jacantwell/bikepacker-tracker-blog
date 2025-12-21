@@ -1,0 +1,228 @@
+{
+  "resource_state": 3,
+  "athlete": {
+    "id": 49023768,
+    "resource_state": 1
+  },
+  "name": "Evening Ride",
+  "distance": 4289.4,
+  "moving_time": 1131,
+  "elapsed_time": 1380,
+  "total_elevation_gain": 17.0,
+  "type": "Ride",
+  "sport_type": "Ride",
+  "workout_type": null,
+  "device_name": "Garmin Edge 540",
+  "id": 15797932654,
+  "start_date": "2025-09-13T14:03:24Z",
+  "start_date_local": "2025-09-13T19:03:24Z",
+  "timezone": "(GMT+05:00) Asia/Aqtau",
+  "utc_offset": 18000.0,
+  "location_city": null,
+  "location_state": null,
+  "location_country": null,
+  "achievement_count": 0,
+  "kudos_count": 4,
+  "comment_count": 0,
+  "athlete_count": 1,
+  "photo_count": 0,
+  "map": {
+    "id": "a15797932654",
+    "polyline": "qv`iGmw~|HMXOf@ILKDo@WmAa@{@]yCaAq@WIGGO@Qb@aD?e@Mg@ISWWk@]eBy@EEGU?KJoAAIGQGESGQ?qCn@aAPoAVg@R_GxAc@FwA\\mARuCr@a@Na@Di@PsAZs@TcE|@uA^w@NcCn@{Cx@yBv@mPpGqE~A_A`@aBl@iEfBcAVMHKB[ZODWPy@`@}E~AqFtBe@T}@v@oBzBe@^aAp@yAh@u@ZsDjAgBt@a@L{B|@sHjCsB~@w@VeAd@i@\\STo@v@OVe@d@MVKl@Dt@IP?NR`DFj@\\tB@zAGrBSpAF|@Qj@Ef@Q|@QRKVW`AD\\DFN`@Df@",
+    "resource_state": 3,
+    "summary_polyline": "qv`iGmw~|HMXOf@ILKDo@WmAa@{@]yCaAq@WIGGO@Qb@aD?e@Mg@ISWWk@]eBy@EEGU?KJoAAIGQGESGQ?qCn@aAPoAVg@R_GxAc@FwA\\mARuCr@a@Na@Di@PsAZs@TcE|@uA^w@NcCn@{Cx@yBv@mPpGqE~A_A`@aBl@iEfBcAVMHKB[ZODWPy@`@}E~AqFtBe@T}@v@oBzBe@^aAp@yAh@u@ZsDjAgBt@a@L{B|@sHjCsB~@w@VeAd@i@\\STo@v@OVe@d@MVKl@Dt@IP?NR`DFj@\\tB@zAGrBSpAF|@Qj@Ef@Q|@QRKVW`AD\\DFN`@Df@"
+  },
+  "trainer": false,
+  "commute": false,
+  "manual": false,
+  "private": false,
+  "visibility": "everyone",
+  "flagged": false,
+  "gear_id": "b16337781",
+  "start_latlng": [
+    43.590333,
+    52.099912
+  ],
+  "end_latlng": [
+    43.620793,
+    52.084448
+  ],
+  "average_speed": 3.793,
+  "max_speed": 5.58,
+  "average_temp": 19,
+  "average_watts": 67.9,
+  "device_watts": false,
+  "kilojoules": 76.8,
+  "has_heartrate": false,
+  "heartrate_opt_out": false,
+  "display_hide_heartrate_option": false,
+  "elev_high": 153.0,
+  "elev_low": 143.4,
+  "upload_id": 16874328811,
+  "upload_id_str": "16874328811",
+  "external_id": "garmin_ping_479868616134",
+  "from_accepted_tag": false,
+  "pr_count": 0,
+  "total_photo_count": 0,
+  "has_kudoed": false,
+  "description": null,
+  "calories": 81.0,
+  "perceived_exertion": null,
+  "prefer_perceived_exertion": null,
+  "segment_efforts": [],
+  "splits_metric": [
+    {
+      "distance": 1000.5,
+      "elapsed_time": 237,
+      "elevation_difference": -3.8,
+      "moving_time": 233,
+      "split": 1,
+      "average_speed": 4.29,
+      "average_grade_adjusted_speed": 4.27,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1003.1,
+      "elapsed_time": 222,
+      "elevation_difference": -0.2,
+      "moving_time": 222,
+      "split": 2,
+      "average_speed": 4.52,
+      "average_grade_adjusted_speed": 4.53,
+      "pace_zone": 0
+    },
+    {
+      "distance": 999.5,
+      "elapsed_time": 502,
+      "elevation_difference": -0.2,
+      "moving_time": 255,
+      "split": 3,
+      "average_speed": 3.92,
+      "average_grade_adjusted_speed": 3.95,
+      "pace_zone": 0
+    },
+    {
+      "distance": 998.6,
+      "elapsed_time": 292,
+      "elevation_difference": 7.2,
+      "moving_time": 292,
+      "split": 4,
+      "average_speed": 3.42,
+      "average_grade_adjusted_speed": 3.5,
+      "pace_zone": 0
+    },
+    {
+      "distance": 287.7,
+      "elapsed_time": 127,
+      "elevation_difference": 0.0,
+      "moving_time": 127,
+      "split": 5,
+      "average_speed": 2.27,
+      "average_grade_adjusted_speed": 2.27,
+      "pace_zone": 0
+    }
+  ],
+  "splits_standard": [
+    {
+      "distance": 1610.4,
+      "elapsed_time": 371,
+      "elevation_difference": -5.4,
+      "moving_time": 367,
+      "split": 1,
+      "average_speed": 4.39,
+      "average_grade_adjusted_speed": 4.37,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1610.4,
+      "elapsed_time": 651,
+      "elevation_difference": 3.0,
+      "moving_time": 404,
+      "split": 2,
+      "average_speed": 3.99,
+      "average_grade_adjusted_speed": 4.03,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1068.6,
+      "elapsed_time": 358,
+      "elevation_difference": 5.4,
+      "moving_time": 358,
+      "split": 3,
+      "average_speed": 2.98,
+      "average_grade_adjusted_speed": 3.03,
+      "pace_zone": 0
+    }
+  ],
+  "laps": [
+    {
+      "id": 56260638530,
+      "resource_state": 2,
+      "name": "Lap 1",
+      "activity": {
+        "id": 15797932654,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 1380,
+      "moving_time": 1129,
+      "start_date": "2025-09-13T14:03:24Z",
+      "start_date_local": "2025-09-13T19:03:24Z",
+      "distance": 4289.38,
+      "average_speed": 3.8,
+      "max_speed": 5.58,
+      "lap_index": 1,
+      "split": 1,
+      "start_index": 0,
+      "end_index": 1131,
+      "total_elevation_gain": 12.4,
+      "device_watts": false,
+      "average_watts": 67.9
+    }
+  ],
+  "gear": {
+    "id": "b16337781",
+    "primary": false,
+    "name": "Betty (Milan ->)",
+    "nickname": "Betty (Milan ->)",
+    "resource_state": 2,
+    "retired": false,
+    "distance": 9056030,
+    "converted_distance": 9056.0
+  },
+  "photos": {
+    "primary": null,
+    "count": 0
+  },
+  "stats_visibility": [
+    {
+      "type": "heart_rate",
+      "visibility": "everyone"
+    },
+    {
+      "type": "pace",
+      "visibility": "everyone"
+    },
+    {
+      "type": "power",
+      "visibility": "everyone"
+    },
+    {
+      "type": "speed",
+      "visibility": "everyone"
+    },
+    {
+      "type": "calories",
+      "visibility": "everyone"
+    }
+  ],
+  "hide_from_home": false,
+  "embed_token": "e68718e68d736ce7ccbd4079826011f6b7847336",
+  "available_zones": [
+    "power"
+  ]
+}

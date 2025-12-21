@@ -1,0 +1,64 @@
+[
+  {
+    "unique_id": "3786c3c9-a277-4eda-9652-ce2aacc909f3",
+    "athlete_id": 49023768,
+    "activity_id": 14744676198,
+    "activity_name": "Resting the legs",
+    "post_id": null,
+    "resource_state": 2,
+    "caption": "",
+    "type": 1,
+    "source": 1,
+    "status": 3,
+    "uploaded_at": "2025-06-09T13:58:58Z",
+    "created_at": "2025-06-09T12:07:28Z",
+    "created_at_local": "2025-06-09T14:07:28Z",
+    "urls": {
+      "5000": "https://dgtzuqphqg23d.cloudfront.net/809bXFQd219k4J91kZ6scI85aVvqYkmfSlD6MmBOVbo-1536x2048.jpg"
+    },
+    "placeholder_image": null,
+    "sizes": {
+      "5000": [
+        1536,
+        2048
+      ]
+    },
+    "default_photo": false,
+    "cursor": null,
+    "location": [
+      45.29385277777778,
+      5.549622222222222
+    ]
+  },
+  {
+    "unique_id": "d2db527b-ad5b-4605-9f65-a4c570e80500",
+    "athlete_id": 49023768,
+    "activity_id": 14744676198,
+    "activity_name": "Resting the legs",
+    "post_id": null,
+    "resource_state": 2,
+    "caption": "",
+    "type": 1,
+    "source": 1,
+    "status": 3,
+    "uploaded_at": "2025-06-09T13:58:59Z",
+    "created_at": "2025-06-09T11:23:10Z",
+    "created_at_local": "2025-06-09T13:23:10Z",
+    "urls": {
+      "5000": "https://dgtzuqphqg23d.cloudfront.net/JrqIpS3h6lnDAYmBM-EPWTsaWSSNbaMSU8RB2YndkhQ-1536x2048.jpg"
+    },
+    "placeholder_image": null,
+    "sizes": {
+      "5000": [
+        1536,
+        2048
+      ]
+    },
+    "default_photo": false,
+    "cursor": null,
+    "location": [
+      45.205377777777784,
+      5.465636111111111
+    ]
+  }
+]

@@ -1,0 +1,428 @@
+{
+  "resource_state": 3,
+  "athlete": {
+    "id": 49023768,
+    "resource_state": 1
+  },
+  "name": "Socks + Sandals",
+  "distance": 9168.0,
+  "moving_time": 3883,
+  "elapsed_time": 10562,
+  "total_elevation_gain": 367.0,
+  "type": "Ride",
+  "sport_type": "Ride",
+  "workout_type": null,
+  "device_name": "Garmin Edge 540",
+  "id": 16253276258,
+  "start_date": "2025-10-25T10:50:20Z",
+  "start_date_local": "2025-10-25T16:20:20Z",
+  "timezone": "(GMT+05:30) Asia/Kolkata",
+  "utc_offset": 19800.0,
+  "location_city": null,
+  "location_state": null,
+  "location_country": null,
+  "achievement_count": 0,
+  "kudos_count": 16,
+  "comment_count": 0,
+  "athlete_count": 1,
+  "photo_count": 0,
+  "map": {
+    "id": "a16253276258",
+    "polyline": "g{zcEc~`vMsBvBSlBC@EEBEB?BD?FOd@@ZXXUPAPIVETFf@Dr@HZDx@EPS?a@MK?oAi@KCkAsACYv@tAHFJH`@Lb@VPFT@b@NPEBGC[Ow@Am@EWEK?ULc@@MLQJ?`@V^@ZAf@Bh@G\\B^CVGN@^Fn@A\\B`@??ANDRCPILGFIJCHBHJRj@JHHCRc@Hi@FG@uADe@Rm@RkB?k@D_@Cc@i@w@EWO[GCGGy@oAaAcAOGQKi@e@YOGKYSk@u@EMEG]EQOGKQo@O{BD{A?kAZeCJa@Ri@Fm@DU?a@Jk@DcAAc@COSQ]Ea@MKAMG_@Ie@G_@Ak@Sm@Cc@?e@Hu@\\aAp@m@Ta@X_@R{AvAs@`@q@Ze@`@eAn@{@bAk@d@OPUN{@^o@^UTc@l@k@b@A?QVw@z@i@~@k@x@[l@{@lAw@t@iAj@c@b@OVQJUFq@?KAc@O_@EY@u@A{@Dq@Pi@?yA]mASiAYQ@u@LM?m@KK?KJQZUN{AEIBCHLJf@@FB@FCFQTIRAV?^D\\AjAN|A?HEFIF]GKBUJy@x@QHS?QASGq@C]Fa@PMLOXOdAKL[TMNc@fAIVBZGfBGRIJODS@OCo@?iADIDGCK@UA_@GO?w@b@a@X_@Lk@b@i@TUTMz@MFa@DEHC^Op@In@?\\R~@CRSNUH]JsAr@gA\\YD]^_@f@WRo@`@SDq@Aa@JMHo@fAEJEbDGxA?vAEXOTUHOAw@i@OQQYc@gAc@aAYUQE[C}A`AsA^w@b@SRW`@SFa@@_@D]Zy@d@M?a@Kc@Cw@Ve@T_AXO@QEs@Bk@Ha@Eg@WSIqAQe@FYE_@?k@Oa@CUHQ@s@MULI@kACGEG_@L}BIcCUyAc@sAC[@MXu@Ji@La@DU?GKMq@c@uAuAEICYc@o@]SY]c@Q]Ug@u@Oa@AM{@o@WYQYESSa@Me@Wm@Mi@i@aASg@OOg@{@a@DY?QGg@NICC@L@}BC]Fa@Ra@Di@M[@g@EkAA_B@_@AMGWA_AHS?]Iq@c@a@CU@cA?w@P_@@]?e@UeAYm@FYAOGSQISUWo@][Im@CYIo@a@cBk@mBUa@Mk@Cy@KMGa@Ea@Eq@Aa@MK?E?KFQPMHYHk@J_@TQRIBa@LkADkAZ]Li@\\c@P}@B}@Va@Dm@M]BUJe@`@UJ[?i@IM@qAz@_@PmAf@o@\\i@FAFDFR@W~ABX@TCHBf@A_@@BGg@@XA{BB?C@`@FDDA@BGYKGIBHJD?BGK?BRu@KBAA?B@SSPALBBK?Rz@B?DIMCBCCNHE?DF?CBJ?C?AGEg@C@EGDB^K@ICDAAAD?CABBU_@h@AIBBACBBGLL_@IX?THZ?EDF?KFLBHA@DD",
+    "resource_state": 3,
+    "summary_polyline": "g{zcEc~`vMsBvBSlBICFEBLOd@@ZXXUPAPOl@ZpC@XEVS?a@MO?sAk@oAuACYv@tAPLvAn@XBh@NNKC]Ow@Am@Kc@AQNg@@MLQJ?`@V^@bA@h@G\\Bv@Kn@HnB?NDd@M`@URNRj@JHDANQFSHi@FG@uADe@Rm@PgBFoAA[EMe@q@EWO[OKaAyAy@y@a@SeBuAw@kA]EQOGKQo@O{BD{A?kAZeC^kALcA?a@Jk@DcAEs@SQ]E{Aa@eAIk@SiACm@Hu@\\aAp@m@TaAl@{AvAeB|@e@`@eAn@{@bAk@d@OPaCnAy@bAm@b@QVw@z@i@~@k@x@[l@{@lAw@t@iAj@s@z@QJUFq@?oAWoA?{@Dq@Pi@?qFkAgANgAKKJQZUNeBACHLJf@@FB@FU\\IRAVD|@AjAN|AEPIF]GKBUJy@x@QHy@Iq@C]Fa@P]f@OdAu@r@c@fAIVBZGfBQ^ODsAAiADIDyAKyA|@_@Lk@b@i@TUTMz@MFa@DEHC^Y`B?\\R~@CRSNs@TsAr@aBb@}@fAgAt@SDq@Aa@JMHu@rAEbDGxA?vAEXOTUHOAw@i@a@k@gAiCYUm@I}A`AsA^w@b@SRW`@SFaAF]Zy@d@o@Kc@C}CfAO@eAAk@Ha@E{@a@qAQe@Fy@Ek@Oa@Cg@Js@M_@NkACGEG_@L}BIcCUyAc@sAC[@MXu@XkADU?G}@q@uAuAEICYc@o@]SY]c@Q]Ug@u@Oa@AM{@o@WYWm@Sa@Me@Wm@Mi@}@iBw@kAa@Dk@Gg@NICC@L@}BC]Fa@Ra@Di@M[@sBG_B@m@IWAsAH]Iq@c@a@CyA@w@P}@@e@UeAYgADc@Y_@k@o@][Im@CYIo@a@cBk@mBUa@MuC]sAGm@MQF_@ZeAT{@l@a@LkADkAZ]LmAn@}@B}@Va@Dm@M]BUJ{@l@sAGqBlA}BdAi@FAFDFR@W~ABXA^Bf@C]B@Gg@@XA{BB?C@`@FBFBGa@UBHJHEIA@Ru@M@?B@SSP@PK?Rz@B?DIMCBCCNHE?DF?CBJ?C?AGEg@IEDBZIFIKFBU_@h@AIDBGLL_@IX?THZ?EDF?KFLBHA@DD"
+  },
+  "trainer": false,
+  "commute": false,
+  "manual": false,
+  "private": false,
+  "visibility": "everyone",
+  "flagged": false,
+  "gear_id": "b16337781",
+  "start_latlng": [
+    32.255403,
+    77.178746
+  ],
+  "end_latlng": [
+    32.303575,
+    77.176141
+  ],
+  "average_speed": 2.361,
+  "max_speed": 8.8,
+  "average_temp": 12,
+  "average_watts": 100.2,
+  "device_watts": false,
+  "kilojoules": 388.9,
+  "has_heartrate": false,
+  "heartrate_opt_out": false,
+  "display_hide_heartrate_option": false,
+  "elev_high": 2275.8,
+  "elev_low": 1964.4,
+  "upload_id": 17337626118,
+  "upload_id_str": "17337626118",
+  "external_id": "garmin_ping_494744931557",
+  "from_accepted_tag": false,
+  "pr_count": 0,
+  "total_photo_count": 3,
+  "has_kudoed": false,
+  "description": "",
+  "calories": 434.0,
+  "perceived_exertion": null,
+  "prefer_perceived_exertion": false,
+  "segment_efforts": [
+    {
+      "id": 3417197601956163480,
+      "resource_state": 2,
+      "name": "clubhouse to shnag",
+      "activity": {
+        "id": 16253276258,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 1614,
+      "moving_time": 1469,
+      "start_date": "2025-10-25T11:16:11Z",
+      "start_date_local": "2025-10-25T16:46:11Z",
+      "distance": 3838.3,
+      "start_index": 744,
+      "end_index": 2222,
+      "device_watts": false,
+      "segment": {
+        "id": 13105925,
+        "resource_state": 2,
+        "name": "clubhouse to shnag",
+        "activity_type": "Ride",
+        "distance": 3838.3,
+        "average_grade": 4.6,
+        "maximum_grade": 49.4,
+        "elevation_high": 2141.4,
+        "elevation_low": 1952.5,
+        "start_latlng": [
+          32.255005,
+          77.183775
+        ],
+        "end_latlng": [
+          32.278042,
+          77.170405
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 2,
+        "city": "Manali",
+        "state": "Himachal Pradesh",
+        "country": "India",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3417197601956981656,
+      "resource_state": 2,
+      "name": "Mdr 29 Climb",
+      "activity": {
+        "id": 16253276258,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 995,
+      "moving_time": 880,
+      "start_date": "2025-10-25T11:23:44Z",
+      "start_date_local": "2025-10-25T16:53:44Z",
+      "distance": 2014.17,
+      "start_index": 1192,
+      "end_index": 2076,
+      "device_watts": false,
+      "segment": {
+        "id": 2208347,
+        "resource_state": 2,
+        "name": "Mdr 29 Climb",
+        "activity_type": "Ride",
+        "distance": 2014.17,
+        "average_grade": 5.8,
+        "maximum_grade": 102.3,
+        "elevation_high": 2078.4,
+        "elevation_low": 1960.8,
+        "start_latlng": [
+          32.26322547532618,
+          77.18007473275065
+        ],
+        "end_latlng": [
+          32.27578424848616,
+          77.17146056704223
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 1,
+        "city": null,
+        "state": "Himachal Pradesh",
+        "country": "India",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    }
+  ],
+  "splits_metric": [
+    {
+      "distance": 1002.3,
+      "elapsed_time": 1256,
+      "elevation_difference": -16.2,
+      "moving_time": 501,
+      "split": 1,
+      "average_speed": 2.0,
+      "average_grade_adjusted_speed": 2.26,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1000.9,
+      "elapsed_time": 448,
+      "elevation_difference": -35.8,
+      "moving_time": 382,
+      "split": 2,
+      "average_speed": 2.62,
+      "average_grade_adjusted_speed": 2.58,
+      "pace_zone": 0
+    },
+    {
+      "distance": 998.2,
+      "elapsed_time": 306,
+      "elevation_difference": 15.2,
+      "moving_time": 300,
+      "split": 3,
+      "average_speed": 3.33,
+      "average_grade_adjusted_speed": 3.57,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1000.2,
+      "elapsed_time": 458,
+      "elevation_difference": 46.8,
+      "moving_time": 396,
+      "split": 4,
+      "average_speed": 2.53,
+      "average_grade_adjusted_speed": 3.02,
+      "pace_zone": 0
+    },
+    {
+      "distance": 998.8,
+      "elapsed_time": 528,
+      "elevation_difference": 69.6,
+      "moving_time": 477,
+      "split": 5,
+      "average_speed": 2.09,
+      "average_grade_adjusted_speed": 2.74,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1001.7,
+      "elapsed_time": 386,
+      "elevation_difference": 41.0,
+      "moving_time": 365,
+      "split": 6,
+      "average_speed": 2.74,
+      "average_grade_adjusted_speed": 3.19,
+      "pace_zone": 0
+    },
+    {
+      "distance": 998.0,
+      "elapsed_time": 281,
+      "elevation_difference": -13.2,
+      "moving_time": 259,
+      "split": 7,
+      "average_speed": 3.85,
+      "average_grade_adjusted_speed": 3.88,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1000.1,
+      "elapsed_time": 587,
+      "elevation_difference": 65.6,
+      "moving_time": 490,
+      "split": 8,
+      "average_speed": 2.04,
+      "average_grade_adjusted_speed": 2.63,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1001.5,
+      "elapsed_time": 1189,
+      "elevation_difference": 77.2,
+      "moving_time": 505,
+      "split": 9,
+      "average_speed": 1.98,
+      "average_grade_adjusted_speed": 2.66,
+      "pace_zone": 0
+    },
+    {
+      "distance": 166.3,
+      "elapsed_time": 5123,
+      "elevation_difference": -3.6,
+      "moving_time": 210,
+      "split": 10,
+      "average_speed": 0.79,
+      "average_grade_adjusted_speed": 1.25,
+      "pace_zone": 0
+    }
+  ],
+  "splits_standard": [
+    {
+      "distance": 1615.8,
+      "elapsed_time": 1546,
+      "elevation_difference": -45.4,
+      "moving_time": 725,
+      "split": 1,
+      "average_speed": 2.23,
+      "average_grade_adjusted_speed": 2.36,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1603.2,
+      "elapsed_time": 549,
+      "elevation_difference": 19.4,
+      "moving_time": 543,
+      "split": 2,
+      "average_speed": 2.95,
+      "average_grade_adjusted_speed": 3.2,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1609.5,
+      "elapsed_time": 832,
+      "elevation_difference": 95.8,
+      "moving_time": 719,
+      "split": 3,
+      "average_speed": 2.24,
+      "average_grade_adjusted_speed": 2.82,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1610.4,
+      "elapsed_time": 561,
+      "elevation_difference": 39.2,
+      "moving_time": 540,
+      "split": 4,
+      "average_speed": 2.98,
+      "average_grade_adjusted_speed": 3.34,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1608.7,
+      "elapsed_time": 785,
+      "elevation_difference": 67.2,
+      "moving_time": 666,
+      "split": 5,
+      "average_speed": 2.42,
+      "average_grade_adjusted_speed": 2.89,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1120.4,
+      "elapsed_time": 6289,
+      "elevation_difference": 70.4,
+      "moving_time": 692,
+      "split": 6,
+      "average_speed": 1.62,
+      "average_grade_adjusted_speed": 2.23,
+      "pace_zone": 0
+    }
+  ],
+  "laps": [
+    {
+      "id": 57917159067,
+      "resource_state": 2,
+      "name": "Lap 1",
+      "activity": {
+        "id": 16253276258,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 10562,
+      "moving_time": 3886,
+      "start_date": "2025-10-25T10:50:20Z",
+      "start_date_local": "2025-10-25T16:20:20Z",
+      "distance": 9168.02,
+      "average_speed": 2.36,
+      "max_speed": 8.8,
+      "lap_index": 1,
+      "split": 1,
+      "start_index": 0,
+      "end_index": 3926,
+      "total_elevation_gain": 419.2,
+      "device_watts": false,
+      "average_watts": 100.2
+    }
+  ],
+  "gear": {
+    "id": "b16337781",
+    "primary": false,
+    "name": "Betty (Milan ->)",
+    "nickname": "Betty (Milan ->)",
+    "resource_state": 2,
+    "retired": false,
+    "distance": 9056030,
+    "converted_distance": 9056.0
+  },
+  "photos": {
+    "primary": {
+      "unique_id": "196d986d-b3a3-4746-b972-a1f55457f478",
+      "urls": {
+        "600": "https://d35tn3x5zm6xrc.cloudfront.net/qsg1MmXYeopEU8ReZBP-5WRwRk1Afo2e4iqheptvnS4/thumbnails/qsg1MmXYeopEU8ReZBP-5WRwRk1Afo2e4iqheptvnS4_600x600.jpg",
+        "100": "https://d35tn3x5zm6xrc.cloudfront.net/qsg1MmXYeopEU8ReZBP-5WRwRk1Afo2e4iqheptvnS4/thumbnails/qsg1MmXYeopEU8ReZBP-5WRwRk1Afo2e4iqheptvnS4_600x600.jpg"
+      },
+      "source": 1,
+      "media_type": 2
+    },
+    "use_primary_photo": false,
+    "count": 3
+  },
+  "stats_visibility": [
+    {
+      "type": "heart_rate",
+      "visibility": "everyone"
+    },
+    {
+      "type": "pace",
+      "visibility": "everyone"
+    },
+    {
+      "type": "power",
+      "visibility": "everyone"
+    },
+    {
+      "type": "speed",
+      "visibility": "everyone"
+    },
+    {
+      "type": "calories",
+      "visibility": "everyone"
+    }
+  ],
+  "hide_from_home": false,
+  "embed_token": "a9590556ba394db99aebcf3b5f5ce1f920155b68",
+  "available_zones": [
+    "power"
+  ]
+}

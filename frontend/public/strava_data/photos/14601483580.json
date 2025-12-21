@@ -1,0 +1,93 @@
+[
+  {
+    "unique_id": "245f2de8-56f3-4cc4-848e-a14714dbc2fa",
+    "athlete_id": 49023768,
+    "activity_id": 14601483580,
+    "activity_name": "A warm welcome",
+    "post_id": null,
+    "resource_state": 2,
+    "caption": "",
+    "type": 1,
+    "source": 1,
+    "status": 3,
+    "uploaded_at": "2025-05-26T16:19:06Z",
+    "created_at": "2025-05-26T05:44:39Z",
+    "created_at_local": "2025-05-26T07:44:39Z",
+    "urls": {
+      "5000": "https://dgtzuqphqg23d.cloudfront.net/tFQVd1NMB-lsj-ztPE9Q5fFoWTqnl0kP2BkZXsktaLU-1536x2048.jpg"
+    },
+    "placeholder_image": null,
+    "sizes": {
+      "5000": [
+        1536,
+        2048
+      ]
+    },
+    "default_photo": false,
+    "cursor": null
+  },
+  {
+    "unique_id": "87925326-9ece-4f90-b26b-62697e4436ef",
+    "athlete_id": 49023768,
+    "activity_id": 14601483580,
+    "activity_name": "A warm welcome",
+    "post_id": null,
+    "resource_state": 2,
+    "caption": "",
+    "type": 2,
+    "source": 1,
+    "status": 3,
+    "uploaded_at": "2025-05-26T16:19:10Z",
+    "created_at": "2025-05-26T05:20:06Z",
+    "created_at_local": "2025-05-26T07:20:06Z",
+    "urls": {
+      "5000": "https://d35tn3x5zm6xrc.cloudfront.net/JaLRZf_kFHh4cSKZXOAB9QAPQHXC38gN0TgQ5n4gDWU/thumbnails/JaLRZf_kFHh4cSKZXOAB9QAPQHXC38gN0TgQ5n4gDWU_1080x1920.jpg"
+    },
+    "placeholder_image": null,
+    "sizes": {
+      "5000": [
+        1080,
+        1920
+      ]
+    },
+    "default_photo": false,
+    "cursor": null,
+    "duration": 2.686678,
+    "video_url": "https://d35tn3x5zm6xrc.cloudfront.net/JaLRZf_kFHh4cSKZXOAB9QAPQHXC38gN0TgQ5n4gDWU/hls/JaLRZf_kFHh4cSKZXOAB9QAPQHXC38gN0TgQ5n4gDWU.m3u8",
+    "location": [
+      45.6263,
+      -4.2605
+    ]
+  },
+  {
+    "unique_id": "f14ee951-cf11-4af2-937d-99593cdffb04",
+    "athlete_id": 49023768,
+    "activity_id": 14601483580,
+    "activity_name": "A warm welcome",
+    "post_id": null,
+    "resource_state": 2,
+    "caption": "",
+    "type": 1,
+    "source": 1,
+    "status": 3,
+    "uploaded_at": "2025-05-26T16:19:06Z",
+    "created_at": "2025-05-26T15:50:42Z",
+    "created_at_local": "2025-05-26T17:50:42Z",
+    "urls": {
+      "5000": "https://dgtzuqphqg23d.cloudfront.net/hwv1SY7_iutFHV_2sj3IO6ibRrHUbLIHL1Obl9ZFfZM-1536x2048.jpg"
+    },
+    "placeholder_image": null,
+    "sizes": {
+      "5000": [
+        1536,
+        2048
+      ]
+    },
+    "default_photo": false,
+    "cursor": null,
+    "location": [
+      43.417852777777775,
+      -3.5647777777777776
+    ]
+  }
+]

@@ -1,0 +1,4448 @@
+{
+  "resource_state": 3,
+  "athlete": {
+    "id": 49023768,
+    "resource_state": 1
+  },
+  "name": "Spending half the day in the clouds",
+  "distance": 114835.0,
+  "moving_time": 21481,
+  "elapsed_time": 27799,
+  "total_elevation_gain": 1566.0,
+  "type": "Ride",
+  "sport_type": "Ride",
+  "workout_type": 10,
+  "device_name": "Wahoo ELEMNT BOLT",
+  "id": 14705729990,
+  "start_date": "2025-06-05T07:32:38Z",
+  "start_date_local": "2025-06-05T09:32:38Z",
+  "timezone": "(GMT+01:00) Europe/Paris",
+  "utc_offset": 7200.0,
+  "location_city": null,
+  "location_state": null,
+  "location_country": null,
+  "achievement_count": 0,
+  "kudos_count": 17,
+  "comment_count": 0,
+  "athlete_count": 1,
+  "photo_count": 0,
+  "map": {
+    "id": "a14705729990",
+    "polyline": "uh~cGemwI]QUAKBKAGSEEC[Kw@IOIEEAGBi@b@g@Pa@h@y@BEBIPCPKlDGl@GTQ\\oBnCSL[DWAOIu@_A{@w@w@e@[MMAICm@_@[_@Qi@q@}DUiBAU@i@Lk@Zs@Lk@Rq@Xi@Z]VSRU^cAJm@Dm@C{AJo@HQLKLAH?VFVNxAh@XBFATKHINg@PeA@mAKgAYaAQc@G_@GK_@{@Qq@Ms@YmESq@OWQI_@I[F[TOXuAxDU`@OPSNYBa@IUMSYMq@RiALa@XmBn@_D^aCDgAJc@PYd@[`@i@j@eBTc@NQb@Sh@a@LWFS@i@SsC?{@Fs@^wALm@Ho@?y@GoEMm@Wg@kCeCs@aAUUQYQk@Ic@s@cEK{BYgBI{AEO[s@{@w@MQQQO_@OI[i@YaAo@{@]s@E[?_ADSb@yAHc@?Me@eICeCCSGOWSKCO@MHCFCND\\Vj@V\\DR?TBTM`CFpALfA?d@Cl@E^c@|AE|@Fz@VxAJ`AEhBPzAEXCHQLWBGEEKGW@M\\yAHg@?SKcAi@oCGs@A{@LwAEu@Mg@c@sCK[o@s@g@c@U[Ke@M_Ac@mCUiBOs@s@uBe@iAKa@o@aBKa@cAgC[eAQaB?[IUGW?]McBc@kDS}@OiBMq@M{AMm@Qg@o@eAG]C_@?cCCo@AyA@i@?uAPeFJ_A^cBL}@V}@N}@?c@Ig@O}A@UHq@GUAWQm@Ko@Ao@Nk@jAcBVe@Hm@TiCZmC\\cAz@gBTw@Ji@TeBBo@?c@Gk@c@oBBkBMg@C_@B_@Hu@?gADs@PkAR}@Bc@?_@Eu@I]Kc@_@eAIc@?ODg@JQ\\ULCH?F@RPNZH^TpARt@\\n@f@d@\\b@Fj@El@Y`@M\\K`@Ij@A\\L|AVt@\\p@r@rBx@pBHLt@n@Zd@b@v@r@`BXrAZpCDLBXDP@ZBZIrAIf@@^HXTPL?PIDIFYAYISQqAAo@?i@HeAB}@EwCC{B@sAFeALk@Le@`@gA\\kAPSTEJBLP@b@GZOXe@^Ux@Cv@?\\FjAb@bD@r@FVCp@JhFAd@f@xER|@R`@RVb@`@fCfBv@PDNVJDV@DMb@MX]l@e@j@Wj@Qp@G`BWx@QVi@~@c@jAs@x@m@dAE^?h@QrAC`BFT?TDPCXHVHZF`AZr@H`@P`@J^HTJJHXRLPTn@ZRRx@b@b@XHBnAn@ZZPj@?b@Db@?RFd@J~APx@Vt@`@n@`@\\v@`@b@HpAA`AFb@Ld@`@^NJ?HERYDS?QIQOKa@GWDg@AcAMWKUCo@@QOq@]e@e@o@yBCi@HgA?w@Mg@AcAUkAEOGCWe@MOe@[_@]KSKGGGGQKEIKWSM][c@GUUa@Yq@OeA@e@Ha@nAeC|@eAPKHM`@[NIT]JELUNSRq@JQNc@~@cBFINIZa@POR[RIZW?QFYDqAJaAX{@^q@DUVm@Jg@N[D[Vm@FULy@E[s@{@}@{@a@m@SOSEUSSYGQG]Bc@Lu@n@eCf@cAj@g@VGr@GXITAVDVGZYVIVOV]J?\\IRIRSXe@\\YXMLKnBe@NYBY?_@DWHg@LWFUA_BF[Ea@K[C_@?a@BKG_@?aAGe@IOUKg@Bu@MU@KIMAW]EOMKM[Ey@^eC?IDg@?OHU@[Lm@@_@HY?c@Aa@a@cAAKGKKKYKMO]SYWMGY[g@w@MMIK?SWu@e@}@Mg@m@yD?[Cc@@]GkAEO@MJUCk@Jk@EYDk@@s@Da@Ao@BUASCO?MFM?SJe@@m@Hm@Xu@Nm@JQNK`@Q`@e@POPK`@Kp@_@n@g@zAOTO\\o@HIJCZATENOb@K\\Q\\Kl@_@F[AQIa@@g@B_@ASa@SCEKc@OWKYMo@EiAGYFe@@k@I_A?QCYBa@K[AUMWMs@Cc@WaBQe@m@m@Ue@G]Sa@IWScAGgAW{AAc@Iy@Su@KQ[w@Ow@Sk@_AqB]_@e@_@]a@q@oCGe@Ba@A{@G_@Ss@Ea@Q_@Gk@I_@@OOqACm@Ie@EgA?QCg@BYCO@c@B_@MmAAk@CWEkB@aAFc@?SDs@L_@\\k@Nk@?k@Eo@@k@Hw@@]DUL]FCPAh@MVWJWDcCGs@Qq@i@cA_@_@gAcBUa@a@a@s@kAWY[Um@g@OQQc@UWOAOEQ?{@Uk@BWAaA^S@MBg@^WTUJUVm@HU?UGW@UKYW_@CKMi@Ma@QG?MIQKUCWOeBm@YIi@Uc@[i@WMMS[_@}@S_A@k@A[EG@B@GCE_@iCe@yEMy@Qa@}@gAOi@Eo@DgAJk@^{AJeAG}CAYIk@U{@a@uAoAeCmAqC_A_Bu@gBcAeBq@wBIM]UOCM?ODOHSZk@|AS\\YLO?MCKIUa@o@oBmA_DSc@m@_Ag@k@cAcAk@}@i@e@{@_@_@Go@?OCMEIKIO]mA_@o@kCaDcA}@mC_DcBwC[{@_@gBGSUa@[YeC{A}DsDW]wBqDoAiB}BiE{CoDkCeC}AmAUUaBwCa@a@cA}@q@_@gCq@o@Wq@c@iAmAWOs@WUOQW_@gA[u@mB}FWm@SWo@i@YMi@G{A?]MSSEKK_@M}AUq@KMaA{@aAgAeAcAWa@ISKm@I{DEm@{@yFOi@Se@[]}@m@MMWa@ISoBiIO_BO}BIm@Qe@Sa@mAiBaB{B_FmE}BmBo@u@g@q@}@aB_@eA_@{Ay@kFEaAL}B?c@Eu@I_@M[Ua@uDuEuAyBc@cAMe@WoBOm@Q]IM[[_Ag@u@_Ai@kAOe@Ku@Ey@@s@Dc@HYDKT_@Rq@@_@KqB?k@TeBFYNg@NY\\[VIz@UXOHIT[l@wATSTKXEZBVHjAl@ZHV@XITSXg@X}@F_@Da@C_AUmDI[MSUKWC{@BsALW?WCSMQUIYEe@AoC@aCFqBHq@J[Vm@pDcFR_@Rk@Fq@C_AE]}BmNGi@AMDiAL{CEk@CMYo@W[YWuCeAk@]QSKWaBeG[wAEa@Am@B]Ri@f@m@vAkAn@s@f@q@Vq@Lw@HoAAq@M{AS{@c@gAoAcCuAaCe@c@eAk@mCeBa@]{@iAa@YQEe@?}CXg@Je@X[f@ITo@dD[jCQt@KXOVORc@Xi@Pi@Fc@BQAME]]GOEU@SBQHOLIHAJ@p@TPDP?TCNI^]FQBUJqCNcArAmDv@sALM^Wp@[t@Sv@MtCu@XSHO@MCe@ISKOMEMAQDMHc@j@_@Va@HiA?q@L}C|A_@Xe@j@MHKDQ@OCMMSc@aE}L_C_GkC}Im@gCo@kDq@iGYuBy@sDa@uCOs@Wq@QYqA}Ay@yAo@}@a@g@a@[aBy@y@i@gA}@uBcC_@YOGQEQ@QBOHMLW`@aAfCYhA[|AQh@IL[PM?MAMKIQAU@}AFuCXuCB_AAmCIu@cB_I_@{@cAkBwDuGyGuL_BmCkDoG_FsI[o@Mg@?[Ng@Z{@BQRaBd@mDRmBRiEFsCDw@?k@Eg@IIEUeAeCmDwHm@yAsFyLsDoImAiCu@iByTmf@wAeDgJqSw@kByDkIeBaEQi@Qk@QcAOeA]wK@cD`GaaBN}BCa@M[}BuA}DiCy@e@sB}@iAm@oAeAgBgB}AcBq@m@{AmAaBeAg@S[G[C[@eALi@Jg@Ne@RWPa@`@qB`DeCvCeb@pd@uAtAu@j@i@Ti@Lm@D[?eIi@aESgDWYAWBa@L_@V_@\\}C|DmAfBw@bB{@pBiDpIWp@cAzBm@|AqDtIi@xAk@lBeCjJg@|BQd@QTWNMDg@BuKsAm@?ODQHq@`@{AlAaMtK{BhBkEtD{BhB}ArAyE~DcFnE]T]Pi@He@?{GY}ACc@Dc@JiAl@g@P_@?[IcBiAKKYg@i@qAIg@C[[}AM[]e@aA{@aBcAk@c@KAC@CN@RB@CCGe@Oc@eAiAa@m@oD_JIOWWKIOCOA_@DkA\\uC`AKDa@XUVMVa@pAMh@Ih@w@zCMv@AL@JCVc@hAW^QLqAXo@\\i@f@g@j@U\\U`@W|@CV?vACXOl@[j@Ob@Kb@Gj@@`BJlA?dACt@Ib@En@@`@EXGpCDd@ARIp@]~AFLM~@?XIZCRD~ANx@@b@DZDHJJJ\\R`@X\\d@TdATRJDHRp@FVBTANGLKHWD{@X_@PW\\KVS`BSfACXBp@d@lBPZLFLAXOFKBOE{@Bc@FKRMH?FBj@`@hAn@v@j@NP\\h@Th@Tx@D\\@ZGx@Sl@i@jAEXFfBRnAb@|DVfAf@vD\\lBJ`APbAVnBP|@Pf@R|@N`BN~CIjB?v@QnAMzBAh@@hBGhBCvBJnEJfBCnAF|@Aj@BnA?f@QbAO^KLYT]J}@FgC?s@Lc@NQJONi@fA_@f@SRwAx@yAj@k@PUBWAaAUwAa@oAUqBe@g@Em@HcATkBDkBR_AVyBv@kBf@cC\\gAHm@BYAq@KeBa@YCgBI{AQQ?MDMJQb@Gd@@l@FpAATGPSV{Ap@[VeA~Aa@f@gBdB[h@w@|Cy@hBQp@It@Cp@?vACx@Qr@Yp@]n@QPy@f@QP]l@Wr@MVQTg@b@k@\\SRoAvAc@l@Yt@Uz@Q~@Wx@_A~Ag@pAI\\Q|@OvA@|AF|@FZ^nA~@bB\\d@xAtALPFNBTA~@ATGRKLWNaB^_@?a@ISOOSo@eAYu@s@_CYo@Ya@MGK?MFGNOj@Gn@Qj@g@~@oBbEa@n@_AjAUf@GTCx@RxDN|Af@lEJj@Z~@@JCHEDI?KEsWeR{FyDeE{Cw@m@]MUU{@s@SUS_@[{@IAIBUL}@r@eAh@_@`@gAx@D@\\d@HR?LQV@FHGFMEUa@k@g@kAyAyCsDkGq@qAg@u@QQ}@s@{HyF{EiDQMU[[u@_C}G_@{@Oc@[q@s@aCs@kBQy@O{ACiAEq@a@wAK}@J}C?s@HgA?aAa@_K_@aHAaAVsH`@yINsFCw@OmA@wC[cGMqBGk@QcAIw@HcGNgBB}@YmKIm@A}@O{AOkAG}@FaCC[IEGDGz@OZMDK@i@KOAYBOBMFkAbAy@dAk@jAc@nAGDKBEC?EJo@\\eAZu@`AmBPi@BW@YE{B@kAAgCMcGEmA[}CIkBCqAJyF@{EHiCDo@Pm@JOf@k@FM@OCKGIm@[SYQc@Ig@OiBKyBGeGBqACa@EQIMIG_Bc@a@Ok@c@Y[Ya@KSQi@Yq@MSOQc@Wc@Sm@i@[UOEOA]@KEYU[e@Ym@iAeDg@cA[y@G[CoAEa@{@cCSi@Ua@Uo@Y]u@c@w@]UQM]e@aCw@mAK_@UoAUg@m@u@gAc@{@o@U]c@eAkB}Eg@{AGa@C_@?sBS{@Wa@qAsAYa@KIq@}@w@w@m@y@[w@_A{EYw@y@qAwAmCy@gBK]i@_@m@YUQIMGQIo@_@kGESGQKIWE[?c@Jq@Z{@t@wExEy@p@WL}@PmLdAm@Fy@NQ?]G]UMKUa@UcAQe@MQQK_@Eu@@e@AeDy@_B[u@KWO[a@MIKCUNGHU~AIb@U^MHa@F}@Ie@@}Ad@wCf@g@?mAKc@Ac@HgAd@MDO?YM]m@MI]Ay@N_@AMEi@_@a@S{Be@iAe@eAk@g@QsBi@mEqBOQU_@OMm@Su@KgC@_DDqBFaCLi@HWHuAx@aA`@qAb@eFVmBDgCRcA?s@F}@Ng@AqBLs@Ka@KcDa@q@Ow@a@sD_DYg@_A}B[}@yGmSyGuR]{@]k@[WOE]?_@B{KjAwCd@c@BmBKYBYLMH}AfBWTiE|AeAh@gBhAYNg@N]B{@?qAGwCQoCGsABm@JUFc@PwAv@k@b@eAnAi@`@w@^m@RWDeHr@w@T_@PQPo@z@[XUJ_@HiD^YAc@KaD_BUOy@_@m@Wy@Qe@E{B@eAMc@Fo@XWFY@UEi@QmFeCyCmAo@]aA]QBm@d@_@`@OHMBMC}Aw@OC_@Ce@UIAABBBd@T`@DJIDi@VgAB_@?eACg@EOUU[SQQCD?F@?F[AHD?DFIK@CCAB?DJEMGACIG?@A^?DDBDQECNG@BUDF@JCC@GKED@GKE?BLBB?L@?KEAE?OBCE@@DF?CDI@AGHAEDAHJABGC?B?@FC?HDAEBHABDGECCF@MA@EB@BA@@ACA@C?@CIB?G?@F@ECBDEA??ABAA@AKA??F@@@G@HC?AHGD@IA^BABK?IABAL@QF@BACBCCEBAAE?JOHI?A?H?CGFB@BEF@?FCCIF@?ALCDB@C@@A?BNFFJCAAADKLDPTTDDC@GB@?Dk@WaBcAa@SUGYYIGICO@GND@AEBB@CEL?EEAADECAD@CEG@AEHGBCA?AB?AA@B?AA?B@A@F@DB?GEC@EJBE@@D@[B@DC?BM?FBACD@AEB@CE@@E@BGAEEAMAY@cBfAc@^q@\\_@Xy@b@O?ICMOaAcBw@{AYq@YYBK[gBA{@HsA?g@EaAQiAc@sA_@yAWuBW_BSeDk@yGOiCg@yGIoGIkB@s@Ds@Hi@j@cCLw@PyAFgAVaBn@mDtAiFVkAX{BR}@^mAf@qAn@mAj@_Ah@q@RSdAs@j@i@`AkALUf@sA?SF[Fq@AgASoASs@i@uAYg@]_@g@}@_ByB]w@a@mAYgBUgAo@cC[mB]wAUoBUoA]sDCi@Q_Bu@_FUeAo@kBQs@s@uDq@kCSeAGc@CaBEi@I[Q[WYy@q@m@O[EyABi@CQGWUQ]I[gAyFMg@Um@s@y@Ui@A]BUXsAD_@Cg@I_@KY_@c@s@Wo@g@SUMe@A_@@g@H_@Zq@f@c@\\Gj@ATGLIJKRa@F[BWCg@WaAYo@e@m@S]]eAw@iDSe@[i@I]@QDUHQRUJm@JeA@g@E]KEG@EHa@|A}@bAQXOd@AR?XD^Rb@`@n@CPGBGC]q@y@iAyAiCc@e@_@Og@Ig@AsCJq@?g@Gk@e@EGc@aAK_@OWOi@OQWQMEYEwACy@D_@Fq@X_@Z]^_@\\u@l@WNSFS?ICKM@sAI_B]}Aa@{@Y[c@YsB}@QMw@w@]g@]Uc@MwHiBsBc@UCS@OBQLSLm@r@OHODO@OE_@]m@w@Wo@Iw@@{@Dw@Bw@Cy@S{BCw@H_Ah@mCD[?[C_@Uo@QUUO_CiASGWAWDQFc@b@MTUv@o@rCWr@MTWZYRKEKIMOGSCS@sCWmDC{@DwAL_AP{@Fy@A]GWIUMQa@[{A}@eDkBUQe@c@iBsCo@u@_BgA}BsAi@Wm@Om@IeC[_AGYBWDkBt@SHU@SCk@SUCQ?WDUJiAv@WLmBh@g@XeBtBgBdCg@~@c@~@W^MHOBMEIKEO?OHa@La@`BqE^w@~@}BfA}Ct@}BfCuG~@sCHc@nAcDNe@Jm@@g@C_@Ga@Wy@KOSUiBkAa@[[[QUMWGSGi@EcAAcDEcCBuBJkCJgAFi@ViANeA?eACy@S_Da@{DS_BQkBaAkGa@_BUe@_@m@]w@w@iDq@aCkBgEaCkE]u@uBuHe@kBe@}A[e@UW_BsAmAgAoA_AOG]GaCK{@KQGi@WqA}@oB{AuAmAo@c@c@][Qg@Oe@Ky@Ai@H[Jk@Za@^}C|DWRWJeBTcATk@DWAWGYKWQWSe@m@SSyAcAeBeB}@i@cBs@_@Y[i@So@gAwEs@mDIu@Gu@CmECYGWMWQQQKWCsFJgB?u@CYEWMm@e@qAcBy@iAa@u@}@iBWw@G]G_AB{@ZyCRwAb@wB`A}Dr@oDLmAJkCHw@FYHULO\\WLOHU@WCUYeAE[?]@_@L_A|@sEBg@EMGIMA]JwBrAoBfAu@f@QFODO?SGSKQSM[{AaFK[]m@a@_@s@e@][cAsAmBmCa@e@SOg@YmAg@q@]_@O]Km@GmA?o@EiBS{@?k@Gk@O{GgCs@[OI[]KQSe@Km@GgAa@sKCoABu@fBoXBcAA_@Q}@Ys@_@g@}AoBc@y@wG_UQu@}@oGY_CiB{Ma@oDCw@CmJCmBC_QKiIQ_k@EuCKqAyDqT]aBWcBI{@CuAB}TCqREqBe@wJcAkQQwDOwBY_CS{@Uw@sA}CgBsDaA{Bi@kA_@_A_@oAoD_P_E_Qc@cBc@yBEg@k@oNGkDb@sRB}Gf@kb@A}Ca@sTKiCMuB_@cEsCmVOsBCgAByBnCmYBg@?w@cB{OK}ADq@AMCKGIICm@JYGWOQW{AkF[iAIe@iDkLm@iCKs@IgAGaCAsBGkAEyCAQSSa@Y{@_@WIWEq@?wAFgANm@LsANk@Au@MSISKgCuBm@a@iAe@qBm@gDiAIGEKMe@GCi@?_@GWM[]IEI?]RK@K?oBq@QOKYIi@?_CBu@NeCA{@GYSi@OUUUQIWIwAI}AAaAGy@I}@Um@[oAe@u@g@eCmAo@c@u@UeAk@[[KOWk@QKUCm@@WEo@YuBgA_CgAm@]cCkAeAm@mFaEq@m@}A_BiCoC{@eAcBeB_@Qo@G_Bk@sA]gBm@o@WoBsAMEMCMBURMZ_AvCoCzDYn@KZuApFSb@MH]FkBJ_DVs@?qD[eAQiAYmBk@cA_@sB_A[Gs@Ci@?yAOkBa@aA]a@SuDiCwAs@cAc@w@e@}DkDeBaBy@aAoAkBg@aAq@iBUu@SeAMgA]_FQmBi@kDc@kB]oBc@oBWkB[_B[eEMcAq@}Cu@eCUiAeA_DuAaCQg@Em@Fo@@q@A_@EOO]QSSK{@YSSuD}E]k@Ym@Yy@o@_C_BgDwAkDa@_B{@_CmAiCyAiDwFcMI]CO@_@JY^y@BUCUm@_CGcAI]Kw@Eu@W}@{@qCYsBK]{@yBeAsCa@u@Y[a@o@o@iA]w@iAaE]y@oHyKYg@e@gAgC{DqGsLmBgD{AuCcAeCo@kBi@oB{@cE}@oDMcAQeBW{DY{BWyAk@uB_@kBEcA@iCCuAMcB_@qDAaBB[R_CP_BF{@A]WmASqAmAiJ@QDMhAg@PMDIHWPsBDkBCuAGo@?i@Mm@?]Es@?m@P_GYaHK{@gAiEY}@i@oAc@u@_@a@c@Qs@Sk@Uu@]uAu@_@Ug@g@Wg@Sg@kA}D}@kC}@kBq@cA{@cAaEsDeAcAkBcCq@gA}AcDWu@c@uA{B{I_AqC{@kBsBgDm@kAOo@Ku@GuA?gEBkABUJe@FQ|@mB`D}HTy@@WCMGGKGg@K[M[U[]iAoBw@gBSm@SeAGo@Q{CQsAKg@Qe@Sa@Wa@Y[uCaCkBuAqBqA{AmAsCaByAcAsAqAwBeCq@q@g@a@i@[gAk@i@Q{@Qi@AeBT_J~BwAd@s@`@aAr@wAxAiA`A}@h@[Ng@Jw@JkD\\mBJuAGy@Mm@QgAc@uBuAaAg@wKuC}@U_AK_A@mBPy@NyAZm@Fs@Eo@QcCu@a@GY?gBJgARyAb@}@^YTk@h@uB|Bm@h@e@j@YP_@Du@MW?gBZq@T_@PKHMP_AtBW|@Mn@Sl@Wd@[Zm@Ru@Fm@EqCe@_AE_AAq@@wALa@HoA\\{Aj@mAp@sAdAgAdAy@f@k@TwAV_@Li@n@MTa@fAc@n@QLa@Pk@@_@I]USUeBqCUSQOSIYKg@Mk@Cu@A}@Fe@?aDHeCBs@?{@GaBCoAKiAQkBe@kBk@a@Qe@Y]]Wa@Se@s@sCSe@{@oAGMQI{@m@g@Q_AQ_BO{Iw@oCYeLy@oC]OGYSMEk@BiB?]AyAO{AY}Cw@}Be@wCq@sCi@cG}@a@KMKMOSi@Mk@Qe@S[MK[QqB_AaHwCeVsKi@YwG{EaBaByBaC_@[gGaE{@e@a@OWCYAYBe@JyBjAc@NYFg@@WCYGc@WSQW_@M[Oo@KsABmCCs@I{@YcAa@aA_@s@i@w@i@o@oAcAU_@QGgAAuCKm@Gu@M{@?}DYiASwAs@aBq@a@Mk@Kk@EeBEyEPWCa@OI?SH_@ZkA\\wAj@eAn@cAt@u@r@oB|B}CtDq@|@_BfBYb@g@d@SLS@e@EUIqA_A]YwC_DkAwAgBqCq@sAy@sAcDwE_BeBa@g@yEuI}AkCQ]GUIq@?q@DmADwEJiDj@wFr@iIEkBB_BEmEGwCESKIG?u@@eBN]Ec@LeAHc@Ho@CWFg@?SBK?OEIDUFo@@aAJ{AAMBKA[Ha@CM@UDk@ACEEk@@eAGy@Fq@ASEECOBS?SHc@CSBWCe@DGAGD@KYCAG]H?@FOHCCAHDDC?B@A@@@@CFC@DCB?CGA?BC?BB@CGC@B@AB?CEB?@L`@FK?MIC?AEIGH?AAA@DDI?AEQB?ABAx@`@BE?BEu@[d@?KCFD??C",
+    "resource_state": 3,
+    "summary_polyline": "uh~cGemwI}BuCaEhBi@tGqD`EaJgHgAgJfF{Q|G_BcEaViG`HsB_B|CgRnG}Id@mVmGmIeCcR{GuKk@cW[xd@UmSqOqg@wFwf@tBcUw@mL`IoZLic@~DpIo@bJvIjQxA~OZyX|CiFuAjFbBtZdIhIkJxTHlM`LtLvBlLjLzAgKcDoA{MaIqM`PqVrDuOeFqIx@}FdScKx@aE[oKgFeCbAaN}HmLkA{KnBiTxRoKwDwZ{Pem@w@eVjEqViLoPsNfBcOoGaGeXb@iPaMoY}F~BuEuKuJqG}l@}y@o[uVgFyMaGaBmHgMqLmj@wTmWaCgUaRq[bAkUtGcGfFv@vA{Dq@}GcHeBPuLdGkLcCu[cHiFoCwKdGgKFuG}EiKkK}HqG~@_DvMiFd@`EuBrD_OdKqFsQpFoNma@_I}b@{SgSsHjLX_SmBuJka@}t@xCy^aiA_gCoAqV~F}fBy`@eYyH^cp@`t@a^X_JzNmW`t@sPi@kr@zk@_Ur@}X_c@{ItBkEdPaIvHaDhg@nGnNmDnCAbJ~B_ClGzHaApIbHvg@i@rk@oUlKqLwBgh@~CYpFwJxJaExSyRb\\OlIdFpMgEr@oFyJoIfQ~A|Twm@yd@uGhE\\hBeLqUoSsOgFeNaEuSZa}@iC}aAgL`K|C{IaAw_@lBwWmCuVcRgOuH_VmPeVsDkPmV}a@kA}JoNpJsQnB_U{JaBfE_TtBg`@yNmz@lEwHyFwVeq@}WpBwQfKuQMgb@zOar@yLnA{EaBoCdBbAuGiDuI~DsEoKmG{}@fI{d@xMqXqI_R}Oq_A{I{CqEmNRoFqDyDfF{H_GcQx@iG{CfFl@vD}EoH}IWwD{F{MxDsA{IwHwF}S}@oB}DNoV}FkBgFnJYoWoWkSiRGuRlPpSun@{GqK|@u\\aDmZmTan@g_@mTwSrIuP_L{EcZ_Om@yHiMhJ{v@wKhEuOaVk`@yLy@yQlBi]eNc_@uFqa@s@s|AeGe_@uCkvAiZcgAXwxAcGa`AvCg`@kByTgC}@yIq[o@iRwQw@_\\_NwA{PyKgAy\\sP_\\cXyOcG_LdVkJt@i^oHyYwUoLks@oHwZyIuJyWso@q@}O{FoRek@ygAeJku@n@yK{BgPdCkFm@g`@oDmKwJoFsFeOsOkQsP}b@[eNjGuPuGcIeCcOmf@s^sh@fPs[uJsUYy[dMgEnJ_T^aWlPuHoGq`@kBsKsNqmAyOqh@wYwYcUiMz@yBsOmGiI}h@_Fg]vXud@qo@vA{t@q[lAOqM"
+  },
+  "trainer": false,
+  "commute": false,
+  "manual": false,
+  "private": false,
+  "visibility": "everyone",
+  "flagged": false,
+  "gear_id": "b11943195",
+  "start_latlng": [
+    42.758671,
+    1.763555
+  ],
+  "end_latlng": [
+    43.215,
+    2.351619
+  ],
+  "average_speed": 5.346,
+  "max_speed": 18.14,
+  "average_temp": 18,
+  "average_watts": 116.4,
+  "device_watts": false,
+  "kilojoules": 2501.0,
+  "has_heartrate": false,
+  "heartrate_opt_out": false,
+  "display_hide_heartrate_option": false,
+  "elev_high": 1368.2,
+  "elev_low": 104.6,
+  "upload_id": 15692906810,
+  "upload_id_str": "15692906810",
+  "external_id": "3c1f9f00-7309-4178-8f7c-e7e63bbe1791.fit",
+  "from_accepted_tag": false,
+  "pr_count": 0,
+  "total_photo_count": 3,
+  "has_kudoed": false,
+  "description": "Not a single open cafe until 2pm \ud83d\udc80",
+  "calories": 2789.0,
+  "perceived_exertion": null,
+  "prefer_perceived_exertion": false,
+  "segment_efforts": [
+    {
+      "id": 3365740594639182408,
+      "resource_state": 2,
+      "name": "Luzenac (mairie) - Unac (entr\u00e9e village)",
+      "activity": {
+        "id": 14705729990,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 358,
+      "moving_time": 358,
+      "start_date": "2025-06-05T07:36:08Z",
+      "start_date_local": "2025-06-05T09:36:08Z",
+      "distance": 913.2,
+      "start_index": 210,
+      "end_index": 568,
+      "device_watts": false,
+      "segment": {
+        "id": 12196320,
+        "resource_state": 2,
+        "name": "Luzenac (mairie) - Unac (entr\u00e9e village)",
+        "activity_type": "Ride",
+        "distance": 913.2,
+        "average_grade": 4.7,
+        "maximum_grade": 27.0,
+        "elevation_high": 649.8,
+        "elevation_low": 607.0,
+        "start_latlng": [
+          42.763279,
+          1.763583
+        ],
+        "end_latlng": [
+          42.761875,
+          1.771906
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Luzenac",
+        "state": "Languedoc-Roussillon Midi-Pyr\u00e9n\u00e9es",
+        "country": "France",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3365740594639116872,
+      "resource_state": 2,
+      "name": "unac - embranchement route bestiac",
+      "activity": {
+        "id": 14705729990,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 1467,
+      "moving_time": 1467,
+      "start_date": "2025-06-05T07:42:05Z",
+      "start_date_local": "2025-06-05T09:42:05Z",
+      "distance": 4108.9,
+      "start_index": 567,
+      "end_index": 2034,
+      "device_watts": false,
+      "segment": {
+        "id": 14314535,
+        "resource_state": 2,
+        "name": "unac - embranchement route bestiac",
+        "activity_type": "Ride",
+        "distance": 4108.9,
+        "average_grade": 4.1,
+        "maximum_grade": 42.2,
+        "elevation_high": 821.2,
+        "elevation_low": 654.0,
+        "start_latlng": [
+          42.761938,
+          1.771753
+        ],
+        "end_latlng": [
+          42.768834,
+          1.796973
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 2,
+        "city": "Unac",
+        "state": "Occitanie",
+        "country": "France",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3365740594641914440,
+      "resource_state": 2,
+      "name": "Unac eglise - sizet 1er challenge Arrapinhaires",
+      "activity": {
+        "id": 14705729990,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 3796,
+      "moving_time": 3136,
+      "start_date": "2025-06-05T07:47:11Z",
+      "start_date_local": "2025-06-05T09:47:11Z",
+      "distance": 8170.2,
+      "start_index": 873,
+      "end_index": 4669,
+      "device_watts": false,
+      "segment": {
+        "id": 10665848,
+        "resource_state": 2,
+        "name": "Unac eglise - sizet 1er challenge Arrapinhaires",
+        "activity_type": "Ride",
+        "distance": 8170.2,
+        "average_grade": 4.4,
+        "maximum_grade": 50.0,
+        "elevation_high": 1089.5,
+        "elevation_low": 675.2,
+        "start_latlng": [
+          42.761627,
+          1.775777
+        ],
+        "end_latlng": [
+          42.759068,
+          1.794225
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 3,
+        "city": "Unac",
+        "state": "Midi-Pyr\u00e9n\u00e9es",
+        "country": "France",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3365740594641079880,
+      "resource_state": 2,
+      "name": "Col de Marmare from junction",
+      "activity": {
+        "id": 14705729990,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 4968,
+      "moving_time": 4227,
+      "start_date": "2025-06-05T08:06:39Z",
+      "start_date_local": "2025-06-05T10:06:39Z",
+      "distance": 11782.0,
+      "start_index": 2041,
+      "end_index": 7009,
+      "device_watts": false,
+      "segment": {
+        "id": 1658172,
+        "resource_state": 2,
+        "name": "Col de Marmare from junction",
+        "activity_type": "Ride",
+        "distance": 11782.0,
+        "average_grade": 4.4,
+        "maximum_grade": 36.7,
+        "elevation_high": 1362.4,
+        "elevation_low": 842.0,
+        "start_latlng": [
+          42.768750954419374,
+          1.797280702739954
+        ],
+        "end_latlng": [
+          42.766190618276596,
+          1.8507040198892355
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 3,
+        "city": "Caussou",
+        "state": "Midi-Pyr\u00e9n\u00e9es",
+        "country": "France",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3365740594641424968,
+      "resource_state": 2,
+      "name": "Caussou (sortie pont) - Sizet ",
+      "activity": {
+        "id": 14705729990,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 1921,
+      "moving_time": 1304,
+      "start_date": "2025-06-05T08:18:07Z",
+      "start_date_local": "2025-06-05T10:18:07Z",
+      "distance": 3335.1,
+      "start_index": 2729,
+      "end_index": 4650,
+      "device_watts": false,
+      "segment": {
+        "id": 12196457,
+        "resource_state": 2,
+        "name": "Caussou (sortie pont) - Sizet ",
+        "activity_type": "Ride",
+        "distance": 3335.1,
+        "average_grade": 4.0,
+        "maximum_grade": 49.7,
+        "elevation_high": 1098.2,
+        "elevation_low": 916.9,
+        "start_latlng": [
+          42.767368,
+          1.816067
+        ],
+        "end_latlng": [
+          42.759469,
+          1.794451
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 1,
+        "city": "Caussou",
+        "state": "Languedoc-Roussillon Midi-Pyr\u00e9n\u00e9es",
+        "country": "France",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3365740594641390152,
+      "resource_state": 2,
+      "name": "rec de la coume",
+      "activity": {
+        "id": 14705729990,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 1214,
+      "moving_time": 604,
+      "start_date": "2025-06-05T08:28:29Z",
+      "start_date_local": "2025-06-05T10:28:29Z",
+      "distance": 1560.3,
+      "start_index": 3351,
+      "end_index": 4565,
+      "device_watts": false,
+      "segment": {
+        "id": 17625701,
+        "resource_state": 2,
+        "name": "rec de la coume",
+        "activity_type": "Ride",
+        "distance": 1560.3,
+        "average_grade": 3.6,
+        "maximum_grade": 34.7,
+        "elevation_high": 1047.5,
+        "elevation_low": 990.7,
+        "start_latlng": [
+          42.76377,
+          1.810172
+        ],
+        "end_latlng": [
+          42.761137,
+          1.795287
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": null,
+        "state": null,
+        "country": null,
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3365740594638108232,
+      "resource_state": 2,
+      "name": "Col de Marmare, depuis D44",
+      "activity": {
+        "id": 14705729990,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 2313,
+      "moving_time": 2232,
+      "start_date": "2025-06-05T08:50:58Z",
+      "start_date_local": "2025-06-05T10:50:58Z",
+      "distance": 6649.8,
+      "start_index": 4700,
+      "end_index": 7013,
+      "device_watts": false,
+      "segment": {
+        "id": 36381341,
+        "resource_state": 2,
+        "name": "Col de Marmare, depuis D44",
+        "activity_type": "Ride",
+        "distance": 6649.8,
+        "average_grade": 4.5,
+        "maximum_grade": 6.4,
+        "elevation_high": 1364.3,
+        "elevation_low": 1064.4,
+        "start_latlng": [
+          42.758753,
+          1.794589
+        ],
+        "end_latlng": [
+          42.766205,
+          1.850842
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 2,
+        "city": "Tignac",
+        "state": "Ari\u00e8ge",
+        "country": "France",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3365740594637878856,
+      "resource_state": 2,
+      "name": "D20 Climb",
+      "activity": {
+        "id": 14705729990,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 327,
+      "moving_time": 325,
+      "start_date": "2025-06-05T08:54:31Z",
+      "start_date_local": "2025-06-05T10:54:31Z",
+      "distance": 844.6,
+      "start_index": 4913,
+      "end_index": 5240,
+      "device_watts": false,
+      "segment": {
+        "id": 4649147,
+        "resource_state": 2,
+        "name": "D20 Climb",
+        "activity_type": "Ride",
+        "distance": 844.6,
+        "average_grade": 9.9,
+        "maximum_grade": 35.3,
+        "elevation_high": 1183.2,
+        "elevation_low": 1099.6,
+        "start_latlng": [
+          42.761855,
+          1.7984
+        ],
+        "end_latlng": [
+          42.759007,
+          1.806478
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 1,
+        "city": "Caussou",
+        "state": "Midi-Pyr\u00e9n\u00e9es",
+        "country": "France",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3365740594640968264,
+      "resource_state": 2,
+      "name": "D20 Climb",
+      "activity": {
+        "id": 14705729990,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 184,
+      "moving_time": 184,
+      "start_date": "2025-06-05T09:01:15Z",
+      "start_date_local": "2025-06-05T11:01:15Z",
+      "distance": 515.518,
+      "start_index": 5317,
+      "end_index": 5501,
+      "device_watts": false,
+      "segment": {
+        "id": 1461985,
+        "resource_state": 2,
+        "name": "D20 Climb",
+        "activity_type": "Ride",
+        "distance": 515.518,
+        "average_grade": 15.7,
+        "maximum_grade": 45.1,
+        "elevation_high": 1227.9,
+        "elevation_low": 1146.9,
+        "start_latlng": [
+          42.760254219174385,
+          1.808186648413539
+        ],
+        "end_latlng": [
+          42.75657414458692,
+          1.8112623039633036
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 1,
+        "city": "Caussou",
+        "state": "Midi-Pyr\u00e9n\u00e9es",
+        "country": "France",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3365740594639503944,
+      "resource_state": 2,
+      "name": "D20 Climb",
+      "activity": {
+        "id": 14705729990,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 309,
+      "moving_time": 309,
+      "start_date": "2025-06-05T09:09:17Z",
+      "start_date_local": "2025-06-05T11:09:17Z",
+      "distance": 1028.8,
+      "start_index": 5799,
+      "end_index": 6108,
+      "device_watts": false,
+      "segment": {
+        "id": 4471576,
+        "resource_state": 2,
+        "name": "D20 Climb",
+        "activity_type": "Ride",
+        "distance": 1028.8,
+        "average_grade": 9.4,
+        "maximum_grade": 35.9,
+        "elevation_high": 1310.0,
+        "elevation_low": 1212.8,
+        "start_latlng": [
+          42.758287,
+          1.818523
+        ],
+        "end_latlng": [
+          42.755246,
+          1.827189
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 1,
+        "city": "Caussou",
+        "state": "Midi-Pyr\u00e9n\u00e9es",
+        "country": "France",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3365740594639405640,
+      "resource_state": 2,
+      "name": "D20 Climb",
+      "activity": {
+        "id": 14705729990,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 241,
+      "moving_time": 241,
+      "start_date": "2025-06-05T09:18:45Z",
+      "start_date_local": "2025-06-05T11:18:45Z",
+      "distance": 803.076,
+      "start_index": 6367,
+      "end_index": 6608,
+      "device_watts": false,
+      "segment": {
+        "id": 1461986,
+        "resource_state": 2,
+        "name": "D20 Climb",
+        "activity_type": "Ride",
+        "distance": 803.076,
+        "average_grade": 11.2,
+        "maximum_grade": 36.9,
+        "elevation_high": 1392.4,
+        "elevation_low": 1302.4,
+        "start_latlng": [
+          42.758786883205175,
+          1.836277674883604
+        ],
+        "end_latlng": [
+          42.758212722837925,
+          1.8448159005492926
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 1,
+        "city": "Caussou",
+        "state": "Midi-Pyr\u00e9n\u00e9es",
+        "country": "France",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3365740594640645704,
+      "resource_state": 2,
+      "name": "Dernier kilo Col de Marmare",
+      "activity": {
+        "id": 14705729990,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 367,
+      "moving_time": 288,
+      "start_date": "2025-06-05T09:23:22Z",
+      "start_date_local": "2025-06-05T11:23:22Z",
+      "distance": 989.6,
+      "start_index": 6644,
+      "end_index": 7011,
+      "device_watts": false,
+      "segment": {
+        "id": 13265878,
+        "resource_state": 2,
+        "name": "Dernier kilo Col de Marmare",
+        "activity_type": "Ride",
+        "distance": 989.6,
+        "average_grade": 3.6,
+        "maximum_grade": 11.2,
+        "elevation_high": 1353.4,
+        "elevation_low": 1317.4,
+        "start_latlng": [
+          42.758987,
+          1.846551
+        ],
+        "end_latlng": [
+          42.76617,
+          1.850769
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Caussou",
+        "state": "Languedoc-Roussillon Midi-Pyr\u00e9n\u00e9es",
+        "country": "France",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3365740594638801480,
+      "resource_state": 2,
+      "name": "Col de Sept Freres",
+      "activity": {
+        "id": 14705729990,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 1405,
+      "moving_time": 1384,
+      "start_date": "2025-06-05T09:34:18Z",
+      "start_date_local": "2025-06-05T11:34:18Z",
+      "distance": 8727.39,
+      "start_index": 7300,
+      "end_index": 8705,
+      "device_watts": false,
+      "segment": {
+        "id": 627147,
+        "resource_state": 2,
+        "name": "Col de Sept Freres",
+        "activity_type": "Ride",
+        "distance": 8727.39,
+        "average_grade": -1.2,
+        "maximum_grade": 6.6,
+        "elevation_high": 1359.4,
+        "elevation_low": 1198.0,
+        "start_latlng": [
+          42.76620168238878,
+          1.8511024955660105
+        ],
+        "end_latlng": [
+          42.798136649653316,
+          1.9258445966988802
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Prades",
+        "state": "Midi-Pyr\u00e9n\u00e9es",
+        "country": "France",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3365740594640317000,
+      "resource_state": 2,
+      "name": "Col des Sept Fr\u00e8res, depuis Le Moulin",
+      "activity": {
+        "id": 14705729990,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 458,
+      "moving_time": 441,
+      "start_date": "2025-06-05T09:49:37Z",
+      "start_date_local": "2025-06-05T11:49:37Z",
+      "distance": 1755.5,
+      "start_index": 8219,
+      "end_index": 8677,
+      "device_watts": false,
+      "segment": {
+        "id": 36380887,
+        "resource_state": 2,
+        "name": "Col des Sept Fr\u00e8res, depuis Le Moulin",
+        "activity_type": "Ride",
+        "distance": 1755.5,
+        "average_grade": 2.6,
+        "maximum_grade": 7.0,
+        "elevation_high": 1253.5,
+        "elevation_low": 1208.4,
+        "start_latlng": [
+          42.795442,
+          1.907774
+        ],
+        "end_latlng": [
+          42.797194,
+          1.924226
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Camurac",
+        "state": "Aude",
+        "country": "France",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3365740594638417480,
+      "resource_state": 2,
+      "name": "Col des 7 Fr\u00e8res ",
+      "activity": {
+        "id": 14705729990,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 194,
+      "moving_time": 194,
+      "start_date": "2025-06-05T09:54:08Z",
+      "start_date_local": "2025-06-05T11:54:08Z",
+      "distance": 613.1,
+      "start_index": 8490,
+      "end_index": 8684,
+      "device_watts": false,
+      "segment": {
+        "id": 18248880,
+        "resource_state": 2,
+        "name": "Col des 7 Fr\u00e8res ",
+        "activity_type": "Ride",
+        "distance": 613.1,
+        "average_grade": 4.9,
+        "maximum_grade": 6.8,
+        "elevation_high": 1225.8,
+        "elevation_low": 1196.0,
+        "start_latlng": [
+          42.797383,
+          1.918372
+        ],
+        "end_latlng": [
+          42.797314,
+          1.92454
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Camurac",
+        "state": "Occitanie",
+        "country": "France",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3365740594639103560,
+      "resource_state": 2,
+      "name": "Col des 7 fr\u00e8res descente",
+      "activity": {
+        "id": 14705729990,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 856,
+      "moving_time": 791,
+      "start_date": "2025-06-05T09:57:15Z",
+      "start_date_local": "2025-06-05T11:57:15Z",
+      "distance": 7596.4,
+      "start_index": 8677,
+      "end_index": 9533,
+      "device_watts": false,
+      "segment": {
+        "id": 9764771,
+        "resource_state": 2,
+        "name": "Col des 7 fr\u00e8res descente",
+        "activity_type": "Ride",
+        "distance": 7596.4,
+        "average_grade": -4.0,
+        "maximum_grade": 14.9,
+        "elevation_high": 1263.8,
+        "elevation_low": 953.1,
+        "start_latlng": [
+          42.797188,
+          1.924232
+        ],
+        "end_latlng": [
+          42.82766,
+          1.978815
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Camurac",
+        "state": "Languedoc-Roussillon",
+        "country": "France",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3365740594638009928,
+      "resource_state": 2,
+      "name": "col des 7 fr\u00e8re-belcaire ",
+      "activity": {
+        "id": 14705729990,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 458,
+      "moving_time": 458,
+      "start_date": "2025-06-05T09:57:29Z",
+      "start_date_local": "2025-06-05T11:57:29Z",
+      "distance": 4768.3,
+      "start_index": 8691,
+      "end_index": 9149,
+      "device_watts": false,
+      "segment": {
+        "id": 14902135,
+        "resource_state": 2,
+        "name": "col des 7 fr\u00e8re-belcaire ",
+        "activity_type": "Ride",
+        "distance": 4768.3,
+        "average_grade": -4.7,
+        "maximum_grade": -1.0,
+        "elevation_high": 1259.8,
+        "elevation_low": 1035.8,
+        "start_latlng": [
+          42.797514,
+          1.924958
+        ],
+        "end_latlng": [
+          42.815819,
+          1.951186
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Camurac",
+        "state": "Occitanie",
+        "country": "France",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3365740594637856328,
+      "resource_state": 2,
+      "name": "Belcaire - Roquefeuil \"QTP\"",
+      "activity": {
+        "id": 14705729990,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 403,
+      "moving_time": 403,
+      "start_date": "2025-06-05T10:08:07Z",
+      "start_date_local": "2025-06-05T12:08:07Z",
+      "distance": 3692.6,
+      "start_index": 9329,
+      "end_index": 9732,
+      "device_watts": false,
+      "segment": {
+        "id": 24504791,
+        "resource_state": 2,
+        "name": "Belcaire - Roquefeuil \"QTP\"",
+        "activity_type": "Ride",
+        "distance": 3692.6,
+        "average_grade": -2.4,
+        "maximum_grade": -0.4,
+        "elevation_high": 998.2,
+        "elevation_low": 910.8,
+        "start_latlng": [
+          42.817494,
+          1.960381
+        ],
+        "end_latlng": [
+          42.827685,
+          2.000658
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Belcaire",
+        "state": "Occitanie",
+        "country": "France",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3365740594640607816,
+      "resource_state": 2,
+      "name": "plateau vers B\u00e9lesta ",
+      "activity": {
+        "id": 14705729990,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 2289,
+      "moving_time": 1182,
+      "start_date": "2025-06-05T10:15:28Z",
+      "start_date_local": "2025-06-05T12:15:28Z",
+      "distance": 7204.0,
+      "start_index": 9770,
+      "end_index": 12059,
+      "device_watts": false,
+      "segment": {
+        "id": 24241569,
+        "resource_state": 2,
+        "name": "plateau vers B\u00e9lesta ",
+        "activity_type": "Ride",
+        "distance": 7204.0,
+        "average_grade": -0.2,
+        "maximum_grade": 6.8,
+        "elevation_high": 915.6,
+        "elevation_low": 873.0,
+        "start_latlng": [
+          42.829674,
+          2.002435
+        ],
+        "end_latlng": [
+          42.87697,
+          1.971885
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Roquefeuil",
+        "state": "Occitanie",
+        "country": "France",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3365740594641009224,
+      "resource_state": 2,
+      "name": "Down the Mort",
+      "activity": {
+        "id": 14705729990,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 775,
+      "moving_time": 699,
+      "start_date": "2025-06-05T10:51:22Z",
+      "start_date_local": "2025-06-05T12:51:22Z",
+      "distance": 7336.6,
+      "start_index": 11924,
+      "end_index": 12699,
+      "device_watts": false,
+      "segment": {
+        "id": 7837454,
+        "resource_state": 2,
+        "name": "Down the Mort",
+        "activity_type": "Ride",
+        "distance": 7336.6,
+        "average_grade": -5.5,
+        "maximum_grade": 38.4,
+        "elevation_high": 921.4,
+        "elevation_low": 510.2,
+        "start_latlng": [
+          42.876891,
+          1.97458
+        ],
+        "end_latlng": [
+          42.899823,
+          1.933255
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "B\u00e9lesta, Ari\u00e8ge",
+        "state": "Midi-Pyr\u00e9n\u00e9es",
+        "country": "France",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3365740594641265224,
+      "resource_state": 2,
+      "name": "col del teil 1st part",
+      "activity": {
+        "id": 14705729990,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 610,
+      "moving_time": 610,
+      "start_date": "2025-06-05T11:09:57Z",
+      "start_date_local": "2025-06-05T13:09:57Z",
+      "distance": 2133.3,
+      "start_index": 13039,
+      "end_index": 13649,
+      "device_watts": false,
+      "segment": {
+        "id": 5223457,
+        "resource_state": 2,
+        "name": "col del teil 1st part",
+        "activity_type": "Ride",
+        "distance": 2133.3,
+        "average_grade": 3.5,
+        "maximum_grade": 5.5,
+        "elevation_high": 562.8,
+        "elevation_low": 489.0,
+        "start_latlng": [
+          42.909138,
+          1.941019
+        ],
+        "end_latlng": [
+          42.911443,
+          1.966276
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "B\u00e9lesta",
+        "state": "Midi-Pyr\u00e9n\u00e9es",
+        "country": "France",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3365740594638877256,
+      "resource_state": 2,
+      "name": "Bespoked sprint to Chalabre",
+      "activity": {
+        "id": 14705729990,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 403,
+      "moving_time": 403,
+      "start_date": "2025-06-05T11:41:20Z",
+      "start_date_local": "2025-06-05T13:41:20Z",
+      "distance": 2740.0,
+      "start_index": 14922,
+      "end_index": 15325,
+      "device_watts": false,
+      "segment": {
+        "id": 14745147,
+        "resource_state": 2,
+        "name": "Bespoked sprint to Chalabre",
+        "activity_type": "Ride",
+        "distance": 2740.0,
+        "average_grade": -0.6,
+        "maximum_grade": 0.5,
+        "elevation_high": 394.0,
+        "elevation_low": 376.1,
+        "start_latlng": [
+          42.952184,
+          1.998648
+        ],
+        "end_latlng": [
+          42.972539,
+          2.004046
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Rivel",
+        "state": "Occitanie",
+        "country": "France",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3365740594641223240,
+      "resource_state": 2,
+      "name": "Col du Bac",
+      "activity": {
+        "id": 14705729990,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 2102,
+      "moving_time": 1792,
+      "start_date": "2025-06-05T12:30:19Z",
+      "start_date_local": "2025-06-05T14:30:19Z",
+      "distance": 5366.49,
+      "start_index": 17861,
+      "end_index": 19963,
+      "device_watts": false,
+      "segment": {
+        "id": 679093,
+        "resource_state": 2,
+        "name": "Col du Bac",
+        "activity_type": "Ride",
+        "distance": 5366.49,
+        "average_grade": 4.3,
+        "maximum_grade": 33.4,
+        "elevation_high": 539.2,
+        "elevation_low": 310.2,
+        "start_latlng": [
+          42.98619378358126,
+          2.0086589735001326
+        ],
+        "end_latlng": [
+          42.99761010333896,
+          2.0535785146057606
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 2,
+        "city": "Chalabre",
+        "state": "Languedoc-Roussillon",
+        "country": "France",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3365740594639032904,
+      "resource_state": 2,
+      "name": "bac montjardin machore",
+      "activity": {
+        "id": 14705729990,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 1092,
+      "moving_time": 1092,
+      "start_date": "2025-06-05T12:44:29Z",
+      "start_date_local": "2025-06-05T14:44:29Z",
+      "distance": 2925.1,
+      "start_index": 18711,
+      "end_index": 19803,
+      "device_watts": false,
+      "segment": {
+        "id": 30330423,
+        "resource_state": 2,
+        "name": "bac montjardin machore",
+        "activity_type": "Ride",
+        "distance": 2925.1,
+        "average_grade": 6.0,
+        "maximum_grade": 12.2,
+        "elevation_high": 620.0,
+        "elevation_low": 442.2,
+        "start_latlng": [
+          42.983732,
+          2.029593
+        ],
+        "end_latlng": [
+          42.992098,
+          2.05172
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 2,
+        "city": "Montjardin",
+        "state": "Occitanie",
+        "country": "France",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3365740594638982728,
+      "resource_state": 2,
+      "name": "Biff's downhill",
+      "activity": {
+        "id": 14705729990,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 212,
+      "moving_time": 212,
+      "start_date": "2025-06-05T13:06:26Z",
+      "start_date_local": "2025-06-05T15:06:26Z",
+      "distance": 2552.9,
+      "start_index": 20028,
+      "end_index": 20240,
+      "device_watts": false,
+      "segment": {
+        "id": 7827672,
+        "resource_state": 2,
+        "name": "Biff's downhill",
+        "activity_type": "Ride",
+        "distance": 2552.9,
+        "average_grade": -6.0,
+        "maximum_grade": -4.2,
+        "elevation_high": 614.0,
+        "elevation_low": 461.4,
+        "start_latlng": [
+          43.001103,
+          2.056788
+        ],
+        "end_latlng": [
+          43.015548,
+          2.065536
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Saint Beno\u00eet, Aude",
+        "state": "Languedoc-Roussillon",
+        "country": "France",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3365740594638838344,
+      "resource_state": 2,
+      "name": "la bezole (depuis st-benoit)",
+      "activity": {
+        "id": 14705729990,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 717,
+      "moving_time": 717,
+      "start_date": "2025-06-05T13:10:14Z",
+      "start_date_local": "2025-06-05T15:10:14Z",
+      "distance": 3168.58,
+      "start_index": 20256,
+      "end_index": 20973,
+      "device_watts": false,
+      "segment": {
+        "id": 3619608,
+        "resource_state": 2,
+        "name": "la bezole (depuis st-benoit)",
+        "activity_type": "Ride",
+        "distance": 3168.58,
+        "average_grade": 2.6,
+        "maximum_grade": 10.6,
+        "elevation_high": 539.0,
+        "elevation_low": 454.1,
+        "start_latlng": [
+          43.0166317,
+          2.0645781
+        ],
+        "end_latlng": [
+          43.0243842,
+          2.0942505
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Saint Beno\u00eet",
+        "state": "Languedoc-Roussillon",
+        "country": "France",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3365740594641713736,
+      "resource_state": 2,
+      "name": "Up Petit Bezole",
+      "activity": {
+        "id": 14705729990,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 499,
+      "moving_time": 499,
+      "start_date": "2025-06-05T13:14:17Z",
+      "start_date_local": "2025-06-05T15:14:17Z",
+      "distance": 1909.2,
+      "start_index": 20499,
+      "end_index": 20998,
+      "device_watts": false,
+      "segment": {
+        "id": 32643892,
+        "resource_state": 2,
+        "name": "Up Petit Bezole",
+        "activity_type": "Ride",
+        "distance": 1909.2,
+        "average_grade": 3.6,
+        "maximum_grade": 19.3,
+        "elevation_high": 526.8,
+        "elevation_low": 458.6,
+        "start_latlng": [
+          43.014418,
+          2.078728
+        ],
+        "end_latlng": [
+          43.02506,
+          2.093817
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Saint-Beno\u00eet",
+        "state": "Occitanie",
+        "country": "France",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3365740594641332808,
+      "resource_state": 2,
+      "name": "Descente la Bezole",
+      "activity": {
+        "id": 14705729990,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 555,
+      "moving_time": 555,
+      "start_date": "2025-06-05T13:22:45Z",
+      "start_date_local": "2025-06-05T15:22:45Z",
+      "distance": 5928.3,
+      "start_index": 21007,
+      "end_index": 21562,
+      "device_watts": false,
+      "segment": {
+        "id": 13335794,
+        "resource_state": 2,
+        "name": "Descente la Bezole",
+        "activity_type": "Ride",
+        "distance": 5928.3,
+        "average_grade": -4.5,
+        "maximum_grade": 0.7,
+        "elevation_high": 507.0,
+        "elevation_low": 236.0,
+        "start_latlng": [
+          43.025328,
+          2.093477
+        ],
+        "end_latlng": [
+          43.046992,
+          2.142653
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "La Bezole",
+        "state": "Languedoc-Roussillon Midi-Pyr\u00e9n\u00e9es",
+        "country": "France",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3365740594638412360,
+      "resource_state": 2,
+      "name": "De lEspinas \u00e0 Limoux",
+      "activity": {
+        "id": 14705729990,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 1120,
+      "moving_time": 1120,
+      "start_date": "2025-06-05T13:22:56Z",
+      "start_date_local": "2025-06-05T15:22:56Z",
+      "distance": 10758.7,
+      "start_index": 21018,
+      "end_index": 22138,
+      "device_watts": false,
+      "segment": {
+        "id": 34800177,
+        "resource_state": 2,
+        "name": "De lEspinas \u00e0 Limoux",
+        "activity_type": "Ride",
+        "distance": 10758.7,
+        "average_grade": -3.1,
+        "maximum_grade": 2.4,
+        "elevation_high": 532.4,
+        "elevation_low": 196.2,
+        "start_latlng": [
+          43.025869,
+          2.092891
+        ],
+        "end_latlng": [
+          43.054048,
+          2.200574
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "La Bezole",
+        "state": "Aude",
+        "country": "France",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3365740594641836616,
+      "resource_state": 2,
+      "name": "descente d620",
+      "activity": {
+        "id": 14705729990,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 181,
+      "moving_time": 181,
+      "start_date": "2025-06-05T13:22:58Z",
+      "start_date_local": "2025-06-05T15:22:58Z",
+      "distance": 2175.7,
+      "start_index": 21020,
+      "end_index": 21201,
+      "device_watts": false,
+      "segment": {
+        "id": 37399317,
+        "resource_state": 2,
+        "name": "descente d620",
+        "activity_type": "Ride",
+        "distance": 2175.7,
+        "average_grade": -5.7,
+        "maximum_grade": 12.1,
+        "elevation_high": 536.2,
+        "elevation_low": 412.0,
+        "start_latlng": [
+          43.025942,
+          2.092798
+        ],
+        "end_latlng": [
+          43.033419,
+          2.109921
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "La Bezole",
+        "state": "Aude",
+        "country": "France",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3365740594641263176,
+      "resource_state": 2,
+      "name": "TT AJAC-LMX",
+      "activity": {
+        "id": 14705729990,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 463,
+      "moving_time": 463,
+      "start_date": "2025-06-05T13:33:08Z",
+      "start_date_local": "2025-06-05T15:33:08Z",
+      "distance": 3785.5,
+      "start_index": 21630,
+      "end_index": 22093,
+      "device_watts": false,
+      "segment": {
+        "id": 10731006,
+        "resource_state": 2,
+        "name": "TT AJAC-LMX",
+        "activity_type": "Ride",
+        "distance": 3785.5,
+        "average_grade": -1.0,
+        "maximum_grade": 0.0,
+        "elevation_high": 168.2,
+        "elevation_low": 128.8,
+        "start_latlng": [
+          43.047771,
+          2.151545
+        ],
+        "end_latlng": [
+          43.053525,
+          2.196252
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Ajac",
+        "state": "Languedoc-Roussillon",
+        "country": "France",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3365740594640604744,
+      "resource_state": 2,
+      "name": "Sprint Limoux",
+      "activity": {
+        "id": 14705729990,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 78,
+      "moving_time": 78,
+      "start_date": "2025-06-05T13:39:24Z",
+      "start_date_local": "2025-06-05T15:39:24Z",
+      "distance": 666.6,
+      "start_index": 22006,
+      "end_index": 22084,
+      "device_watts": false,
+      "segment": {
+        "id": 13939257,
+        "resource_state": 2,
+        "name": "Sprint Limoux",
+        "activity_type": "Ride",
+        "distance": 666.6,
+        "average_grade": -1.4,
+        "maximum_grade": 0.0,
+        "elevation_high": -288.0,
+        "elevation_low": -297.0,
+        "start_latlng": [
+          43.053623,
+          2.187208
+        ],
+        "end_latlng": [
+          43.053455,
+          2.195368
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "La Digne-d'Aval",
+        "state": "Occitanie",
+        "country": "France",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3376180819485933000,
+      "resource_state": 2,
+      "name": "Mont\u00e9e de ND de Marceille",
+      "activity": {
+        "id": 14705729990,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 113,
+      "moving_time": 113,
+      "start_date": "2025-06-05T13:47:14Z",
+      "start_date_local": "2025-06-05T15:47:14Z",
+      "distance": 599.2,
+      "start_index": 22476,
+      "end_index": 22589,
+      "device_watts": false,
+      "segment": {
+        "id": 39546864,
+        "resource_state": 2,
+        "name": "Mont\u00e9e de ND de Marceille",
+        "activity_type": "Ride",
+        "distance": 599.2,
+        "average_grade": 2.2,
+        "maximum_grade": 13.2,
+        "elevation_high": 183.7,
+        "elevation_low": 170.5,
+        "start_latlng": [
+          43.062681,
+          2.222809
+        ],
+        "end_latlng": [
+          43.065898,
+          2.22673
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Limoux",
+        "state": "Aude",
+        "country": "France",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3365740594641824328,
+      "resource_state": 2,
+      "name": "3/3",
+      "activity": {
+        "id": 14705729990,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 2071,
+      "moving_time": 2071,
+      "start_date": "2025-06-05T13:48:10Z",
+      "start_date_local": "2025-06-05T15:48:10Z",
+      "distance": 13885.5,
+      "start_index": 22532,
+      "end_index": 24603,
+      "device_watts": false,
+      "segment": {
+        "id": 35226867,
+        "resource_state": 2,
+        "name": "3/3",
+        "activity_type": "Ride",
+        "distance": 13885.5,
+        "average_grade": -0.2,
+        "maximum_grade": 31.0,
+        "elevation_high": 174.0,
+        "elevation_low": 123.2,
+        "start_latlng": [
+          43.064916,
+          2.224754
+        ],
+        "end_latlng": [
+          43.139347,
+          2.324021
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Limoux",
+        "state": "Aude",
+        "country": "France",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3365740594641253960,
+      "resource_state": 2,
+      "name": "Notre Dame De Marceille",
+      "activity": {
+        "id": 14705729990,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 74,
+      "moving_time": 74,
+      "start_date": "2025-06-05T13:48:31Z",
+      "start_date_local": "2025-06-05T15:48:31Z",
+      "distance": 269.83,
+      "start_index": 22553,
+      "end_index": 22627,
+      "device_watts": false,
+      "segment": {
+        "id": 2343718,
+        "resource_state": 2,
+        "name": "Notre Dame De Marceille",
+        "activity_type": "Ride",
+        "distance": 269.83,
+        "average_grade": 5.6,
+        "maximum_grade": 10.5,
+        "elevation_high": 188.0,
+        "elevation_low": 173.0,
+        "start_latlng": [
+          43.06489088572562,
+          2.2261800058186054
+        ],
+        "end_latlng": [
+          43.067152155563235,
+          2.2268929705023766
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Limoux",
+        "state": "Languedoc-Roussillon",
+        "country": "France",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3365740594639979080,
+      "resource_state": 2,
+      "name": "Pieusse - Pomas",
+      "activity": {
+        "id": 14705729990,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 1032,
+      "moving_time": 1032,
+      "start_date": "2025-06-05T13:52:57Z",
+      "start_date_local": "2025-06-05T15:52:57Z",
+      "distance": 6905.0,
+      "start_index": 22819,
+      "end_index": 23851,
+      "device_watts": false,
+      "segment": {
+        "id": 7323758,
+        "resource_state": 2,
+        "name": "Pieusse - Pomas",
+        "activity_type": "Ride",
+        "distance": 6905.0,
+        "average_grade": -0.6,
+        "maximum_grade": 12.6,
+        "elevation_high": 188.0,
+        "elevation_low": 143.0,
+        "start_latlng": [
+          43.076888,
+          2.233838
+        ],
+        "end_latlng": [
+          43.112142,
+          2.286847
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Pieusse",
+        "state": "Languedoc-Roussillon",
+        "country": "France",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3365740594638736968,
+      "resource_state": 2,
+      "name": "bosse route de Pomas",
+      "activity": {
+        "id": 14705729990,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 112,
+      "moving_time": 112,
+      "start_date": "2025-06-05T14:03:25Z",
+      "start_date_local": "2025-06-05T16:03:25Z",
+      "distance": 451.5,
+      "start_index": 23447,
+      "end_index": 23559,
+      "device_watts": false,
+      "segment": {
+        "id": 11383955,
+        "resource_state": 2,
+        "name": "bosse route de Pomas",
+        "activity_type": "Ride",
+        "distance": 451.5,
+        "average_grade": 3.1,
+        "maximum_grade": 8.6,
+        "elevation_high": 239.2,
+        "elevation_low": 225.0,
+        "start_latlng": [
+          43.101762,
+          2.259484
+        ],
+        "end_latlng": [
+          43.103392,
+          2.264486
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Pieusse",
+        "state": "Languedoc-Roussillon",
+        "country": "France",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3365740594638802504,
+      "resource_state": 2,
+      "name": "Mont\u00e9e de Pomas",
+      "activity": {
+        "id": 14705729990,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 115,
+      "moving_time": 115,
+      "start_date": "2025-06-05T14:11:04Z",
+      "start_date_local": "2025-06-05T16:11:04Z",
+      "distance": 511.6,
+      "start_index": 23906,
+      "end_index": 24021,
+      "device_watts": false,
+      "segment": {
+        "id": 5208074,
+        "resource_state": 2,
+        "name": "Mont\u00e9e de Pomas",
+        "activity_type": "Ride",
+        "distance": 511.6,
+        "average_grade": 4.5,
+        "maximum_grade": 9.0,
+        "elevation_high": 174.0,
+        "elevation_low": 151.0,
+        "start_latlng": [
+          43.112106,
+          2.290093
+        ],
+        "end_latlng": [
+          43.11218,
+          2.296243
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Pomas",
+        "state": "Languedoc-Roussillon",
+        "country": "France",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3365740594641286728,
+      "resource_state": 2,
+      "name": "Pomas - Leuc",
+      "activity": {
+        "id": 14705729990,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 794,
+      "moving_time": 794,
+      "start_date": "2025-06-05T14:14:11Z",
+      "start_date_local": "2025-06-05T16:14:11Z",
+      "distance": 6100.1,
+      "start_index": 24093,
+      "end_index": 24887,
+      "device_watts": false,
+      "segment": {
+        "id": 7323773,
+        "resource_state": 2,
+        "name": "Pomas - Leuc",
+        "activity_type": "Ride",
+        "distance": 6100.1,
+        "average_grade": -0.6,
+        "maximum_grade": 6.6,
+        "elevation_high": 167.1,
+        "elevation_low": 128.8,
+        "start_latlng": [
+          43.114999,
+          2.299432
+        ],
+        "end_latlng": [
+          43.15485,
+          2.318689
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Pomas",
+        "state": "Languedoc-Roussillon",
+        "country": "France",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3365740594639510088,
+      "resource_state": 2,
+      "name": "D204 Bosse Duathlon Carcassonne",
+      "activity": {
+        "id": 14705729990,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 354,
+      "moving_time": 354,
+      "start_date": "2025-06-05T14:27:32Z",
+      "start_date_local": "2025-06-05T16:27:32Z",
+      "distance": 1290.51,
+      "start_index": 24894,
+      "end_index": 25248,
+      "device_watts": false,
+      "segment": {
+        "id": 3721172,
+        "resource_state": 2,
+        "name": "D204 Bosse Duathlon Carcassonne",
+        "activity_type": "Ride",
+        "distance": 1290.51,
+        "average_grade": 4.0,
+        "maximum_grade": 11.8,
+        "elevation_high": 182.5,
+        "elevation_low": 130.7,
+        "start_latlng": [
+          43.15518518909812,
+          2.3185765743255615
+        ],
+        "end_latlng": [
+          43.165271300822496,
+          2.321687266230583
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Couffoulens",
+        "state": "Languedoc-Roussillon",
+        "country": "France",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3365740594638712392,
+      "resource_state": 2,
+      "name": "Cavanac balls out",
+      "activity": {
+        "id": 14705729990,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 230,
+      "moving_time": 230,
+      "start_date": "2025-06-05T14:33:34Z",
+      "start_date_local": "2025-06-05T16:33:34Z",
+      "distance": 2113.9,
+      "start_index": 25256,
+      "end_index": 25486,
+      "device_watts": false,
+      "segment": {
+        "id": 5102236,
+        "resource_state": 2,
+        "name": "Cavanac balls out",
+        "activity_type": "Ride",
+        "distance": 2113.9,
+        "average_grade": -2.9,
+        "maximum_grade": 0.0,
+        "elevation_high": 133.2,
+        "elevation_low": 71.4,
+        "start_latlng": [
+          43.165747,
+          2.321846
+        ],
+        "end_latlng": [
+          43.183767,
+          2.328214
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Cavanac",
+        "state": "Languedoc-Roussillon",
+        "country": "France",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3365740594640186952,
+      "resource_state": 2,
+      "name": "Plat d'Auriac",
+      "activity": {
+        "id": 14705729990,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 290,
+      "moving_time": 290,
+      "start_date": "2025-06-05T14:35:50Z",
+      "start_date_local": "2025-06-05T16:35:50Z",
+      "distance": 2142.4,
+      "start_index": 25392,
+      "end_index": 25682,
+      "device_watts": false,
+      "segment": {
+        "id": 5344756,
+        "resource_state": 2,
+        "name": "Plat d'Auriac",
+        "activity_type": "Ride",
+        "distance": 2142.4,
+        "average_grade": -0.5,
+        "maximum_grade": 12.6,
+        "elevation_high": 131.0,
+        "elevation_low": 113.6,
+        "start_latlng": [
+          43.177191,
+          2.324212
+        ],
+        "end_latlng": [
+          43.192897,
+          2.335957
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Carcassonne",
+        "state": "Languedoc-Roussillon",
+        "country": "France",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3365740594639094344,
+      "resource_state": 2,
+      "name": "sprint mayreveille",
+      "activity": {
+        "id": 14705729990,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 83,
+      "moving_time": 83,
+      "start_date": "2025-06-05T14:44:01Z",
+      "start_date_local": "2025-06-05T16:44:01Z",
+      "distance": 515.7,
+      "start_index": 25883,
+      "end_index": 25966,
+      "device_watts": false,
+      "segment": {
+        "id": 33444896,
+        "resource_state": 2,
+        "name": "sprint mayreveille",
+        "activity_type": "Ride",
+        "distance": 515.7,
+        "average_grade": -0.2,
+        "maximum_grade": 1.6,
+        "elevation_high": 115.3,
+        "elevation_low": 112.9,
+        "start_latlng": [
+          43.2002,
+          2.337231
+        ],
+        "end_latlng": [
+          43.204008,
+          2.33374
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Carcassonne",
+        "state": "Occitanie",
+        "country": "France",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3365740594638449224,
+      "resource_state": 2,
+      "name": "4 Chemins Climb",
+      "activity": {
+        "id": 14705729990,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 255,
+      "moving_time": 136,
+      "start_date": "2025-06-05T14:46:52Z",
+      "start_date_local": "2025-06-05T16:46:52Z",
+      "distance": 742.0,
+      "start_index": 26054,
+      "end_index": 26309,
+      "device_watts": false,
+      "segment": {
+        "id": 23465915,
+        "resource_state": 2,
+        "name": "4 Chemins Climb",
+        "activity_type": "Ride",
+        "distance": 742.0,
+        "average_grade": 1.8,
+        "maximum_grade": 5.3,
+        "elevation_high": 125.0,
+        "elevation_low": 111.3,
+        "start_latlng": [
+          43.208075,
+          2.337132
+        ],
+        "end_latlng": [
+          43.210668,
+          2.344728
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Carcassonne",
+        "state": "Occitanie",
+        "country": "France",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    }
+  ],
+  "splits_metric": [
+    {
+      "distance": 1002.4,
+      "elapsed_time": 289,
+      "elevation_difference": -1.0,
+      "moving_time": 289,
+      "split": 1,
+      "average_speed": 3.47,
+      "average_grade_adjusted_speed": 3.59,
+      "pace_zone": 0
+    },
+    {
+      "distance": 999.8,
+      "elapsed_time": 390,
+      "elevation_difference": 43.2,
+      "moving_time": 390,
+      "split": 2,
+      "average_speed": 2.56,
+      "average_grade_adjusted_speed": 2.96,
+      "pace_zone": 0
+    },
+    {
+      "distance": 999.1,
+      "elapsed_time": 405,
+      "elevation_difference": 46.8,
+      "moving_time": 405,
+      "split": 3,
+      "average_speed": 2.47,
+      "average_grade_adjusted_speed": 2.88,
+      "pace_zone": 0
+    },
+    {
+      "distance": 998.9,
+      "elapsed_time": 360,
+      "elevation_difference": 44.0,
+      "moving_time": 360,
+      "split": 4,
+      "average_speed": 2.77,
+      "average_grade_adjusted_speed": 3.21,
+      "pace_zone": 0
+    },
+    {
+      "distance": 999.9,
+      "elapsed_time": 371,
+      "elevation_difference": 46.2,
+      "moving_time": 371,
+      "split": 5,
+      "average_speed": 2.7,
+      "average_grade_adjusted_speed": 3.14,
+      "pace_zone": 0
+    },
+    {
+      "distance": 999.9,
+      "elapsed_time": 376,
+      "elevation_difference": 49.6,
+      "moving_time": 376,
+      "split": 6,
+      "average_speed": 2.66,
+      "average_grade_adjusted_speed": 3.14,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1001.9,
+      "elapsed_time": 425,
+      "elevation_difference": 43.2,
+      "moving_time": 382,
+      "split": 7,
+      "average_speed": 2.62,
+      "average_grade_adjusted_speed": 3.03,
+      "pace_zone": 0
+    },
+    {
+      "distance": 999.7,
+      "elapsed_time": 401,
+      "elevation_difference": 46.0,
+      "moving_time": 401,
+      "split": 8,
+      "average_speed": 2.49,
+      "average_grade_adjusted_speed": 2.9,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1000.6,
+      "elapsed_time": 395,
+      "elevation_difference": 42.0,
+      "moving_time": 395,
+      "split": 9,
+      "average_speed": 2.53,
+      "average_grade_adjusted_speed": 2.9,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1000.4,
+      "elapsed_time": 388,
+      "elevation_difference": 48.0,
+      "moving_time": 388,
+      "split": 10,
+      "average_speed": 2.58,
+      "average_grade_adjusted_speed": 3.02,
+      "pace_zone": 0
+    },
+    {
+      "distance": 998.1,
+      "elapsed_time": 1011,
+      "elevation_difference": 47.4,
+      "moving_time": 402,
+      "split": 11,
+      "average_speed": 2.48,
+      "average_grade_adjusted_speed": 2.91,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1001.1,
+      "elapsed_time": 381,
+      "elevation_difference": 51.4,
+      "moving_time": 381,
+      "split": 12,
+      "average_speed": 2.63,
+      "average_grade_adjusted_speed": 3.12,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1001.3,
+      "elapsed_time": 363,
+      "elevation_difference": 48.6,
+      "moving_time": 363,
+      "split": 13,
+      "average_speed": 2.76,
+      "average_grade_adjusted_speed": 3.24,
+      "pace_zone": 0
+    },
+    {
+      "distance": 999.1,
+      "elapsed_time": 364,
+      "elevation_difference": 47.8,
+      "moving_time": 364,
+      "split": 14,
+      "average_speed": 2.74,
+      "average_grade_adjusted_speed": 3.22,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1000.6,
+      "elapsed_time": 297,
+      "elevation_difference": 47.0,
+      "moving_time": 297,
+      "split": 15,
+      "average_speed": 3.37,
+      "average_grade_adjusted_speed": 3.93,
+      "pace_zone": 0
+    },
+    {
+      "distance": 998.3,
+      "elapsed_time": 294,
+      "elevation_difference": 42.2,
+      "moving_time": 294,
+      "split": 16,
+      "average_speed": 3.4,
+      "average_grade_adjusted_speed": 3.89,
+      "pace_zone": 0
+    },
+    {
+      "distance": 999.4,
+      "elapsed_time": 289,
+      "elevation_difference": 37.6,
+      "moving_time": 289,
+      "split": 17,
+      "average_speed": 3.46,
+      "average_grade_adjusted_speed": 3.9,
+      "pace_zone": 0
+    },
+    {
+      "distance": 999.9,
+      "elapsed_time": 568,
+      "elevation_difference": -7.2,
+      "moving_time": 210,
+      "split": 18,
+      "average_speed": 4.76,
+      "average_grade_adjusted_speed": 4.81,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1002.5,
+      "elapsed_time": 110,
+      "elevation_difference": -39.6,
+      "moving_time": 110,
+      "split": 19,
+      "average_speed": 9.11,
+      "average_grade_adjusted_speed": 8.38,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1000.1,
+      "elapsed_time": 109,
+      "elevation_difference": -37.4,
+      "moving_time": 109,
+      "split": 20,
+      "average_speed": 9.18,
+      "average_grade_adjusted_speed": 8.47,
+      "pace_zone": 0
+    },
+    {
+      "distance": 999.3,
+      "elapsed_time": 131,
+      "elevation_difference": -21.8,
+      "moving_time": 131,
+      "split": 21,
+      "average_speed": 7.63,
+      "average_grade_adjusted_speed": 7.29,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1004.3,
+      "elapsed_time": 112,
+      "elevation_difference": -41.6,
+      "moving_time": 112,
+      "split": 22,
+      "average_speed": 8.97,
+      "average_grade_adjusted_speed": 8.22,
+      "pace_zone": 0
+    },
+    {
+      "distance": 993.7,
+      "elapsed_time": 169,
+      "elevation_difference": 0.6,
+      "moving_time": 169,
+      "split": 23,
+      "average_speed": 5.88,
+      "average_grade_adjusted_speed": 5.92,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1004.8,
+      "elapsed_time": 191,
+      "elevation_difference": 0.4,
+      "moving_time": 191,
+      "split": 24,
+      "average_speed": 5.26,
+      "average_grade_adjusted_speed": 5.32,
+      "pace_zone": 0
+    },
+    {
+      "distance": 996.3,
+      "elapsed_time": 240,
+      "elevation_difference": 20.0,
+      "moving_time": 223,
+      "split": 25,
+      "average_speed": 4.47,
+      "average_grade_adjusted_speed": 4.74,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1003.3,
+      "elapsed_time": 260,
+      "elevation_difference": 25.2,
+      "moving_time": 260,
+      "split": 26,
+      "average_speed": 3.86,
+      "average_grade_adjusted_speed": 4.23,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1000.3,
+      "elapsed_time": 100,
+      "elevation_difference": -51.2,
+      "moving_time": 100,
+      "split": 27,
+      "average_speed": 10.0,
+      "average_grade_adjusted_speed": 9.03,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1005.6,
+      "elapsed_time": 104,
+      "elevation_difference": -46.0,
+      "moving_time": 104,
+      "split": 28,
+      "average_speed": 9.67,
+      "average_grade_adjusted_speed": 8.8,
+      "pace_zone": 0
+    },
+    {
+      "distance": 998.4,
+      "elapsed_time": 83,
+      "elevation_difference": -51.4,
+      "moving_time": 83,
+      "split": 29,
+      "average_speed": 12.03,
+      "average_grade_adjusted_speed": 10.84,
+      "pace_zone": 0
+    },
+    {
+      "distance": 997.6,
+      "elapsed_time": 92,
+      "elevation_difference": -48.2,
+      "moving_time": 92,
+      "split": 30,
+      "average_speed": 10.84,
+      "average_grade_adjusted_speed": 9.82,
+      "pace_zone": 0
+    },
+    {
+      "distance": 994.4,
+      "elapsed_time": 106,
+      "elevation_difference": -29.8,
+      "moving_time": 106,
+      "split": 31,
+      "average_speed": 9.38,
+      "average_grade_adjusted_speed": 8.81,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1000.1,
+      "elapsed_time": 197,
+      "elevation_difference": -36.6,
+      "moving_time": 132,
+      "split": 32,
+      "average_speed": 7.58,
+      "average_grade_adjusted_speed": 7.02,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1003.0,
+      "elapsed_time": 108,
+      "elevation_difference": -28.2,
+      "moving_time": 108,
+      "split": 33,
+      "average_speed": 9.29,
+      "average_grade_adjusted_speed": 8.74,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1003.3,
+      "elapsed_time": 106,
+      "elevation_difference": -19.6,
+      "moving_time": 106,
+      "split": 34,
+      "average_speed": 9.47,
+      "average_grade_adjusted_speed": 9.1,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1000.4,
+      "elapsed_time": 109,
+      "elevation_difference": -17.8,
+      "moving_time": 109,
+      "split": 35,
+      "average_speed": 9.18,
+      "average_grade_adjusted_speed": 8.87,
+      "pace_zone": 0
+    },
+    {
+      "distance": 995.3,
+      "elapsed_time": 123,
+      "elevation_difference": -16.6,
+      "moving_time": 123,
+      "split": 36,
+      "average_speed": 8.09,
+      "average_grade_adjusted_speed": 7.83,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1001.9,
+      "elapsed_time": 123,
+      "elevation_difference": -20.4,
+      "moving_time": 123,
+      "split": 37,
+      "average_speed": 8.15,
+      "average_grade_adjusted_speed": 7.82,
+      "pace_zone": 0
+    },
+    {
+      "distance": 997.2,
+      "elapsed_time": 128,
+      "elevation_difference": -11.8,
+      "moving_time": 128,
+      "split": 38,
+      "average_speed": 7.79,
+      "average_grade_adjusted_speed": 7.63,
+      "pace_zone": 0
+    },
+    {
+      "distance": 998.1,
+      "elapsed_time": 175,
+      "elevation_difference": 3.6,
+      "moving_time": 175,
+      "split": 39,
+      "average_speed": 5.7,
+      "average_grade_adjusted_speed": 5.82,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1000.7,
+      "elapsed_time": 179,
+      "elevation_difference": -1.0,
+      "moving_time": 179,
+      "split": 40,
+      "average_speed": 5.59,
+      "average_grade_adjusted_speed": 5.58,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1001.8,
+      "elapsed_time": 200,
+      "elevation_difference": 15.2,
+      "moving_time": 200,
+      "split": 41,
+      "average_speed": 5.01,
+      "average_grade_adjusted_speed": 5.22,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1003.8,
+      "elapsed_time": 1184,
+      "elevation_difference": -2.6,
+      "moving_time": 167,
+      "split": 42,
+      "average_speed": 6.01,
+      "average_grade_adjusted_speed": 6.0,
+      "pace_zone": 0
+    },
+    {
+      "distance": 997.2,
+      "elapsed_time": 284,
+      "elevation_difference": 3.8,
+      "moving_time": 218,
+      "split": 43,
+      "average_speed": 4.57,
+      "average_grade_adjusted_speed": 4.67,
+      "pace_zone": 0
+    },
+    {
+      "distance": 998.6,
+      "elapsed_time": 102,
+      "elevation_difference": -48.6,
+      "moving_time": 102,
+      "split": 44,
+      "average_speed": 9.79,
+      "average_grade_adjusted_speed": 8.91,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1001.5,
+      "elapsed_time": 114,
+      "elevation_difference": -12.2,
+      "moving_time": 114,
+      "split": 45,
+      "average_speed": 8.79,
+      "average_grade_adjusted_speed": 8.59,
+      "pace_zone": 0
+    },
+    {
+      "distance": 998.2,
+      "elapsed_time": 78,
+      "elevation_difference": -69.6,
+      "moving_time": 78,
+      "split": 46,
+      "average_speed": 12.8,
+      "average_grade_adjusted_speed": 11.34,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1005.3,
+      "elapsed_time": 96,
+      "elevation_difference": -67.8,
+      "moving_time": 96,
+      "split": 47,
+      "average_speed": 10.47,
+      "average_grade_adjusted_speed": 9.37,
+      "pace_zone": 0
+    },
+    {
+      "distance": 997.5,
+      "elapsed_time": 83,
+      "elevation_difference": -67.8,
+      "moving_time": 83,
+      "split": 48,
+      "average_speed": 12.02,
+      "average_grade_adjusted_speed": 10.64,
+      "pace_zone": 0
+    },
+    {
+      "distance": 997.8,
+      "elapsed_time": 91,
+      "elevation_difference": -77.6,
+      "moving_time": 91,
+      "split": 49,
+      "average_speed": 10.96,
+      "average_grade_adjusted_speed": 9.64,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1001.6,
+      "elapsed_time": 193,
+      "elevation_difference": -47.8,
+      "moving_time": 116,
+      "split": 50,
+      "average_speed": 8.63,
+      "average_grade_adjusted_speed": 7.92,
+      "pace_zone": 0
+    },
+    {
+      "distance": 998.4,
+      "elapsed_time": 192,
+      "elevation_difference": 3.4,
+      "moving_time": 192,
+      "split": 51,
+      "average_speed": 5.2,
+      "average_grade_adjusted_speed": 5.25,
+      "pace_zone": 0
+    },
+    {
+      "distance": 998.8,
+      "elapsed_time": 260,
+      "elevation_difference": 31.4,
+      "moving_time": 260,
+      "split": 52,
+      "average_speed": 3.84,
+      "average_grade_adjusted_speed": 4.24,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1000.3,
+      "elapsed_time": 311,
+      "elevation_difference": 38.4,
+      "moving_time": 311,
+      "split": 53,
+      "average_speed": 3.22,
+      "average_grade_adjusted_speed": 3.64,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1006.0,
+      "elapsed_time": 210,
+      "elevation_difference": -26.8,
+      "moving_time": 174,
+      "split": 54,
+      "average_speed": 5.78,
+      "average_grade_adjusted_speed": 5.59,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1002.9,
+      "elapsed_time": 103,
+      "elevation_difference": -50.2,
+      "moving_time": 103,
+      "split": 55,
+      "average_speed": 9.74,
+      "average_grade_adjusted_speed": 8.8,
+      "pace_zone": 0
+    },
+    {
+      "distance": 994.0,
+      "elapsed_time": 135,
+      "elevation_difference": -16.4,
+      "moving_time": 135,
+      "split": 56,
+      "average_speed": 7.36,
+      "average_grade_adjusted_speed": 7.13,
+      "pace_zone": 0
+    },
+    {
+      "distance": 997.8,
+      "elapsed_time": 462,
+      "elevation_difference": -18.0,
+      "moving_time": 183,
+      "split": 57,
+      "average_speed": 5.45,
+      "average_grade_adjusted_speed": 5.3,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1007.9,
+      "elapsed_time": 127,
+      "elevation_difference": -22.8,
+      "moving_time": 127,
+      "split": 58,
+      "average_speed": 7.94,
+      "average_grade_adjusted_speed": 7.59,
+      "pace_zone": 0
+    },
+    {
+      "distance": 994.4,
+      "elapsed_time": 112,
+      "elevation_difference": -34.2,
+      "moving_time": 112,
+      "split": 59,
+      "average_speed": 8.88,
+      "average_grade_adjusted_speed": 8.27,
+      "pace_zone": 0
+    },
+    {
+      "distance": 997.1,
+      "elapsed_time": 137,
+      "elevation_difference": -16.0,
+      "moving_time": 137,
+      "split": 60,
+      "average_speed": 7.28,
+      "average_grade_adjusted_speed": 7.06,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1003.0,
+      "elapsed_time": 139,
+      "elevation_difference": -5.6,
+      "moving_time": 139,
+      "split": 61,
+      "average_speed": 7.22,
+      "average_grade_adjusted_speed": 7.16,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1000.0,
+      "elapsed_time": 149,
+      "elevation_difference": -2.6,
+      "moving_time": 149,
+      "split": 62,
+      "average_speed": 6.71,
+      "average_grade_adjusted_speed": 6.7,
+      "pace_zone": 0
+    },
+    {
+      "distance": 997.7,
+      "elapsed_time": 154,
+      "elevation_difference": -4.4,
+      "moving_time": 154,
+      "split": 63,
+      "average_speed": 6.48,
+      "average_grade_adjusted_speed": 6.44,
+      "pace_zone": 0
+    },
+    {
+      "distance": 997.8,
+      "elapsed_time": 154,
+      "elevation_difference": -6.8,
+      "moving_time": 154,
+      "split": 64,
+      "average_speed": 6.48,
+      "average_grade_adjusted_speed": 6.4,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1000.8,
+      "elapsed_time": 2380,
+      "elevation_difference": 18.4,
+      "moving_time": 343,
+      "split": 65,
+      "average_speed": 2.92,
+      "average_grade_adjusted_speed": 3.08,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1001.7,
+      "elapsed_time": 241,
+      "elevation_difference": 20.4,
+      "moving_time": 241,
+      "split": 66,
+      "average_speed": 4.16,
+      "average_grade_adjusted_speed": 4.42,
+      "pace_zone": 0
+    },
+    {
+      "distance": 999.1,
+      "elapsed_time": 680,
+      "elevation_difference": 47.4,
+      "moving_time": 370,
+      "split": 67,
+      "average_speed": 2.7,
+      "average_grade_adjusted_speed": 3.17,
+      "pace_zone": 0
+    },
+    {
+      "distance": 999.4,
+      "elapsed_time": 388,
+      "elevation_difference": 59.6,
+      "moving_time": 388,
+      "split": 68,
+      "average_speed": 2.58,
+      "average_grade_adjusted_speed": 3.16,
+      "pace_zone": 0
+    },
+    {
+      "distance": 999.9,
+      "elapsed_time": 412,
+      "elevation_difference": 64.0,
+      "moving_time": 412,
+      "split": 69,
+      "average_speed": 2.43,
+      "average_grade_adjusted_speed": 3.03,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1000.6,
+      "elapsed_time": 319,
+      "elevation_difference": 34.8,
+      "moving_time": 319,
+      "split": 70,
+      "average_speed": 3.14,
+      "average_grade_adjusted_speed": 3.52,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1005.7,
+      "elapsed_time": 135,
+      "elevation_difference": -29.2,
+      "moving_time": 135,
+      "split": 71,
+      "average_speed": 7.45,
+      "average_grade_adjusted_speed": 7.03,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1000.1,
+      "elapsed_time": 86,
+      "elevation_difference": -63.6,
+      "moving_time": 86,
+      "split": 72,
+      "average_speed": 11.63,
+      "average_grade_adjusted_speed": 10.35,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1003.8,
+      "elapsed_time": 82,
+      "elevation_difference": -49.0,
+      "moving_time": 82,
+      "split": 73,
+      "average_speed": 12.24,
+      "average_grade_adjusted_speed": 11.08,
+      "pace_zone": 0
+    },
+    {
+      "distance": 988.6,
+      "elapsed_time": 118,
+      "elevation_difference": -19.4,
+      "moving_time": 118,
+      "split": 74,
+      "average_speed": 8.38,
+      "average_grade_adjusted_speed": 8.09,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1000.4,
+      "elapsed_time": 206,
+      "elevation_difference": 22.0,
+      "moving_time": 206,
+      "split": 75,
+      "average_speed": 4.86,
+      "average_grade_adjusted_speed": 5.18,
+      "pace_zone": 0
+    },
+    {
+      "distance": 999.8,
+      "elapsed_time": 233,
+      "elevation_difference": 29.4,
+      "moving_time": 233,
+      "split": 76,
+      "average_speed": 4.29,
+      "average_grade_adjusted_speed": 4.69,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1006.4,
+      "elapsed_time": 260,
+      "elevation_difference": 22.0,
+      "moving_time": 260,
+      "split": 77,
+      "average_speed": 3.87,
+      "average_grade_adjusted_speed": 4.29,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1004.6,
+      "elapsed_time": 80,
+      "elevation_difference": -59.6,
+      "moving_time": 80,
+      "split": 78,
+      "average_speed": 12.56,
+      "average_grade_adjusted_speed": 11.25,
+      "pace_zone": 0
+    },
+    {
+      "distance": 998.3,
+      "elapsed_time": 86,
+      "elevation_difference": -49.6,
+      "moving_time": 86,
+      "split": 79,
+      "average_speed": 11.61,
+      "average_grade_adjusted_speed": 10.57,
+      "pace_zone": 0
+    },
+    {
+      "distance": 992.0,
+      "elapsed_time": 94,
+      "elevation_difference": -51.4,
+      "moving_time": 94,
+      "split": 80,
+      "average_speed": 10.55,
+      "average_grade_adjusted_speed": 9.62,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1006.8,
+      "elapsed_time": 101,
+      "elevation_difference": -41.0,
+      "moving_time": 101,
+      "split": 81,
+      "average_speed": 9.97,
+      "average_grade_adjusted_speed": 9.19,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1003.4,
+      "elapsed_time": 89,
+      "elevation_difference": -41.2,
+      "moving_time": 89,
+      "split": 82,
+      "average_speed": 11.27,
+      "average_grade_adjusted_speed": 10.4,
+      "pace_zone": 0
+    },
+    {
+      "distance": 998.4,
+      "elapsed_time": 105,
+      "elevation_difference": -27.8,
+      "moving_time": 105,
+      "split": 83,
+      "average_speed": 9.51,
+      "average_grade_adjusted_speed": 9.0,
+      "pace_zone": 0
+    },
+    {
+      "distance": 993.2,
+      "elapsed_time": 102,
+      "elevation_difference": -23.4,
+      "moving_time": 102,
+      "split": 84,
+      "average_speed": 9.74,
+      "average_grade_adjusted_speed": 9.32,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1001.8,
+      "elapsed_time": 124,
+      "elevation_difference": -12.8,
+      "moving_time": 124,
+      "split": 85,
+      "average_speed": 8.08,
+      "average_grade_adjusted_speed": 7.89,
+      "pace_zone": 0
+    },
+    {
+      "distance": 997.9,
+      "elapsed_time": 126,
+      "elevation_difference": -10.0,
+      "moving_time": 126,
+      "split": 86,
+      "average_speed": 7.92,
+      "average_grade_adjusted_speed": 7.78,
+      "pace_zone": 0
+    },
+    {
+      "distance": 997.3,
+      "elapsed_time": 122,
+      "elevation_difference": -10.2,
+      "moving_time": 122,
+      "split": 87,
+      "average_speed": 8.17,
+      "average_grade_adjusted_speed": 8.03,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1006.1,
+      "elapsed_time": 117,
+      "elevation_difference": -17.4,
+      "moving_time": 117,
+      "split": 88,
+      "average_speed": 8.6,
+      "average_grade_adjusted_speed": 8.32,
+      "pace_zone": 0
+    },
+    {
+      "distance": 995.0,
+      "elapsed_time": 135,
+      "elevation_difference": -10.8,
+      "moving_time": 135,
+      "split": 89,
+      "average_speed": 7.37,
+      "average_grade_adjusted_speed": 7.24,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1000.6,
+      "elapsed_time": 150,
+      "elevation_difference": 0.8,
+      "moving_time": 150,
+      "split": 90,
+      "average_speed": 6.67,
+      "average_grade_adjusted_speed": 6.7,
+      "pace_zone": 0
+    },
+    {
+      "distance": 998.5,
+      "elapsed_time": 200,
+      "elevation_difference": 18.0,
+      "moving_time": 200,
+      "split": 91,
+      "average_speed": 4.99,
+      "average_grade_adjusted_speed": 5.32,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1001.3,
+      "elapsed_time": 147,
+      "elevation_difference": -2.0,
+      "moving_time": 147,
+      "split": 92,
+      "average_speed": 6.81,
+      "average_grade_adjusted_speed": 6.8,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1001.3,
+      "elapsed_time": 124,
+      "elevation_difference": -28.2,
+      "moving_time": 124,
+      "split": 93,
+      "average_speed": 8.08,
+      "average_grade_adjusted_speed": 7.66,
+      "pace_zone": 0
+    },
+    {
+      "distance": 998.0,
+      "elapsed_time": 157,
+      "elevation_difference": -3.2,
+      "moving_time": 157,
+      "split": 94,
+      "average_speed": 6.36,
+      "average_grade_adjusted_speed": 6.34,
+      "pace_zone": 0
+    },
+    {
+      "distance": 999.6,
+      "elapsed_time": 159,
+      "elevation_difference": 1.4,
+      "moving_time": 159,
+      "split": 95,
+      "average_speed": 6.29,
+      "average_grade_adjusted_speed": 6.33,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1000.0,
+      "elapsed_time": 148,
+      "elevation_difference": -8.2,
+      "moving_time": 148,
+      "split": 96,
+      "average_speed": 6.76,
+      "average_grade_adjusted_speed": 6.66,
+      "pace_zone": 0
+    },
+    {
+      "distance": 999.8,
+      "elapsed_time": 189,
+      "elevation_difference": 5.8,
+      "moving_time": 189,
+      "split": 97,
+      "average_speed": 5.29,
+      "average_grade_adjusted_speed": 5.48,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1004.3,
+      "elapsed_time": 130,
+      "elevation_difference": -10.0,
+      "moving_time": 130,
+      "split": 98,
+      "average_speed": 7.73,
+      "average_grade_adjusted_speed": 7.59,
+      "pace_zone": 0
+    },
+    {
+      "distance": 995.5,
+      "elapsed_time": 145,
+      "elevation_difference": -0.4,
+      "moving_time": 145,
+      "split": 99,
+      "average_speed": 6.87,
+      "average_grade_adjusted_speed": 6.86,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1001.7,
+      "elapsed_time": 204,
+      "elevation_difference": 23.4,
+      "moving_time": 204,
+      "split": 100,
+      "average_speed": 4.91,
+      "average_grade_adjusted_speed": 5.33,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1004.6,
+      "elapsed_time": 129,
+      "elevation_difference": -11.0,
+      "moving_time": 129,
+      "split": 101,
+      "average_speed": 7.79,
+      "average_grade_adjusted_speed": 7.64,
+      "pace_zone": 0
+    },
+    {
+      "distance": 999.4,
+      "elapsed_time": 130,
+      "elevation_difference": -10.6,
+      "moving_time": 130,
+      "split": 102,
+      "average_speed": 7.69,
+      "average_grade_adjusted_speed": 7.6,
+      "pace_zone": 0
+    },
+    {
+      "distance": 995.3,
+      "elapsed_time": 115,
+      "elevation_difference": -5.2,
+      "moving_time": 115,
+      "split": 103,
+      "average_speed": 8.65,
+      "average_grade_adjusted_speed": 8.59,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1004.4,
+      "elapsed_time": 123,
+      "elevation_difference": -5.0,
+      "moving_time": 123,
+      "split": 104,
+      "average_speed": 8.17,
+      "average_grade_adjusted_speed": 8.1,
+      "pace_zone": 0
+    },
+    {
+      "distance": 998.5,
+      "elapsed_time": 138,
+      "elevation_difference": -3.0,
+      "moving_time": 138,
+      "split": 105,
+      "average_speed": 7.24,
+      "average_grade_adjusted_speed": 7.21,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1001.9,
+      "elapsed_time": 153,
+      "elevation_difference": -2.8,
+      "moving_time": 153,
+      "split": 106,
+      "average_speed": 6.55,
+      "average_grade_adjusted_speed": 6.52,
+      "pace_zone": 0
+    },
+    {
+      "distance": 995.0,
+      "elapsed_time": 262,
+      "elevation_difference": 36.2,
+      "moving_time": 262,
+      "split": 107,
+      "average_speed": 3.8,
+      "average_grade_adjusted_speed": 4.32,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1007.2,
+      "elapsed_time": 172,
+      "elevation_difference": -14.0,
+      "moving_time": 172,
+      "split": 108,
+      "average_speed": 5.86,
+      "average_grade_adjusted_speed": 5.89,
+      "pace_zone": 0
+    },
+    {
+      "distance": 991.9,
+      "elapsed_time": 113,
+      "elevation_difference": -27.8,
+      "moving_time": 113,
+      "split": 109,
+      "average_speed": 8.78,
+      "average_grade_adjusted_speed": 8.32,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1005.4,
+      "elapsed_time": 119,
+      "elevation_difference": -9.4,
+      "moving_time": 119,
+      "split": 110,
+      "average_speed": 8.45,
+      "average_grade_adjusted_speed": 8.32,
+      "pace_zone": 0
+    },
+    {
+      "distance": 995.4,
+      "elapsed_time": 149,
+      "elevation_difference": 2.8,
+      "moving_time": 149,
+      "split": 111,
+      "average_speed": 6.68,
+      "average_grade_adjusted_speed": 6.73,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1006.0,
+      "elapsed_time": 229,
+      "elevation_difference": -5.8,
+      "moving_time": 179,
+      "split": 112,
+      "average_speed": 5.62,
+      "average_grade_adjusted_speed": 5.56,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1002.5,
+      "elapsed_time": 157,
+      "elevation_difference": -4.2,
+      "moving_time": 157,
+      "split": 113,
+      "average_speed": 6.39,
+      "average_grade_adjusted_speed": 6.35,
+      "pace_zone": 0
+    },
+    {
+      "distance": 994.1,
+      "elapsed_time": 297,
+      "elevation_difference": 9.2,
+      "moving_time": 178,
+      "split": 114,
+      "average_speed": 5.58,
+      "average_grade_adjusted_speed": 5.74,
+      "pace_zone": 0
+    },
+    {
+      "distance": 831.6,
+      "elapsed_time": 1447,
+      "elevation_difference": -9.6,
+      "moving_time": 212,
+      "split": 115,
+      "average_speed": 3.92,
+      "average_grade_adjusted_speed": 3.81,
+      "pace_zone": 0
+    }
+  ],
+  "splits_standard": [
+    {
+      "distance": 1610.5,
+      "elapsed_time": 532,
+      "elevation_difference": 28.8,
+      "moving_time": 532,
+      "split": 1,
+      "average_speed": 3.03,
+      "average_grade_adjusted_speed": 3.3,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1609.7,
+      "elapsed_time": 640,
+      "elevation_difference": 71.2,
+      "moving_time": 640,
+      "split": 2,
+      "average_speed": 2.52,
+      "average_grade_adjusted_speed": 2.91,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1610.2,
+      "elapsed_time": 579,
+      "elevation_difference": 71.0,
+      "moving_time": 579,
+      "split": 3,
+      "average_speed": 2.78,
+      "average_grade_adjusted_speed": 3.22,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1610.3,
+      "elapsed_time": 594,
+      "elevation_difference": 72.4,
+      "moving_time": 594,
+      "split": 4,
+      "average_speed": 2.71,
+      "average_grade_adjusted_speed": 3.15,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1607.9,
+      "elapsed_time": 691,
+      "elevation_difference": 77.0,
+      "moving_time": 648,
+      "split": 5,
+      "average_speed": 2.48,
+      "average_grade_adjusted_speed": 2.91,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1609.2,
+      "elapsed_time": 626,
+      "elevation_difference": 71.4,
+      "moving_time": 626,
+      "split": 6,
+      "average_speed": 2.57,
+      "average_grade_adjusted_speed": 2.97,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1609.1,
+      "elapsed_time": 1250,
+      "elevation_difference": 76.8,
+      "moving_time": 641,
+      "split": 7,
+      "average_speed": 2.51,
+      "average_grade_adjusted_speed": 2.94,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1608.0,
+      "elapsed_time": 594,
+      "elevation_difference": 80.0,
+      "moving_time": 594,
+      "split": 8,
+      "average_speed": 2.71,
+      "average_grade_adjusted_speed": 3.2,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1611.3,
+      "elapsed_time": 565,
+      "elevation_difference": 77.6,
+      "moving_time": 565,
+      "split": 9,
+      "average_speed": 2.85,
+      "average_grade_adjusted_speed": 3.35,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1607.5,
+      "elapsed_time": 471,
+      "elevation_difference": 70.2,
+      "moving_time": 471,
+      "split": 10,
+      "average_speed": 3.41,
+      "average_grade_adjusted_speed": 3.94,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1615.5,
+      "elapsed_time": 795,
+      "elevation_difference": 38.2,
+      "moving_time": 437,
+      "split": 11,
+      "average_speed": 3.7,
+      "average_grade_adjusted_speed": 4.03,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1606.0,
+      "elapsed_time": 174,
+      "elevation_difference": -63.6,
+      "moving_time": 174,
+      "split": 12,
+      "average_speed": 9.23,
+      "average_grade_adjusted_speed": 8.49,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1610.5,
+      "elapsed_time": 196,
+      "elevation_difference": -44.6,
+      "moving_time": 196,
+      "split": 13,
+      "average_speed": 8.22,
+      "average_grade_adjusted_speed": 7.76,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1610.2,
+      "elapsed_time": 191,
+      "elevation_difference": -50.0,
+      "moving_time": 191,
+      "split": 14,
+      "average_speed": 8.43,
+      "average_grade_adjusted_speed": 7.91,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1606.2,
+      "elapsed_time": 311,
+      "elevation_difference": 7.2,
+      "moving_time": 311,
+      "split": 15,
+      "average_speed": 5.16,
+      "average_grade_adjusted_speed": 5.26,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1609.3,
+      "elapsed_time": 403,
+      "elevation_difference": 38.2,
+      "moving_time": 386,
+      "split": 16,
+      "average_speed": 4.17,
+      "average_grade_adjusted_speed": 4.51,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1616.0,
+      "elapsed_time": 214,
+      "elevation_difference": -58.6,
+      "moving_time": 214,
+      "split": 17,
+      "average_speed": 7.55,
+      "average_grade_adjusted_speed": 7.08,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1604.3,
+      "elapsed_time": 147,
+      "elevation_difference": -81.4,
+      "moving_time": 147,
+      "split": 18,
+      "average_speed": 10.91,
+      "average_grade_adjusted_speed": 9.85,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1613.7,
+      "elapsed_time": 156,
+      "elevation_difference": -67.4,
+      "moving_time": 156,
+      "split": 19,
+      "average_speed": 10.34,
+      "average_grade_adjusted_speed": 9.49,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1604.1,
+      "elapsed_time": 263,
+      "elevation_difference": -55.8,
+      "moving_time": 198,
+      "split": 20,
+      "average_speed": 8.1,
+      "average_grade_adjusted_speed": 7.53,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1611.6,
+      "elapsed_time": 171,
+      "elevation_difference": -38.0,
+      "moving_time": 171,
+      "split": 21,
+      "average_speed": 9.42,
+      "average_grade_adjusted_speed": 8.97,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1609.2,
+      "elapsed_time": 178,
+      "elevation_difference": -29.0,
+      "moving_time": 178,
+      "split": 22,
+      "average_speed": 9.04,
+      "average_grade_adjusted_speed": 8.73,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1611.6,
+      "elapsed_time": 201,
+      "elevation_difference": -29.0,
+      "moving_time": 201,
+      "split": 23,
+      "average_speed": 8.02,
+      "average_grade_adjusted_speed": 7.74,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1603.4,
+      "elapsed_time": 234,
+      "elevation_difference": -4.6,
+      "moving_time": 234,
+      "split": 24,
+      "average_speed": 6.85,
+      "average_grade_adjusted_speed": 6.88,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1608.9,
+      "elapsed_time": 288,
+      "elevation_difference": -3.4,
+      "moving_time": 288,
+      "split": 25,
+      "average_speed": 5.59,
+      "average_grade_adjusted_speed": 5.56,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1613.6,
+      "elapsed_time": 1316,
+      "elevation_difference": 10.0,
+      "moving_time": 299,
+      "split": 26,
+      "average_speed": 5.4,
+      "average_grade_adjusted_speed": 5.51,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1612.6,
+      "elapsed_time": 363,
+      "elevation_difference": -21.2,
+      "moving_time": 297,
+      "split": 27,
+      "average_speed": 5.43,
+      "average_grade_adjusted_speed": 5.36,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1602.1,
+      "elapsed_time": 170,
+      "elevation_difference": -37.0,
+      "moving_time": 170,
+      "split": 28,
+      "average_speed": 9.42,
+      "average_grade_adjusted_speed": 9.01,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1612.1,
+      "elapsed_time": 135,
+      "elevation_difference": -113.2,
+      "moving_time": 135,
+      "split": 29,
+      "average_speed": 11.94,
+      "average_grade_adjusted_speed": 10.62,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1606.0,
+      "elapsed_time": 139,
+      "elevation_difference": -111.2,
+      "moving_time": 139,
+      "split": 30,
+      "average_speed": 11.55,
+      "average_grade_adjusted_speed": 10.23,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1614.0,
+      "elapsed_time": 240,
+      "elevation_difference": -103.6,
+      "moving_time": 163,
+      "split": 31,
+      "average_speed": 9.9,
+      "average_grade_adjusted_speed": 8.85,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1606.2,
+      "elapsed_time": 341,
+      "elevation_difference": 21.8,
+      "moving_time": 341,
+      "split": 32,
+      "average_speed": 4.71,
+      "average_grade_adjusted_speed": 4.92,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1608.5,
+      "elapsed_time": 474,
+      "elevation_difference": 56.0,
+      "moving_time": 474,
+      "split": 33,
+      "average_speed": 3.39,
+      "average_grade_adjusted_speed": 3.79,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1608.8,
+      "elapsed_time": 250,
+      "elevation_difference": -67.2,
+      "moving_time": 214,
+      "split": 34,
+      "average_speed": 7.52,
+      "average_grade_adjusted_speed": 6.97,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1611.0,
+      "elapsed_time": 214,
+      "elevation_difference": -35.0,
+      "moving_time": 214,
+      "split": 35,
+      "average_speed": 7.53,
+      "average_grade_adjusted_speed": 7.22,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1616.5,
+      "elapsed_time": 535,
+      "elevation_difference": -33.4,
+      "moving_time": 256,
+      "split": 36,
+      "average_speed": 6.31,
+      "average_grade_adjusted_speed": 6.09,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1603.6,
+      "elapsed_time": 197,
+      "elevation_difference": -45.8,
+      "moving_time": 197,
+      "split": 37,
+      "average_speed": 8.14,
+      "average_grade_adjusted_speed": 7.68,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1607.5,
+      "elapsed_time": 218,
+      "elevation_difference": -12.8,
+      "moving_time": 218,
+      "split": 38,
+      "average_speed": 7.37,
+      "average_grade_adjusted_speed": 7.28,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1609.6,
+      "elapsed_time": 245,
+      "elevation_difference": -6.6,
+      "moving_time": 245,
+      "split": 39,
+      "average_speed": 6.57,
+      "average_grade_adjusted_speed": 6.54,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1607.5,
+      "elapsed_time": 1891,
+      "elevation_difference": -0.8,
+      "moving_time": 303,
+      "split": 40,
+      "average_speed": 5.31,
+      "average_grade_adjusted_speed": 5.33,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1610.7,
+      "elapsed_time": 916,
+      "elevation_difference": 31.4,
+      "moving_time": 467,
+      "split": 41,
+      "average_speed": 3.45,
+      "average_grade_adjusted_speed": 3.66,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1608.1,
+      "elapsed_time": 917,
+      "elevation_difference": 83.0,
+      "moving_time": 607,
+      "split": 42,
+      "average_speed": 2.65,
+      "average_grade_adjusted_speed": 3.15,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1610.8,
+      "elapsed_time": 648,
+      "elevation_difference": 99.0,
+      "moving_time": 648,
+      "split": 43,
+      "average_speed": 2.49,
+      "average_grade_adjusted_speed": 3.08,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1612.6,
+      "elapsed_time": 357,
+      "elevation_difference": 6.0,
+      "moving_time": 357,
+      "split": 44,
+      "average_speed": 4.52,
+      "average_grade_adjusted_speed": 4.65,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1608.5,
+      "elapsed_time": 138,
+      "elevation_difference": -94.8,
+      "moving_time": 138,
+      "split": 45,
+      "average_speed": 11.66,
+      "average_grade_adjusted_speed": 10.43,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1608.3,
+      "elapsed_time": 170,
+      "elevation_difference": -47.2,
+      "moving_time": 170,
+      "split": 46,
+      "average_speed": 9.46,
+      "average_grade_adjusted_speed": 8.94,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1606.4,
+      "elapsed_time": 353,
+      "elevation_difference": 40.4,
+      "moving_time": 353,
+      "split": 47,
+      "average_speed": 4.55,
+      "average_grade_adjusted_speed": 4.91,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1610.7,
+      "elapsed_time": 358,
+      "elevation_difference": 15.6,
+      "moving_time": 358,
+      "split": 48,
+      "average_speed": 4.5,
+      "average_grade_adjusted_speed": 4.82,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1614.7,
+      "elapsed_time": 137,
+      "elevation_difference": -83.8,
+      "moving_time": 137,
+      "split": 49,
+      "average_speed": 11.79,
+      "average_grade_adjusted_speed": 10.69,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1605.8,
+      "elapsed_time": 162,
+      "elevation_difference": -72.8,
+      "moving_time": 162,
+      "split": 50,
+      "average_speed": 9.91,
+      "average_grade_adjusted_speed": 9.12,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1612.3,
+      "elapsed_time": 140,
+      "elevation_difference": -72.2,
+      "moving_time": 140,
+      "split": 51,
+      "average_speed": 11.52,
+      "average_grade_adjusted_speed": 10.54,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1607.3,
+      "elapsed_time": 165,
+      "elevation_difference": -45.6,
+      "moving_time": 165,
+      "split": 52,
+      "average_speed": 9.74,
+      "average_grade_adjusted_speed": 9.22,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1611.2,
+      "elapsed_time": 206,
+      "elevation_difference": -17.2,
+      "moving_time": 206,
+      "split": 53,
+      "average_speed": 7.82,
+      "average_grade_adjusted_speed": 7.68,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1607.8,
+      "elapsed_time": 192,
+      "elevation_difference": -17.2,
+      "moving_time": 192,
+      "split": 54,
+      "average_speed": 8.37,
+      "average_grade_adjusted_speed": 8.22,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1612.2,
+      "elapsed_time": 187,
+      "elevation_difference": -24.6,
+      "moving_time": 187,
+      "split": 55,
+      "average_speed": 8.62,
+      "average_grade_adjusted_speed": 8.38,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1607.7,
+      "elapsed_time": 243,
+      "elevation_difference": -4.6,
+      "moving_time": 243,
+      "split": 56,
+      "average_speed": 6.62,
+      "average_grade_adjusted_speed": 6.6,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1605.2,
+      "elapsed_time": 290,
+      "elevation_difference": 15.4,
+      "moving_time": 290,
+      "split": 57,
+      "average_speed": 5.54,
+      "average_grade_adjusted_speed": 5.75,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1612.4,
+      "elapsed_time": 221,
+      "elevation_difference": -25.8,
+      "moving_time": 221,
+      "split": 58,
+      "average_speed": 7.3,
+      "average_grade_adjusted_speed": 7.08,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1608.8,
+      "elapsed_time": 251,
+      "elevation_difference": -2.2,
+      "moving_time": 251,
+      "split": 59,
+      "average_speed": 6.41,
+      "average_grade_adjusted_speed": 6.42,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1607.3,
+      "elapsed_time": 265,
+      "elevation_difference": 2.6,
+      "moving_time": 265,
+      "split": 60,
+      "average_speed": 6.07,
+      "average_grade_adjusted_speed": 6.17,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1608.6,
+      "elapsed_time": 232,
+      "elevation_difference": -15.8,
+      "moving_time": 232,
+      "split": 61,
+      "average_speed": 6.93,
+      "average_grade_adjusted_speed": 6.82,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1609.3,
+      "elapsed_time": 289,
+      "elevation_difference": 25.4,
+      "moving_time": 289,
+      "split": 62,
+      "average_speed": 5.57,
+      "average_grade_adjusted_speed": 5.88,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1612.7,
+      "elapsed_time": 227,
+      "elevation_difference": -13.8,
+      "moving_time": 227,
+      "split": 63,
+      "average_speed": 7.1,
+      "average_grade_adjusted_speed": 7.02,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1608.2,
+      "elapsed_time": 184,
+      "elevation_difference": -15.6,
+      "moving_time": 184,
+      "split": 64,
+      "average_speed": 8.74,
+      "average_grade_adjusted_speed": 8.6,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1608.6,
+      "elapsed_time": 202,
+      "elevation_difference": -7.2,
+      "moving_time": 202,
+      "split": 65,
+      "average_speed": 7.96,
+      "average_grade_adjusted_speed": 7.91,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1610.6,
+      "elapsed_time": 243,
+      "elevation_difference": -4.2,
+      "moving_time": 243,
+      "split": 66,
+      "average_speed": 6.63,
+      "average_grade_adjusted_speed": 6.61,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1614.7,
+      "elapsed_time": 390,
+      "elevation_difference": 31.8,
+      "moving_time": 390,
+      "split": 67,
+      "average_speed": 4.14,
+      "average_grade_adjusted_speed": 4.55,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1601.5,
+      "elapsed_time": 176,
+      "elevation_difference": -43.4,
+      "moving_time": 176,
+      "split": 68,
+      "average_speed": 9.1,
+      "average_grade_adjusted_speed": 8.64,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1608.9,
+      "elapsed_time": 227,
+      "elevation_difference": 0.6,
+      "moving_time": 227,
+      "split": 69,
+      "average_speed": 7.09,
+      "average_grade_adjusted_speed": 7.11,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1613.3,
+      "elapsed_time": 331,
+      "elevation_difference": -8.2,
+      "moving_time": 281,
+      "split": 70,
+      "average_speed": 5.74,
+      "average_grade_adjusted_speed": 5.69,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1606.3,
+      "elapsed_time": 390,
+      "elevation_difference": 1.0,
+      "moving_time": 271,
+      "split": 71,
+      "average_speed": 5.93,
+      "average_grade_adjusted_speed": 5.97,
+      "pace_zone": 0
+    },
+    {
+      "distance": 570.0,
+      "elapsed_time": 1400,
+      "elevation_difference": -3.8,
+      "moving_time": 165,
+      "split": 72,
+      "average_speed": 3.45,
+      "average_grade_adjusted_speed": 3.38,
+      "pace_zone": 0
+    }
+  ],
+  "laps": [
+    {
+      "id": 52288348715,
+      "resource_state": 2,
+      "name": "Lap 1",
+      "activity": {
+        "id": 14705729990,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 27799,
+      "moving_time": 27799,
+      "start_date": "2025-06-05T07:32:38Z",
+      "start_date_local": "2025-06-05T09:32:38Z",
+      "distance": 114835.0,
+      "average_speed": 4.13,
+      "max_speed": 18.14,
+      "lap_index": 1,
+      "split": 1,
+      "start_index": 0,
+      "end_index": 27799,
+      "total_elevation_gain": 1473.2,
+      "device_watts": false,
+      "average_watts": 116.4
+    }
+  ],
+  "gear": {
+    "id": "b11943195",
+    "primary": false,
+    "name": "Betty",
+    "nickname": "Betty",
+    "resource_state": 2,
+    "retired": false,
+    "distance": 12373192,
+    "converted_distance": 12373.2
+  },
+  "photos": {
+    "primary": {
+      "unique_id": "5fb3c777-f0fb-4fb3-b4aa-d60e07a22ae2",
+      "urls": {
+        "600": "https://dgtzuqphqg23d.cloudfront.net/z8gXxQfkOWrVkFnjKTenMX49k6_6jah0uZUX_AHMwzY-768x576.jpg",
+        "100": "https://dgtzuqphqg23d.cloudfront.net/z8gXxQfkOWrVkFnjKTenMX49k6_6jah0uZUX_AHMwzY-128x96.jpg"
+      },
+      "source": 1,
+      "media_type": 1
+    },
+    "use_primary_photo": false,
+    "count": 3
+  },
+  "stats_visibility": [
+    {
+      "type": "heart_rate",
+      "visibility": "everyone"
+    },
+    {
+      "type": "pace",
+      "visibility": "everyone"
+    },
+    {
+      "type": "power",
+      "visibility": "everyone"
+    },
+    {
+      "type": "speed",
+      "visibility": "everyone"
+    },
+    {
+      "type": "calories",
+      "visibility": "everyone"
+    }
+  ],
+  "hide_from_home": false,
+  "embed_token": "89f3eff0b8cb4eb4b7193409916f56767f508440",
+  "available_zones": [
+    "power"
+  ]
+}

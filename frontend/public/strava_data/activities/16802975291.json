@@ -1,0 +1,1518 @@
+{
+  "resource_state": 3,
+  "athlete": {
+    "id": 49023768,
+    "resource_state": 1
+  },
+  "name": "Lunch Ride",
+  "distance": 25038.4,
+  "moving_time": 4122,
+  "elapsed_time": 8789,
+  "total_elevation_gain": 97.0,
+  "type": "Ride",
+  "sport_type": "Ride",
+  "workout_type": null,
+  "device_name": "Strava App",
+  "id": 16802975291,
+  "start_date": "2025-12-21T11:39:32Z",
+  "start_date_local": "2025-12-21T11:39:32Z",
+  "timezone": "(GMT+00:00) Europe/London",
+  "utc_offset": 0.0,
+  "location_city": null,
+  "location_state": null,
+  "location_country": null,
+  "achievement_count": 1,
+  "kudos_count": 1,
+  "comment_count": 0,
+  "athlete_count": 1,
+  "photo_count": 0,
+  "map": {
+    "id": "a16802975291",
+    "polyline": "wsybI~nxCDDHmACY@YE[Bc@K}@BODGb@]bA[nBy@tA]x@Oz@IfCc@r@[d@_@^m@\\s@tAqD~@qBn@kAjBwC~@eBbB_CjAiAdAw@h@k@PUDONyARk@HKVKVCVHJFP\\Jf@@TM|B@^l@zBZp@NRpAxAPLZNT?n@ORKXWV[d@u@Zm@Ng@d@eBf@gCnAmFz@}D^{BBi@Mu@Be@DOFKr@g@HInA_CVc@l@s@x@u@`Ak@x@]VSPWJILCn@NX@|@OZCXGd@St@c@b@_@d@Wj@g@l@a@f@m@Ro@RSTBn@Zf@HXC~@?|@Ip@I~BOpAAHAHGDMBQByC`@mPDuNJiEDeFDo@j@qD~@gFv@aFx@oDjA_En@mBf@wAl@wA`CiFdAmCl@sArAqDXq@`AqCb@gAn@oAXs@Xu@tAqE`AuBfAeDt@aC^aB\\iANw@De@Au@Ko@]mAQU[WQSKY?c@@c@F_@XqAxAmIFkAAQM[]Ws@a@QQGMWw@McAOo@w@oBSo@i@gAEOCg@@e@Lw@NuAFkBDw@n@{FV{CHSRGF@h@TTFv@`@bAb@\\R`@NlBz@JBJCTOLD@H@EECAKFOJo@v@{FnAoIRy@HIHCHA`@HnBpAp@f@hBhA^Xf@Z~BzAdAx@j@\\nA|@tAhAx@`@`An@~@f@vB~Ax@h@pA|@x@f@d@HV?VCn@On@K`AGz@OJEfASn@GjH_AjDm@|@KzA[R?`@IlAOdAQp@GTId@KpAMjCi@NAhAUb@ClAUHCRQ^Ot@QLIVIREh@@VG|@Gd@ERKZAPCLIHQFm@B}@@GDEJ?FHBPL@CD@BCA@BAA?BAA?BAA@DCI@BD?CBBCE@AFH?@B?GCJDC?BBACOB?C?AAB?ILFAC@AB?ICAG@KLXi@AHBKCHYA?JNWDDIMCOAwDx@aPJu@fAyGbAuFjBuLvAuHnB}L~AgJnBsLrAoH`@iCdAwFbB_KP{@FOR]JILGLAh@CfB@\\Ah@@jFGr@@jAGzACXEtAIf@?d@C`A?h@FHDHHXf@n@t@LLZLLBh@Ar@WVCJ@HFFJVfANdBl@jEx@rFd@pFj@|F\\|Bd@tAj@pALf@\\xAZzBr@pDNh@pBnEl@lBTbAT|@r@rAb@hANh@Hl@Fn@DhABnCBfA\\`GHdD?rCCr@m@nHEdA?bABhAZjE\\lCJpACh@Wr@If@\\bM?vAGbAOtAaAtDmBrLqD~WoAtIQrAMrAIdBCRO`@IHMFYF}@FcDHk@FUFkAl@u@b@{Al@g@N{Dx@g@NYPUVQ`@CVAnHBpB?r@LjB^fB^`Ad@l@hAnAn@~@|@nBPl@Hp@XzAXnCHvA?fB@`AH~@T`BFHFDTCj@Y`AShBSn@An@@v@J^LHTM`A_CvI[tAUpAe@jBc@tAiAtEa@nAiArEm@hBeAjEeA|Ds@|Bi@dCUxBc@bJQrEUdEKxDg@jFWzBOlB_BlQSjEEfB?nCGhHSrD_@jDS~@Qf@_@h@WVc@^qA`Ag@d@k@~@M^SlAi@|DgBnRIdAYfJC~AQxEKdFQxCOfBYnESzBQjAOlBw@tFu@dGEjA@|@A~CARGNGBcAPmCHi@DwBFoCKoC[_AQ_DM[?_AFwAV}@Bi@Ai@O_@G{@Ak@FoAToAFs@GsBY}@WwA[iAa@uBe@e@Es@E}BAa@Cm@DaARuA~@s@Z]F]@]C{@MuC_AgCoAkAi@a@Ua@SaA_@aA[a@Ie@Ge@@aALmATsBPe@?a@Mq@EiAQe@MoC[qCs@uASmDs@YCaADmAGg@OwB}@cGuCcBu@}Au@mAi@e@Yo@g@eAmAc@_@WOcAYqBQk@KsC]k@AgAM[Ge@CgDWyBWuCWoC[wD[oBS_BUwBSeBWU@GAEGIYMq@[uAMu@{AeHWyA}@aEKu@W_A}@qE]wAi@cBM[IKKGIC_@FK?SMK[Ce@LqA@i@EwAOeBQoA]oBkAmDeB}Dc@y@k@yAYaAo@iCQeAY}BK}AGyB@kDGa@Yi@Mu@M_@IMUSaAiAU[Sa@Oc@m@wAWY{Aq@[EO?WJiAx@{ArAUXiAbBkBfDy@`B]l@mB`Ew@rBo@tAW`@YXo@PEDSf@CTCAJA@G{BSEAEGO@SJw@TmAPc@JeBv@wAf@OLEJC\\BzBAbB@AC?DAFLSDNEGE@ACE@@CBBALD@DFBC?H?BEA@B@BJM@BHEA?EDIKCCE@BIBCDE?CC",
+    "resource_state": 3,
+    "summary_polyline": "wsybI~nxCF@FiAGoABc@K}@HWb@]rDuArI{AxA{@|@aBtAqD~@qBzEiIbB_CpCaCz@aATiB\\w@n@Ob@PP\\L|@M|B@^l@zBj@dApAxAl@\\dAOl@c@|@qAj@uA|C{MzAyHBi@Mu@Hu@dA}@fBcDfBiBzBiAt@u@vALxAS~@[xEeDf@m@Ro@RSTBvAd@zKi@HANUFkD`@mPDuNPoLDo@j@qDvBiMx@oDzBmHtAoD`CiFrBaFnDuJlBkEnBgG`AuBfAeDrBmHNw@B{AKo@]mA_AaAKY?c@HcArB_LD}AM[qAy@Y_@Ww@]sBuBgFIw@@e@\\mCLcDfAwKHSZE~@\\hHdDV?TOLD@HEUR_AfCkQRy@\\O`@HnBpAbJbGvG~EzDxBbGfEx@f@d@HpEg@nCi@zIgAnUmDvI{A|@e@zAe@|CSjBa@Ns@DiAFMJ?JZL@IL@DCIFBGJJECJHA?OEAEL@BCKSNZk@CHYA?JNWDDM]AwDx@aPJu@nI{f@~Hye@~Gq`@XkAR]XQfOIvG[zCCf@LrAfBh@Zv@@jA[TH^rA|@pHx@rFpAnN\\|B~AnEb@pBx@hFV`AxBbFl@lBj@`CnAhC\\rAL~AHpF^xGHdDCfEm@nHEhC^tGh@~ECh@Wr@If@\\bM?vAWxCaAtDmBrLgGhc@YrCMxBO`@c@V{GZsFfC_GrA{@n@Q`@CV@tMLjB^fB^`A~C|D|@nBPl@b@lCXnCHvA@hD^`DNNTCj@Y`ASxCUfBL^LHTM`A_CvIwArGc@tAuDxNm@hBeAjEyBzHi@dCUxBc@bJs@rQ_AfJoBzTYrHGxLSrD_@jDe@fBw@`A}CfCk@~@a@lBi@|DqBtT{@f[QxC}@rLoCtTEjA?|EIb@kAToHVoCKoEm@_DMqFb@i@AiAW{@A{B\\oAFgDa@uI{ByFQoBXiCzAyAD{@MuC_AwGcDeDeAkAEoCb@yCPsIoAuK{BiDE_DmAsOkHuAaAiBmB{Ai@st@mHOa@uFuXsBiJi@cBWg@UKk@FSMK[Ce@N{BEwAa@uD]oBkAmDuDqIiAkEk@cEK}AGyB@kDGa@Yi@[uAwBgCqA}CWY{Aq@k@EWJiAx@qBlBiAbBcEvHmB`EgBhEq@z@u@VSf@CTCAJA@GwC[kA`@qB\\mElBIh@B|EC?DAFLSDNEIMXRC?LEDNM@BHEGDIOIKLIC"
+  },
+  "trainer": false,
+  "commute": false,
+  "manual": false,
+  "private": false,
+  "visibility": "everyone",
+  "flagged": false,
+  "gear_id": "b16337781",
+  "start_latlng": [
+    53.056766,
+    -0.785917
+  ],
+  "end_latlng": [
+    53.056725,
+    -0.786055
+  ],
+  "average_speed": 6.074,
+  "max_speed": 11.16,
+  "average_watts": 145.4,
+  "device_watts": false,
+  "kilojoules": 599.2,
+  "has_heartrate": false,
+  "heartrate_opt_out": false,
+  "display_hide_heartrate_option": false,
+  "elev_high": 45.2,
+  "elev_low": 12.5,
+  "upload_id": 17894085752,
+  "upload_id_str": "17894085752",
+  "external_id": "bd3288db-57ed-43dd-9677-c0b1cc8c8e0c-activity.fit",
+  "from_accepted_tag": false,
+  "pr_count": 1,
+  "total_photo_count": 1,
+  "has_kudoed": false,
+  "description": "Not quite Nepal",
+  "calories": 668.0,
+  "perceived_exertion": null,
+  "prefer_perceived_exertion": false,
+  "segment_efforts": [
+    {
+      "id": 3437824790436278612,
+      "resource_state": 2,
+      "name": "To Manners Road Loop",
+      "activity": {
+        "id": 16802975291,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 83,
+      "moving_time": 69,
+      "start_date": "2025-12-21T11:40:31Z",
+      "start_date_local": "2025-12-21T11:40:31Z",
+      "distance": 447.6,
+      "start_index": 53,
+      "end_index": 136,
+      "device_watts": false,
+      "segment": {
+        "id": 13756077,
+        "resource_state": 2,
+        "name": "To Manners Road Loop",
+        "activity_type": "Ride",
+        "distance": 447.6,
+        "average_grade": -1.2,
+        "maximum_grade": 1.5,
+        "elevation_high": 22.0,
+        "elevation_low": 16.0,
+        "start_latlng": [
+          53.056666,
+          -0.784565
+        ],
+        "end_latlng": [
+          53.053042,
+          -0.78255
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Balderton",
+        "state": "England",
+        "country": "United Kingdom",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3437824790434766164,
+      "resource_state": 2,
+      "name": "nut house sprint",
+      "activity": {
+        "id": 16802975291,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 79,
+      "moving_time": 79,
+      "start_date": "2025-12-21T11:43:28Z",
+      "start_date_local": "2025-12-21T11:43:28Z",
+      "distance": 429.9,
+      "start_index": 230,
+      "end_index": 309,
+      "device_watts": false,
+      "segment": {
+        "id": 9983567,
+        "resource_state": 2,
+        "name": "nut house sprint",
+        "activity_type": "Ride",
+        "distance": 429.9,
+        "average_grade": 1.6,
+        "maximum_grade": 6.6,
+        "elevation_high": 22.4,
+        "elevation_low": 14.2,
+        "start_latlng": [
+          53.04901,
+          -0.778197
+        ],
+        "end_latlng": [
+          53.046352,
+          -0.777508
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Balderton",
+        "state": null,
+        "country": "United Kingdom",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3437824790433714516,
+      "resource_state": 2,
+      "name": "Fernwood to Claypole",
+      "activity": {
+        "id": 16802975291,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 493,
+      "moving_time": 493,
+      "start_date": "2025-12-21T11:45:31Z",
+      "start_date_local": "2025-12-21T11:45:31Z",
+      "distance": 3456.5,
+      "start_index": 353,
+      "end_index": 846,
+      "device_watts": false,
+      "segment": {
+        "id": 24921594,
+        "resource_state": 2,
+        "name": "Fernwood to Claypole",
+        "activity_type": "Ride",
+        "distance": 3456.5,
+        "average_grade": 0.1,
+        "maximum_grade": 1.6,
+        "elevation_high": 22.6,
+        "elevation_low": 15.4,
+        "start_latlng": [
+          53.045322,
+          -0.773971
+        ],
+        "end_latlng": [
+          53.032076,
+          -0.737339
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Fernwood",
+        "state": "England",
+        "country": "United Kingdom",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3437824790435192148,
+      "resource_state": 2,
+      "name": "Fernwood to Shire Lane",
+      "activity": {
+        "id": 16802975291,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 128,
+      "moving_time": 128,
+      "start_date": "2025-12-21T11:45:32Z",
+      "start_date_local": "2025-12-21T11:45:32Z",
+      "distance": 860.7,
+      "start_index": 354,
+      "end_index": 482,
+      "device_watts": false,
+      "segment": {
+        "id": 24921544,
+        "resource_state": 2,
+        "name": "Fernwood to Shire Lane",
+        "activity_type": "Ride",
+        "distance": 860.7,
+        "average_grade": 0.2,
+        "maximum_grade": 1.5,
+        "elevation_high": 21.6,
+        "elevation_low": 19.2,
+        "start_latlng": [
+          53.045257,
+          -0.773914
+        ],
+        "end_latlng": [
+          53.038024,
+          -0.770358
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Fernwood",
+        "state": "England",
+        "country": "United Kingdom",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3437824790433306964,
+      "resource_state": 2,
+      "name": "Junction to bridge",
+      "activity": {
+        "id": 16802975291,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 112,
+      "moving_time": 112,
+      "start_date": "2025-12-21T11:47:44Z",
+      "start_date_local": "2025-12-21T11:47:44Z",
+      "distance": 838.3,
+      "start_index": 486,
+      "end_index": 598,
+      "device_watts": false,
+      "segment": {
+        "id": 7830181,
+        "resource_state": 2,
+        "name": "Junction to bridge",
+        "activity_type": "Ride",
+        "distance": 838.3,
+        "average_grade": -0.7,
+        "maximum_grade": 0.0,
+        "elevation_high": 29.8,
+        "elevation_low": 23.6,
+        "start_latlng": [
+          53.037832,
+          -0.770211
+        ],
+        "end_latlng": [
+          53.036519,
+          -0.758074
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Newark, UK",
+        "state": "England",
+        "country": "United Kingdom",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3437824790436271444,
+      "resource_state": 2,
+      "name": "Turn to Bridge",
+      "activity": {
+        "id": 16802975291,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 251,
+      "moving_time": 251,
+      "start_date": "2025-12-21T11:47:48Z",
+      "start_date_local": "2025-12-21T11:47:48Z",
+      "distance": 1890.4,
+      "start_index": 490,
+      "end_index": 741,
+      "device_watts": false,
+      "segment": {
+        "id": 4185687,
+        "resource_state": 2,
+        "name": "Turn to Bridge",
+        "activity_type": "Ride",
+        "distance": 1890.4,
+        "average_grade": -0.2,
+        "maximum_grade": 3.8,
+        "elevation_high": 28.8,
+        "elevation_low": 22.6,
+        "start_latlng": [
+          53.037808,
+          -0.769802
+        ],
+        "end_latlng": [
+          53.030725,
+          -0.745192
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Newark, UK",
+        "state": "England",
+        "country": "United Kingdom",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3437824790435464532,
+      "resource_state": 2,
+      "name": "Home Straight",
+      "activity": {
+        "id": 16802975291,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 144,
+      "moving_time": 144,
+      "start_date": "2025-12-21T11:49:34Z",
+      "start_date_local": "2025-12-21T11:49:34Z",
+      "distance": 1090.6,
+      "start_index": 596,
+      "end_index": 740,
+      "device_watts": false,
+      "segment": {
+        "id": 2939801,
+        "resource_state": 2,
+        "name": "Home Straight",
+        "activity_type": "Ride",
+        "distance": 1090.6,
+        "average_grade": 0.3,
+        "maximum_grade": 2.2,
+        "elevation_high": 19.6,
+        "elevation_low": 16.0,
+        "start_latlng": [
+          53.036573,
+          -0.75833
+        ],
+        "end_latlng": [
+          53.030732,
+          -0.745318
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Fernwood",
+        "state": "Nottinghamshire",
+        "country": "United Kingdom",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3437824790432472404,
+      "resource_state": 2,
+      "name": "Claypole to Dry Dodd",
+      "activity": {
+        "id": 16802975291,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 570,
+      "moving_time": 434,
+      "start_date": "2025-12-21T11:54:27Z",
+      "start_date_local": "2025-12-21T11:54:27Z",
+      "distance": 2473.5,
+      "start_index": 889,
+      "end_index": 1344,
+      "device_watts": false,
+      "segment": {
+        "id": 7619351,
+        "resource_state": 2,
+        "name": "Claypole to Dry Dodd",
+        "activity_type": "Ride",
+        "distance": 2473.5,
+        "average_grade": 0.9,
+        "maximum_grade": 9.9,
+        "elevation_high": 11.2,
+        "elevation_low": -10.0,
+        "start_latlng": [
+          53.03124,
+          -0.734249
+        ],
+        "end_latlng": [
+          53.011331,
+          -0.733529
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Claypole",
+        "state": "England",
+        "country": "United Kingdom",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3437824790436017492,
+      "resource_state": 2,
+      "name": "Split corners - Go East!",
+      "activity": {
+        "id": 16802975291,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 43,
+      "moving_time": 43,
+      "start_date": "2025-12-21T11:57:23Z",
+      "start_date_local": "2025-12-21T11:57:23Z",
+      "distance": 235.0,
+      "start_index": 950,
+      "end_index": 993,
+      "device_watts": false,
+      "segment": {
+        "id": 6151758,
+        "resource_state": 2,
+        "name": "Split corners - Go East!",
+        "activity_type": "Ride",
+        "distance": 235.0,
+        "average_grade": -0.2,
+        "maximum_grade": 0.1,
+        "elevation_high": 24.9,
+        "elevation_low": 24.0,
+        "start_latlng": [
+          53.029341,
+          -0.734987
+        ],
+        "end_latlng": [
+          53.028545,
+          -0.731747
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Claypole",
+        "state": "England",
+        "country": "United Kingdom",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3437824790433067348,
+      "resource_state": 2,
+      "name": "Doddington Lane Hill ",
+      "activity": {
+        "id": 16802975291,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 147,
+      "moving_time": 147,
+      "start_date": "2025-12-21T12:01:37Z",
+      "start_date_local": "2025-12-21T12:01:37Z",
+      "distance": 701.138,
+      "start_index": 1204,
+      "end_index": 1351,
+      "device_watts": false,
+      "segment": {
+        "id": 2393974,
+        "resource_state": 2,
+        "name": "Doddington Lane Hill ",
+        "activity_type": "Ride",
+        "distance": 701.138,
+        "average_grade": 1.6,
+        "maximum_grade": 8.9,
+        "elevation_high": 47.0,
+        "elevation_low": 35.0,
+        "start_latlng": [
+          53.017194536563956,
+          -0.7350397668785742
+        ],
+        "end_latlng": [
+          53.010992892135874,
+          -0.7333813235170519
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Claypole",
+        "state": "Lincolnshire",
+        "country": "United Kingdom",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3437824790433679700,
+      "resource_state": 2,
+      "name": "Ride the Westborough Rollers",
+      "activity": {
+        "id": 16802975291,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 218,
+      "moving_time": 218,
+      "start_date": "2025-12-21T13:26:07Z",
+      "start_date_local": "2025-12-21T13:26:07Z",
+      "distance": 1696.1,
+      "start_index": 1974,
+      "end_index": 2192,
+      "device_watts": false,
+      "segment": {
+        "id": 6088828,
+        "resource_state": 2,
+        "name": "Ride the Westborough Rollers",
+        "activity_type": "Ride",
+        "distance": 1696.1,
+        "average_grade": 0.0,
+        "maximum_grade": 1.6,
+        "elevation_high": 28.0,
+        "elevation_low": 24.6,
+        "start_latlng": [
+          52.999747,
+          -0.710487
+        ],
+        "end_latlng": [
+          52.994447,
+          -0.732202
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Newark, UK",
+        "state": "England",
+        "country": "United Kingdom",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": 1,
+      "achievements": [
+        {
+          "type_id": 3,
+          "type": "pr",
+          "rank": 1
+        }
+      ],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3437824790435109204,
+      "resource_state": 2,
+      "name": "Exit Westborough to Bennington Weir",
+      "activity": {
+        "id": 16802975291,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 242,
+      "moving_time": 242,
+      "start_date": "2025-12-21T13:30:03Z",
+      "start_date_local": "2025-12-21T13:30:03Z",
+      "distance": 1875.0,
+      "start_index": 2210,
+      "end_index": 2452,
+      "device_watts": false,
+      "segment": {
+        "id": 5474041,
+        "resource_state": 2,
+        "name": "Exit Westborough to Bennington Weir",
+        "activity_type": "Ride",
+        "distance": 1875.0,
+        "average_grade": -0.1,
+        "maximum_grade": 4.6,
+        "elevation_high": 34.0,
+        "elevation_low": 23.0,
+        "start_latlng": [
+          52.99444,
+          -0.734061
+        ],
+        "end_latlng": [
+          53.000266,
+          -0.754169
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Newark, UK",
+        "state": "England",
+        "country": "United Kingdom",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3437824790435082580,
+      "resource_state": 2,
+      "name": "Battle for the Bridge",
+      "activity": {
+        "id": 16802975291,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 77,
+      "moving_time": 77,
+      "start_date": "2025-12-21T13:32:56Z",
+      "start_date_local": "2025-12-21T13:32:56Z",
+      "distance": 651.7,
+      "start_index": 2383,
+      "end_index": 2460,
+      "device_watts": false,
+      "segment": {
+        "id": 14493390,
+        "resource_state": 2,
+        "name": "Battle for the Bridge",
+        "activity_type": "Ride",
+        "distance": 651.7,
+        "average_grade": -1.8,
+        "maximum_grade": 2.5,
+        "elevation_high": 32.0,
+        "elevation_low": 18.6,
+        "start_latlng": [
+          52.999776,
+          -0.748423
+        ],
+        "end_latlng": [
+          52.999901,
+          -0.754842
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Newark",
+        "state": "England",
+        "country": "United Kingdom",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3437824790433897812,
+      "resource_state": 2,
+      "name": "grind out of benno",
+      "activity": {
+        "id": 16802975291,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 430,
+      "moving_time": 430,
+      "start_date": "2025-12-21T13:35:50Z",
+      "start_date_local": "2025-12-21T13:35:50Z",
+      "distance": 3219.7,
+      "start_index": 2557,
+      "end_index": 2987,
+      "device_watts": false,
+      "segment": {
+        "id": 6991695,
+        "resource_state": 2,
+        "name": "grind out of benno",
+        "activity_type": "Ride",
+        "distance": 3219.7,
+        "average_grade": -0.1,
+        "maximum_grade": 4.8,
+        "elevation_high": -32.8,
+        "elevation_low": -40.8,
+        "start_latlng": [
+          52.99753,
+          -0.759958
+        ],
+        "end_latlng": [
+          53.00643,
+          -0.804144
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Long Bennington",
+        "state": "England",
+        "country": "United Kingdom",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3437824790435815764,
+      "resource_state": 2,
+      "name": "Grange lane to the north",
+      "activity": {
+        "id": 16802975291,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 541,
+      "moving_time": 541,
+      "start_date": "2025-12-21T13:43:27Z",
+      "start_date_local": "2025-12-21T13:43:27Z",
+      "distance": 3976.8,
+      "start_index": 3014,
+      "end_index": 3554,
+      "device_watts": false,
+      "segment": {
+        "id": 8296710,
+        "resource_state": 2,
+        "name": "Grange lane to the north",
+        "activity_type": "Ride",
+        "distance": 3976.8,
+        "average_grade": -0.3,
+        "maximum_grade": 6.9,
+        "elevation_high": 21.2,
+        "elevation_low": 6.6,
+        "start_latlng": [
+          53.007708,
+          -0.804416
+        ],
+        "end_latlng": [
+          53.04275,
+          -0.797228
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Newark",
+        "state": null,
+        "country": "United Kingdom",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3437824790433620308,
+      "resource_state": 2,
+      "name": "New bypass",
+      "activity": {
+        "id": 16802975291,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 102,
+      "moving_time": 102,
+      "start_date": "2025-12-21T13:54:01Z",
+      "start_date_local": "2025-12-21T13:54:01Z",
+      "distance": 683.4,
+      "start_index": 3647,
+      "end_index": 3749,
+      "device_watts": false,
+      "segment": {
+        "id": 38034502,
+        "resource_state": 2,
+        "name": "New bypass",
+        "activity_type": "Ride",
+        "distance": 683.4,
+        "average_grade": 0.2,
+        "maximum_grade": 6.2,
+        "elevation_high": 20.0,
+        "elevation_low": 16.4,
+        "start_latlng": [
+          53.045452,
+          -0.789876
+        ],
+        "end_latlng": [
+          53.04768,
+          -0.780814
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Newark and Sherwood",
+        "state": "England",
+        "country": "United Kingdom",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3437824790435755348,
+      "resource_state": 2,
+      "name": "To the lights",
+      "activity": {
+        "id": 16802975291,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 398,
+      "moving_time": 105,
+      "start_date": "2025-12-21T13:56:24Z",
+      "start_date_local": "2025-12-21T13:56:24Z",
+      "distance": 718.676,
+      "start_index": 3790,
+      "end_index": 3917,
+      "device_watts": false,
+      "segment": {
+        "id": 3514425,
+        "resource_state": 2,
+        "name": "To the lights",
+        "activity_type": "Ride",
+        "distance": 718.676,
+        "average_grade": 0.6,
+        "maximum_grade": 3.0,
+        "elevation_high": 21.5,
+        "elevation_low": 15.7,
+        "start_latlng": [
+          53.049805,
+          -0.778297
+        ],
+        "end_latlng": [
+          53.055036,
+          -0.78388
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Newark",
+        "state": "Nottinghamshire",
+        "country": "United Kingdom",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    }
+  ],
+  "splits_metric": [
+    {
+      "distance": 1003.4,
+      "elapsed_time": 206,
+      "elevation_difference": -3.9,
+      "moving_time": 200,
+      "split": 1,
+      "average_speed": 5.02,
+      "average_grade_adjusted_speed": 4.98,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1000.4,
+      "elapsed_time": 166,
+      "elevation_difference": 6.1,
+      "moving_time": 166,
+      "split": 2,
+      "average_speed": 6.03,
+      "average_grade_adjusted_speed": 6.13,
+      "pace_zone": 0
+    },
+    {
+      "distance": 999.1,
+      "elapsed_time": 145,
+      "elevation_difference": -1.2,
+      "moving_time": 145,
+      "split": 3,
+      "average_speed": 6.89,
+      "average_grade_adjusted_speed": 6.88,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1001.2,
+      "elapsed_time": 131,
+      "elevation_difference": -3.8,
+      "moving_time": 131,
+      "split": 4,
+      "average_speed": 7.64,
+      "average_grade_adjusted_speed": 7.61,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1001.7,
+      "elapsed_time": 141,
+      "elevation_difference": 3.8,
+      "moving_time": 141,
+      "split": 5,
+      "average_speed": 7.1,
+      "average_grade_adjusted_speed": 7.15,
+      "pace_zone": 0
+    },
+    {
+      "distance": 999.8,
+      "elapsed_time": 304,
+      "elevation_difference": 4.3,
+      "moving_time": 188,
+      "split": 6,
+      "average_speed": 5.32,
+      "average_grade_adjusted_speed": 5.36,
+      "pace_zone": 0
+    },
+    {
+      "distance": 998.9,
+      "elapsed_time": 156,
+      "elevation_difference": 1.3,
+      "moving_time": 156,
+      "split": 7,
+      "average_speed": 6.4,
+      "average_grade_adjusted_speed": 6.42,
+      "pace_zone": 0
+    },
+    {
+      "distance": 997.5,
+      "elapsed_time": 183,
+      "elevation_difference": 16.6,
+      "moving_time": 183,
+      "split": 8,
+      "average_speed": 5.45,
+      "average_grade_adjusted_speed": 5.79,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1004.3,
+      "elapsed_time": 4727,
+      "elevation_difference": -2.2,
+      "moving_time": 458,
+      "split": 9,
+      "average_speed": 2.19,
+      "average_grade_adjusted_speed": 2.2,
+      "pace_zone": 0
+    },
+    {
+      "distance": 996.6,
+      "elapsed_time": 145,
+      "elevation_difference": -10.9,
+      "moving_time": 145,
+      "split": 10,
+      "average_speed": 6.87,
+      "average_grade_adjusted_speed": 6.74,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1002.3,
+      "elapsed_time": 136,
+      "elevation_difference": -2.2,
+      "moving_time": 136,
+      "split": 11,
+      "average_speed": 7.37,
+      "average_grade_adjusted_speed": 7.35,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1001.1,
+      "elapsed_time": 127,
+      "elevation_difference": -1.9,
+      "moving_time": 127,
+      "split": 12,
+      "average_speed": 7.88,
+      "average_grade_adjusted_speed": 7.87,
+      "pace_zone": 0
+    },
+    {
+      "distance": 994.0,
+      "elapsed_time": 127,
+      "elevation_difference": 2.9,
+      "moving_time": 127,
+      "split": 13,
+      "average_speed": 7.83,
+      "average_grade_adjusted_speed": 7.89,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1007.2,
+      "elapsed_time": 136,
+      "elevation_difference": 2.5,
+      "moving_time": 136,
+      "split": 14,
+      "average_speed": 7.41,
+      "average_grade_adjusted_speed": 7.46,
+      "pace_zone": 0
+    },
+    {
+      "distance": 994.7,
+      "elapsed_time": 139,
+      "elevation_difference": -4.1,
+      "moving_time": 139,
+      "split": 15,
+      "average_speed": 7.16,
+      "average_grade_adjusted_speed": 7.11,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1003.1,
+      "elapsed_time": 125,
+      "elevation_difference": -7.1,
+      "moving_time": 125,
+      "split": 16,
+      "average_speed": 8.02,
+      "average_grade_adjusted_speed": 7.92,
+      "pace_zone": 0
+    },
+    {
+      "distance": 994.7,
+      "elapsed_time": 137,
+      "elevation_difference": 5.3,
+      "moving_time": 137,
+      "split": 17,
+      "average_speed": 7.26,
+      "average_grade_adjusted_speed": 7.36,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1001.2,
+      "elapsed_time": 134,
+      "elevation_difference": -1.1,
+      "moving_time": 134,
+      "split": 18,
+      "average_speed": 7.47,
+      "average_grade_adjusted_speed": 7.47,
+      "pace_zone": 0
+    },
+    {
+      "distance": 999.7,
+      "elapsed_time": 151,
+      "elevation_difference": -7.1,
+      "moving_time": 150,
+      "split": 19,
+      "average_speed": 6.66,
+      "average_grade_adjusted_speed": 6.58,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1003.4,
+      "elapsed_time": 141,
+      "elevation_difference": 4.7,
+      "moving_time": 141,
+      "split": 20,
+      "average_speed": 7.12,
+      "average_grade_adjusted_speed": 7.24,
+      "pace_zone": 0
+    },
+    {
+      "distance": 995.7,
+      "elapsed_time": 141,
+      "elevation_difference": 2.3,
+      "moving_time": 141,
+      "split": 21,
+      "average_speed": 7.06,
+      "average_grade_adjusted_speed": 7.1,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1001.3,
+      "elapsed_time": 127,
+      "elevation_difference": -7.2,
+      "moving_time": 127,
+      "split": 22,
+      "average_speed": 7.88,
+      "average_grade_adjusted_speed": 7.78,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1005.6,
+      "elapsed_time": 147,
+      "elevation_difference": -1.1,
+      "moving_time": 147,
+      "split": 23,
+      "average_speed": 6.84,
+      "average_grade_adjusted_speed": 6.83,
+      "pace_zone": 0
+    },
+    {
+      "distance": 993.4,
+      "elapsed_time": 144,
+      "elevation_difference": 0.0,
+      "moving_time": 144,
+      "split": 24,
+      "average_speed": 6.9,
+      "average_grade_adjusted_speed": 6.91,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1002.9,
+      "elapsed_time": 541,
+      "elevation_difference": 4.0,
+      "moving_time": 266,
+      "split": 25,
+      "average_speed": 3.77,
+      "average_grade_adjusted_speed": 3.81,
+      "pace_zone": 0
+    },
+    {
+      "distance": 35.2,
+      "elapsed_time": 31,
+      "elevation_difference": 0.0,
+      "moving_time": 31,
+      "split": 26,
+      "average_speed": 1.14,
+      "average_grade_adjusted_speed": 1.14,
+      "pace_zone": 0
+    }
+  ],
+  "splits_standard": [
+    {
+      "distance": 1613.7,
+      "elapsed_time": 309,
+      "elevation_difference": 2.0,
+      "moving_time": 303,
+      "split": 1,
+      "average_speed": 5.33,
+      "average_grade_adjusted_speed": 5.35,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1610.3,
+      "elapsed_time": 237,
+      "elevation_difference": -1.5,
+      "moving_time": 237,
+      "split": 2,
+      "average_speed": 6.79,
+      "average_grade_adjusted_speed": 6.8,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1606.6,
+      "elapsed_time": 214,
+      "elevation_difference": -1.2,
+      "moving_time": 214,
+      "split": 3,
+      "average_speed": 7.51,
+      "average_grade_adjusted_speed": 7.5,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1613.1,
+      "elapsed_time": 405,
+      "elevation_difference": 7.5,
+      "moving_time": 289,
+      "split": 4,
+      "average_speed": 5.58,
+      "average_grade_adjusted_speed": 5.63,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1603.4,
+      "elapsed_time": 279,
+      "elevation_difference": 18.2,
+      "moving_time": 279,
+      "split": 5,
+      "average_speed": 5.75,
+      "average_grade_adjusted_speed": 5.99,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1612.6,
+      "elapsed_time": 4812,
+      "elevation_difference": -8.0,
+      "moving_time": 543,
+      "split": 6,
+      "average_speed": 2.97,
+      "average_grade_adjusted_speed": 2.95,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1606.7,
+      "elapsed_time": 218,
+      "elevation_difference": -7.6,
+      "moving_time": 218,
+      "split": 7,
+      "average_speed": 7.37,
+      "average_grade_adjusted_speed": 7.31,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1614.0,
+      "elapsed_time": 204,
+      "elevation_difference": -0.6,
+      "moving_time": 204,
+      "split": 8,
+      "average_speed": 7.91,
+      "average_grade_adjusted_speed": 7.93,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1606.0,
+      "elapsed_time": 212,
+      "elevation_difference": -3.3,
+      "moving_time": 212,
+      "split": 9,
+      "average_speed": 7.58,
+      "average_grade_adjusted_speed": 7.57,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1609.8,
+      "elapsed_time": 216,
+      "elevation_difference": -5.3,
+      "moving_time": 216,
+      "split": 10,
+      "average_speed": 7.45,
+      "average_grade_adjusted_speed": 7.41,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1608.6,
+      "elapsed_time": 217,
+      "elevation_difference": 2.0,
+      "moving_time": 217,
+      "split": 11,
+      "average_speed": 7.41,
+      "average_grade_adjusted_speed": 7.45,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1610.6,
+      "elapsed_time": 236,
+      "elevation_difference": -4.9,
+      "moving_time": 235,
+      "split": 12,
+      "average_speed": 6.85,
+      "average_grade_adjusted_speed": 6.82,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1613.4,
+      "elapsed_time": 230,
+      "elevation_difference": 7.3,
+      "moving_time": 230,
+      "split": 13,
+      "average_speed": 7.01,
+      "average_grade_adjusted_speed": 7.11,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1602.1,
+      "elapsed_time": 210,
+      "elevation_difference": -10.1,
+      "moving_time": 210,
+      "split": 14,
+      "average_speed": 7.63,
+      "average_grade_adjusted_speed": 7.55,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1610.1,
+      "elapsed_time": 236,
+      "elevation_difference": 1.7,
+      "moving_time": 236,
+      "split": 15,
+      "average_speed": 6.82,
+      "average_grade_adjusted_speed": 6.84,
+      "pace_zone": 0
+    },
+    {
+      "distance": 897.4,
+      "elapsed_time": 553,
+      "elevation_difference": 3.8,
+      "moving_time": 278,
+      "split": 16,
+      "average_speed": 3.23,
+      "average_grade_adjusted_speed": 3.27,
+      "pace_zone": 0
+    }
+  ],
+  "laps": [
+    {
+      "id": 59937394419,
+      "resource_state": 2,
+      "name": "Lap 1",
+      "activity": {
+        "id": 16802975291,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 8931,
+      "moving_time": 4122,
+      "start_date": "2025-12-21T11:39:32Z",
+      "start_date_local": "2025-12-21T11:39:32Z",
+      "distance": 25038.4,
+      "average_speed": 6.07,
+      "max_speed": 11.16,
+      "lap_index": 1,
+      "split": 1,
+      "start_index": 0,
+      "end_index": 4069,
+      "total_elevation_gain": 97.0,
+      "device_watts": false,
+      "average_watts": 145.4
+    }
+  ],
+  "gear": {
+    "id": "b16337781",
+    "primary": false,
+    "name": "Betty (Milan ->)",
+    "nickname": "Betty (Milan ->)",
+    "resource_state": 2,
+    "retired": false,
+    "distance": 9056030,
+    "converted_distance": 9056.0
+  },
+  "photos": {
+    "primary": {
+      "unique_id": "845b3c60-99bd-43d6-b5d9-4c3fc31a337d",
+      "urls": {
+        "600": "https://dgtzuqphqg23d.cloudfront.net/dA7zs1SwKV9xKO_8tKUn9uf0R91yvCDNUkiusReWroY-432x768.jpg",
+        "100": "https://dgtzuqphqg23d.cloudfront.net/dA7zs1SwKV9xKO_8tKUn9uf0R91yvCDNUkiusReWroY-72x128.jpg"
+      },
+      "source": 1,
+      "media_type": 1
+    },
+    "use_primary_photo": false,
+    "count": 1
+  },
+  "stats_visibility": [
+    {
+      "type": "heart_rate",
+      "visibility": "everyone"
+    },
+    {
+      "type": "pace",
+      "visibility": "everyone"
+    },
+    {
+      "type": "power",
+      "visibility": "everyone"
+    },
+    {
+      "type": "speed",
+      "visibility": "everyone"
+    },
+    {
+      "type": "calories",
+      "visibility": "everyone"
+    }
+  ],
+  "hide_from_home": false,
+  "embed_token": "e7f2c6494845dc9865ac6bf5024028dddc060098",
+  "available_zones": [
+    "power"
+  ]
+}

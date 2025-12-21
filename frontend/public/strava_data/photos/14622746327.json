@@ -1,0 +1,33 @@
+[
+  {
+    "unique_id": "91b6edb2-039e-444b-9b92-380eab1f5e3c",
+    "athlete_id": 49023768,
+    "activity_id": 14622746327,
+    "activity_name": "Moving \"campsite\"",
+    "post_id": null,
+    "resource_state": 2,
+    "caption": "",
+    "type": 1,
+    "source": 1,
+    "status": 3,
+    "uploaded_at": "2025-05-28T17:24:55Z",
+    "created_at": "2025-05-28T17:14:51Z",
+    "created_at_local": "2025-05-28T19:14:51Z",
+    "urls": {
+      "5000": "https://dgtzuqphqg23d.cloudfront.net/H87Xmos4htQH3jN0DnXbi5nUOnaREY0kelLMxyfv1jA-1536x2048.jpg"
+    },
+    "placeholder_image": null,
+    "sizes": {
+      "5000": [
+        1536,
+        2048
+      ]
+    },
+    "default_photo": false,
+    "cursor": null,
+    "location": [
+      42.92551666666667,
+      -1.9607944444444445
+    ]
+  }
+]

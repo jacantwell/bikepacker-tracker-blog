@@ -1,0 +1,33 @@
+[
+  {
+    "unique_id": "af7ae48a-2094-4803-bfc9-fb030d5bd7d5",
+    "athlete_id": 49023768,
+    "activity_id": 15616252058,
+    "activity_name": "Afternoon Ride",
+    "post_id": null,
+    "resource_state": 2,
+    "caption": "",
+    "type": 1,
+    "source": 1,
+    "status": 3,
+    "uploaded_at": "2025-08-28T13:54:30Z",
+    "created_at": "2025-08-28T10:27:33Z",
+    "created_at_local": "2025-08-28T14:27:33Z",
+    "urls": {
+      "5000": "https://dgtzuqphqg23d.cloudfront.net/5l40R5FvlQ1BYhpjMUbI8KttI-BqJmKqKQ3B6-k4LLA-1152x2048.jpg"
+    },
+    "placeholder_image": null,
+    "sizes": {
+      "5000": [
+        1152,
+        2048
+      ]
+    },
+    "default_photo": false,
+    "cursor": null,
+    "location": [
+      41.764041666666664,
+      41.776380555555555
+    ]
+  }
+]

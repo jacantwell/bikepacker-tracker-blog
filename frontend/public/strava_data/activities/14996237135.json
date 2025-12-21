@@ -1,0 +1,5313 @@
+{
+  "resource_state": 3,
+  "athlete": {
+    "id": 49023768,
+    "resource_state": 1
+  },
+  "name": "Country 5/?",
+  "distance": 110135.0,
+  "moving_time": 20606,
+  "elapsed_time": 34969,
+  "total_elevation_gain": 1440.0,
+  "type": "Ride",
+  "sport_type": "Ride",
+  "workout_type": 10,
+  "device_name": "Wahoo ELEMNT BOLT",
+  "id": 14996237135,
+  "start_date": "2025-07-03T06:23:54Z",
+  "start_date_local": "2025-07-03T08:23:54Z",
+  "timezone": "(GMT+01:00) Europe/Rome",
+  "utc_offset": 7200.0,
+  "location_city": null,
+  "location_state": null,
+  "location_country": null,
+  "achievement_count": 0,
+  "kudos_count": 16,
+  "comment_count": 0,
+  "athlete_count": 1,
+  "photo_count": 0,
+  "map": {
+    "id": "a14996237135",
+    "polyline": "}bzvGm|{pAYNAFDZTdAPb@Xd@h@xAHd@?LIHCAg@w@Wa@[o@mBgFaD_JWg@oAiBaKuSkDkHk@eA}@sAo@m@gCuB}@m@m@o@cAu@_@_@{C_Cu@u@w@}@cHyLyOcYuJwPUo@C[Au@Ie@OSGEcA[QMWYeBwC}IyOe@_A[y@e@cBMu@kAoI?g@N_AEYm@w@oAoDSa@uC}EcDmFk@w@{@_BmCiE{@qAaAaB{EuHyLeSoBeDcDaGaAuB{AsDoA}C_FqLQk@]u@]e@KSm@yBOcA]aDiBeYM{AUiECsBB_AR}Cd@mF`BmSFi@BCH@BGCKECCI@YTmDHw@Bu@Js@@k@Fa@^gFBM^q@d@k@lAo@fF_CZUNCTMDGbBq@d@Ml@IXM@IIPf@j@NLx@d@|@r@PJfCZ`ABFB@FMDUECCTKLDJEL?fBLZLzBpB|AnA~@|@xD~CxBxBVPr@|@Td@f@bBTf@n@h@NHxAb@\\@RCh@Op@]nAi@lBcAf@QR@VPr@TBD@PCJm@FEDBFB?AA@ECDBB@LEGADCCB^@CCJFF?BD?AFFK@@DKCDACLKCAAD@DCAANC@EECDFFCE@BEBB@IP@@DAAFAIFICKB??@@_@DGDAC@ACDM@@A@@QEFGKCFEI?CAB@IEBCJBIEF@CDOATFOEJBOIZ@EKOc@?GKDKXMV[HO@SAIMMS@k@T}GdD]FYA[EkA_@_@Y[a@M[QeAOc@Q_@]g@oDwCa@c@}H}Gu@u@M_@Ce@Ha@r@yAPgAVcAJUTUBK?o@@IRSDw@Lm@JqALo@Xc@Js@UqBMeBFeAFM@S?w@BWAIB]FmABM?o@Be@C]]gAIg@Ck@?c@CM?w@G_@CIIEi@Be@Tk@t@K?ECCGd@gBPe@T]ZWd@WRWHCNSNEh@[HIDMDU?SEUIMWCc@@m@Kc@QKGEIAO\\wAJUz@mBjAuBJ_@CSMMo@Oe@QQYGa@@m@XuBBs@?uCCkBEm@MeA_BgIE{@CwAHwALmA@s@HuADyA?w@J}CHk@f@_C\\kBVs@V_@b@OTCPUh@YNOL[BWRgAL_A?g@Ms@_BsFEa@?g@Ju@rBgFDUBu@Cu@Gy@SgBOaAIgBBmBGgCB_ECy@@gEGuAA_C@_@XiBBaAMiASaAEu@?SV}ADiCDI@EEECQIaC@aDC{@c@uFE{BBsDCeBYcCQ_A_@mAiBuE_@oAy@qDkAkEo@oCE]A_@ZmHF_A?wAD]DOP[`AcAx@s@JOVe@^mAXc@LMTKRCh@?TCPINMh@uALMPKx@Gt@Qb@S|@m@l@g@j@q@pA_C`@g@PMTITEtACd@E\\KLKHOJm@Bq@EeJD}ADkECm@OqBByAAo@OmAe@aCGu@?c@DeA?m@WkCGsAEmBFiDFmAHg@t@{BZs@lAqBPg@TaAPi@Xa@z@_Ab@s@hAwB`BkDj@aBr@yC`@wAB[IMGEqA]e@WYS_@c@]g@k@kAi@u@c@_@oBcAy@m@e@g@c@k@Ua@Yw@Ki@K{@CqAFkAHe@Pw@Xu@~@wBTy@Hi@NmBPwDFiDS_C_@gCEoADgBFcAHiEF_@?OUo@i@iCe@mBu@qDcAkEkByDuA}BaCkEcC{FUc@K]UYo@qAoBgDSUQMYOc@QkG{@cAKuGG]CoAWq@Co@B}AX_@D_@?OCmA]yMqE{@U_AIqCG}Ei@wB]iAWkAk@o@g@gAeAy@iA{CeF{BcEkAmB{@_B}@}AoAyAq@o@mAu@u@[eL{CeAa@_@Ss@g@m@i@a@e@mAeBqDeH_@y@qD_HeBiDs@{A]qA}BuLc@iCi@oC]wB[uA{CsOaCgMO_A_AsEs@cEe@gCeAqE]w@Wc@GWBWDEHAjAVF?pARNHXXF@FCDG@WWq@C[@yA?{GIoHJ_H?i@Ei@Ik@a@qAAS@e@Ts@l@wAr@uANc@Jc@Dg@@k@?UIuACw@@wAD]f@}C^gBLa@^sBDi@@eAN}AZwA~@yCVmA`@}CZmDtEiRf@mBjBgIhAsDNs@TcBbAkLR}AF{@@mAGeAs@}GA]Bu@Cg@Kg@KQ]]O_@Me@Qe@i@cAKYOy@OyAGaBM_BKy@SsCOsCKk@u@{CO{@W{Be@yCi@cCKk@}@aIm@iIA}@Fa@Pq@b@gA^qAPu@Ly@H}@@q@@wACgAKwAo@wGkBoTUkBOwASaB_@wDGc@EgAc@aFg@yEaAiHIgAGyBOkBc@eCOu@Gg@Uw@_@y@gBgCi@o@y@m@_BoA}@oAs@}@mCiCmE{Dw@_A]o@Qe@]sA}@{De@qAyCsEOe@FWHE`AU~@c@n@i@`@c@NU|AkE~AsDj@aA`BqBn@o@TO^Oz@KTQHYN_AzA_EZs@nAqBVu@J_AHmCJkBRiARs@nA_C^y@Z}@P[\\e@x@}@NWPe@Lm@JeATwDH_AdA}EXcBrC_LnAiD`@uAJe@FaACkD@iDGwIDeBl@gMVuB`AmEp@uDxAoLTaAVy@b@_A|@iAbCyBvReRbD{CDBBZ?KCIBSb@s@j@sAX_AxAiF`AiCz@uBhAuCz@iC\\{AHm@DaA?mN@sAFsAr@mItBqUdAwLLuBByAQmEAuFCmAOqBAiAD}A\\{C@]?]Gg@Mc@KSo@w@}@_Ai@o@WgAUi@Su@y@iBk@cBSc@KMo@i@iDmC]_@O_@Mu@[uBIgAAw@J{@Z{@j@gARq@BYBiACgB[iI?g@LcCn@aGZuDP}FJ}@TcANiA@WAaAW}CC{ANiEd@{DFgAGiAMo@Wg@[[OGs@KMGMKGOAe@\\mA@WAq@EUWk@MQOOu@_@KQEU?WRwBDeAIs@a@_AG[E]IuAQ}GCgC?kCHwC@mEGyA[_DeBiMy@mE]qAa@_A[q@[c@uAoAMUGSa@yBgA{HQ}@EMWYWKU?SFKHm@pAKDEAEK?K^qAFq@Ae@W_AAQ?YDWHSPO^IjA@j@Df@CNIDI@KASMQ_@Q_AY]G[Oo@Ou@Ag@NUDQAIGMOGM_@{A[{@wAgCKw@HwAd@iDLwADsB?kCHsL?iG@y@BgLHiNAqBFqH?wCKk@?ULaBB{@HeRLcBNu@`@wATg@j@aBXsAHy@@_AEgAMo@]cA]k@c@c@WQ]M_Ds@sAe@m@]c@]m@q@We@Yq@_@gAYiAOy@KuA?}AJs@Tu@vE}LlCkGrHkUb@uBh@eDt@iDbDuMr@mCj@}AtBcE~BoFr@mBLi@b@mC\\}D`@eDTgCXuEV{BZaEjAuM^sCPy@Tw@Pc@\\s@X_@`B}Ar@u@`@k@^q@b@sAXeBHgA@iAQ{Ca@uDCk@@q@DgAN}ALq@^uAr@iDNqAJ{B@}BM}D?uA@m@^yDHiBAs@@?@FABCEEgAO_AK}AE?CBAH@\\d@bFDNNLCAABOPAI?@q@G|AhARFDK_Ag@FA@CAB@?ODNDCDI@VGBAG@@KDCWH?ADCAB@?EE@FKBHECAE@@ALCACDAC?@@?KEKC{AMeBa@sD]iBKa@Uw@O_@e@{@WSa@i@sBkE[y@WsAScBEcAAcAPuBb@gCNiAFmB?{@Em@SuAc@uAo@kAcA{Ak@cAg@sAUmAKoA?aB`@aFBo@Hq@@W?{BKoCIy@c@eCSw@m@mBWgAk@}DK_AIoA@q@F{@l@aEbAuI\\}At@yCLo@`DiRj@wDh@cGNiDDqDAi@OsDe@{FU}DAiCDsBNsCVwBjAeG^uBTiBVeDF}BA_HEaCcAaUWgEOiBAm@@aAa@mAQuAgAmLQwAGiAk@{FG{A@o@F}@VsBLwALk@DqA\\gE?_CEmBGo@WsN@}@Hg@AY@i@A]@]Ca@CCYCWLGL?b@EL@_A?QDGBJCh@@PCPCHEB@DEBDOEKED?BEGAU@AAA?CCBBB?IA?@BBAAGCLFDAZFHYHHFI@F?AB]NDCICF?@AECB??AJBFCU?RBCA@@M?B@L?FBDGNIJe@A}@Dg@DMHETPLBNGHM?GGS?OK]AOBAKIIwA@KHU@[AOEQAU@_CAi@JoCDeCByHDaAEOm@o@OUQk@A[NoBLq@d@wAX{ABg@u@uJAi@OcCE{AA_BY{IPq@z@eB|AqDVg@f@q@p@gAXs@lAwEb@eA~ByC`@a@\\MrAQVQHY@[GWIQSIK?k@PqADoAC}DOy@Iy@Di@FKG?IBKFEr@]b@[b@a@~@eArAgBJg@NmBTqBHc@f@eBFi@BOCg@BWQ_CIi@U{@Yg@Yq@Ww@Q_AIcBDeAJc@`@wANY\\a@`Aq@^Qd@ALBJDJEJ@h@LL@PGFIBM@o@A}AD}BTaBDeA?g@Gy@UcAc@mAc@y@m@q@S_@EY@c@Hi@X}@Ho@Pq@Fk@b@gCh@{BXo@nAcCd@i@fAw@Xa@^}@Pw@NiALm@PuAj@gDBeAEq@Qu@o@_BMw@?cALs@JYlBcDXe@Rg@Li@BYFWT}AF{@@u@@Sc@yCEoA@}ADa@Z}@d@gAHI?IFOFq@C]NoABy@TuADk@`@_DLsAVaA?u@Cs@KuA?gBFmAJeANq@@WJQRUBQP]h@{ABm@DS?i@FSASFc@@aANm@@WJo@TiARu@Hk@FaAEwABe@E_A?sBRoCBq@Ae@EaA@QIiAAwACg@CQGU_@mBmAqEaBqG]kAYq@m@iBGk@ByDGqA_@aBUs@]u@u@sC]yAC]GQIWu@aAMc@AYFq@^}APqADw@?g@Iq@Sc@y@qAO]YoAGi@C_@J_CLs@Vm@R{@L[Jc@Bc@Ao@UeBg@mCWm@a@s@Wk@o@cCY}EAwAI_DE]?c@Iw@IWYsAGuABw@F]Pu@j@yAVk@v@aAVe@|@sBTu@V_AFgAGqFVuE@kBHeBZyCd@{CRqBJo@DkA@kBPoCTeGRgDN}AzBqOj@mBR{@Na@dAuDJm@N{Ad@oB~@yCfAoCLi@\\u@V{@f@cATa@`AwAR_@~@sAVo@n@mAXs@~@mB^aAZcAb@kANe@N]\\kAdB_Fn@qCh@{CHo@fAeGXgA\\cBbAaEHi@`@uAFc@d@aBj@_CJYNu@^gAh@cDVeC`@sBFs@DgBJaAPgAJYf@uClDaMf@wA`BwDPi@Lg@NoBCs@G_AYqAuAeCSi@Om@Ky@_@oHAiCBoBAwBHiDVwF@y@V}BXeDLaA|ByI\\}AhAuENaAJw@Bq@FyCNyDDs@Ju@^_BhAoCRq@Ha@PcBXsB`A}DfByGRqA`@iE|@wFL_AFsCCaCKeCBkAP{ALiBf@oBJm@BCAFGFI@CA@BELGC@?BxCUuEJnACI@V?ECRGL@L@e@BTBBABAK@L@?AMEs@I[CD@?AML@FNDADBDTBIEAAE?HAABEDFAIBHCAEDEEBDDACID?@B?O?NDHG_@FFCFBLC?CC@I@AI@E@@BA?EJ?IBCIC@@AA@A@BDC@GA@AC@BGDB@?FC?DC@?AD@A@CG@@AD@BM@?@FDA?ECCEF@@?CBBBADFCBNB`@KLEFGJEL?PIXQZ_@TOJMb@cAT[RO`@c@LSLo@B]@mAGcABi@VeAHu@JkAHeCNo@LUb@a@n@{AdB}Cd@m@`@u@Ri@d@u@Xi@X]tAo@nAiA|@g@TSr@eAPm@Vo@v@kA`@]NY~AmEPmBJ]^y@ZuAVw@Lq@Hs@@}@C[Ig@Sw@m@iAGSMk@Ck@AuAW{AGaADqANmB?i@AoAMcBC}@@c@Ja@v@wAXq@Bg@AMECC@@JLLCCBIO_@iBqDMYEWEo@@_@VmBDw@@k@GyBIm@i@iBe@{Ao@_BOg@q@}DMgAAUBg@Z_BD[A_@E[Wq@a@o@]_@eByAKMSe@CaAFyDUeEKcAEQ[q@O_A?e@TiCBaBCu@[eCO_DJs@Xu@Po@j@wD@gAO{ACq@d@yECo@CO}@wB[aAOs@KkAMc@GMWQMCK?w@DM?MGOIMMUc@KYQsAIYIOOOUIuASe@QOMKQOg@@YNcBBq@?gAI{ACeAFyAGsAF{AH{@@]?cBE{@VyBVoFTgC?k@EY?YK{A@{@DuAXeADg@Bq@Co@S}ACgAKc@Wa@s@s@mAgAcBqAg@g@_@k@W{@Kw@?_@?]D_@^gADYXiHH}@TsATwBPsCDqBHo@Jg@NmA@s@ImAQuAWcAa@eA_@k@{@q@m@]]Me@GoAIi@@i@DQASEQMm@o@i@}@gAcAg@aAWm@iAkCMS{AeBQ[Wq@Cg@Bc@AmBHcA?oAFo@?}AASMg@Q]_@[w@]o@g@eAqBw@cA{@g@y@Y{@m@cA}@kAaAuBmBc@]MOKUIc@@q@ZyAFe@V_C\\uENu@r@sALq@@c@Eg@e@cD@m@LsA?SCg@{AiFQYQQa@WeAi@Y]ISCW?WLmAC]K[a@u@Ys@a@yAMWQQo@[WQSWU_@]}@s@gA]w@K_@Cg@@gCAc@MmA[yAIu@Oq@Ua@o@y@Uy@i@}FOoCOeAMi@_@gA]cBQ[q@s@Sg@CWCyA@eAC_AIu@c@oBCi@He@b@yAHy@IMMe@yCsFe@a@YKYEaBQiA]{Be@s@YYWW]Oa@Ma@_@cFe@{BUyAUq@MQMGSEkABWCWIo@[c@]QIWGyBGkAY[Ke@Y_@_@We@IKKGMEQ@OB{Aj@oB^{Bj@o@HSAWG[OWSSYm@gCM[MS[OY@]B[FUPUTy@dA]v@I^AZBjBA\\G^KZu@fAMZKb@Q~AE`@Ab@BvCG|AGTKVOR{@VOJKNIRAV@lAWhBCx@J~@T`ABRC\\GDG?KIIOKg@IiASgB?{AA{@Gy@O{@KUOOUIg@KOKKOGWAY?YFWLSPQr@g@PSLSRu@Ny@RuBAs@GYMY]i@Sk@G]Cu@n@oDVw@b@cAFY?YIUQOe@Yc@_@QQk@gAMOgAm@MQKWCW?o@Lu@`@sAJs@Bm@?m@OqB@UTsA@i@G}@MmA[}@i@aAUMeAUSQOa@_AiE]eAWm@}@eBOO{@]SQOSUo@QcAAw@D_@d@}BJw@DaA?a@GeA[cBaAoESm@MQOKQEq@CMCKKKQEQCUQmCCq@Dg@FQh@{@Lc@Ly@J}AJe@b@oANo@^cD`@qBD{@IwBDe@^wBDi@Q}Eg@_YCi@Q_BKiC@kBGiBKiA{@_GgAiG_@iBe@eBs@uBy@mBs@uAmCqEu@{Ae@mAgAqDk@yAq@eAw@s@_@U_@QiAWcBGwE@sAC{@Io@IuBi@u@Ka@Aw@FgBf@s@Ls@Bq@G]I[OkCqBs@a@i@SaBe@aJsBwEiAg@Se@[_@e@wBoD}FgK_C}Dg@aAwEcIkA}Be@qAYaAUeAU}Ac@eEw@sIMuB[eDe@wDo@_HGwAFk@?SCQYo@GSQ{AuAkN[eEiAkMe@iCa@yAQi@k@iAa@s@c@i@iBwB}AeBw@c@i@SoI_B{EiAaE{@cBe@gBa@_Dk@wKcCk_@iIuSmEoAYmAa@e@S{@i@m@k@q@{@[e@o@sAm@eB_DoJy@yC[wAKw@QkBEyCJ_Cx@gIBeCAeAEq@KcAQ}@U}@Qi@Wi@o@gAu@w@y@m@[Qy@WsAQqAEyAFaAL{Cn@gAFw@A_AOi@QcAk@YUw@u@cAqAw@sAYo@m@cBg@qBoA{Fq@wBw@eBo@{@o@o@{AaAw@a@}@_@_AW}@E{@H_AXmAd@g@Pk@Hg@@g@CSGUGUMc@_@o@_Ay@yA[u@Ww@Ia@Gc@EaA?aADy@L{@Pu@b@eAZc@^a@fAw@~@y@j@u@l@sA`@_BN}ABk@@cACm@[oB]uAk@kAyAwBiFeH{E{GeAcBg@cAWm@o@_CyA{GiBgGm@eCOkAM_BS_FAmBOeCUqBMw@Qy@g@kBc@oAgAaCuCoE}BkEu@qAgC}DgGuK_@{@k@}AU_Aa@cCK_BCaCB}BFaAN_BP}@d@oB^mAh@iAj@}@p@w@b@c@f@a@t@e@~C{AfA}@\\e@\\m@Xq@J]F]RuADcA?{@E_ASwAQw@Wq@[k@]e@{@}@m@e@mCoB}IaGe@a@yA}@yAeAwBuA_BaAyDiC}C}BmAo@gCiAaD_BqBcAo@a@mAc@cFcCsD{BqBuAyAiAgEoDqCsCm@q@cAwAg@_@s@o@c@s@kAiAcDuDg@u@Uy@IIQKWEQBMFEAc@i@QOGAEFIh@B\\AAFMUL@EEBLC?AMA@CHH?FLUC@@DDAEC@E?D?AA?@A@@CBHAABFL@LOh@?RR`@b@j@F@DC`@o@\\[RUBKBWIUOKo@UOOs@{@_@a@S_@_@e@m@aA}@k@aAgAeA}@wBmCyCkEs@}@s@oAa@c@iBuBeEeF{BiCu@eAe@YYWoEuEoDmDsFcGoHuIsC{CoB_Cs@cAe@{@aQs\\u@sAwC{FiAcCs@wBWg@Uq@qA}C[_As@{AQm@Qc@kAeCiAyCu@mBiAyCSq@qBuFeAkCWe@CQgAwCuDkJs@kBs@aCYi@k@qAWs@iAoCWy@s@cBi@}A]gAsAuCyBmFg@uAQs@{A{DiBgFoAeE]cBWq@Uw@oBiIaAaDQ}@o@yAwDqK{AwD_CqG[aAO}@e@uBK{@UqCCsA?{BLkCPiBZeC`@sBzAoGPgARyALiBBoBGkBWaCc@kCgAiEc@kAm@{AsCeFcBgDy@kBo@aAwAmCsEcJeAmB{@cBgBgDgBqDcNwWi@kAqBwEwB_G]eAg@uB_@mAWaAWwAg@wAYiAi@wCc@aDUyDGaFCeHGaB[}B[uA[gAeDeI_@mAk@aCWu@c@kASu@EKUOCSQ_@Om@Y[KQa@uAqB_GYkBScCOyDQsGW}EE{AKiAa@qCUqB{@eGUaCSyAo@gEo@mDQiCM}C?mCBuCL{EBKJKB[Cw@?g@Y{CeAmSQqBUgBe@yCy@eEs@aFuAwMYeDa@kDm@eDwAoFmAeFG]E}@My@g@wAk@iBU}@Gg@Q_@Gm@QUISoAwEcEwPi@aCkAuEkDcOuAqF_@mB@GDFCF?`@KSGi@Oo@w@aE_FyTmIca@s@}D]mCUuEMkK?u@@QJk@HUd@k@t@Wd@IZEx@GnDI`FYJCFGFKBM@a@i@_FMyAC_CImBOs@_AcCOq@KcADcA`@iEPaCj@uFRuAL[RUTS^Uh@Uh@QjFsBh@MVCFCDMASWa@{@cCmCqDOYcEmFOYG_@@ON[pAgBx@wA\\cARiAj@eFp@_IVwBTuAFyAxAsOTyBN}BxByU?aAAc@UsAuBiJuA}EOq@_A}Ew@sDE[JMrBU|@Wz@KjBOnFWV@",
+    "resource_state": 3,
+    "summary_polyline": "}bzvGm|{pAxAxIu`@kz@oU_T{w@cvA}Hw]kr@gjAeRse@oDak@pIs|@pQaIvDpDlJv@lXnYrPiAk@fCTeBwAYr@qB}N|CoVyXrFsVq@{[eD`@fGeIkDoC|DqJaC_CZyM}BoQdCwZhFcJsByKhCiJgBm|AsKcc@h@cNpFkIrZwQiA}~@nSgg@_SkRScGvDuSQg\\_FeT_Tua@ga@uCah@cLqWw_@sW{KiS}`@qY_xAxFd@gAwh@rCiH@mJ~Huf@bMgg@vBwViF{XyIis@o@gKfCmR{NazAgZ{\\{IqTdFeDrOwTxFuNhAwLvGuLjLsj@p@}g@rGe`@j_@e^fM{^tHolAGec@mJyRcGeFcAsGhBcI[cP~Dgx@uCsLcCkDwAkr@_DwScFaJ{BsNqDf@ZmIfFiAgJ{AuDuJrBerB`DqSmBcEiLgFgCwMzT_o@~Tsu@rHwv@fKuSi@aQrCeTKw^v@lHiABvBdAiA_@qAiPmHkPj@kWuGyPXyWiE{VtMs}@s@qf@hEu_@sBeo@iEka@`BoR]i`@cCvBvCwDGgb@wA}C`B}JiB{`@hL}XtHgGeRyAzG{GjB{LcCuUpCeElE]XuOcD{ItCyNpGuJlBmLqAiKdFyN[mMtE}Y`Fue@VuPYuI}HoYKwHaGgR|@{ImC_J`BqL_EeO}AiYxGkPb@aVpH}x@lJo]nTeg@lTcjAvIcX{D}Zb@mYtHu`@jOo`A`Bo[]vDUmAKkB`DEtEwFvAgS~X{_@hFgSiCcRB_OdBwEmCcGR{KkEyPL}H}EoGoAiSUmRrBqXoC{JkFkFmEgCpBm|@c@iEiJwMpDag@kBkGiK}BeLcQi@gR{VyTbDgV]mLaGuJoJ}UyFmb@gDeJ?iRqDgHoM{DuD_R_SkGmLdC_FkGgEpEaCdWeChC_@hLcAgN_CiC~CwGaAgKrB_JsGaHn@sV_O_W`@{NqBaJcD_GdG{c@mBqq@iEyU_Oa]sFyDc_@[m_@uMa\\sl@{NyzAkEuLiHuGskBob@oMi\\b@q]sCmKyGaDsRb@qG}GiKkYuSy@{DaC_CkM`JyNVkMoVq`@aHiXaDo]eYsg@cC}ICaLfB{IrQiRa@uNyk@mb@qb@yTkb@ya@p@hF~A}CqpAmxAs\\go@u{@y{Ba[edAKmN~E_[_AiNqz@ggBeH_[eAa\\uRmj@yBaa@oGef@RqX_BiXmIeq@ka@gbBoUejAKkVhSeDoDwZxB{UfN{GoMmTnEyJlKshAqJaf@lRmB"
+  },
+  "trainer": false,
+  "commute": false,
+  "manual": false,
+  "private": false,
+  "visibility": "everyone",
+  "flagged": false,
+  "gear_id": "b16337781",
+  "start_latlng": [
+    45.850231,
+    13.419117
+  ],
+  "end_latlng": [
+    46.027882,
+    14.495892
+  ],
+  "average_speed": 5.345,
+  "max_speed": 16.8,
+  "average_temp": 34,
+  "average_watts": 131.5,
+  "device_watts": false,
+  "kilojoules": 2710.5,
+  "has_heartrate": false,
+  "heartrate_opt_out": false,
+  "display_hide_heartrate_option": false,
+  "elev_high": 876.6,
+  "elev_low": 19.0,
+  "upload_id": 16008597233,
+  "upload_id_str": "16008597233",
+  "external_id": "2965c61b-5f83-4b73-9b12-0a382a1f3a7f.fit",
+  "from_accepted_tag": false,
+  "pr_count": 0,
+  "total_photo_count": 4,
+  "has_kudoed": false,
+  "description": "So far Slovenia has by far the best roads \ud83d\ude0d",
+  "calories": 3022.0,
+  "perceived_exertion": null,
+  "prefer_perceived_exertion": false,
+  "segment_efforts": [
+    {
+      "id": 3375899205124253520,
+      "resource_state": 2,
+      "name": "Ponte del Torre - Sme",
+      "activity": {
+        "id": 14996237135,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 1140,
+      "moving_time": 1140,
+      "start_date": "2025-07-03T06:24:53Z",
+      "start_date_local": "2025-07-03T08:24:53Z",
+      "distance": 6300.0,
+      "start_index": 59,
+      "end_index": 1199,
+      "device_watts": false,
+      "segment": {
+        "id": 7712693,
+        "resource_state": 2,
+        "name": "Ponte del Torre - Sme",
+        "activity_type": "Ride",
+        "distance": 6300.0,
+        "average_grade": 0.1,
+        "maximum_grade": 8.1,
+        "elevation_high": 30.0,
+        "elevation_low": 19.2,
+        "start_latlng": [
+          45.849401,
+          13.416941
+        ],
+        "end_latlng": [
+          45.880876,
+          13.479722
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Gorizia, Italy",
+        "state": "Friuli-Venezia Giulia",
+        "country": "Italy",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3375899205124616016,
+      "resource_state": 2,
+      "name": "Cavalcavia Villesse complete",
+      "activity": {
+        "id": 14996237135,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 128,
+      "moving_time": 128,
+      "start_date": "2025-07-03T06:27:47Z",
+      "start_date_local": "2025-07-03T08:27:47Z",
+      "distance": 719.6,
+      "start_index": 233,
+      "end_index": 361,
+      "device_watts": false,
+      "segment": {
+        "id": 17178179,
+        "resource_state": 2,
+        "name": "Cavalcavia Villesse complete",
+        "activity_type": "Ride",
+        "distance": 719.6,
+        "average_grade": 0.8,
+        "maximum_grade": 7.6,
+        "elevation_high": 18.0,
+        "elevation_low": 11.0,
+        "start_latlng": [
+          45.855012,
+          13.426606
+        ],
+        "end_latlng": [
+          45.860052,
+          13.432161
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Via Aquileia",
+        "state": "Friuli-Venezia Giulia",
+        "country": "Italy",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3375899205122092880,
+      "resource_state": 2,
+      "name": "Cavalcavia di Villesse",
+      "activity": {
+        "id": 14996237135,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 39,
+      "moving_time": 39,
+      "start_date": "2025-07-03T06:28:30Z",
+      "start_date_local": "2025-07-03T08:28:30Z",
+      "distance": 182.1,
+      "start_index": 276,
+      "end_index": 315,
+      "device_watts": false,
+      "segment": {
+        "id": 7427258,
+        "resource_state": 2,
+        "name": "Cavalcavia di Villesse",
+        "activity_type": "Ride",
+        "distance": 182.1,
+        "average_grade": 2.9,
+        "maximum_grade": 7.2,
+        "elevation_high": 17.4,
+        "elevation_low": 10.0,
+        "start_latlng": [
+          45.856629,
+          13.428352
+        ],
+        "end_latlng": [
+          45.858037,
+          13.429546
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Gorizia, Italy",
+        "state": "Friuli-Venezia Giulia",
+        "country": "Italy",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3375899205123897168,
+      "resource_state": 2,
+      "name": "Villesse - Gradisca",
+      "activity": {
+        "id": 14996237135,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 809,
+      "moving_time": 774,
+      "start_date": "2025-07-03T06:32:32Z",
+      "start_date_local": "2025-07-03T08:32:32Z",
+      "distance": 4038.8,
+      "start_index": 518,
+      "end_index": 1327,
+      "device_watts": false,
+      "segment": {
+        "id": 8610737,
+        "resource_state": 2,
+        "name": "Villesse - Gradisca",
+        "activity_type": "Ride",
+        "distance": 4038.8,
+        "average_grade": 0.2,
+        "maximum_grade": 1.9,
+        "elevation_high": 24.7,
+        "elevation_low": 14.0,
+        "start_latlng": [
+          45.865582,
+          13.440642
+        ],
+        "end_latlng": [
+          45.880221,
+          13.484164
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Villesse",
+        "state": "Friuli-Venezia Giulia",
+        "country": "Italy",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3375899205121002320,
+      "resource_state": 2,
+      "name": "trinvase",
+      "activity": {
+        "id": 14996237135,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 362,
+      "moving_time": 362,
+      "start_date": "2025-07-03T06:34:44Z",
+      "start_date_local": "2025-07-03T08:34:44Z",
+      "distance": 1992.4,
+      "start_index": 650,
+      "end_index": 1012,
+      "device_watts": false,
+      "segment": {
+        "id": 17245295,
+        "resource_state": 2,
+        "name": "trinvase",
+        "activity_type": "Ride",
+        "distance": 1992.4,
+        "average_grade": 0.1,
+        "maximum_grade": 6.1,
+        "elevation_high": 19.0,
+        "elevation_low": 15.8,
+        "start_latlng": [
+          45.86904,
+          13.448211
+        ],
+        "end_latlng": [
+          45.880816,
+          13.467419
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Villesse",
+        "state": "Friuli-Venezia Giulia",
+        "country": "Italy",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3375899205122307920,
+      "resource_state": 2,
+      "name": "Sagrado Sprint",
+      "activity": {
+        "id": 14996237135,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 1288,
+      "moving_time": 218,
+      "start_date": "2025-07-03T06:46:37Z",
+      "start_date_local": "2025-07-03T08:46:37Z",
+      "distance": 900.7,
+      "start_index": 1363,
+      "end_index": 2651,
+      "device_watts": false,
+      "segment": {
+        "id": 27367118,
+        "resource_state": 2,
+        "name": "Sagrado Sprint",
+        "activity_type": "Ride",
+        "distance": 900.7,
+        "average_grade": -0.5,
+        "maximum_grade": 1.8,
+        "elevation_high": 25.0,
+        "elevation_low": 19.8,
+        "start_latlng": [
+          45.878603,
+          13.485011
+        ],
+        "end_latlng": [
+          45.871265,
+          13.482016
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Sagrado",
+        "state": "Friuli-Venezia Giulia",
+        "country": "Italy",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3375899205124936528,
+      "resource_state": 2,
+      "name": "Strappo Sagrado-Fornace",
+      "activity": {
+        "id": 14996237135,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 267,
+      "moving_time": 266,
+      "start_date": "2025-07-03T07:33:16Z",
+      "start_date_local": "2025-07-03T09:33:16Z",
+      "distance": 739.8,
+      "start_index": 4162,
+      "end_index": 4429,
+      "device_watts": false,
+      "segment": {
+        "id": 4853017,
+        "resource_state": 2,
+        "name": "Strappo Sagrado-Fornace",
+        "activity_type": "Ride",
+        "distance": 739.8,
+        "average_grade": 4.6,
+        "maximum_grade": 16.3,
+        "elevation_high": 63.1,
+        "elevation_low": 20.9,
+        "start_latlng": [
+          45.873824,
+          13.485346
+        ],
+        "end_latlng": [
+          45.873695,
+          13.492881
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Gorizia, Italy",
+        "state": "Friuli-Venezia Giulia",
+        "country": "Italy",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3375899205122817872,
+      "resource_state": 2,
+      "name": "Salita Castelvecchio",
+      "activity": {
+        "id": 14996237135,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 560,
+      "moving_time": 559,
+      "start_date": "2025-07-03T07:34:00Z",
+      "start_date_local": "2025-07-03T09:34:00Z",
+      "distance": 1341.87,
+      "start_index": 4206,
+      "end_index": 4766,
+      "device_watts": false,
+      "segment": {
+        "id": 2564764,
+        "resource_state": 2,
+        "name": "Salita Castelvecchio",
+        "activity_type": "Ride",
+        "distance": 1341.87,
+        "average_grade": 7.0,
+        "maximum_grade": 16.5,
+        "elevation_high": 119.8,
+        "elevation_low": 24.0,
+        "start_latlng": [
+          45.87299887498007,
+          13.48756943613846
+        ],
+        "end_latlng": [
+          45.87293327292671,
+          13.50009698789653
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 1,
+        "city": "Fogliano Redipuglia",
+        "state": "Friuli-Venezia Giulia",
+        "country": "Italy",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3375899205122402128,
+      "resource_state": 2,
+      "name": "1.parte Castelvecchio ",
+      "activity": {
+        "id": 14996237135,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 244,
+      "moving_time": 243,
+      "start_date": "2025-07-03T07:34:41Z",
+      "start_date_local": "2025-07-03T09:34:41Z",
+      "distance": 502.8,
+      "start_index": 4247,
+      "end_index": 4491,
+      "device_watts": false,
+      "segment": {
+        "id": 36807044,
+        "resource_state": 2,
+        "name": "1.parte Castelvecchio ",
+        "activity_type": "Ride",
+        "distance": 502.8,
+        "average_grade": 8.9,
+        "maximum_grade": 18.0,
+        "elevation_high": 78.4,
+        "elevation_low": 33.4,
+        "start_latlng": [
+          45.872858,
+          13.489493
+        ],
+        "end_latlng": [
+          45.873152,
+          13.494033
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Sagrado",
+        "state": "Friuli-Venezia Giulia",
+        "country": "Italy",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3375899205124061008,
+      "resource_state": 2,
+      "name": "2. parte Castelvecchio",
+      "activity": {
+        "id": 14996237135,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 273,
+      "moving_time": 273,
+      "start_date": "2025-07-03T07:38:01Z",
+      "start_date_local": "2025-07-03T09:38:01Z",
+      "distance": 581.2,
+      "start_index": 4447,
+      "end_index": 4720,
+      "device_watts": false,
+      "segment": {
+        "id": 7776400,
+        "resource_state": 2,
+        "name": "2. parte Castelvecchio",
+        "activity_type": "Ride",
+        "distance": 581.2,
+        "average_grade": 8.8,
+        "maximum_grade": 17.1,
+        "elevation_high": 112.0,
+        "elevation_low": 60.7,
+        "start_latlng": [
+          45.87368,
+          13.49316
+        ],
+        "end_latlng": [
+          45.873,
+          13.49775
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Gorizia, Italy",
+        "state": "Friuli-Venezia Giulia",
+        "country": "Italy",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3375899205123924816,
+      "resource_state": 2,
+      "name": "Cannone - San Martino",
+      "activity": {
+        "id": 14996237135,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 1273,
+      "moving_time": 887,
+      "start_date": "2025-07-03T07:39:26Z",
+      "start_date_local": "2025-07-03T09:39:26Z",
+      "distance": 3385.3,
+      "start_index": 4532,
+      "end_index": 5805,
+      "device_watts": false,
+      "segment": {
+        "id": 18060837,
+        "resource_state": 2,
+        "name": "Cannone - San Martino",
+        "activity_type": "Ride",
+        "distance": 3385.3,
+        "average_grade": 2.2,
+        "maximum_grade": 15.0,
+        "elevation_high": 182.6,
+        "elevation_low": 95.2,
+        "start_latlng": [
+          45.872451,
+          13.49455
+        ],
+        "end_latlng": [
+          45.874112,
+          13.533656
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": null,
+        "state": "Friuli-Venezia Giulia",
+        "country": "Italy",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3375899205123817296,
+      "resource_state": 2,
+      "name": "falsa discesa",
+      "activity": {
+        "id": 14996237135,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 163,
+      "moving_time": 163,
+      "start_date": "2025-07-03T07:43:01Z",
+      "start_date_local": "2025-07-03T09:43:01Z",
+      "distance": 795.4,
+      "start_index": 4747,
+      "end_index": 4910,
+      "device_watts": false,
+      "segment": {
+        "id": 26261061,
+        "resource_state": 2,
+        "name": "falsa discesa",
+        "activity_type": "Ride",
+        "distance": 795.4,
+        "average_grade": 1.4,
+        "maximum_grade": 7.8,
+        "elevation_high": 127.6,
+        "elevation_low": 105.7,
+        "start_latlng": [
+          45.872847,
+          13.498824
+        ],
+        "end_latlng": [
+          45.872132,
+          13.507865
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": null,
+        "state": "Friuli-Venezia Giulia",
+        "country": "Italy",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3375899205123571536,
+      "resource_state": 2,
+      "name": "strappo delle trincee",
+      "activity": {
+        "id": 14996237135,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 271,
+      "moving_time": 271,
+      "start_date": "2025-07-03T07:46:13Z",
+      "start_date_local": "2025-07-03T09:46:13Z",
+      "distance": 765.5,
+      "start_index": 4939,
+      "end_index": 5210,
+      "device_watts": false,
+      "segment": {
+        "id": 9166142,
+        "resource_state": 2,
+        "name": "strappo delle trincee",
+        "activity_type": "Ride",
+        "distance": 765.5,
+        "average_grade": 4.8,
+        "maximum_grade": 10.0,
+        "elevation_high": 153.4,
+        "elevation_low": 116.4,
+        "start_latlng": [
+          45.871766,
+          13.508877
+        ],
+        "end_latlng": [
+          45.871873,
+          13.518167
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": null,
+        "state": "Friuli-Venezia Giulia",
+        "country": "Italy",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3375899205122337616,
+      "resource_state": 2,
+      "name": "San Martino \u2014\u2014-Marcottini ",
+      "activity": {
+        "id": 14996237135,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 261,
+      "moving_time": 261,
+      "start_date": "2025-07-03T08:00:46Z",
+      "start_date_local": "2025-07-03T10:00:46Z",
+      "distance": 2254.6,
+      "start_index": 5812,
+      "end_index": 6073,
+      "device_watts": false,
+      "segment": {
+        "id": 30446962,
+        "resource_state": 2,
+        "name": "San Martino \u2014\u2014-Marcottini ",
+        "activity_type": "Ride",
+        "distance": 2254.6,
+        "average_grade": -3.2,
+        "maximum_grade": 2.9,
+        "elevation_high": 159.6,
+        "elevation_low": 86.4,
+        "start_latlng": [
+          45.874069,
+          13.534214
+        ],
+        "end_latlng": [
+          45.865764,
+          13.55642
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "San Martino del Carso",
+        "state": "Friuli-Venezia Giulia",
+        "country": "Italy",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3375899205122945872,
+      "resource_state": 2,
+      "name": "Devetachi incrocio",
+      "activity": {
+        "id": 14996237135,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 99,
+      "moving_time": 99,
+      "start_date": "2025-07-03T08:06:28Z",
+      "start_date_local": "2025-07-03T10:06:28Z",
+      "distance": 639.0,
+      "start_index": 6154,
+      "end_index": 6253,
+      "device_watts": false,
+      "segment": {
+        "id": 35330431,
+        "resource_state": 2,
+        "name": "Devetachi incrocio",
+        "activity_type": "Ride",
+        "distance": 639.0,
+        "average_grade": -0.8,
+        "maximum_grade": 7.5,
+        "elevation_high": 61.8,
+        "elevation_low": 52.2,
+        "start_latlng": [
+          45.868682,
+          13.561853
+        ],
+        "end_latlng": [
+          45.867874,
+          13.569685
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Doberd\u00f2 del Lago / Doberdob",
+        "state": "Friuli-Venezia Giulia",
+        "country": "Italy",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3375899205124298576,
+      "resource_state": 2,
+      "name": "Vallone strappo finale Devetachi",
+      "activity": {
+        "id": 14996237135,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 215,
+      "moving_time": 215,
+      "start_date": "2025-07-03T08:08:38Z",
+      "start_date_local": "2025-07-03T10:08:38Z",
+      "distance": 780.1,
+      "start_index": 6284,
+      "end_index": 6499,
+      "device_watts": false,
+      "segment": {
+        "id": 13759524,
+        "resource_state": 2,
+        "name": "Vallone strappo finale Devetachi",
+        "activity_type": "Ride",
+        "distance": 780.1,
+        "average_grade": 2.5,
+        "maximum_grade": 7.0,
+        "elevation_high": 80.2,
+        "elevation_low": 60.6,
+        "start_latlng": [
+          45.868168,
+          13.570925
+        ],
+        "end_latlng": [
+          45.872296,
+          13.578957
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Devetachi",
+        "state": "Friuli-Venezia Giulia",
+        "country": "Italy",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3375899205123757904,
+      "resource_state": 2,
+      "name": "SS55 incr. Devetachi - incr. Gabria",
+      "activity": {
+        "id": 14996237135,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 147,
+      "moving_time": 147,
+      "start_date": "2025-07-03T08:12:41Z",
+      "start_date_local": "2025-07-03T10:12:41Z",
+      "distance": 1222.8,
+      "start_index": 6527,
+      "end_index": 6674,
+      "device_watts": false,
+      "segment": {
+        "id": 14694036,
+        "resource_state": 2,
+        "name": "SS55 incr. Devetachi - incr. Gabria",
+        "activity_type": "Ride",
+        "distance": 1222.8,
+        "average_grade": -3.0,
+        "maximum_grade": -0.7,
+        "elevation_high": 65.2,
+        "elevation_low": 28.2,
+        "start_latlng": [
+          45.873237,
+          13.579402
+        ],
+        "end_latlng": [
+          45.883885,
+          13.581555
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": null,
+        "state": null,
+        "country": null,
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3375899205121206096,
+      "resource_state": 2,
+      "name": "Devetaki - Miren",
+      "activity": {
+        "id": 14996237135,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 537,
+      "moving_time": 537,
+      "start_date": "2025-07-03T08:12:57Z",
+      "start_date_local": "2025-07-03T10:12:57Z",
+      "distance": 3941.6,
+      "start_index": 6543,
+      "end_index": 7080,
+      "device_watts": false,
+      "segment": {
+        "id": 13328103,
+        "resource_state": 2,
+        "name": "Devetaki - Miren",
+        "activity_type": "Ride",
+        "distance": 3941.6,
+        "average_grade": -0.7,
+        "maximum_grade": 2.2,
+        "elevation_high": 126.2,
+        "elevation_low": 87.0,
+        "start_latlng": [
+          45.87411,
+          13.57963
+        ],
+        "end_latlng": [
+          45.899449,
+          13.608278
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": null,
+        "state": "Friuli-Venezia Giulia",
+        "country": "Italy",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3375899205122902864,
+      "resource_state": 2,
+      "name": "Sprint Rusjan",
+      "activity": {
+        "id": 14996237135,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 174,
+      "moving_time": 174,
+      "start_date": "2025-07-03T08:18:25Z",
+      "start_date_local": "2025-07-03T10:18:25Z",
+      "distance": 1145.7,
+      "start_index": 6871,
+      "end_index": 7045,
+      "device_watts": false,
+      "segment": {
+        "id": 15704753,
+        "resource_state": 2,
+        "name": "Sprint Rusjan",
+        "activity_type": "Ride",
+        "distance": 1145.7,
+        "average_grade": 0.4,
+        "maximum_grade": 1.7,
+        "elevation_high": 54.0,
+        "elevation_low": 44.1,
+        "start_latlng": [
+          45.894105,
+          13.592182
+        ],
+        "end_latlng": [
+          45.898579,
+          13.605399
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Rupa",
+        "state": "Friuli-Venezia Giulia",
+        "country": "Italy",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3375899205122356048,
+      "resource_state": 2,
+      "name": "Orehovlje Punch",
+      "activity": {
+        "id": 14996237135,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 114,
+      "moving_time": 114,
+      "start_date": "2025-07-03T08:24:31Z",
+      "start_date_local": "2025-07-03T10:24:31Z",
+      "distance": 677.3,
+      "start_index": 7237,
+      "end_index": 7351,
+      "device_watts": false,
+      "segment": {
+        "id": 36829049,
+        "resource_state": 2,
+        "name": "Orehovlje Punch",
+        "activity_type": "Ride",
+        "distance": 677.3,
+        "average_grade": 0.8,
+        "maximum_grade": 4.0,
+        "elevation_high": 54.6,
+        "elevation_low": 44.8,
+        "start_latlng": [
+          45.898672,
+          13.615659
+        ],
+        "end_latlng": [
+          45.896696,
+          13.623686
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Miren-Kostanjevica",
+        "state": null,
+        "country": "Slovenia",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3375899205123055440,
+      "resource_state": 2,
+      "name": "Orehovlje sprint",
+      "activity": {
+        "id": 14996237135,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 178,
+      "moving_time": 178,
+      "start_date": "2025-07-03T08:24:51Z",
+      "start_date_local": "2025-07-03T10:24:51Z",
+      "distance": 1082.6,
+      "start_index": 7257,
+      "end_index": 7435,
+      "device_watts": false,
+      "segment": {
+        "id": 9071186,
+        "resource_state": 2,
+        "name": "Orehovlje sprint",
+        "activity_type": "Ride",
+        "distance": 1082.6,
+        "average_grade": 0.6,
+        "maximum_grade": 3.8,
+        "elevation_high": 79.6,
+        "elevation_low": 69.1,
+        "start_latlng": [
+          45.898103,
+          13.617243
+        ],
+        "end_latlng": [
+          45.894716,
+          13.630127
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Miren",
+        "state": "Nova Gorica",
+        "country": "Slovenia",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3375899205122339664,
+      "resource_state": 2,
+      "name": "bilje krozno-kogoj",
+      "activity": {
+        "id": 14996237135,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 273,
+      "moving_time": 273,
+      "start_date": "2025-07-03T08:26:39Z",
+      "start_date_local": "2025-07-03T10:26:39Z",
+      "distance": 1737.4,
+      "start_index": 7365,
+      "end_index": 7638,
+      "device_watts": false,
+      "segment": {
+        "id": 23055399,
+        "resource_state": 2,
+        "name": "bilje krozno-kogoj",
+        "activity_type": "Ride",
+        "distance": 1737.4,
+        "average_grade": -0.2,
+        "maximum_grade": 1.6,
+        "elevation_high": 30.0,
+        "elevation_low": 21.2,
+        "start_latlng": [
+          45.89654,
+          13.624697
+        ],
+        "end_latlng": [
+          45.896,
+          13.645393
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Ren\u010de",
+        "state": "Nova Gorica",
+        "country": "Slovenia",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3375899205123202896,
+      "resource_state": 2,
+      "name": "Novo kro\u017eno do odcep Ren\u010de",
+      "activity": {
+        "id": 14996237135,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 535,
+      "moving_time": 535,
+      "start_date": "2025-07-03T08:26:50Z",
+      "start_date_local": "2025-07-03T10:26:50Z",
+      "distance": 3375.8,
+      "start_index": 7376,
+      "end_index": 7911,
+      "device_watts": false,
+      "segment": {
+        "id": 21632037,
+        "resource_state": 2,
+        "name": "Novo kro\u017eno do odcep Ren\u010de",
+        "activity_type": "Ride",
+        "distance": 3375.8,
+        "average_grade": -0.1,
+        "maximum_grade": 5.8,
+        "elevation_high": 63.6,
+        "elevation_low": 53.5,
+        "start_latlng": [
+          45.896291,
+          13.625502
+        ],
+        "end_latlng": [
+          45.898529,
+          13.666758
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Ren\u010de",
+        "state": "Nova Gorica",
+        "country": "Slovenia",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3375899205122284368,
+      "resource_state": 2,
+      "name": "Bilje-Vol\u010dja draga",
+      "activity": {
+        "id": 14996237135,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 372,
+      "moving_time": 372,
+      "start_date": "2025-07-03T08:32:28Z",
+      "start_date_local": "2025-07-03T10:32:28Z",
+      "distance": 2346.4,
+      "start_index": 7714,
+      "end_index": 8086,
+      "device_watts": false,
+      "segment": {
+        "id": 16299064,
+        "resource_state": 2,
+        "name": "Bilje-Vol\u010dja draga",
+        "activity_type": "Ride",
+        "distance": 2346.4,
+        "average_grade": 0.0,
+        "maximum_grade": 19.2,
+        "elevation_high": 61.0,
+        "elevation_low": 49.0,
+        "start_latlng": [
+          45.89645,
+          13.650542
+        ],
+        "end_latlng": [
+          45.904506,
+          13.675264
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Bilje",
+        "state": "Nova Gorica",
+        "country": "Slovenia",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3375899205121306448,
+      "resource_state": 2,
+      "name": "Dombrava - Dornberk",
+      "activity": {
+        "id": 14996237135,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 1952,
+      "moving_time": 638,
+      "start_date": "2025-07-03T08:40:33Z",
+      "start_date_local": "2025-07-03T10:40:33Z",
+      "distance": 4184.3,
+      "start_index": 8199,
+      "end_index": 10151,
+      "device_watts": false,
+      "segment": {
+        "id": 26413201,
+        "resource_state": 2,
+        "name": "Dombrava - Dornberk",
+        "activity_type": "Ride",
+        "distance": 4184.3,
+        "average_grade": 0.2,
+        "maximum_grade": 12.3,
+        "elevation_high": 59.4,
+        "elevation_low": 46.0,
+        "start_latlng": [
+          45.900296,
+          13.681383
+        ],
+        "end_latlng": [
+          45.885178,
+          13.72766
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Vol\u010dja Draga",
+        "state": "Nova Gorica",
+        "country": "Slovenia",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3375899205123080016,
+      "resource_state": 2,
+      "name": "Zalo\u0161\u010de",
+      "activity": {
+        "id": 14996237135,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 131,
+      "moving_time": 131,
+      "start_date": "2025-07-03T09:16:55Z",
+      "start_date_local": "2025-07-03T11:16:55Z",
+      "distance": 544.58,
+      "start_index": 10381,
+      "end_index": 10512,
+      "device_watts": false,
+      "segment": {
+        "id": 3485446,
+        "resource_state": 2,
+        "name": "Zalo\u0161\u010de",
+        "activity_type": "Ride",
+        "distance": 544.58,
+        "average_grade": 6.1,
+        "maximum_grade": 10.6,
+        "elevation_high": 94.2,
+        "elevation_low": 61.0,
+        "start_latlng": [
+          45.88825676590204,
+          13.74396094121039
+        ],
+        "end_latlng": [
+          45.887584118172526,
+          13.750579040497541
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Dornberk",
+        "state": "Nova Gorica",
+        "country": "Slovenia",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3375899205123017552,
+      "resource_state": 2,
+      "name": "Batujske rajde-Selo",
+      "activity": {
+        "id": 14996237135,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 577,
+      "moving_time": 577,
+      "start_date": "2025-07-03T09:23:51Z",
+      "start_date_local": "2025-07-03T11:23:51Z",
+      "distance": 2022.2,
+      "start_index": 10797,
+      "end_index": 11374,
+      "device_watts": false,
+      "segment": {
+        "id": 4342930,
+        "resource_state": 2,
+        "name": "Batujske rajde-Selo",
+        "activity_type": "Ride",
+        "distance": 2022.2,
+        "average_grade": 3.1,
+        "maximum_grade": 10.2,
+        "elevation_high": 108.4,
+        "elevation_low": 44.8,
+        "start_latlng": [
+          45.891572,
+          13.771467
+        ],
+        "end_latlng": [
+          45.893473,
+          13.790792
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Batuje",
+        "state": "Ajdov\u0161\u010dina",
+        "country": "Slovenia",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3375899205121512272,
+      "resource_state": 2,
+      "name": "Batujske rajde",
+      "activity": {
+        "id": 14996237135,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 232,
+      "moving_time": 232,
+      "start_date": "2025-07-03T09:24:09Z",
+      "start_date_local": "2025-07-03T11:24:09Z",
+      "distance": 614.0,
+      "start_index": 10815,
+      "end_index": 11047,
+      "device_watts": false,
+      "segment": {
+        "id": 7663789,
+        "resource_state": 2,
+        "name": "Batujske rajde",
+        "activity_type": "Ride",
+        "distance": 614.0,
+        "average_grade": 3.9,
+        "maximum_grade": 11.2,
+        "elevation_high": 110.3,
+        "elevation_low": 85.8,
+        "start_latlng": [
+          45.89182,
+          13.772176
+        ],
+        "end_latlng": [
+          45.893109,
+          13.774327
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Batuje",
+        "state": "Ajdov\u0161\u010dina",
+        "country": "Slovenia",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3375899205121357648,
+      "resource_state": 2,
+      "name": "Vrtovin \u0161print",
+      "activity": {
+        "id": 14996237135,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 44,
+      "moving_time": 44,
+      "start_date": "2025-07-03T09:36:50Z",
+      "start_date_local": "2025-07-03T11:36:50Z",
+      "distance": 287.2,
+      "start_index": 11576,
+      "end_index": 11620,
+      "device_watts": false,
+      "segment": {
+        "id": 7257562,
+        "resource_state": 2,
+        "name": "Vrtovin \u0161print",
+        "activity_type": "Ride",
+        "distance": 287.2,
+        "average_grade": 3.3,
+        "maximum_grade": 6.1,
+        "elevation_high": 124.6,
+        "elevation_low": 115.2,
+        "start_latlng": [
+          45.894331,
+          13.80584
+        ],
+        "end_latlng": [
+          45.892904,
+          13.808954
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Vrtovin",
+        "state": "Ajdov\u0161\u010dina",
+        "country": "Slovenia",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3375899205121545040,
+      "resource_state": 2,
+      "name": "Poto\u010de sprint",
+      "activity": {
+        "id": 14996237135,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 70,
+      "moving_time": 70,
+      "start_date": "2025-07-03T09:40:51Z",
+      "start_date_local": "2025-07-03T11:40:51Z",
+      "distance": 623.8,
+      "start_index": 11817,
+      "end_index": 11887,
+      "device_watts": false,
+      "segment": {
+        "id": 28389999,
+        "resource_state": 2,
+        "name": "Poto\u010de sprint",
+        "activity_type": "Ride",
+        "distance": 623.8,
+        "average_grade": -1.7,
+        "maximum_grade": 0.4,
+        "elevation_high": 114.6,
+        "elevation_low": 103.7,
+        "start_latlng": [
+          45.888165,
+          13.823187
+        ],
+        "end_latlng": [
+          45.885733,
+          13.830025
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Dobravlje",
+        "state": "Ajdov\u0161\u010dina",
+        "country": "Slovenia",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3375899205123963728,
+      "resource_state": 2,
+      "name": "Dobravlje sprint",
+      "activity": {
+        "id": 14996237135,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 85,
+      "moving_time": 85,
+      "start_date": "2025-07-03T09:42:30Z",
+      "start_date_local": "2025-07-03T11:42:30Z",
+      "distance": 390.0,
+      "start_index": 11916,
+      "end_index": 12001,
+      "device_watts": false,
+      "segment": {
+        "id": 26151565,
+        "resource_state": 2,
+        "name": "Dobravlje sprint",
+        "activity_type": "Ride",
+        "distance": 390.0,
+        "average_grade": 2.6,
+        "maximum_grade": 5.7,
+        "elevation_high": 99.8,
+        "elevation_low": 89.6,
+        "start_latlng": [
+          45.885517,
+          13.832608
+        ],
+        "end_latlng": [
+          45.884908,
+          13.837419
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Dobravlje",
+        "state": "Ajdov\u0161\u010dina",
+        "country": "Slovenia",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3375899205123945296,
+      "resource_state": 2,
+      "name": "Dobravlje- letali\u0161\u010de Ajd.",
+      "activity": {
+        "id": 14996237135,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 663,
+      "moving_time": 663,
+      "start_date": "2025-07-03T10:07:27Z",
+      "start_date_local": "2025-07-03T12:07:27Z",
+      "distance": 4099.1,
+      "start_index": 13413,
+      "end_index": 14076,
+      "device_watts": false,
+      "segment": {
+        "id": 11050342,
+        "resource_state": 2,
+        "name": "Dobravlje- letali\u0161\u010de Ajd.",
+        "activity_type": "Ride",
+        "distance": 4099.1,
+        "average_grade": -0.0,
+        "maximum_grade": 2.9,
+        "elevation_high": 113.8,
+        "elevation_low": 98.6,
+        "start_latlng": [
+          45.884806,
+          13.841165
+        ],
+        "end_latlng": [
+          45.886604,
+          13.891159
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Dobravlje",
+        "state": "Upravna enota Ajdov\u0161\u010dina",
+        "country": "Slovenia",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3375899205121610576,
+      "resource_state": 2,
+      "name": "Cesta sprint",
+      "activity": {
+        "id": 14996237135,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 101,
+      "moving_time": 101,
+      "start_date": "2025-07-03T10:12:09Z",
+      "start_date_local": "2025-07-03T12:12:09Z",
+      "distance": 591.0,
+      "start_index": 13695,
+      "end_index": 13796,
+      "device_watts": false,
+      "segment": {
+        "id": 28390044,
+        "resource_state": 2,
+        "name": "Cesta sprint",
+        "activity_type": "Ride",
+        "distance": 591.0,
+        "average_grade": 0.1,
+        "maximum_grade": 1.6,
+        "elevation_high": 124.7,
+        "elevation_low": 121.2,
+        "start_latlng": [
+          45.888574,
+          13.859448
+        ],
+        "end_latlng": [
+          45.887371,
+          13.866653
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Ajdov\u0161\u010dina",
+        "state": "Ajdov\u0161\u010dina",
+        "country": "Slovenia",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3375899205124725584,
+      "resource_state": 2,
+      "name": "Ajdovski sprint",
+      "activity": {
+        "id": 14996237135,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 266,
+      "moving_time": 266,
+      "start_date": "2025-07-03T10:13:43Z",
+      "start_date_local": "2025-07-03T12:13:43Z",
+      "distance": 1872.4,
+      "start_index": 13789,
+      "end_index": 14055,
+      "device_watts": false,
+      "segment": {
+        "id": 9135197,
+        "resource_state": 2,
+        "name": "Ajdovski sprint",
+        "activity_type": "Ride",
+        "distance": 1872.4,
+        "average_grade": -0.6,
+        "maximum_grade": 0.3,
+        "elevation_high": 113.2,
+        "elevation_low": 101.3,
+        "start_latlng": [
+          45.887535,
+          13.866105
+        ],
+        "end_latlng": [
+          45.886307,
+          13.889607
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Cesta",
+        "state": "Ajdov\u0161\u010dina",
+        "country": "Slovenia",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3375899205121912656,
+      "resource_state": 2,
+      "name": "Ajdovscina Col",
+      "activity": {
+        "id": 14996237135,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 3333,
+      "moving_time": 3333,
+      "start_date": "2025-07-03T10:56:44Z",
+      "start_date_local": "2025-07-03T12:56:44Z",
+      "distance": 8031.37,
+      "start_index": 16370,
+      "end_index": 19703,
+      "device_watts": false,
+      "segment": {
+        "id": 1656632,
+        "resource_state": 2,
+        "name": "Ajdovscina Col",
+        "activity_type": "Ride",
+        "distance": 8031.37,
+        "average_grade": 6.0,
+        "maximum_grade": 16.4,
+        "elevation_high": 583.8,
+        "elevation_low": 101.2,
+        "start_latlng": [
+          45.886910213157535,
+          13.912289254367352
+        ],
+        "end_latlng": [
+          45.88093710131943,
+          13.998592933639884
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 3,
+        "city": "Ajdov\u0161\u010dina",
+        "state": "Ajdov\u0161cina",
+        "country": "Slovenia",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3375899205124005712,
+      "resource_state": 2,
+      "name": "TEST 1MIN",
+      "activity": {
+        "id": 14996237135,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 170,
+      "moving_time": 170,
+      "start_date": "2025-07-03T10:57:11Z",
+      "start_date_local": "2025-07-03T12:57:11Z",
+      "distance": 405.8,
+      "start_index": 16397,
+      "end_index": 16567,
+      "device_watts": false,
+      "segment": {
+        "id": 19462076,
+        "resource_state": 2,
+        "name": "TEST 1MIN",
+        "activity_type": "Ride",
+        "distance": 405.8,
+        "average_grade": 7.9,
+        "maximum_grade": 19.0,
+        "elevation_high": 141.0,
+        "elevation_low": 109.0,
+        "start_latlng": [
+          45.886947,
+          13.913573
+        ],
+        "end_latlng": [
+          45.887095,
+          13.9186
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Ajdov\u0161\u010dina",
+        "state": "Ajdov\u0161\u010dina",
+        "country": "Slovenia",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3375899205121507152,
+      "resource_state": 2,
+      "name": "TEST 5MIN",
+      "activity": {
+        "id": 14996237135,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 657,
+      "moving_time": 657,
+      "start_date": "2025-07-03T10:57:11Z",
+      "start_date_local": "2025-07-03T12:57:11Z",
+      "distance": 1467.9,
+      "start_index": 16397,
+      "end_index": 17054,
+      "device_watts": false,
+      "segment": {
+        "id": 19462114,
+        "resource_state": 2,
+        "name": "TEST 5MIN",
+        "activity_type": "Ride",
+        "distance": 1467.9,
+        "average_grade": 8.0,
+        "maximum_grade": 27.0,
+        "elevation_high": 226.9,
+        "elevation_low": 109.0,
+        "start_latlng": [
+          45.886947,
+          13.913573
+        ],
+        "end_latlng": [
+          45.88569,
+          13.924995
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 1,
+        "city": "Ajdov\u0161\u010dina",
+        "state": "Ajdov\u0161\u010dina",
+        "country": "Slovenia",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3375899205122143056,
+      "resource_state": 2,
+      "name": "1st segment",
+      "activity": {
+        "id": 14996237135,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 1471,
+      "moving_time": 1471,
+      "start_date": "2025-07-03T10:57:17Z",
+      "start_date_local": "2025-07-03T12:57:17Z",
+      "distance": 3383.0,
+      "start_index": 16403,
+      "end_index": 17874,
+      "device_watts": false,
+      "segment": {
+        "id": 12275172,
+        "resource_state": 2,
+        "name": "1st segment",
+        "activity_type": "Ride",
+        "distance": 3383.0,
+        "average_grade": 6.5,
+        "maximum_grade": 10.5,
+        "elevation_high": 354.0,
+        "elevation_low": 135.0,
+        "start_latlng": [
+          45.886978,
+          13.913792
+        ],
+        "end_latlng": [
+          45.88212,
+          13.945268
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 2,
+        "city": "Ajdov\u0161\u010dina",
+        "state": "Upravna enota Ajdov\u0161\u010dina",
+        "country": "Slovenia",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3375899193414410250,
+      "resource_state": 2,
+      "name": "Ajdov\u0161\u010dina - Col 2",
+      "activity": {
+        "id": 14996237135,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 11193,
+      "moving_time": 5775,
+      "start_date": "2025-07-03T10:59:43Z",
+      "start_date_local": "2025-07-03T12:59:43Z",
+      "distance": 17628.4,
+      "start_index": 16549,
+      "end_index": 27742,
+      "device_watts": false,
+      "segment": {
+        "id": 8316746,
+        "resource_state": 2,
+        "name": "Ajdov\u0161\u010dina - Col 2",
+        "activity_type": "Ride",
+        "distance": 17628.4,
+        "average_grade": 4.2,
+        "maximum_grade": 32.7,
+        "elevation_high": 888.9,
+        "elevation_low": 140.0,
+        "start_latlng": [
+          45.887318,
+          13.918214
+        ],
+        "end_latlng": [
+          45.86385,
+          14.109777
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 4,
+        "city": "Ajdov\u0161\u010dina",
+        "state": "Ajdov\u0161\u010dina",
+        "country": "Slovenia",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3375899205123215184,
+      "resource_state": 2,
+      "name": "Col 1.8km @",
+      "activity": {
+        "id": 14996237135,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 754,
+      "moving_time": 754,
+      "start_date": "2025-07-03T11:00:26Z",
+      "start_date_local": "2025-07-03T13:00:26Z",
+      "distance": 1721.0,
+      "start_index": 16592,
+      "end_index": 17346,
+      "device_watts": false,
+      "segment": {
+        "id": 22827492,
+        "resource_state": 2,
+        "name": "Col 1.8km @",
+        "activity_type": "Ride",
+        "distance": 1721.0,
+        "average_grade": 6.6,
+        "maximum_grade": 12.8,
+        "elevation_high": 269.6,
+        "elevation_low": 155.2,
+        "start_latlng": [
+          45.886796,
+          13.919096
+        ],
+        "end_latlng": [
+          45.88404,
+          13.932153
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 1,
+        "city": "Ajdov\u0161\u010dina",
+        "state": "Ajdov\u0161\u010dina",
+        "country": "Slovenia",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3375899205122529104,
+      "resource_state": 2,
+      "name": "A Climb",
+      "activity": {
+        "id": 14996237135,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 727,
+      "moving_time": 727,
+      "start_date": "2025-07-03T11:39:51Z",
+      "start_date_local": "2025-07-03T13:39:51Z",
+      "distance": 1841.05,
+      "start_index": 18957,
+      "end_index": 19684,
+      "device_watts": false,
+      "segment": {
+        "id": 1646081,
+        "resource_state": 2,
+        "name": "A Climb",
+        "activity_type": "Ride",
+        "distance": 1841.05,
+        "average_grade": 6.3,
+        "maximum_grade": 24.6,
+        "elevation_high": 591.1,
+        "elevation_low": 475.3,
+        "start_latlng": [
+          45.88147393751996,
+          13.975858938654765
+        ],
+        "end_latlng": [
+          45.881017921427734,
+          13.997740324529598
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 1,
+        "city": "Vipava",
+        "state": "Vipava",
+        "country": "Slovenia",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3375899205118709584,
+      "resource_state": 2,
+      "name": "Col-Vi\u0161nje gor...",
+      "activity": {
+        "id": 14996237135,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 645,
+      "moving_time": 645,
+      "start_date": "2025-07-03T11:54:15Z",
+      "start_date_local": "2025-07-03T13:54:15Z",
+      "distance": 1544.6,
+      "start_index": 19821,
+      "end_index": 20466,
+      "device_watts": false,
+      "segment": {
+        "id": 24541684,
+        "resource_state": 2,
+        "name": "Col-Vi\u0161nje gor...",
+        "activity_type": "Ride",
+        "distance": 1544.6,
+        "average_grade": 7.3,
+        "maximum_grade": 13.7,
+        "elevation_high": 736.8,
+        "elevation_low": 624.4,
+        "start_latlng": [
+          45.878779,
+          14.006038
+        ],
+        "end_latlng": [
+          45.871903,
+          14.023214
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 1,
+        "city": "Col",
+        "state": "Ajdov\u0161\u010dina",
+        "country": "Slovenia",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3375899193412256778,
+      "resource_state": 2,
+      "name": "Stara po\u0161ta-Kalce",
+      "activity": {
+        "id": 14996237135,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 1428,
+      "moving_time": 1028,
+      "start_date": "2025-07-03T14:06:48Z",
+      "start_date_local": "2025-07-03T16:06:48Z",
+      "distance": 9643.4,
+      "start_index": 27774,
+      "end_index": 29202,
+      "device_watts": false,
+      "segment": {
+        "id": 24050315,
+        "resource_state": 2,
+        "name": "Stara po\u0161ta-Kalce",
+        "activity_type": "Ride",
+        "distance": 9643.4,
+        "average_grade": -3.9,
+        "maximum_grade": 9.5,
+        "elevation_high": 867.8,
+        "elevation_low": 490.8,
+        "start_latlng": [
+          45.863549,
+          14.111721
+        ],
+        "end_latlng": [
+          45.89471,
+          14.188187
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Col",
+        "state": "Ajdov\u0161\u010dina",
+        "country": "Slovenia",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3375899193414364170,
+      "resource_state": 2,
+      "name": "Kalce Full Down",
+      "activity": {
+        "id": 14996237135,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 778,
+      "moving_time": 378,
+      "start_date": "2025-07-03T14:15:15Z",
+      "start_date_local": "2025-07-03T16:15:15Z",
+      "distance": 4237.7,
+      "start_index": 28281,
+      "end_index": 29059,
+      "device_watts": false,
+      "segment": {
+        "id": 10427128,
+        "resource_state": 2,
+        "name": "Kalce Full Down",
+        "activity_type": "Ride",
+        "distance": 4237.7,
+        "average_grade": -6.0,
+        "maximum_grade": 3.0,
+        "elevation_high": 686.6,
+        "elevation_low": 433.8,
+        "start_latlng": [
+          45.877878,
+          14.154719
+        ],
+        "end_latlng": [
+          45.894526,
+          14.174934
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Kalce",
+        "state": "Logatec",
+        "country": "Slovenia",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3375899193410845706,
+      "resource_state": 2,
+      "name": "Kalce-Mol",
+      "activity": {
+        "id": 14996237135,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 401,
+      "moving_time": 401,
+      "start_date": "2025-07-03T14:31:08Z",
+      "start_date_local": "2025-07-03T16:31:08Z",
+      "distance": 3393.4,
+      "start_index": 29234,
+      "end_index": 29635,
+      "device_watts": false,
+      "segment": {
+        "id": 14908479,
+        "resource_state": 2,
+        "name": "Kalce-Mol",
+        "activity_type": "Ride",
+        "distance": 3393.4,
+        "average_grade": -0.5,
+        "maximum_grade": 7.4,
+        "elevation_high": 501.9,
+        "elevation_low": 476.8,
+        "start_latlng": [
+          45.895007,
+          14.191475
+        ],
+        "end_latlng": [
+          45.915928,
+          14.216884
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Kalce",
+        "state": "Logatec",
+        "country": "Slovenia",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3375899193412296714,
+      "resource_state": 2,
+      "name": "Logatec drevored",
+      "activity": {
+        "id": 14996237135,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 231,
+      "moving_time": 231,
+      "start_date": "2025-07-03T14:39:42Z",
+      "start_date_local": "2025-07-03T16:39:42Z",
+      "distance": 1935.3,
+      "start_index": 29748,
+      "end_index": 29979,
+      "device_watts": false,
+      "segment": {
+        "id": 4854115,
+        "resource_state": 2,
+        "name": "Logatec drevored",
+        "activity_type": "Ride",
+        "distance": 1935.3,
+        "average_grade": -0.4,
+        "maximum_grade": 0.8,
+        "elevation_high": 478.0,
+        "elevation_low": 467.9,
+        "start_latlng": [
+          45.919725,
+          14.228795
+        ],
+        "end_latlng": [
+          45.936707,
+          14.234278
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Logatec",
+        "state": "Logatec",
+        "country": "Slovenia",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3375899193412212746,
+      "resource_state": 2,
+      "name": "Logatec - Vrhnika",
+      "activity": {
+        "id": 14996237135,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 879,
+      "moving_time": 879,
+      "start_date": "2025-07-03T14:39:47Z",
+      "start_date_local": "2025-07-03T16:39:47Z",
+      "distance": 8390.48,
+      "start_index": 29753,
+      "end_index": 30632,
+      "device_watts": false,
+      "segment": {
+        "id": 2348359,
+        "resource_state": 2,
+        "name": "Logatec - Vrhnika",
+        "activity_type": "Ride",
+        "distance": 8390.48,
+        "average_grade": -2.2,
+        "maximum_grade": 4.1,
+        "elevation_high": 493.8,
+        "elevation_low": 290.5,
+        "start_latlng": [
+          45.9200837,
+          14.2289854
+        ],
+        "end_latlng": [
+          45.9586947,
+          14.2927831
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Logatec",
+        "state": "Logatec",
+        "country": "Slovenia",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3375899193412753418,
+      "resource_state": 2,
+      "name": "Logatec do odcepa za Strmico",
+      "activity": {
+        "id": 14996237135,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 456,
+      "moving_time": 456,
+      "start_date": "2025-07-03T14:39:49Z",
+      "start_date_local": "2025-07-03T16:39:49Z",
+      "distance": 3512.6,
+      "start_index": 29755,
+      "end_index": 30211,
+      "device_watts": false,
+      "segment": {
+        "id": 4854123,
+        "resource_state": 2,
+        "name": "Logatec do odcepa za Strmico",
+        "activity_type": "Ride",
+        "distance": 3512.6,
+        "average_grade": 0.1,
+        "maximum_grade": 4.6,
+        "elevation_high": 496.8,
+        "elevation_low": 467.9,
+        "start_latlng": [
+          45.920248,
+          14.228986
+        ],
+        "end_latlng": [
+          45.944928,
+          14.246991
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Logatec",
+        "state": "Logatec",
+        "country": "Slovenia",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3375899193411536906,
+      "resource_state": 2,
+      "name": "Na pas mater",
+      "activity": {
+        "id": 14996237135,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 192,
+      "moving_time": 192,
+      "start_date": "2025-07-03T14:44:11Z",
+      "start_date_local": "2025-07-03T16:44:11Z",
+      "distance": 1348.0,
+      "start_index": 30017,
+      "end_index": 30209,
+      "device_watts": false,
+      "segment": {
+        "id": 34128279,
+        "resource_state": 2,
+        "name": "Na pas mater",
+        "activity_type": "Ride",
+        "distance": 1348.0,
+        "average_grade": 0.8,
+        "maximum_grade": 3.0,
+        "elevation_high": 518.2,
+        "elevation_low": 504.6,
+        "start_latlng": [
+          45.938454,
+          14.236505
+        ],
+        "end_latlng": [
+          45.94474,
+          14.246899
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Logatec",
+        "state": null,
+        "country": "Slovenia",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3375899193412409354,
+      "resource_state": 2,
+      "name": "Vrhniski klanec",
+      "activity": {
+        "id": 14996237135,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 424,
+      "moving_time": 424,
+      "start_date": "2025-07-03T14:47:39Z",
+      "start_date_local": "2025-07-03T16:47:39Z",
+      "distance": 4855.3,
+      "start_index": 30225,
+      "end_index": 30649,
+      "device_watts": false,
+      "segment": {
+        "id": 23662318,
+        "resource_state": 2,
+        "name": "Vrhniski klanec",
+        "activity_type": "Ride",
+        "distance": 4855.3,
+        "average_grade": -3.7,
+        "maximum_grade": 0.2,
+        "elevation_high": 455.6,
+        "elevation_low": 274.4,
+        "start_latlng": [
+          45.945866,
+          14.24809
+        ],
+        "end_latlng": [
+          45.959956,
+          14.293838
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Vrhnika",
+        "state": "Vrhnika",
+        "country": "Slovenia",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3375899193411207178,
+      "resource_state": 2,
+      "name": "Vrhni\u0161ki klanec - od kock navzdol",
+      "activity": {
+        "id": 14996237135,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 154,
+      "moving_time": 154,
+      "start_date": "2025-07-03T14:52:04Z",
+      "start_date_local": "2025-07-03T16:52:04Z",
+      "distance": 1939.9,
+      "start_index": 30490,
+      "end_index": 30644,
+      "device_watts": false,
+      "segment": {
+        "id": 15583908,
+        "resource_state": 2,
+        "name": "Vrhni\u0161ki klanec - od kock navzdol",
+        "activity_type": "Ride",
+        "distance": 1939.9,
+        "average_grade": -4.2,
+        "maximum_grade": -0.9,
+        "elevation_high": 350.8,
+        "elevation_low": 269.4,
+        "start_latlng": [
+          45.956856,
+          14.274356
+        ],
+        "end_latlng": [
+          45.959584,
+          14.293636
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Vrhnika",
+        "state": "Vrhnika",
+        "country": "Slovenia",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3375899193414191114,
+      "resource_state": 2,
+      "name": "Tr\u017ea\u0161ka from Cankarjev Trg to Dolgi Most",
+      "activity": {
+        "id": 14996237135,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 3291,
+      "moving_time": 2408,
+      "start_date": "2025-07-03T14:57:18Z",
+      "start_date_local": "2025-07-03T16:57:18Z",
+      "distance": 15284.9,
+      "start_index": 30804,
+      "end_index": 34095,
+      "device_watts": false,
+      "segment": {
+        "id": 1302967,
+        "resource_state": 2,
+        "name": "Tr\u017ea\u0161ka from Cankarjev Trg to Dolgi Most",
+        "activity_type": "Ride",
+        "distance": 15284.9,
+        "average_grade": 0.0,
+        "maximum_grade": 7.4,
+        "elevation_high": 307.2,
+        "elevation_low": 287.3,
+        "start_latlng": [
+          45.966578,
+          14.298678
+        ],
+        "end_latlng": [
+          46.035297,
+          14.458612
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Vrhnika",
+        "state": "Vrhnika",
+        "country": "Slovenia",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3375899193411201034,
+      "resource_state": 2,
+      "name": "od Sinje Gorice do Drenovca",
+      "activity": {
+        "id": 14996237135,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 419,
+      "moving_time": 419,
+      "start_date": "2025-07-03T15:12:44Z",
+      "start_date_local": "2025-07-03T17:12:44Z",
+      "distance": 2573.0,
+      "start_index": 31730,
+      "end_index": 32149,
+      "device_watts": false,
+      "segment": {
+        "id": 18948048,
+        "resource_state": 2,
+        "name": "od Sinje Gorice do Drenovca",
+        "activity_type": "Ride",
+        "distance": 2573.0,
+        "average_grade": 0.0,
+        "maximum_grade": 1.4,
+        "elevation_high": 292.7,
+        "elevation_low": 289.0,
+        "start_latlng": [
+          45.976573,
+          14.307093
+        ],
+        "end_latlng": [
+          45.994023,
+          14.32867
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Vrhnika",
+        "state": "Vrhnika",
+        "country": "Slovenia",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3375899193413197834,
+      "resource_state": 2,
+      "name": "Sinja Gorica - Dragomer",
+      "activity": {
+        "id": 14996237135,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 1209,
+      "moving_time": 1137,
+      "start_date": "2025-07-03T15:12:53Z",
+      "start_date_local": "2025-07-03T17:12:53Z",
+      "distance": 7146.4,
+      "start_index": 31739,
+      "end_index": 32948,
+      "device_watts": false,
+      "segment": {
+        "id": 7661935,
+        "resource_state": 2,
+        "name": "Sinja Gorica - Dragomer",
+        "activity_type": "Ride",
+        "distance": 7146.4,
+        "average_grade": 0.0,
+        "maximum_grade": 1.8,
+        "elevation_high": 302.8,
+        "elevation_low": 287.5,
+        "start_latlng": [
+          45.976961,
+          14.307389
+        ],
+        "end_latlng": [
+          46.013051,
+          14.378774
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Sinja Gorica",
+        "state": "Vrhnika",
+        "country": "Slovenia",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3375899193412513802,
+      "resource_state": 2,
+      "name": "Drenov Gri\u010d (odcep Bevke) - Log (odcep Bevke)",
+      "activity": {
+        "id": 14996237135,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 599,
+      "moving_time": 527,
+      "start_date": "2025-07-03T15:20:36Z",
+      "start_date_local": "2025-07-03T17:20:36Z",
+      "distance": 3224.5,
+      "start_index": 32202,
+      "end_index": 32801,
+      "device_watts": false,
+      "segment": {
+        "id": 38888848,
+        "resource_state": 2,
+        "name": "Drenov Gri\u010d (odcep Bevke) - Log (odcep Bevke)",
+        "activity_type": "Ride",
+        "distance": 3224.5,
+        "average_grade": 0.2,
+        "maximum_grade": 2.3,
+        "elevation_high": 313.8,
+        "elevation_low": 305.4,
+        "start_latlng": [
+          45.995678,
+          14.331988
+        ],
+        "end_latlng": [
+          46.007306,
+          14.367793
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Vrhnika",
+        "state": null,
+        "country": "Slovenia",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3375899193412093962,
+      "resource_state": 2,
+      "name": "Log - Brezovica",
+      "activity": {
+        "id": 14996237135,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 859,
+      "moving_time": 859,
+      "start_date": "2025-07-03T15:27:00Z",
+      "start_date_local": "2025-07-03T17:27:00Z",
+      "distance": 5699.9,
+      "start_index": 32586,
+      "end_index": 33445,
+      "device_watts": false,
+      "segment": {
+        "id": 16225992,
+        "resource_state": 2,
+        "name": "Log - Brezovica",
+        "activity_type": "Ride",
+        "distance": 5699.9,
+        "average_grade": 0.2,
+        "maximum_grade": 7.9,
+        "elevation_high": 308.9,
+        "elevation_low": 289.0,
+        "start_latlng": [
+          46.004781,
+          14.351263
+        ],
+        "end_latlng": [
+          46.024098,
+          14.415898
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Log pri Brezovici",
+        "state": "Vrhnika",
+        "country": "Slovenia",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3375899193413689354,
+      "resource_state": 2,
+      "name": "nadvoz Log - Siciljana",
+      "activity": {
+        "id": 14996237135,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 189,
+      "moving_time": 189,
+      "start_date": "2025-07-03T15:31:18Z",
+      "start_date_local": "2025-07-03T17:31:18Z",
+      "distance": 1387.9,
+      "start_index": 32844,
+      "end_index": 33033,
+      "device_watts": false,
+      "segment": {
+        "id": 21747037,
+        "resource_state": 2,
+        "name": "nadvoz Log - Siciljana",
+        "activity_type": "Ride",
+        "distance": 1387.9,
+        "average_grade": -0.0,
+        "maximum_grade": 2.5,
+        "elevation_high": 342.0,
+        "elevation_low": 339.8,
+        "start_latlng": [
+          46.008506,
+          14.371381
+        ],
+        "end_latlng": [
+          46.016661,
+          14.38494
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Log pri Brezovici",
+        "state": "Vrhnika",
+        "country": "Slovenia",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3375899193410568202,
+      "resource_state": 2,
+      "name": "Brezovica-Dolgi most sprint",
+      "activity": {
+        "id": 14996237135,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 535,
+      "moving_time": 451,
+      "start_date": "2025-07-03T15:42:18Z",
+      "start_date_local": "2025-07-03T17:42:18Z",
+      "distance": 3082.6,
+      "start_index": 33504,
+      "end_index": 34039,
+      "device_watts": false,
+      "segment": {
+        "id": 15079573,
+        "resource_state": 2,
+        "name": "Brezovica-Dolgi most sprint",
+        "activity_type": "Ride",
+        "distance": 3082.6,
+        "average_grade": -0.1,
+        "maximum_grade": 8.6,
+        "elevation_high": 308.9,
+        "elevation_low": 294.1,
+        "start_latlng": [
+          46.024071,
+          14.417829
+        ],
+        "end_latlng": [
+          46.034257,
+          14.45453
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Brezovica pri Ljubljani",
+        "state": "Ljubljana",
+        "country": "Slovenia",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3375899193410455562,
+      "resource_state": 2,
+      "name": "Brezovica sprint",
+      "activity": {
+        "id": 14996237135,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 153,
+      "moving_time": 153,
+      "start_date": "2025-07-03T15:42:22Z",
+      "start_date_local": "2025-07-03T17:42:22Z",
+      "distance": 1200.2,
+      "start_index": 33508,
+      "end_index": 33661,
+      "device_watts": false,
+      "segment": {
+        "id": 28969857,
+        "resource_state": 2,
+        "name": "Brezovica sprint",
+        "activity_type": "Ride",
+        "distance": 1200.2,
+        "average_grade": -0.9,
+        "maximum_grade": 1.5,
+        "elevation_high": 335.6,
+        "elevation_low": 324.8,
+        "start_latlng": [
+          46.024064,
+          14.418113
+        ],
+        "end_latlng": [
+          46.02711,
+          14.432995
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Brezovica pri Ljubljani",
+        "state": "Ljubljana",
+        "country": "Slovenia",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3375899193414407178,
+      "resource_state": 2,
+      "name": "Brezovica (AC) - Dolgi most (semafor)",
+      "activity": {
+        "id": 14996237135,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 441,
+      "moving_time": 357,
+      "start_date": "2025-07-03T15:45:18Z",
+      "start_date_local": "2025-07-03T17:45:18Z",
+      "distance": 2194.4,
+      "start_index": 33684,
+      "end_index": 34125,
+      "device_watts": false,
+      "segment": {
+        "id": 28969868,
+        "resource_state": 2,
+        "name": "Brezovica (AC) - Dolgi most (semafor)",
+        "activity_type": "Ride",
+        "distance": 2194.4,
+        "average_grade": 0.3,
+        "maximum_grade": 4.0,
+        "elevation_high": 332.4,
+        "elevation_low": 323.4,
+        "start_latlng": [
+          46.027685,
+          14.434722
+        ],
+        "end_latlng": [
+          46.035431,
+          14.460776
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Ljubljana",
+        "state": "Ljubljana",
+        "country": "Slovenia",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3375899193412620298,
+      "resource_state": 2,
+      "name": "dolgi most 1",
+      "activity": {
+        "id": 14996237135,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 71,
+      "moving_time": 71,
+      "start_date": "2025-07-03T15:51:23Z",
+      "start_date_local": "2025-07-03T17:51:23Z",
+      "distance": 407.8,
+      "start_index": 34049,
+      "end_index": 34120,
+      "device_watts": false,
+      "segment": {
+        "id": 20825148,
+        "resource_state": 2,
+        "name": "dolgi most 1",
+        "activity_type": "Ride",
+        "distance": 407.8,
+        "average_grade": 1.5,
+        "maximum_grade": 7.2,
+        "elevation_high": 298.4,
+        "elevation_low": 291.1,
+        "start_latlng": [
+          46.034534,
+          14.455334
+        ],
+        "end_latlng": [
+          46.035384,
+          14.460403
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": null,
+        "state": null,
+        "country": null,
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    }
+  ],
+  "splits_metric": [
+    {
+      "distance": 1001.5,
+      "elapsed_time": 219,
+      "elevation_difference": 1.8,
+      "moving_time": 219,
+      "split": 1,
+      "average_speed": 4.57,
+      "average_grade_adjusted_speed": 4.62,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1004.2,
+      "elapsed_time": 172,
+      "elevation_difference": 0.6,
+      "moving_time": 172,
+      "split": 2,
+      "average_speed": 5.84,
+      "average_grade_adjusted_speed": 5.89,
+      "pace_zone": 0
+    },
+    {
+      "distance": 996.2,
+      "elapsed_time": 177,
+      "elevation_difference": 1.4,
+      "moving_time": 177,
+      "split": 3,
+      "average_speed": 5.63,
+      "average_grade_adjusted_speed": 5.65,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1000.7,
+      "elapsed_time": 179,
+      "elevation_difference": 1.4,
+      "moving_time": 179,
+      "split": 4,
+      "average_speed": 5.59,
+      "average_grade_adjusted_speed": 5.61,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1002.5,
+      "elapsed_time": 181,
+      "elevation_difference": 2.2,
+      "moving_time": 181,
+      "split": 5,
+      "average_speed": 5.54,
+      "average_grade_adjusted_speed": 5.56,
+      "pace_zone": 0
+    },
+    {
+      "distance": 996.6,
+      "elapsed_time": 188,
+      "elevation_difference": 1.2,
+      "moving_time": 188,
+      "split": 6,
+      "average_speed": 5.3,
+      "average_grade_adjusted_speed": 5.32,
+      "pace_zone": 0
+    },
+    {
+      "distance": 998.4,
+      "elapsed_time": 255,
+      "elevation_difference": 4.0,
+      "moving_time": 231,
+      "split": 7,
+      "average_speed": 4.32,
+      "average_grade_adjusted_speed": 4.36,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1004.7,
+      "elapsed_time": 1305,
+      "elevation_difference": -2.8,
+      "moving_time": 242,
+      "split": 8,
+      "average_speed": 4.15,
+      "average_grade_adjusted_speed": 4.13,
+      "pace_zone": 0
+    },
+    {
+      "distance": 996.8,
+      "elapsed_time": 1423,
+      "elevation_difference": -1.8,
+      "moving_time": 174,
+      "split": 9,
+      "average_speed": 5.73,
+      "average_grade_adjusted_speed": 5.73,
+      "pace_zone": 0
+    },
+    {
+      "distance": 998.8,
+      "elapsed_time": 280,
+      "elevation_difference": 34.0,
+      "moving_time": 280,
+      "split": 10,
+      "average_speed": 3.57,
+      "average_grade_adjusted_speed": 4.05,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1005.5,
+      "elapsed_time": 399,
+      "elevation_difference": 51.8,
+      "moving_time": 399,
+      "split": 11,
+      "average_speed": 2.52,
+      "average_grade_adjusted_speed": 3.09,
+      "pace_zone": 0
+    },
+    {
+      "distance": 995.4,
+      "elapsed_time": 253,
+      "elevation_difference": 32.2,
+      "moving_time": 253,
+      "split": 12,
+      "average_speed": 3.93,
+      "average_grade_adjusted_speed": 4.43,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1004.3,
+      "elapsed_time": 680,
+      "elevation_difference": 22.8,
+      "moving_time": 294,
+      "split": 13,
+      "average_speed": 3.42,
+      "average_grade_adjusted_speed": 3.74,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1002.8,
+      "elapsed_time": 135,
+      "elevation_difference": -11.2,
+      "moving_time": 135,
+      "split": 14,
+      "average_speed": 7.43,
+      "average_grade_adjusted_speed": 7.31,
+      "pace_zone": 0
+    },
+    {
+      "distance": 995.5,
+      "elapsed_time": 98,
+      "elevation_difference": -47.4,
+      "moving_time": 98,
+      "split": 15,
+      "average_speed": 10.16,
+      "average_grade_adjusted_speed": 9.27,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1005.2,
+      "elapsed_time": 129,
+      "elevation_difference": -16.6,
+      "moving_time": 129,
+      "split": 16,
+      "average_speed": 7.79,
+      "average_grade_adjusted_speed": 7.55,
+      "pace_zone": 0
+    },
+    {
+      "distance": 992.0,
+      "elapsed_time": 125,
+      "elevation_difference": -31.0,
+      "moving_time": 125,
+      "split": 17,
+      "average_speed": 7.94,
+      "average_grade_adjusted_speed": 7.46,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1002.3,
+      "elapsed_time": 254,
+      "elevation_difference": 22.4,
+      "moving_time": 254,
+      "split": 18,
+      "average_speed": 3.95,
+      "average_grade_adjusted_speed": 4.22,
+      "pace_zone": 0
+    },
+    {
+      "distance": 997.5,
+      "elapsed_time": 162,
+      "elevation_difference": -20.2,
+      "moving_time": 162,
+      "split": 19,
+      "average_speed": 6.16,
+      "average_grade_adjusted_speed": 5.92,
+      "pace_zone": 0
+    },
+    {
+      "distance": 999.9,
+      "elapsed_time": 121,
+      "elevation_difference": -18.0,
+      "moving_time": 121,
+      "split": 20,
+      "average_speed": 8.26,
+      "average_grade_adjusted_speed": 7.98,
+      "pace_zone": 0
+    },
+    {
+      "distance": 999.3,
+      "elapsed_time": 147,
+      "elevation_difference": 7.8,
+      "moving_time": 147,
+      "split": 21,
+      "average_speed": 6.8,
+      "average_grade_adjusted_speed": 6.92,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1003.8,
+      "elapsed_time": 151,
+      "elevation_difference": 4.4,
+      "moving_time": 151,
+      "split": 22,
+      "average_speed": 6.65,
+      "average_grade_adjusted_speed": 6.71,
+      "pace_zone": 0
+    },
+    {
+      "distance": 999.6,
+      "elapsed_time": 188,
+      "elevation_difference": -2.2,
+      "moving_time": 165,
+      "split": 23,
+      "average_speed": 6.06,
+      "average_grade_adjusted_speed": 6.04,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1002.2,
+      "elapsed_time": 167,
+      "elevation_difference": 3.4,
+      "moving_time": 167,
+      "split": 24,
+      "average_speed": 6.0,
+      "average_grade_adjusted_speed": 6.11,
+      "pace_zone": 0
+    },
+    {
+      "distance": 994.6,
+      "elapsed_time": 150,
+      "elevation_difference": -7.2,
+      "moving_time": 150,
+      "split": 25,
+      "average_speed": 6.63,
+      "average_grade_adjusted_speed": 6.56,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1001.3,
+      "elapsed_time": 173,
+      "elevation_difference": 8.6,
+      "moving_time": 173,
+      "split": 26,
+      "average_speed": 5.79,
+      "average_grade_adjusted_speed": 5.91,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1000.1,
+      "elapsed_time": 148,
+      "elevation_difference": -6.8,
+      "moving_time": 148,
+      "split": 27,
+      "average_speed": 6.76,
+      "average_grade_adjusted_speed": 6.68,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1003.0,
+      "elapsed_time": 183,
+      "elevation_difference": 7.2,
+      "moving_time": 183,
+      "split": 28,
+      "average_speed": 5.48,
+      "average_grade_adjusted_speed": 5.58,
+      "pace_zone": 0
+    },
+    {
+      "distance": 999.2,
+      "elapsed_time": 156,
+      "elevation_difference": -5.8,
+      "moving_time": 156,
+      "split": 29,
+      "average_speed": 6.41,
+      "average_grade_adjusted_speed": 6.35,
+      "pace_zone": 0
+    },
+    {
+      "distance": 997.0,
+      "elapsed_time": 149,
+      "elevation_difference": 4.2,
+      "moving_time": 149,
+      "split": 30,
+      "average_speed": 6.69,
+      "average_grade_adjusted_speed": 6.75,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1005.9,
+      "elapsed_time": 131,
+      "elevation_difference": -2.8,
+      "moving_time": 131,
+      "split": 31,
+      "average_speed": 7.68,
+      "average_grade_adjusted_speed": 7.64,
+      "pace_zone": 0
+    },
+    {
+      "distance": 996.1,
+      "elapsed_time": 1482,
+      "elevation_difference": 1.2,
+      "moving_time": 168,
+      "split": 32,
+      "average_speed": 5.93,
+      "average_grade_adjusted_speed": 5.96,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1002.3,
+      "elapsed_time": 162,
+      "elevation_difference": 2.8,
+      "moving_time": 162,
+      "split": 33,
+      "average_speed": 6.19,
+      "average_grade_adjusted_speed": 6.24,
+      "pace_zone": 0
+    },
+    {
+      "distance": 998.0,
+      "elapsed_time": 176,
+      "elevation_difference": 13.8,
+      "moving_time": 176,
+      "split": 34,
+      "average_speed": 5.67,
+      "average_grade_adjusted_speed": 5.94,
+      "pace_zone": 0
+    },
+    {
+      "distance": 999.5,
+      "elapsed_time": 173,
+      "elevation_difference": 9.6,
+      "moving_time": 173,
+      "split": 35,
+      "average_speed": 5.78,
+      "average_grade_adjusted_speed": 6.12,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1001.1,
+      "elapsed_time": 149,
+      "elevation_difference": -14.0,
+      "moving_time": 149,
+      "split": 36,
+      "average_speed": 6.72,
+      "average_grade_adjusted_speed": 6.7,
+      "pace_zone": 0
+    },
+    {
+      "distance": 997.2,
+      "elapsed_time": 187,
+      "elevation_difference": 15.0,
+      "moving_time": 187,
+      "split": 37,
+      "average_speed": 5.33,
+      "average_grade_adjusted_speed": 5.57,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1000.4,
+      "elapsed_time": 370,
+      "elevation_difference": 43.4,
+      "moving_time": 370,
+      "split": 38,
+      "average_speed": 2.7,
+      "average_grade_adjusted_speed": 3.12,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1000.6,
+      "elapsed_time": 207,
+      "elevation_difference": 15.0,
+      "moving_time": 207,
+      "split": 39,
+      "average_speed": 4.83,
+      "average_grade_adjusted_speed": 5.06,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1003.6,
+      "elapsed_time": 155,
+      "elevation_difference": -17.8,
+      "moving_time": 155,
+      "split": 40,
+      "average_speed": 6.47,
+      "average_grade_adjusted_speed": 6.24,
+      "pace_zone": 0
+    },
+    {
+      "distance": 996.1,
+      "elapsed_time": 122,
+      "elevation_difference": -12.0,
+      "moving_time": 122,
+      "split": 41,
+      "average_speed": 8.16,
+      "average_grade_adjusted_speed": 8.02,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1004.7,
+      "elapsed_time": 163,
+      "elevation_difference": -1.6,
+      "moving_time": 163,
+      "split": 42,
+      "average_speed": 6.16,
+      "average_grade_adjusted_speed": 6.18,
+      "pace_zone": 0
+    },
+    {
+      "distance": 997.7,
+      "elapsed_time": 134,
+      "elevation_difference": -4.6,
+      "moving_time": 134,
+      "split": 43,
+      "average_speed": 7.45,
+      "average_grade_adjusted_speed": 7.41,
+      "pace_zone": 0
+    },
+    {
+      "distance": 998.3,
+      "elapsed_time": 1558,
+      "elevation_difference": 12.4,
+      "moving_time": 216,
+      "split": 44,
+      "average_speed": 4.62,
+      "average_grade_adjusted_speed": 4.8,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1003.4,
+      "elapsed_time": 170,
+      "elevation_difference": -0.8,
+      "moving_time": 170,
+      "split": 45,
+      "average_speed": 5.9,
+      "average_grade_adjusted_speed": 5.95,
+      "pace_zone": 0
+    },
+    {
+      "distance": 997.2,
+      "elapsed_time": 155,
+      "elevation_difference": -4.6,
+      "moving_time": 155,
+      "split": 46,
+      "average_speed": 6.43,
+      "average_grade_adjusted_speed": 6.39,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1001.4,
+      "elapsed_time": 133,
+      "elevation_difference": -5.6,
+      "moving_time": 133,
+      "split": 47,
+      "average_speed": 7.53,
+      "average_grade_adjusted_speed": 7.46,
+      "pace_zone": 0
+    },
+    {
+      "distance": 996.5,
+      "elapsed_time": 165,
+      "elevation_difference": 1.2,
+      "moving_time": 165,
+      "split": 48,
+      "average_speed": 6.04,
+      "average_grade_adjusted_speed": 6.07,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1002.9,
+      "elapsed_time": 2152,
+      "elevation_difference": -2.6,
+      "moving_time": 217,
+      "split": 49,
+      "average_speed": 4.62,
+      "average_grade_adjusted_speed": 4.6,
+      "pace_zone": 0
+    },
+    {
+      "distance": 996.4,
+      "elapsed_time": 362,
+      "elevation_difference": 56.0,
+      "moving_time": 362,
+      "split": 50,
+      "average_speed": 2.75,
+      "average_grade_adjusted_speed": 3.36,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1002.8,
+      "elapsed_time": 449,
+      "elevation_difference": 73.2,
+      "moving_time": 449,
+      "split": 51,
+      "average_speed": 2.23,
+      "average_grade_adjusted_speed": 2.91,
+      "pace_zone": 0
+    },
+    {
+      "distance": 997.3,
+      "elapsed_time": 401,
+      "elevation_difference": 60.4,
+      "moving_time": 401,
+      "split": 52,
+      "average_speed": 2.49,
+      "average_grade_adjusted_speed": 3.07,
+      "pace_zone": 0
+    },
+    {
+      "distance": 999.8,
+      "elapsed_time": 445,
+      "elevation_difference": 50.0,
+      "moving_time": 445,
+      "split": 53,
+      "average_speed": 2.25,
+      "average_grade_adjusted_speed": 2.66,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1002.3,
+      "elapsed_time": 409,
+      "elevation_difference": 57.0,
+      "moving_time": 409,
+      "split": 54,
+      "average_speed": 2.45,
+      "average_grade_adjusted_speed": 2.98,
+      "pace_zone": 0
+    },
+    {
+      "distance": 998.9,
+      "elapsed_time": 414,
+      "elevation_difference": 66.8,
+      "moving_time": 414,
+      "split": 55,
+      "average_speed": 2.41,
+      "average_grade_adjusted_speed": 3.06,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1000.4,
+      "elapsed_time": 448,
+      "elevation_difference": 64.8,
+      "moving_time": 448,
+      "split": 56,
+      "average_speed": 2.23,
+      "average_grade_adjusted_speed": 2.81,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1000.3,
+      "elapsed_time": 372,
+      "elevation_difference": 54.6,
+      "moving_time": 372,
+      "split": 57,
+      "average_speed": 2.69,
+      "average_grade_adjusted_speed": 3.25,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1000.6,
+      "elapsed_time": 242,
+      "elevation_difference": 11.0,
+      "moving_time": 242,
+      "split": 58,
+      "average_speed": 4.13,
+      "average_grade_adjusted_speed": 4.38,
+      "pace_zone": 0
+    },
+    {
+      "distance": 998.3,
+      "elapsed_time": 406,
+      "elevation_difference": 67.0,
+      "moving_time": 406,
+      "split": 59,
+      "average_speed": 2.46,
+      "average_grade_adjusted_speed": 3.12,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1000.9,
+      "elapsed_time": 388,
+      "elevation_difference": 61.4,
+      "moving_time": 388,
+      "split": 60,
+      "average_speed": 2.58,
+      "average_grade_adjusted_speed": 3.22,
+      "pace_zone": 0
+    },
+    {
+      "distance": 998.7,
+      "elapsed_time": 299,
+      "elevation_difference": 40.8,
+      "moving_time": 299,
+      "split": 61,
+      "average_speed": 3.34,
+      "average_grade_adjusted_speed": 3.81,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1002.8,
+      "elapsed_time": 260,
+      "elevation_difference": 28.0,
+      "moving_time": 260,
+      "split": 62,
+      "average_speed": 3.86,
+      "average_grade_adjusted_speed": 4.23,
+      "pace_zone": 0
+    },
+    {
+      "distance": 997.9,
+      "elapsed_time": 2628,
+      "elevation_difference": 20.8,
+      "moving_time": 306,
+      "split": 63,
+      "average_speed": 3.26,
+      "average_grade_adjusted_speed": 3.59,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1003.3,
+      "elapsed_time": 302,
+      "elevation_difference": 41.2,
+      "moving_time": 302,
+      "split": 64,
+      "average_speed": 3.32,
+      "average_grade_adjusted_speed": 3.88,
+      "pace_zone": 0
+    },
+    {
+      "distance": 997.4,
+      "elapsed_time": 3264,
+      "elevation_difference": 5.2,
+      "moving_time": 168,
+      "split": 65,
+      "average_speed": 5.94,
+      "average_grade_adjusted_speed": 6.13,
+      "pace_zone": 0
+    },
+    {
+      "distance": 999.1,
+      "elapsed_time": 176,
+      "elevation_difference": 9.2,
+      "moving_time": 176,
+      "split": 66,
+      "average_speed": 5.68,
+      "average_grade_adjusted_speed": 6.03,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1000.9,
+      "elapsed_time": 130,
+      "elevation_difference": -21.8,
+      "moving_time": 130,
+      "split": 67,
+      "average_speed": 7.7,
+      "average_grade_adjusted_speed": 7.53,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1006.1,
+      "elapsed_time": 147,
+      "elevation_difference": -17.2,
+      "moving_time": 147,
+      "split": 68,
+      "average_speed": 6.84,
+      "average_grade_adjusted_speed": 6.91,
+      "pace_zone": 0
+    },
+    {
+      "distance": 995.1,
+      "elapsed_time": 109,
+      "elevation_difference": -12.0,
+      "moving_time": 109,
+      "split": 69,
+      "average_speed": 9.13,
+      "average_grade_adjusted_speed": 9.14,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1000.2,
+      "elapsed_time": 160,
+      "elevation_difference": 9.0,
+      "moving_time": 160,
+      "split": 70,
+      "average_speed": 6.25,
+      "average_grade_adjusted_speed": 6.48,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1002.5,
+      "elapsed_time": 98,
+      "elevation_difference": -51.6,
+      "moving_time": 98,
+      "split": 71,
+      "average_speed": 10.23,
+      "average_grade_adjusted_speed": 9.58,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1005.7,
+      "elapsed_time": 517,
+      "elevation_difference": -34.6,
+      "moving_time": 117,
+      "split": 72,
+      "average_speed": 8.6,
+      "average_grade_adjusted_speed": 8.11,
+      "pace_zone": 0
+    },
+    {
+      "distance": 996.4,
+      "elapsed_time": 80,
+      "elevation_difference": -87.2,
+      "moving_time": 80,
+      "split": 73,
+      "average_speed": 12.46,
+      "average_grade_adjusted_speed": 11.03,
+      "pace_zone": 0
+    },
+    {
+      "distance": 994.0,
+      "elapsed_time": 84,
+      "elevation_difference": -57.4,
+      "moving_time": 84,
+      "split": 74,
+      "average_speed": 11.83,
+      "average_grade_adjusted_speed": 10.6,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1002.0,
+      "elapsed_time": 89,
+      "elevation_difference": -51.6,
+      "moving_time": 89,
+      "split": 75,
+      "average_speed": 11.26,
+      "average_grade_adjusted_speed": 10.19,
+      "pace_zone": 0
+    },
+    {
+      "distance": 998.8,
+      "elapsed_time": 100,
+      "elevation_difference": -36.8,
+      "moving_time": 100,
+      "split": 76,
+      "average_speed": 9.99,
+      "average_grade_adjusted_speed": 9.3,
+      "pace_zone": 0
+    },
+    {
+      "distance": 998.5,
+      "elapsed_time": 131,
+      "elevation_difference": -6.8,
+      "moving_time": 131,
+      "split": 77,
+      "average_speed": 7.62,
+      "average_grade_adjusted_speed": 7.6,
+      "pace_zone": 0
+    },
+    {
+      "distance": 999.7,
+      "elapsed_time": 117,
+      "elevation_difference": -0.4,
+      "moving_time": 117,
+      "split": 78,
+      "average_speed": 8.54,
+      "average_grade_adjusted_speed": 8.58,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1006.0,
+      "elapsed_time": 126,
+      "elevation_difference": -5.0,
+      "moving_time": 126,
+      "split": 79,
+      "average_speed": 7.98,
+      "average_grade_adjusted_speed": 7.93,
+      "pace_zone": 0
+    },
+    {
+      "distance": 999.5,
+      "elapsed_time": 123,
+      "elevation_difference": -4.2,
+      "moving_time": 123,
+      "split": 80,
+      "average_speed": 8.13,
+      "average_grade_adjusted_speed": 8.08,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1003.6,
+      "elapsed_time": 106,
+      "elevation_difference": -6.2,
+      "moving_time": 106,
+      "split": 81,
+      "average_speed": 9.47,
+      "average_grade_adjusted_speed": 9.38,
+      "pace_zone": 0
+    },
+    {
+      "distance": 994.8,
+      "elapsed_time": 107,
+      "elevation_difference": -4.8,
+      "moving_time": 107,
+      "split": 82,
+      "average_speed": 9.3,
+      "average_grade_adjusted_speed": 9.24,
+      "pace_zone": 0
+    },
+    {
+      "distance": 995.7,
+      "elapsed_time": 117,
+      "elevation_difference": -4.8,
+      "moving_time": 117,
+      "split": 83,
+      "average_speed": 8.51,
+      "average_grade_adjusted_speed": 8.46,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1005.9,
+      "elapsed_time": 131,
+      "elevation_difference": -1.0,
+      "moving_time": 131,
+      "split": 84,
+      "average_speed": 7.68,
+      "average_grade_adjusted_speed": 7.68,
+      "pace_zone": 0
+    },
+    {
+      "distance": 995.8,
+      "elapsed_time": 145,
+      "elevation_difference": 8.8,
+      "moving_time": 145,
+      "split": 85,
+      "average_speed": 6.87,
+      "average_grade_adjusted_speed": 6.99,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1007.9,
+      "elapsed_time": 99,
+      "elevation_difference": -23.8,
+      "moving_time": 99,
+      "split": 86,
+      "average_speed": 10.18,
+      "average_grade_adjusted_speed": 9.73,
+      "pace_zone": 0
+    },
+    {
+      "distance": 992.2,
+      "elapsed_time": 88,
+      "elevation_difference": -32.2,
+      "moving_time": 88,
+      "split": 87,
+      "average_speed": 11.28,
+      "average_grade_adjusted_speed": 10.53,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1003.4,
+      "elapsed_time": 100,
+      "elevation_difference": -35.8,
+      "moving_time": 100,
+      "split": 88,
+      "average_speed": 10.03,
+      "average_grade_adjusted_speed": 9.3,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1004.7,
+      "elapsed_time": 78,
+      "elevation_difference": -45.4,
+      "moving_time": 78,
+      "split": 89,
+      "average_speed": 12.88,
+      "average_grade_adjusted_speed": 11.74,
+      "pace_zone": 0
+    },
+    {
+      "distance": 999.0,
+      "elapsed_time": 80,
+      "elevation_difference": -38.8,
+      "moving_time": 80,
+      "split": 90,
+      "average_speed": 12.49,
+      "average_grade_adjusted_speed": 11.49,
+      "pace_zone": 0
+    },
+    {
+      "distance": 994.1,
+      "elapsed_time": 160,
+      "elevation_difference": -9.6,
+      "moving_time": 139,
+      "split": 91,
+      "average_speed": 7.15,
+      "average_grade_adjusted_speed": 7.02,
+      "pace_zone": 0
+    },
+    {
+      "distance": 997.5,
+      "elapsed_time": 181,
+      "elevation_difference": -1.6,
+      "moving_time": 157,
+      "split": 92,
+      "average_speed": 6.35,
+      "average_grade_adjusted_speed": 6.34,
+      "pace_zone": 0
+    },
+    {
+      "distance": 999.0,
+      "elapsed_time": 854,
+      "elevation_difference": -3.4,
+      "moving_time": 165,
+      "split": 93,
+      "average_speed": 6.05,
+      "average_grade_adjusted_speed": 6.04,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1005.9,
+      "elapsed_time": 163,
+      "elevation_difference": -0.4,
+      "moving_time": 163,
+      "split": 94,
+      "average_speed": 6.17,
+      "average_grade_adjusted_speed": 6.17,
+      "pace_zone": 0
+    },
+    {
+      "distance": 996.9,
+      "elapsed_time": 158,
+      "elevation_difference": -0.2,
+      "moving_time": 158,
+      "split": 95,
+      "average_speed": 6.31,
+      "average_grade_adjusted_speed": 6.31,
+      "pace_zone": 0
+    },
+    {
+      "distance": 998.4,
+      "elapsed_time": 204,
+      "elevation_difference": -1.6,
+      "moving_time": 165,
+      "split": 96,
+      "average_speed": 6.05,
+      "average_grade_adjusted_speed": 6.04,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1001.8,
+      "elapsed_time": 213,
+      "elevation_difference": 4.8,
+      "moving_time": 180,
+      "split": 97,
+      "average_speed": 5.57,
+      "average_grade_adjusted_speed": 5.64,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1002.3,
+      "elapsed_time": 160,
+      "elevation_difference": 0.0,
+      "moving_time": 160,
+      "split": 98,
+      "average_speed": 6.26,
+      "average_grade_adjusted_speed": 6.27,
+      "pace_zone": 0
+    },
+    {
+      "distance": 996.8,
+      "elapsed_time": 140,
+      "elevation_difference": -4.4,
+      "moving_time": 140,
+      "split": 99,
+      "average_speed": 7.12,
+      "average_grade_adjusted_speed": 7.08,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1005.0,
+      "elapsed_time": 138,
+      "elevation_difference": -1.4,
+      "moving_time": 138,
+      "split": 100,
+      "average_speed": 7.28,
+      "average_grade_adjusted_speed": 7.27,
+      "pace_zone": 0
+    },
+    {
+      "distance": 996.5,
+      "elapsed_time": 150,
+      "elevation_difference": 5.0,
+      "moving_time": 150,
+      "split": 101,
+      "average_speed": 6.64,
+      "average_grade_adjusted_speed": 6.72,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1002.4,
+      "elapsed_time": 173,
+      "elevation_difference": 5.6,
+      "moving_time": 173,
+      "split": 102,
+      "average_speed": 5.79,
+      "average_grade_adjusted_speed": 5.87,
+      "pace_zone": 0
+    },
+    {
+      "distance": 996.1,
+      "elapsed_time": 146,
+      "elevation_difference": 0.2,
+      "moving_time": 146,
+      "split": 103,
+      "average_speed": 6.82,
+      "average_grade_adjusted_speed": 6.83,
+      "pace_zone": 0
+    },
+    {
+      "distance": 999.7,
+      "elapsed_time": 166,
+      "elevation_difference": -5.6,
+      "moving_time": 166,
+      "split": 104,
+      "average_speed": 6.02,
+      "average_grade_adjusted_speed": 5.97,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1004.2,
+      "elapsed_time": 145,
+      "elevation_difference": -4.0,
+      "moving_time": 145,
+      "split": 105,
+      "average_speed": 6.93,
+      "average_grade_adjusted_speed": 6.89,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1000.4,
+      "elapsed_time": 247,
+      "elevation_difference": 1.8,
+      "moving_time": 167,
+      "split": 106,
+      "average_speed": 5.99,
+      "average_grade_adjusted_speed": 6.01,
+      "pace_zone": 0
+    },
+    {
+      "distance": 998.3,
+      "elapsed_time": 154,
+      "elevation_difference": -2.4,
+      "moving_time": 154,
+      "split": 107,
+      "average_speed": 6.48,
+      "average_grade_adjusted_speed": 6.49,
+      "pace_zone": 0
+    },
+    {
+      "distance": 997.3,
+      "elapsed_time": 147,
+      "elevation_difference": 0.4,
+      "moving_time": 147,
+      "split": 108,
+      "average_speed": 6.78,
+      "average_grade_adjusted_speed": 6.8,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1001.2,
+      "elapsed_time": 159,
+      "elevation_difference": -3.0,
+      "moving_time": 159,
+      "split": 109,
+      "average_speed": 6.3,
+      "average_grade_adjusted_speed": 6.28,
+      "pace_zone": 0
+    },
+    {
+      "distance": 998.3,
+      "elapsed_time": 143,
+      "elevation_difference": -1.8,
+      "moving_time": 143,
+      "split": 110,
+      "average_speed": 6.98,
+      "average_grade_adjusted_speed": 6.97,
+      "pace_zone": 0
+    },
+    {
+      "distance": 133.9,
+      "elapsed_time": 350,
+      "elevation_difference": -1.4,
+      "moving_time": 27,
+      "split": 111,
+      "average_speed": 4.96,
+      "average_grade_adjusted_speed": 4.96,
+      "pace_zone": 0
+    }
+  ],
+  "splits_standard": [
+    {
+      "distance": 1612.3,
+      "elapsed_time": 335,
+      "elevation_difference": 8.4,
+      "moving_time": 335,
+      "split": 1,
+      "average_speed": 4.81,
+      "average_grade_adjusted_speed": 4.9,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1611.8,
+      "elapsed_time": 273,
+      "elevation_difference": -4.4,
+      "moving_time": 273,
+      "split": 2,
+      "average_speed": 5.9,
+      "average_grade_adjusted_speed": 5.88,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1604.3,
+      "elapsed_time": 287,
+      "elevation_difference": 3.4,
+      "moving_time": 287,
+      "split": 3,
+      "average_speed": 5.59,
+      "average_grade_adjusted_speed": 5.61,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1609.4,
+      "elapsed_time": 309,
+      "elevation_difference": 2.2,
+      "moving_time": 309,
+      "split": 4,
+      "average_speed": 5.21,
+      "average_grade_adjusted_speed": 5.23,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1612.7,
+      "elapsed_time": 1481,
+      "elevation_difference": 0.4,
+      "moving_time": 394,
+      "split": 5,
+      "average_speed": 4.09,
+      "average_grade_adjusted_speed": 4.1,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1608.4,
+      "elapsed_time": 1548,
+      "elevation_difference": 7.2,
+      "moving_time": 299,
+      "split": 6,
+      "average_speed": 5.38,
+      "average_grade_adjusted_speed": 5.47,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1607.2,
+      "elapsed_time": 590,
+      "elevation_difference": 77.4,
+      "moving_time": 590,
+      "split": 7,
+      "average_speed": 2.72,
+      "average_grade_adjusted_speed": 3.31,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1612.4,
+      "elapsed_time": 871,
+      "elevation_difference": 57.6,
+      "moving_time": 485,
+      "split": 8,
+      "average_speed": 3.32,
+      "average_grade_adjusted_speed": 3.77,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1614.4,
+      "elapsed_time": 199,
+      "elevation_difference": -41.8,
+      "moving_time": 199,
+      "split": 9,
+      "average_speed": 8.11,
+      "average_grade_adjusted_speed": 7.75,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1606.0,
+      "elapsed_time": 190,
+      "elevation_difference": -42.2,
+      "moving_time": 190,
+      "split": 10,
+      "average_speed": 8.45,
+      "average_grade_adjusted_speed": 8.03,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1606.8,
+      "elapsed_time": 290,
+      "elevation_difference": -10.0,
+      "moving_time": 290,
+      "split": 11,
+      "average_speed": 5.54,
+      "average_grade_adjusted_speed": 5.54,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1614.0,
+      "elapsed_time": 277,
+      "elevation_difference": -19.0,
+      "moving_time": 277,
+      "split": 12,
+      "average_speed": 5.83,
+      "average_grade_adjusted_speed": 5.72,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1607.6,
+      "elapsed_time": 220,
+      "elevation_difference": -5.4,
+      "moving_time": 220,
+      "split": 13,
+      "average_speed": 7.31,
+      "average_grade_adjusted_speed": 7.27,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1606.0,
+      "elapsed_time": 275,
+      "elevation_difference": 4.2,
+      "moving_time": 252,
+      "split": 14,
+      "average_speed": 6.37,
+      "average_grade_adjusted_speed": 6.41,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1612.8,
+      "elapsed_time": 264,
+      "elevation_difference": 1.6,
+      "moving_time": 264,
+      "split": 15,
+      "average_speed": 6.11,
+      "average_grade_adjusted_speed": 6.17,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1604.5,
+      "elapsed_time": 254,
+      "elevation_difference": -3.0,
+      "moving_time": 254,
+      "split": 16,
+      "average_speed": 6.32,
+      "average_grade_adjusted_speed": 6.31,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1613.4,
+      "elapsed_time": 256,
+      "elevation_difference": 0.0,
+      "moving_time": 256,
+      "split": 17,
+      "average_speed": 6.3,
+      "average_grade_adjusted_speed": 6.33,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1605.1,
+      "elapsed_time": 274,
+      "elevation_difference": 0.0,
+      "moving_time": 274,
+      "split": 18,
+      "average_speed": 5.86,
+      "average_grade_adjusted_speed": 5.88,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1610.6,
+      "elapsed_time": 228,
+      "elevation_difference": 0.2,
+      "moving_time": 228,
+      "split": 19,
+      "average_speed": 7.06,
+      "average_grade_adjusted_speed": 7.07,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1611.7,
+      "elapsed_time": 1571,
+      "elevation_difference": 0.8,
+      "moving_time": 257,
+      "split": 20,
+      "average_speed": 6.27,
+      "average_grade_adjusted_speed": 6.29,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1611.7,
+      "elapsed_time": 266,
+      "elevation_difference": 11.0,
+      "moving_time": 266,
+      "split": 21,
+      "average_speed": 6.06,
+      "average_grade_adjusted_speed": 6.19,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1606.7,
+      "elapsed_time": 289,
+      "elevation_difference": 17.6,
+      "moving_time": 289,
+      "split": 22,
+      "average_speed": 5.56,
+      "average_grade_adjusted_speed": 5.91,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1607.6,
+      "elapsed_time": 265,
+      "elevation_difference": 0.8,
+      "moving_time": 265,
+      "split": 23,
+      "average_speed": 6.07,
+      "average_grade_adjusted_speed": 6.17,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1607.3,
+      "elapsed_time": 481,
+      "elevation_difference": 45.4,
+      "moving_time": 481,
+      "split": 24,
+      "average_speed": 3.34,
+      "average_grade_adjusted_speed": 3.67,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1613.1,
+      "elapsed_time": 266,
+      "elevation_difference": -15.2,
+      "moving_time": 266,
+      "split": 25,
+      "average_speed": 6.06,
+      "average_grade_adjusted_speed": 6.0,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1609.4,
+      "elapsed_time": 245,
+      "elevation_difference": -1.4,
+      "moving_time": 245,
+      "split": 26,
+      "average_speed": 6.57,
+      "average_grade_adjusted_speed": 6.61,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1605.8,
+      "elapsed_time": 249,
+      "elevation_difference": -1.6,
+      "moving_time": 249,
+      "split": 27,
+      "average_speed": 6.45,
+      "average_grade_adjusted_speed": 6.5,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1613.5,
+      "elapsed_time": 1641,
+      "elevation_difference": 5.0,
+      "moving_time": 299,
+      "split": 28,
+      "average_speed": 5.4,
+      "average_grade_adjusted_speed": 5.47,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1607.2,
+      "elapsed_time": 234,
+      "elevation_difference": -8.8,
+      "moving_time": 234,
+      "split": 29,
+      "average_speed": 6.87,
+      "average_grade_adjusted_speed": 6.81,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1608.9,
+      "elapsed_time": 257,
+      "elevation_difference": -1.4,
+      "moving_time": 257,
+      "split": 30,
+      "average_speed": 6.26,
+      "average_grade_adjusted_speed": 6.26,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1607.9,
+      "elapsed_time": 2417,
+      "elevation_difference": 46.0,
+      "moving_time": 482,
+      "split": 31,
+      "average_speed": 3.34,
+      "average_grade_adjusted_speed": 3.7,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1609.4,
+      "elapsed_time": 698,
+      "elevation_difference": 112.2,
+      "moving_time": 698,
+      "split": 32,
+      "average_speed": 2.31,
+      "average_grade_adjusted_speed": 2.97,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1610.3,
+      "elapsed_time": 692,
+      "elevation_difference": 86.2,
+      "moving_time": 692,
+      "split": 33,
+      "average_speed": 2.33,
+      "average_grade_adjusted_speed": 2.8,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1608.4,
+      "elapsed_time": 648,
+      "elevation_difference": 96.0,
+      "moving_time": 648,
+      "split": 34,
+      "average_speed": 2.48,
+      "average_grade_adjusted_speed": 3.05,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1610.1,
+      "elapsed_time": 715,
+      "elevation_difference": 106.6,
+      "moving_time": 715,
+      "split": 35,
+      "average_speed": 2.25,
+      "average_grade_adjusted_speed": 2.85,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1608.2,
+      "elapsed_time": 464,
+      "elevation_difference": 43.6,
+      "moving_time": 464,
+      "split": 36,
+      "average_speed": 3.47,
+      "average_grade_adjusted_speed": 3.86,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1610.9,
+      "elapsed_time": 663,
+      "elevation_difference": 108.6,
+      "moving_time": 663,
+      "split": 37,
+      "average_speed": 2.43,
+      "average_grade_adjusted_speed": 3.1,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1609.0,
+      "elapsed_time": 488,
+      "elevation_difference": 70.8,
+      "moving_time": 488,
+      "split": 38,
+      "average_speed": 3.3,
+      "average_grade_adjusted_speed": 3.81,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1608.3,
+      "elapsed_time": 2742,
+      "elevation_difference": 25.0,
+      "moving_time": 420,
+      "split": 39,
+      "average_speed": 3.83,
+      "average_grade_adjusted_speed": 4.07,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1614.8,
+      "elapsed_time": 460,
+      "elevation_difference": 56.2,
+      "moving_time": 460,
+      "split": 40,
+      "average_speed": 3.51,
+      "average_grade_adjusted_speed": 4.03,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1608.1,
+      "elapsed_time": 3382,
+      "elevation_difference": 15.6,
+      "moving_time": 286,
+      "split": 41,
+      "average_speed": 5.62,
+      "average_grade_adjusted_speed": 5.95,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1609.9,
+      "elapsed_time": 243,
+      "elevation_difference": -20.8,
+      "moving_time": 243,
+      "split": 42,
+      "average_speed": 6.63,
+      "average_grade_adjusted_speed": 6.71,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1605.1,
+      "elapsed_time": 186,
+      "elevation_difference": -22.4,
+      "moving_time": 186,
+      "split": 43,
+      "average_speed": 8.63,
+      "average_grade_adjusted_speed": 8.62,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1622.8,
+      "elapsed_time": 203,
+      "elevation_difference": -48.4,
+      "moving_time": 203,
+      "split": 44,
+      "average_speed": 7.99,
+      "average_grade_adjusted_speed": 7.72,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1600.2,
+      "elapsed_time": 561,
+      "elevation_difference": -65.6,
+      "moving_time": 161,
+      "split": 45,
+      "average_speed": 9.94,
+      "average_grade_adjusted_speed": 9.3,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1610.8,
+      "elapsed_time": 137,
+      "elevation_difference": -117.8,
+      "moving_time": 137,
+      "split": 46,
+      "average_speed": 11.76,
+      "average_grade_adjusted_speed": 10.48,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1615.7,
+      "elapsed_time": 158,
+      "elevation_difference": -69.2,
+      "moving_time": 158,
+      "split": 47,
+      "average_speed": 10.23,
+      "average_grade_adjusted_speed": 9.41,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1599.9,
+      "elapsed_time": 190,
+      "elevation_difference": -21.0,
+      "moving_time": 190,
+      "split": 48,
+      "average_speed": 8.42,
+      "average_grade_adjusted_speed": 8.28,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1608.7,
+      "elapsed_time": 194,
+      "elevation_difference": -8.0,
+      "moving_time": 194,
+      "split": 49,
+      "average_speed": 8.29,
+      "average_grade_adjusted_speed": 8.24,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1606.7,
+      "elapsed_time": 189,
+      "elevation_difference": -7.2,
+      "moving_time": 189,
+      "split": 50,
+      "average_speed": 8.5,
+      "average_grade_adjusted_speed": 8.45,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1615.7,
+      "elapsed_time": 175,
+      "elevation_difference": -8.8,
+      "moving_time": 175,
+      "split": 51,
+      "average_speed": 9.23,
+      "average_grade_adjusted_speed": 9.17,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1606.9,
+      "elapsed_time": 193,
+      "elevation_difference": -6.6,
+      "moving_time": 193,
+      "split": 52,
+      "average_speed": 8.33,
+      "average_grade_adjusted_speed": 8.28,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1610.1,
+      "elapsed_time": 228,
+      "elevation_difference": 7.2,
+      "moving_time": 228,
+      "split": 53,
+      "average_speed": 7.06,
+      "average_grade_adjusted_speed": 7.13,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1612.3,
+      "elapsed_time": 139,
+      "elevation_difference": -49.8,
+      "moving_time": 139,
+      "split": 54,
+      "average_speed": 11.6,
+      "average_grade_adjusted_speed": 10.89,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1611.0,
+      "elapsed_time": 155,
+      "elevation_difference": -60.6,
+      "moving_time": 155,
+      "split": 55,
+      "average_speed": 10.39,
+      "average_grade_adjusted_speed": 9.6,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1607.9,
+      "elapsed_time": 123,
+      "elevation_difference": -67.4,
+      "moving_time": 123,
+      "split": 56,
+      "average_speed": 13.07,
+      "average_grade_adjusted_speed": 11.98,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1602.6,
+      "elapsed_time": 290,
+      "elevation_difference": -6.2,
+      "moving_time": 245,
+      "split": 57,
+      "average_speed": 6.54,
+      "average_grade_adjusted_speed": 6.5,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1608.5,
+      "elapsed_time": 952,
+      "elevation_difference": -4.0,
+      "moving_time": 263,
+      "split": 58,
+      "average_speed": 6.12,
+      "average_grade_adjusted_speed": 6.1,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1612.1,
+      "elapsed_time": 256,
+      "elevation_difference": -0.6,
+      "moving_time": 256,
+      "split": 59,
+      "average_speed": 6.3,
+      "average_grade_adjusted_speed": 6.3,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1611.2,
+      "elapsed_time": 346,
+      "elevation_difference": -0.8,
+      "moving_time": 274,
+      "split": 60,
+      "average_speed": 5.88,
+      "average_grade_adjusted_speed": 5.88,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1605.5,
+      "elapsed_time": 264,
+      "elevation_difference": 4.2,
+      "moving_time": 264,
+      "split": 61,
+      "average_speed": 6.08,
+      "average_grade_adjusted_speed": 6.13,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1613.4,
+      "elapsed_time": 222,
+      "elevation_difference": -5.2,
+      "moving_time": 222,
+      "split": 62,
+      "average_speed": 7.27,
+      "average_grade_adjusted_speed": 7.24,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1610.0,
+      "elapsed_time": 243,
+      "elevation_difference": 4.8,
+      "moving_time": 243,
+      "split": 63,
+      "average_speed": 6.63,
+      "average_grade_adjusted_speed": 6.67,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1607.1,
+      "elapsed_time": 257,
+      "elevation_difference": 5.6,
+      "moving_time": 257,
+      "split": 64,
+      "average_speed": 6.25,
+      "average_grade_adjusted_speed": 6.31,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1609.4,
+      "elapsed_time": 253,
+      "elevation_difference": -9.2,
+      "moving_time": 253,
+      "split": 65,
+      "average_speed": 6.36,
+      "average_grade_adjusted_speed": 6.31,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1610.4,
+      "elapsed_time": 335,
+      "elevation_difference": 0.8,
+      "moving_time": 255,
+      "split": 66,
+      "average_speed": 6.32,
+      "average_grade_adjusted_speed": 6.33,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1606.0,
+      "elapsed_time": 240,
+      "elevation_difference": -3.4,
+      "moving_time": 240,
+      "split": 67,
+      "average_speed": 6.69,
+      "average_grade_adjusted_speed": 6.69,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1610.7,
+      "elapsed_time": 251,
+      "elevation_difference": -1.6,
+      "moving_time": 251,
+      "split": 68,
+      "average_speed": 6.42,
+      "average_grade_adjusted_speed": 6.42,
+      "pace_zone": 0
+    },
+    {
+      "distance": 696.8,
+      "elapsed_time": 432,
+      "elevation_difference": -2.6,
+      "moving_time": 109,
+      "split": 69,
+      "average_speed": 6.39,
+      "average_grade_adjusted_speed": 6.38,
+      "pace_zone": 0
+    }
+  ],
+  "laps": [
+    {
+      "id": 53340083686,
+      "resource_state": 2,
+      "name": "Lap 1",
+      "activity": {
+        "id": 14996237135,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 34969,
+      "moving_time": 34969,
+      "start_date": "2025-07-03T06:23:54Z",
+      "start_date_local": "2025-07-03T08:23:54Z",
+      "distance": 110135.0,
+      "average_speed": 3.15,
+      "max_speed": 16.8,
+      "lap_index": 1,
+      "split": 1,
+      "start_index": 0,
+      "end_index": 34969,
+      "total_elevation_gain": 1364.6,
+      "device_watts": false,
+      "average_watts": 131.5
+    }
+  ],
+  "gear": {
+    "id": "b16337781",
+    "primary": false,
+    "name": "Betty (Milan ->)",
+    "nickname": "Betty (Milan ->)",
+    "resource_state": 2,
+    "retired": false,
+    "distance": 9056030,
+    "converted_distance": 9056.0
+  },
+  "photos": {
+    "primary": {
+      "unique_id": "ed500ddd-23b8-4416-a6e8-5e9d1539f759",
+      "urls": {
+        "600": "https://dgtzuqphqg23d.cloudfront.net/sO-qPOr12Xezxev0XXlf1GfX9lyj1GZSsqWUMR-oBVM-432x768.jpg",
+        "100": "https://dgtzuqphqg23d.cloudfront.net/sO-qPOr12Xezxev0XXlf1GfX9lyj1GZSsqWUMR-oBVM-72x128.jpg"
+      },
+      "source": 1,
+      "media_type": 1
+    },
+    "use_primary_photo": false,
+    "count": 4
+  },
+  "stats_visibility": [
+    {
+      "type": "heart_rate",
+      "visibility": "everyone"
+    },
+    {
+      "type": "pace",
+      "visibility": "everyone"
+    },
+    {
+      "type": "power",
+      "visibility": "everyone"
+    },
+    {
+      "type": "speed",
+      "visibility": "everyone"
+    },
+    {
+      "type": "calories",
+      "visibility": "everyone"
+    }
+  ],
+  "hide_from_home": false,
+  "embed_token": "3c52e45e26ed28aed1cf8b1df83096df1dcfcc1e",
+  "available_zones": [
+    "power"
+  ]
+}

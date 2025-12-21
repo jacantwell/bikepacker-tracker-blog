@@ -1,0 +1,1114 @@
+{
+  "resource_state": 3,
+  "athlete": {
+    "id": 49023768,
+    "resource_state": 1
+  },
+  "name": "A short break",
+  "distance": 21615.7,
+  "moving_time": 2555,
+  "elapsed_time": 2601,
+  "total_elevation_gain": 87.0,
+  "type": "Ride",
+  "sport_type": "Ride",
+  "workout_type": 10,
+  "device_name": "Wahoo ELEMNT BOLT",
+  "id": 15075520759,
+  "start_date": "2025-07-11T04:07:11Z",
+  "start_date_local": "2025-07-11T06:07:11Z",
+  "timezone": "(GMT+01:00) Europe/Budapest",
+  "utc_offset": 7200.0,
+  "location_city": null,
+  "location_state": null,
+  "location_country": null,
+  "achievement_count": 0,
+  "kudos_count": 11,
+  "comment_count": 1,
+  "athlete_count": 1,
+  "photo_count": 0,
+  "map": {
+    "id": "a15075520759",
+    "polyline": "iyiyG{jqjByEsBs@]gDqAmEiByAi@m@K_AIiGa@eEUiCSq@KaA[c@S_@Yq@i@]_@sAiBeBsC_AmAcA}@{@c@q@Wu@QaBYuo@aKy@SeA]aAo@qAoAuA_B}JwLsHmJmKgMoAyAi@g@m@c@q@]uGqC{Ay@_Au@aOyMeAy@qBkAcEyB}XsOiGeD}A_Aw@s@i@m@iBsCeAmBQYk@m@gBaB_EeDwIqHuE{Do@k@iAwAmNoTiKqO{PsWmGmJ{GeKsAyBiJgNw@cAe@e@c@_@g@]u@]i@MgAOy@EmF@_PFwABeER{@G]Em@OwAi@i@WyA}@k@c@kAcAiAiAsFgF}C}CoB}AsAu@wDaBoGwC_@OcASsEw@eLgByJeBuZ_FgHoAs@OoJ}BgFgAkD{@sAWcBi@g@[kAuAiAcB{AqBoEuGiAoAk@c@]Ok@Ok@GoBIWGWQo@w@M_@WmAmDgTm@aCeAyBcB}CeAwB_Vod@{A{Cy@}Ba@{Am@iC_AcDeEsL}CmJyAsD_@gAQq@]cBq@oEoCwTeGmd@KeAIgAK}FMyAUsAMe@Qc@m@cAOe@oBgOiBcNSiA}AuHw@{EQaBG}BJoDVaDXaFtBeYl@aJt@kJZiDt@gF~Jco@b@uCReCB{BI{B[kCg@oCOm@g@mDSkBImBEwAAmFDwAP_FPoBPwAZiB^gBl@wBlEuNh@wBz@uCFe@AQEOIKq@]aEa@QEMM?UXaBVcEDoBAcANe@DGNIv@DdFIlCBNCd@MRI`@WzAwA|EwFlD{D~@gAtFeGhKoLp@{@|B}Bh@s@Xs@\\aBVcBHqA?}DB_B?aD@oCHsA^kCDe@FaB?oAE{@W}AEe@B{@j@sENw@P_@|@uAP_@Jc@\\kCPq@BC@BBJJNB?BC",
+    "resource_state": 3,
+    "summary_polyline": "iyiyG{jqjByEsBs@]gDqAmEiByAi@m@K_AIiGa@eEUiCSq@KaA[c@S_@Yq@i@]_@sAiBeBsC_AmAcA}@{@c@q@Wu@QaBYuo@aKy@SeA]aAo@qAoAuA_B}JwLsHmJmKgMoAyAi@g@m@c@q@]uGqC{Ay@_Au@aOyMeAy@qBkAcEyB}XsOiGeD}A_Aw@s@i@m@iBsCeAmBQYk@m@gBaB_EeDwIqHuE{Do@k@iAwAmNoTiKqO{PsWmGmJ{GeKsAyBiJgNw@cAe@e@c@_@g@]u@]i@MgAOy@EmF@_PFwABeER{@G]Em@OwAi@i@WyA}@k@c@kAcAiAiAsFgF}C}CoB}AsAu@wDaBoGwC_@OcASsEw@eLgByJeBuZ_FgHoAs@OoJ}BgFgAkD{@sAWcBi@g@[kAuAiAcB{AqBoEuGiAoAk@c@]Ok@Ok@GoBIWGWQo@w@M_@WmAmDgTm@aCeAyBcB}CeAwB_Vod@{A{Cy@}Ba@{Am@iC_AcDeEsL}CmJyAsD_@gAQq@]cBq@oEoCwTeGmd@KeAIgAK}FMyAUsAMe@Qc@m@cAOe@oBgOiBcNSiA}AuHw@{EQaBG}BJoDVaDXaFtBeYl@aJt@kJZiDt@gF~Jco@b@uCReCB{BI{B[kCg@oCOm@g@mDSkBImBEwAAmFDwAP_FPoBPwAZiB^gBl@wBlEuNh@wBz@uCFe@AQEOIKq@]aEa@QEMM?UXaBVcEDoBAcANe@DGNIv@DdFIlCBNCd@MRI`@WzAwA|EwFlD{D~@gAtFeGhKoLp@{@|B}Bh@s@Xs@\\aBVcBHqA?}DB_B?aD@oCHsA^kCDe@FaB?oAE{@W}AEe@B{@j@sENw@P_@|@uAP_@Jc@\\kCPq@BC@BBJJNB?BC"
+  },
+  "trainer": false,
+  "commute": false,
+  "manual": false,
+  "private": false,
+  "visibility": "everyone",
+  "flagged": false,
+  "gear_id": "b16337781",
+  "start_latlng": [
+    46.258297,
+    17.624947
+  ],
+  "end_latlng": [
+    46.353149,
+    17.793371
+  ],
+  "average_speed": 8.46,
+  "max_speed": 14.18,
+  "average_temp": 10,
+  "average_watts": 208.1,
+  "device_watts": false,
+  "kilojoules": 531.6,
+  "has_heartrate": false,
+  "heartrate_opt_out": false,
+  "display_hide_heartrate_option": false,
+  "elev_high": 208.0,
+  "elev_low": 130.4,
+  "upload_id": 16095753935,
+  "upload_id_str": "16095753935",
+  "external_id": "59d10458-bd40-4194-ad33-8f471bfadae2.fit",
+  "from_accepted_tag": false,
+  "pr_count": 0,
+  "total_photo_count": 0,
+  "has_kudoed": false,
+  "description": "Passport application failed \ud83d\ude2d Apparently you have to be in the uk to get a new one so taking a holiday from the holiday to go get it.",
+  "calories": 593.0,
+  "perceived_exertion": null,
+  "prefer_perceived_exertion": false,
+  "segment_efforts": [
+    {
+      "id": 3378629142154037618,
+      "resource_state": 2,
+      "name": "H\u00faz\u00f3 Lip\u00f3tfa el\u00e1gaz\u00f3ig Kadark\u00fat fel\u0151l",
+      "activity": {
+        "id": 15075520759,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 540,
+      "moving_time": 540,
+      "start_date": "2025-07-11T04:09:17Z",
+      "start_date_local": "2025-07-11T06:09:17Z",
+      "distance": 4123.1,
+      "start_index": 126,
+      "end_index": 666,
+      "device_watts": false,
+      "segment": {
+        "id": 13522502,
+        "resource_state": 2,
+        "name": "H\u00faz\u00f3 Lip\u00f3tfa el\u00e1gaz\u00f3ig Kadark\u00fat fel\u0151l",
+        "activity_type": "Ride",
+        "distance": 4123.1,
+        "average_grade": 0.9,
+        "maximum_grade": 6.6,
+        "elevation_high": 208.4,
+        "elevation_low": 169.2,
+        "start_latlng": [
+          46.267445,
+          17.628853
+        ],
+        "end_latlng": [
+          46.300032,
+          17.651976
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "B\u00e1rdudvarnok",
+        "state": null,
+        "country": "Hungary",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3378629142152319346,
+      "resource_state": 2,
+      "name": "Lip\u00f3tfa-el\u00e1gaz\u00f3 - Kaposm\u00e9r\u0151-halast\u00f3 sprint",
+      "activity": {
+        "id": 15075520759,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 767,
+      "moving_time": 721,
+      "start_date": "2025-07-11T04:18:19Z",
+      "start_date_local": "2025-07-11T06:18:19Z",
+      "distance": 6521.8,
+      "start_index": 668,
+      "end_index": 1390,
+      "device_watts": false,
+      "segment": {
+        "id": 7808890,
+        "resource_state": 2,
+        "name": "Lip\u00f3tfa-el\u00e1gaz\u00f3 - Kaposm\u00e9r\u0151-halast\u00f3 sprint",
+        "activity_type": "Ride",
+        "distance": 6521.8,
+        "average_grade": -1.0,
+        "maximum_grade": 5.8,
+        "elevation_high": 203.6,
+        "elevation_low": 140.0,
+        "start_latlng": [
+          46.30013,
+          17.652047
+        ],
+        "end_latlng": [
+          46.351174,
+          17.687085
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "B\u00e1rdudvarnok",
+        "state": "Somogy County",
+        "country": "Hungary",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3378629142152376690,
+      "resource_state": 2,
+      "name": "B\u00e1rdudvarnok downhill  ",
+      "activity": {
+        "id": 15075520759,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 223,
+      "moving_time": 223,
+      "start_date": "2025-07-11T04:27:38Z",
+      "start_date_local": "2025-07-11T06:27:38Z",
+      "distance": 2291.6,
+      "start_index": 1182,
+      "end_index": 1405,
+      "device_watts": false,
+      "segment": {
+        "id": 17469046,
+        "resource_state": 2,
+        "name": "B\u00e1rdudvarnok downhill  ",
+        "activity_type": "Ride",
+        "distance": 2291.6,
+        "average_grade": -2.0,
+        "maximum_grade": 0.9,
+        "elevation_high": 215.6,
+        "elevation_low": 169.8,
+        "start_latlng": [
+          46.332786,
+          17.680078
+        ],
+        "end_latlng": [
+          46.352299,
+          17.688349
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "B\u00e1rdudvarnok",
+        "state": null,
+        "country": "Hungary",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3378629142155317618,
+      "resource_state": 2,
+      "name": "B\u00e1rdudvarnok a lejt\u0151",
+      "activity": {
+        "id": 15075520759,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 35,
+      "moving_time": 35,
+      "start_date": "2025-07-11T04:30:29Z",
+      "start_date_local": "2025-07-11T06:30:29Z",
+      "distance": 439.9,
+      "start_index": 1353,
+      "end_index": 1388,
+      "device_watts": false,
+      "segment": {
+        "id": 22970911,
+        "resource_state": 2,
+        "name": "B\u00e1rdudvarnok a lejt\u0151",
+        "activity_type": "Ride",
+        "distance": 439.9,
+        "average_grade": -4.3,
+        "maximum_grade": -2.2,
+        "elevation_high": 163.4,
+        "elevation_low": 144.6,
+        "start_latlng": [
+          46.347667,
+          17.684203
+        ],
+        "end_latlng": [
+          46.351011,
+          17.686909
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "B\u00e1rdudvarnok",
+        "state": null,
+        "country": "Hungary",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3378629142153619826,
+      "resource_state": 2,
+      "name": "Kaposm\u00e9r\u0151 k\u00f6rforg\u00f3-Kaposv\u00e1r t\u00e1bla",
+      "activity": {
+        "id": 15075520759,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 661,
+      "moving_time": 661,
+      "start_date": "2025-07-11T04:31:41Z",
+      "start_date_local": "2025-07-11T06:31:41Z",
+      "distance": 5840.9,
+      "start_index": 1425,
+      "end_index": 2086,
+      "device_watts": false,
+      "segment": {
+        "id": 8183210,
+        "resource_state": 2,
+        "name": "Kaposm\u00e9r\u0151 k\u00f6rforg\u00f3-Kaposv\u00e1r t\u00e1bla",
+        "activity_type": "Ride",
+        "distance": 5840.9,
+        "average_grade": -0.0,
+        "maximum_grade": 5.2,
+        "elevation_high": 152.7,
+        "elevation_low": 131.1,
+        "start_latlng": [
+          46.353602,
+          17.688835
+        ],
+        "end_latlng": [
+          46.365338,
+          17.757574
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Kaposf\u0151",
+        "state": "Somogy County",
+        "country": "Hungary",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3378629142155429234,
+      "resource_state": 2,
+      "name": "Kaposm\u00e9r\u0151 sprint j\u00f3",
+      "activity": {
+        "id": 15075520759,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 137,
+      "moving_time": 137,
+      "start_date": "2025-07-11T04:32:08Z",
+      "start_date_local": "2025-07-11T06:32:08Z",
+      "distance": 1080.2,
+      "start_index": 1452,
+      "end_index": 1589,
+      "device_watts": false,
+      "segment": {
+        "id": 11431888,
+        "resource_state": 2,
+        "name": "Kaposm\u00e9r\u0151 sprint j\u00f3",
+        "activity_type": "Ride",
+        "distance": 1080.2,
+        "average_grade": 1.5,
+        "maximum_grade": 5.1,
+        "elevation_high": 166.4,
+        "elevation_low": 149.8,
+        "start_latlng": [
+          46.354506,
+          17.691552
+        ],
+        "end_latlng": [
+          46.360469,
+          17.702368
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Kaposf\u0151",
+        "state": "Somogy County",
+        "country": "Hungary",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3378629142152961394,
+      "resource_state": 2,
+      "name": "Kaposm\u00e9r\u0151 fel-le",
+      "activity": {
+        "id": 15075520759,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 218,
+      "moving_time": 218,
+      "start_date": "2025-07-11T04:32:11Z",
+      "start_date_local": "2025-07-11T06:32:11Z",
+      "distance": 1880.5,
+      "start_index": 1455,
+      "end_index": 1673,
+      "device_watts": false,
+      "segment": {
+        "id": 9600446,
+        "resource_state": 2,
+        "name": "Kaposm\u00e9r\u0151 fel-le",
+        "activity_type": "Ride",
+        "distance": 1880.5,
+        "average_grade": 0.1,
+        "maximum_grade": 5.3,
+        "elevation_high": 152.7,
+        "elevation_low": 138.3,
+        "start_latlng": [
+          46.3546,
+          17.691846
+        ],
+        "end_latlng": [
+          46.364282,
+          17.711705
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Kaposm\u00e9r\u00f5",
+        "state": "Somogy County",
+        "country": "Hungary",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3378629142154154354,
+      "resource_state": 2,
+      "name": "Kapos\u00fajlak soromp\u00f3 - Keceli bej\u00e1r\u00f3 soromp\u00f3",
+      "activity": {
+        "id": 15075520759,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 318,
+      "moving_time": 318,
+      "start_date": "2025-07-11T04:37:48Z",
+      "start_date_local": "2025-07-11T06:37:48Z",
+      "distance": 2780.9,
+      "start_index": 1792,
+      "end_index": 2110,
+      "device_watts": false,
+      "segment": {
+        "id": 20997953,
+        "resource_state": 2,
+        "name": "Kapos\u00fajlak soromp\u00f3 - Keceli bej\u00e1r\u00f3 soromp\u00f3",
+        "activity_type": "Ride",
+        "distance": 2780.9,
+        "average_grade": -0.2,
+        "maximum_grade": 5.1,
+        "elevation_high": 141.2,
+        "elevation_low": 131.6,
+        "start_latlng": [
+          46.367161,
+          17.72509
+        ],
+        "end_latlng": [
+          46.365405,
+          17.759556
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Kaposm\u00e9r\u0151",
+        "state": null,
+        "country": "Hungary",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3378629142152286578,
+      "resource_state": 2,
+      "name": "Befut\u00f3 Bajom fel\u0151l j\u00f3",
+      "activity": {
+        "id": 15075520759,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 95,
+      "moving_time": 95,
+      "start_date": "2025-07-11T04:41:02Z",
+      "start_date_local": "2025-07-11T06:41:02Z",
+      "distance": 733.4,
+      "start_index": 1986,
+      "end_index": 2081,
+      "device_watts": false,
+      "segment": {
+        "id": 14461100,
+        "resource_state": 2,
+        "name": "Befut\u00f3 Bajom fel\u0151l j\u00f3",
+        "activity_type": "Ride",
+        "distance": 733.4,
+        "average_grade": 0.8,
+        "maximum_grade": 3.3,
+        "elevation_high": 136.8,
+        "elevation_low": 129.8,
+        "start_latlng": [
+          46.36725,
+          17.748053
+        ],
+        "end_latlng": [
+          46.365276,
+          17.757043
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Kapos\u00fajlak",
+        "state": null,
+        "country": "Hungary",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3378629142153389426,
+      "resource_state": 2,
+      "name": "V\u00e1s\u00e1rt\u00e9ri \u00fat \u00c9-D",
+      "activity": {
+        "id": 15075520759,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 135,
+      "moving_time": 135,
+      "start_date": "2025-07-11T04:46:01Z",
+      "start_date_local": "2025-07-11T06:46:01Z",
+      "distance": 1196.3,
+      "start_index": 2285,
+      "end_index": 2420,
+      "device_watts": false,
+      "segment": {
+        "id": 17255713,
+        "resource_state": 2,
+        "name": "V\u00e1s\u00e1rt\u00e9ri \u00fat \u00c9-D",
+        "activity_type": "Ride",
+        "distance": 1196.3,
+        "average_grade": -0.4,
+        "maximum_grade": 1.3,
+        "elevation_high": 79.2,
+        "elevation_low": 71.4,
+        "start_latlng": [
+          46.364539,
+          17.774245
+        ],
+        "end_latlng": [
+          46.355421,
+          17.781708
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Kaposv\u00e1r",
+        "state": null,
+        "country": "Hungary",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3378629142153662834,
+      "resource_state": 2,
+      "name": "\u00dajpiac t\u00e9r NY-K",
+      "activity": {
+        "id": 15075520759,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 54,
+      "moving_time": 54,
+      "start_date": "2025-07-11T04:49:30Z",
+      "start_date_local": "2025-07-11T06:49:30Z",
+      "distance": 399.7,
+      "start_index": 2494,
+      "end_index": 2548,
+      "device_watts": false,
+      "segment": {
+        "id": 28251420,
+        "resource_state": 2,
+        "name": "\u00dajpiac t\u00e9r NY-K",
+        "activity_type": "Ride",
+        "distance": 399.7,
+        "average_grade": -0.1,
+        "maximum_grade": 4.3,
+        "elevation_high": 128.8,
+        "elevation_low": 127.4,
+        "start_latlng": [
+          46.35424,
+          17.788804
+        ],
+        "end_latlng": [
+          46.353288,
+          17.79352
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Kaposv\u00e1r",
+        "state": null,
+        "country": "Hungary",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    }
+  ],
+  "splits_metric": [
+    {
+      "distance": 1003.5,
+      "elapsed_time": 119,
+      "elevation_difference": -14.0,
+      "moving_time": 119,
+      "split": 1,
+      "average_speed": 8.43,
+      "average_grade_adjusted_speed": 8.22,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1001.3,
+      "elapsed_time": 119,
+      "elevation_difference": 7.2,
+      "moving_time": 119,
+      "split": 2,
+      "average_speed": 8.41,
+      "average_grade_adjusted_speed": 8.57,
+      "pace_zone": 0
+    },
+    {
+      "distance": 995.3,
+      "elapsed_time": 128,
+      "elevation_difference": 11.8,
+      "moving_time": 128,
+      "split": 3,
+      "average_speed": 7.78,
+      "average_grade_adjusted_speed": 7.98,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1004.3,
+      "elapsed_time": 138,
+      "elevation_difference": 10.4,
+      "moving_time": 138,
+      "split": 4,
+      "average_speed": 7.28,
+      "average_grade_adjusted_speed": 7.44,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1001.0,
+      "elapsed_time": 137,
+      "elevation_difference": 8.0,
+      "moving_time": 137,
+      "split": 5,
+      "average_speed": 7.31,
+      "average_grade_adjusted_speed": 7.45,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1002.0,
+      "elapsed_time": 126,
+      "elevation_difference": 0.0,
+      "moving_time": 126,
+      "split": 6,
+      "average_speed": 7.95,
+      "average_grade_adjusted_speed": 7.96,
+      "pace_zone": 0
+    },
+    {
+      "distance": 998.3,
+      "elapsed_time": 165,
+      "elevation_difference": -9.4,
+      "moving_time": 120,
+      "split": 7,
+      "average_speed": 8.32,
+      "average_grade_adjusted_speed": 8.19,
+      "pace_zone": 0
+    },
+    {
+      "distance": 999.7,
+      "elapsed_time": 123,
+      "elevation_difference": 4.2,
+      "moving_time": 123,
+      "split": 8,
+      "average_speed": 8.13,
+      "average_grade_adjusted_speed": 8.2,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1004.0,
+      "elapsed_time": 116,
+      "elevation_difference": -9.6,
+      "moving_time": 116,
+      "split": 9,
+      "average_speed": 8.66,
+      "average_grade_adjusted_speed": 8.51,
+      "pace_zone": 0
+    },
+    {
+      "distance": 998.1,
+      "elapsed_time": 102,
+      "elevation_difference": -11.2,
+      "moving_time": 102,
+      "split": 10,
+      "average_speed": 9.79,
+      "average_grade_adjusted_speed": 9.6,
+      "pace_zone": 0
+    },
+    {
+      "distance": 993.9,
+      "elapsed_time": 100,
+      "elevation_difference": -12.4,
+      "moving_time": 100,
+      "split": 11,
+      "average_speed": 9.94,
+      "average_grade_adjusted_speed": 9.71,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1005.1,
+      "elapsed_time": 92,
+      "elevation_difference": -26.2,
+      "moving_time": 92,
+      "split": 12,
+      "average_speed": 10.93,
+      "average_grade_adjusted_speed": 10.37,
+      "pace_zone": 0
+    },
+    {
+      "distance": 995.4,
+      "elapsed_time": 124,
+      "elevation_difference": 9.0,
+      "moving_time": 124,
+      "split": 13,
+      "average_speed": 8.03,
+      "average_grade_adjusted_speed": 8.25,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1000.1,
+      "elapsed_time": 111,
+      "elevation_difference": -6.8,
+      "moving_time": 111,
+      "split": 14,
+      "average_speed": 9.01,
+      "average_grade_adjusted_speed": 8.9,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1004.3,
+      "elapsed_time": 107,
+      "elevation_difference": -1.4,
+      "moving_time": 107,
+      "split": 15,
+      "average_speed": 9.39,
+      "average_grade_adjusted_speed": 9.41,
+      "pace_zone": 0
+    },
+    {
+      "distance": 994.4,
+      "elapsed_time": 108,
+      "elevation_difference": 0.6,
+      "moving_time": 108,
+      "split": 16,
+      "average_speed": 9.21,
+      "average_grade_adjusted_speed": 9.3,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1006.2,
+      "elapsed_time": 105,
+      "elevation_difference": -8.6,
+      "moving_time": 105,
+      "split": 17,
+      "average_speed": 9.58,
+      "average_grade_adjusted_speed": 9.45,
+      "pace_zone": 0
+    },
+    {
+      "distance": 993.6,
+      "elapsed_time": 131,
+      "elevation_difference": 0.6,
+      "moving_time": 131,
+      "split": 18,
+      "average_speed": 7.58,
+      "average_grade_adjusted_speed": 7.61,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1002.4,
+      "elapsed_time": 118,
+      "elevation_difference": -0.4,
+      "moving_time": 118,
+      "split": 19,
+      "average_speed": 8.49,
+      "average_grade_adjusted_speed": 8.5,
+      "pace_zone": 0
+    },
+    {
+      "distance": 997.4,
+      "elapsed_time": 123,
+      "elevation_difference": -5.0,
+      "moving_time": 123,
+      "split": 20,
+      "average_speed": 8.11,
+      "average_grade_adjusted_speed": 8.13,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1004.6,
+      "elapsed_time": 123,
+      "elevation_difference": 0.6,
+      "moving_time": 123,
+      "split": 21,
+      "average_speed": 8.17,
+      "average_grade_adjusted_speed": 8.18,
+      "pace_zone": 0
+    },
+    {
+      "distance": 610.8,
+      "elapsed_time": 86,
+      "elevation_difference": 0.4,
+      "moving_time": 86,
+      "split": 22,
+      "average_speed": 7.1,
+      "average_grade_adjusted_speed": 7.12,
+      "pace_zone": 0
+    }
+  ],
+  "splits_standard": [
+    {
+      "distance": 1615.3,
+      "elapsed_time": 194,
+      "elevation_difference": -7.4,
+      "moving_time": 194,
+      "split": 1,
+      "average_speed": 8.33,
+      "average_grade_adjusted_speed": 8.29,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1609.2,
+      "elapsed_time": 203,
+      "elevation_difference": 15.6,
+      "moving_time": 203,
+      "split": 2,
+      "average_speed": 7.93,
+      "average_grade_adjusted_speed": 8.1,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1609.6,
+      "elapsed_time": 220,
+      "elevation_difference": 14.6,
+      "moving_time": 220,
+      "split": 3,
+      "average_speed": 7.32,
+      "average_grade_adjusted_speed": 7.47,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1606.2,
+      "elapsed_time": 253,
+      "elevation_difference": -5.4,
+      "moving_time": 208,
+      "split": 4,
+      "average_speed": 7.72,
+      "average_grade_adjusted_speed": 7.69,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1606.7,
+      "elapsed_time": 190,
+      "elevation_difference": 0.4,
+      "moving_time": 190,
+      "split": 5,
+      "average_speed": 8.46,
+      "average_grade_adjusted_speed": 8.47,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1615.6,
+      "elapsed_time": 176,
+      "elevation_difference": -18.0,
+      "moving_time": 176,
+      "split": 6,
+      "average_speed": 9.18,
+      "average_grade_adjusted_speed": 9.0,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1603.7,
+      "elapsed_time": 162,
+      "elevation_difference": -21.0,
+      "moving_time": 162,
+      "split": 7,
+      "average_speed": 9.9,
+      "average_grade_adjusted_speed": 9.66,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1614.2,
+      "elapsed_time": 176,
+      "elevation_difference": -10.8,
+      "moving_time": 176,
+      "split": 8,
+      "average_speed": 9.17,
+      "average_grade_adjusted_speed": 9.11,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1605.8,
+      "elapsed_time": 180,
+      "elevation_difference": -4.8,
+      "moving_time": 180,
+      "split": 9,
+      "average_speed": 8.92,
+      "average_grade_adjusted_speed": 8.9,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1615.0,
+      "elapsed_time": 173,
+      "elevation_difference": -2.0,
+      "moving_time": 173,
+      "split": 10,
+      "average_speed": 9.34,
+      "average_grade_adjusted_speed": 9.36,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1608.1,
+      "elapsed_time": 182,
+      "elevation_difference": -4.0,
+      "moving_time": 182,
+      "split": 11,
+      "average_speed": 8.84,
+      "average_grade_adjusted_speed": 8.82,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1604.5,
+      "elapsed_time": 205,
+      "elevation_difference": -3.0,
+      "moving_time": 205,
+      "split": 12,
+      "average_speed": 7.83,
+      "average_grade_adjusted_speed": 7.85,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1612.3,
+      "elapsed_time": 191,
+      "elevation_difference": -7.0,
+      "moving_time": 191,
+      "split": 13,
+      "average_speed": 8.44,
+      "average_grade_adjusted_speed": 8.39,
+      "pace_zone": 0
+    },
+    {
+      "distance": 689.5,
+      "elapsed_time": 96,
+      "elevation_difference": 0.6,
+      "moving_time": 96,
+      "split": 14,
+      "average_speed": 7.18,
+      "average_grade_adjusted_speed": 7.2,
+      "pace_zone": 0
+    }
+  ],
+  "laps": [
+    {
+      "id": 53624550272,
+      "resource_state": 2,
+      "name": "Lap 1",
+      "activity": {
+        "id": 15075520759,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 2602,
+      "moving_time": 2557,
+      "start_date": "2025-07-11T04:07:11Z",
+      "start_date_local": "2025-07-11T06:07:11Z",
+      "distance": 21624.9,
+      "average_speed": 8.46,
+      "max_speed": 14.18,
+      "lap_index": 1,
+      "split": 1,
+      "start_index": 0,
+      "end_index": 2556,
+      "total_elevation_gain": 91.0,
+      "device_watts": false,
+      "average_watts": 208.1
+    }
+  ],
+  "gear": {
+    "id": "b16337781",
+    "primary": false,
+    "name": "Betty (Milan ->)",
+    "nickname": "Betty (Milan ->)",
+    "resource_state": 2,
+    "retired": false,
+    "distance": 9056030,
+    "converted_distance": 9056.0
+  },
+  "photos": {
+    "primary": null,
+    "count": 0
+  },
+  "stats_visibility": [
+    {
+      "type": "heart_rate",
+      "visibility": "everyone"
+    },
+    {
+      "type": "pace",
+      "visibility": "everyone"
+    },
+    {
+      "type": "power",
+      "visibility": "everyone"
+    },
+    {
+      "type": "speed",
+      "visibility": "everyone"
+    },
+    {
+      "type": "calories",
+      "visibility": "everyone"
+    }
+  ],
+  "hide_from_home": false,
+  "embed_token": "34284af92db8e646380c8ffef75f76708c1a7646",
+  "available_zones": [
+    "power"
+  ]
+}

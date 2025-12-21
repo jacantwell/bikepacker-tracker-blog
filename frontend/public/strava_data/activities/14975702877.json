@@ -1,0 +1,6583 @@
+{
+  "resource_state": 3,
+  "athlete": {
+    "id": 49023768,
+    "resource_state": 1
+  },
+  "name": "\ud83d\ude34",
+  "distance": 134314.0,
+  "moving_time": 23141,
+  "elapsed_time": 38235,
+  "total_elevation_gain": 552.0,
+  "type": "Ride",
+  "sport_type": "Ride",
+  "workout_type": null,
+  "device_name": "Wahoo ELEMNT BOLT",
+  "id": 14975702877,
+  "start_date": "2025-07-01T06:30:02Z",
+  "start_date_local": "2025-07-01T08:30:02Z",
+  "timezone": "(GMT+01:00) Europe/Rome",
+  "utc_offset": 7200.0,
+  "location_city": null,
+  "location_state": null,
+  "location_country": null,
+  "achievement_count": 0,
+  "kudos_count": 11,
+  "comment_count": 0,
+  "athlete_count": 1,
+  "photo_count": 0,
+  "map": {
+    "id": "a14975702877",
+    "polyline": "ygftG}j_bAD[J_@?KIe@KYSsACWHMTFd@RZ@DC^q@J]BWCOQWWMqByAgDyB_@Y_@O_@Yc@U_@]]s@i@sBIc@G}@EKQQm@_@g@So@]qEkBaC}@mDyAwHuCk@Wq@UaC{@_@Ua@MCE_@GyAm@_@U}AaBc@Ua@Mk@K_AHg@KcAe@sAa@aBs@wA_@mBeAi@Se@MWW{FoCe@Ku@W[Sc@CYGUKc@Ok@Ia@M}@i@QCOG]WCMJeAEKECG@EBIZIB_@?KCOKs@cAo@_B]c@Yw@WgAAOO]CO?UCFC@u@_Ac@m@AIOUKW@@@E?QDKBO^_@BWJc@EG@CBLCT@F`@j@II[m@EJo@t@DDB@IEEBJBAGEBDKFALB`ABQJFFGYEIs@g@_@ACB?HNf@?LCHFP]@?BXu@BX^t@Q{@@@EGFAN@GBABI?CABIPOHODMCOMI@MIW?GDGXIPMHU?UUOKOOY@CAEWo@g@_AGCSd@KFAJ\\x@JHHA`@_@DMQUIa@m@j@A@ICOe@Ua@Ia@Qa@MOGQQYa@mAa@}@K]IMWU@ANLN\\AJEHw@h@OTGTORGBKAQJGNODKLC@EEISEo@OWa@{A?EXINOFG@IQe@Q]G_@M_@BCL@DEDe@AKCAM@EFCf@V`ABVNp@RJLE`@[t@w@BI@S?GQi@e@s@K]s@wAAEJItAWd@B~EQd@Bv@Iv@At@Eh@FLHP^DBF?FCDGLc@Bq@?u@H_BD_CFcA@eBEe@Fe@?YGa@BGNKPCrBBTGPAb@At@@LGFUCm@Mc@O[AK@MPa@ScB?OB_@OqACaBQy@Cq@IeAScAOa@GY?i@E[@]_@?o@FICMMKECPGhB@fACHOBOH]Hm@HI?GCIG?_@EMGi@@g@EoADg@AcACg@AqAK_CYuCOcCIy@Si@Rk@DWFm@F]RcBNaAFs@DILGXCFEFQLo@?IEG@]Iu@Bi@ASPoBBgADi@|Ecb@N}ABi@Lu@@[ToAvAkMj@uEd@mEnBwPf@kELoBZ}CpAsIfC}TPqAR_A^{AN]n@sB\\_CLe@PgA^iERqAP{@p@sEhBuO`CiQfAaHT{BpAoJz@uFn@}ErAqKpBaOVgAVm@rCmD|@yAX{@f@eARm@Pm@H_@B_@@o@A_@Q}@KYa@q@SOs@a@OUM]CSCq@He@f@qBh@sCz@mGz@{ELa@j@y@H]@a@Gs@?g@DyALaBf@{CDKRURIHM@KA_@Km@C]Bm@|DsZl@aEtAkKd@_Ep@gEx@{D~@yDpBmKpAcEbBsEZqAJg@B[DyAAiAUgCQo@Aw@UkBq@mCKg@Iy@EiAAoAViBNwAF[FaAPiABe@GWo@{@CQFaABo@?}CEoB?aECyCOwBMmAKc@}@}GIqABYJE?E@BD?AFMAAEKFDHCGADCA@RDH?KHJAHPXBKA@CCA@KEGEA@BCB@AA?FBAFIGGBA?KFBBRCMBIADMCDE?H?EBF@OEMDH?JCM?FDJCCIDDD@?EJBTCLGDGAEGDHBK@@Fm@AGB?DQB?FE@@OFOCCHJTDIBe@H_@AIGDE?Hf@EC?HECABAPFpABVLb@Fy@O_BBg@AMCF?@DI@@AACHKL@CDD@NHQ@BEZ@FCCGDAVCAM^BQR]@J@QFKAn@EFA?FSDC@l@BDSy@OuABf@AFMPDH@MLEBPB?EAGKOBGMwAaLIkA@iADo@PcACaAFeC?gJ@aFBgAA]?_JHuDHuAIaJKgEL}At@kELyCAWIUIKQI]GGG_AuBc@oAUqAGi@YoFo@uHGyAAuCBmHDyBFy@Fw@Ns@|B_Jb@yBFc@JmBHqDJuB?m@EmBScBg@gB_CyGGk@@}@Gi@KU[g@IUGc@EaASsACk@EmDo@oPQgGQ{DAg@D[b@iAFq@Eo@_@eAC_@?gADs@TsOBcEBo@D_DRiLDkBC_AIm@I]w@cBUu@IiAMkEGgA[{DO}@g@oBSq@uAcD{AwCc@aBMq@OuBAyLOwCW{Ao@qCmAiEk@_COe@MQSKy@Si@UOOKWOu@MgA?kAb@oGRqFPuBJyDA}@IeAGo@u@}DKcAAg@GUGIeBWQGIUKs@CeABw@|AsKB[Ea@@a@CQm@iAQk@u@cBw@uBKk@?IQuABUA[GM?e@L_@?WJ_@Aa@H[De@IqA@o@BMGc@Bi@?OBe@@IGg@BOCQ@QI]Fm@Ac@@MG[KUoBkEQs@Ie@EQAqC@MGUA[GQAYGSCULm@HGN_@LSBMEY_@aAAKWi@i@aAUs@c@y@yBaCME]JAKB?DFDALk@?w@JmBHaAT_BLi@\\u@d@o@n@m@X]hC}Ex@mAxAgCfAyBtAaClB{Dp@aAb@]PId@K|A@pACh@I`A[VEVAV@TFXFj@^jBfBTP|Ar@`B~@nCtBRJTHj@Bj@E`AWd@UNQLSTs@b@mCP{AR}FCy@Mq@KUOQiA}@a@e@wBiC]g@qA{BmA{BwAyBa@a@a@]a@YyAw@_@[KOWe@}@oB]{@GUOmAMkCEcCHwBp@mFl@{DToBPkD?oBUqC[}BSaC]mCYkDI}D?_HC}@QmCe@cEQaCi@iGGqBDaAJ}@p@sENuAR}BVmFLmCJoFTgGVmGPmCA_@F}@Cm@z@}QBeARaFJ}AJ{@F]T_@F[AOWaAA]`@cLP{CBMNQx@Wz@S^ErACxD_@`COnEMrDV`@@bDGTEZWX[Pe@Lg@LUTUBGBy@CgA@qACOA[@a@COCEGA]Bc@QIBGJEEAHHJE?QBIKQCJCAFF\\AXCB?XEFALIMDICMDSB^ABGC|@^OGu@aAX?K[?CLKGKP@VLJ@`@ERBHFc@??BOIITHLKIYGVQAG@AEEOG?LP\\B@DMNNQ?CDE?PN@A@GCIEKLJEC@@AFG?SJOPG@GRGHYAK@V_@MDHE@DB?EILS?ML]EE@A`@J`@\\?@UYDBAID?TFA@A?OMOUC?ADKB@BIBINKAKI@FGEB?[N\\KFIL[?d@DNJE@MEk@EIABW?AJBLTLJPu@kDl@hA@`@Ld@RPAIIMEABn@OEGGXGHFADDPGACEEU@C?CAAI@ACABF~@DHLJH?L_@G_@EMGGU?]Y^NABBLBKDRCA@@?F@@BAAMA@HFFe@A]LcGH_@^k@Tc@tB}AtByAZ[Zm@p@_Bb@}@Vs@p@{ArAiCf@u@`@_@ZUNGzAe@|@MhB@rDJnA?xHMhAKl@O|@g@n@i@l@o@\\q@z@gC`AgERk@f@w@JKp@c@NSLkAJ_@Hm@@mJQi[O}AQy@IYi@gAgByCaAwBQW@?MS[o@Og@Q_AgBoTWiCc@oDi@mFq@wIa@{Cm@qDMiAG{@?MP{@BOC]u@{As@{@K]c@}IMmBYcDe@eDiAyGG]Uu@e@w@W[WS_@Qm@OiAAqTRu@AeC[k@OqDo@_@MOMIQCKFWn@sAh@sAFW@WOq@GISw@[u@_@sA[mBu@}Gs@eHOkAg@wFeBsPwBgRS}Bm@_F]sCu@qHaA}I[gDcBcOoBgRWaAYi@cAcAkEuD[g@Wo@aAuFy@_D_@oBQuAi@uGK{@_FaXaGoUm@eCOi@_@m@[Yg@o@aGaGmC{BWWKWEuAEMQSg@a@kAs@cB_@UAu@PU@qAYcCs@SKs@_@mAy@GIC_@CoKGo@Qi@yA{Bq@aA{AsAm@o@sBaC}C}D_GyIaFqIcBoCwF{H]]eBeAuAg@{GmAoFmAqAUeAKcAOu@SkC{@UG_@Cc@?cCFc@DwAZI?GCKUGy@@iANiBDw@?[Gq@a@wAEW[mFCe@@i@BIDGn@WJSFq@NgADUVm@fAuBJg@DoAD]V{@PQ`@WTKp@c@TKXEXKNSb@yE?uDI_@IKIGKCK@u@X_@H_@Dc@?QCOGOMMQQs@OoA[sEOuCEkADo@Lk@Tg@fAeBr@oA^cAReAD_@@aBGcG@w@GkB@m@Ek@EsAIcLIeIEiA?qBJ_ANi@^aAFY?MIUi@c@aB}@w@k@oAiAaAeA]e@w@aBS]oB{Bs@aBSYSWqAy@_Ay@}AkBo@gAc@eAaByFa@eAo@mASe@EUBU^w@Ne@@_@Eo@Oy@k@eCWqAcAmDEUFSZYlBwBbAeBL[@KAKU_@e@m@UUQM]c@w@c@[Yc@o@Sc@Qq@Ci@@w@M{FIo@EkBGi@I}BBSVo@Hc@@g@Ig@O[k@]Q]Uw@a@{BW}@iAqCiLuXaCaGk@}AQs@YiBUeC]cFDUFGH?h@PjB@l@G^OxGuDjAc@n@]p@s@`D{Db@k@PYl@_BRm@FGVKt@q@RSLYZgB`@_Db@_CLeA@i@A[E[Mg@Uo@aA_BwBcCcDuEmAqAUc@k@w@OQwB}AeBwAqBgBg@m@cBcCeD_GsAyCIWC[?MJWlBgDAUIM{BiCsAgB_CoDa@_Ak@wBM[Ya@_A}@}AkBs@mAw@}A{@{Bg@mBM}@Q_CE_B?y@IWeHuBkHaCoDcAeIeCaBi@}@]{C_Ae@Y_@i@QOSA_@DU@g@Ge@Og@ImFcBgAc@yBo@_CeAaA_@eD_Ai@WoAu@aDuBSOs@{@a@q@ISGi@Di@Xq@p@kAb@eAPq@ISECSHGZC@AABGE?b@p@CXH?Bq@KICA?BKANDEGLEW?CC@ED@?@KA@BAELD?ABBGCTNDFGGB@@@UISMDADDKIADDB?DIMJNA@CCBDLBPHMKQCKOBCCCICF@FC@FDFBAEL?D@CCCBD@CA@@DGECIGC@B?CEC@BCKPHPN?DB?AC?@GEKMR`@FBECGOD@ABMK?@@??EDFFXEK?KAFIUDTCIDBB?HJIGC?FBDCBOAODKD?D@JLD@JEJKxCgFl@mAzCuFj@oAb@o@dB{CjFqJT[^[JURq@N]bCaExD{FPa@pCyEzCkHX}@Jg@f@sAFi@DQT[jA_CH]FoBT{Ar@eBX[|@mAXe@L_@Nu@V_At@qDHi@Vw@BCF@HHPV@LD?@GCIc@m@IWY[GWE?P^RV@@FCHUB_@CcAGm@Q_AOi@M_@I{@HuB@eAd@iCNkARw@JkAB]E]YuAIUQo@Sk@SWe@WWEg@Q]S{AsA]i@?DDPCBD@BGMWQ_AISGSg@{@M[Ei@?wDAs@Ec@]qAYq@GY_@cAWe@i@m@[SIEc@AyA?YM}@m@a@a@oA{Bo@_Bk@q@MKOSMa@MmAMu@}AwEKYwAoCgAwAKa@EwAYaCIaAAoBKsBEYM[i@y@Oa@Ia@EaAFaAHo@NgCCwB?qBI{CDmBHiBCcCGoACwA@w@JkA\\}CJoAVgCJgEPsAl@wCBUG]MOOKg@QWAQBg@RSLYXOTKZm@jCc@vAQv@Q^GZMJMBMCKKGKYyAGm@Ko@AgAHqA?g@Dw@ZgCp@qDFm@Lg@^kGE{Ae@aFa@cCGs@@qD@g@Fe@z@iEL_@N[Z]l@e@b@Wb@Q~Aa@^SdAs@tAyA~@qAL]NcAIyGQsEs@iFEg@@KDI?FGKMi@QyAGeAGmFBgFMgDM}AKe@IQy@aAYUMGq@SOAc@DsAj@a@J{AAa@GMGKMEOEU@sBCm@GUIQYWOAO@ODu@f@mAfA}@|A_@XOFMBQAc@U_@]W_@ISCS@UFU`@y@Tk@DYBw@k@_FWiEKw@IYmDeHoCcE{CiF]e@][wCoBk@c@[[aDqE}AcD}@aB}BaDy@aAWg@}@sC_CiESs@Gg@@e@Fi@^sBDaACuAQqAiAyEQc@IMYSMG]IkAM]Gi@WWUIOEe@?QF{@Ag@Ge@GOS]WSMCOA[DsCpA[D[?[GWQmAqAo@c@KE[EeAIY?YFKHS\\EPUbBMd@U^[T_@H]CME}@aA[i@[kBK]gDkEmBsCo@oAuB{EW}@Io@Cw@DaBb@cBRoAd@yBZ}B~@gDPUHEHAzAf@^BRCn@_@xCeCTa@f@iALMNINA`APN?PCPG^[LOf@{@~B_FXk@xAwBz@eA`ByBlC}DJSHq@Cs@o@{De@_FQoBY}FKo@M[MSqAmAg@SQAS@QHu@j@e@JgEPe@NQNc@f@MXU|@YlBU`AGNMHo@GO@s@NQ?OEOKISKgAcAcGKy@QwDIu@g@}BE]A_@FuANy@j@aC\\mAf@cATk@j@gBVaAVqBHiBFWT]BMC[s@mAm@aBa@y@oAuB]y@]e@YQQAkAf@YDOAkAe@u@Mi@F{@R[@g@IoFsAuAYqBQo@Kq@Q{@_@sFyCsAq@_Ao@GOW]I[Hs@@k@RyC`@qEj@wHH{AAiAw@wHkAaJyByKwCkN?i@Jw@@]Ck@McACi@@EDIh@Ep@Qf@]LSNg@TcAdAmCJk@Pa@DUT_@HYr@eBbE}Kb@eAjAcDvAaDH]?EE@IJ?Ev@}A`AgCrBoHd@uAvBuH|@yCnAyEdBeGXsATaB`@_A\\}DVeB\\qAPe@^{@\\_A@c@DYx@eBV_@`@e@r@s@\\Sr@SdC]bAYj@Yd@_@v@{@f@w@tEqIjFoJl@mArMqUxBcEhAeBf@_@^Q`@KfC]z@CxBYp@Fp@GtC_@b@M`@Q\\Y\\_@nHwJf@k@z@qAp@oATi@p@{BXoALw@FeAD_EFsANuARcA\\qAdAiCV]RKVIRMNWD_@E[MUUKe@IIGe@}@i@iA[_AyDiMoAmESgAEm@?_@Bm@Jk@Xq@h@q@pBqBt@}@nBoB`FmFx@y@jH{H`CcCfTcUtAwAr@e@bAYbGu@|@EtBYbAKxCw@x@]h@]nAmAfBsBp@aAb@e@p@k@jByAn@m@|@kAd@aA`@cAPi@Nm@^wCX_Bz@sCf@yATaA~@wGf@}BpQck@`A{BrAuBXYPGTDHF^h@PLJBH@RGX_@F]@a@C_@S}@?c@Dc@Ja@Tg@vA_CVi@d@mAZoAXoATyALmBj@}FLeAZaBX{@d@cAb@q@p@u@dBaBl@y@`@q@|Twd@bAmBtAuC`@eAl@wBj@gC~CsMbAkDtA_E`AiDbBkFb@iBlA{Cv@aBbAwAhAeA\\Sv@_@hBq@b@SzB_BbC{An@k@b@w@Zu@DEFAFBp@l@VZ?DABD?j@`@VHfAv@p@NrCjAnHpCd@RdAn@TDPd@NPHBRCJGNYb@iCJYFKlDuDj@s@xBcCrBeCxCiDZ[hB{AhAs@pCiBh@[tCiB~@g@TGb@GpLeAzBS`@G`@MTOZ_@Te@bDeKdCyG`@s@v@cA^m@|@iBZw@`C{InCoLr@eCLo@LaAX{FFo@?OCMa@i@MYCO@_@d@iDRqCHu@j@qENo@Pm@fB}EhDsHp@eBl@eBh@gBXiA~@yEl@wBVg@Xa@n@s@Ve@j@}Bj@qCTaAbBcFx@aDNYNWTIV?z@PVAVKRSRUp@oAPWtAkAh@m@r@yAX_APeAJmBf@kC^_Ad@q@`@_@tAm@x@e@nDoCh@YFG@Yo@uCKq@Bq@J]D]AaAF}A^eCl@uFd@eFx@yFXwCN}@XiALYX_@L]Jy@LgBv@mGA}@QgA]s@{@wAa@{@ESBGDEFAH@TJxCt@RJ`@b@H@LKD[E]I{EEmAi@oFOsDEkCBaEFiBJwAb@mDVsAxB{Jb@sA\\}@`@{@rB_Ep@s@DMVaAhEeIl@sAZ_AZqAt@uDjD{Od@}AVi@z@}Ap@gB|AuC\\a@v@u@pAwAt@kAfBiE\\iA~@{BbAeDXwAdAoCd@eAXy@`@_BfDgPzC{OF[^o@DMD]@cAx@iEd@mBTsAp@yB\\w@|@eBhCmE~JiPj@{@bBwBn@kAbBmDRi@lBkHXwANoBH]LWD]AOEMe@a@MYE_@?s@NgCNsALsBz@iSB}AAeDBaBJcBRkATuBRcADo@ZoC@UGQ@e@GYh@u@nA}Bn@}@`BoBb@s@Rg@Li@^mAb@}@~@_BvAqCr@wBLo@v@sEX}DbAm[BeCFyBRqB?i@Ck@UuBcBeKIs@MqA?iB\\oEFa@FO`@a@DQ@i@yAqIa@mC{@gHY_DYmFA{@Fc@Ro@@c@GQ_@k@Mg@EUQcCm@kEqByQWeBMgB_CgT[{Ao@oBE[Ag@IUa@g@Yw@kAaEMm@}@uFg@aCo@oE}AaJ]iDKwBE]i@gBi@uBg@{CWuBkBsNg@oE}@oH?GBCB?FJBT@B\\BJDBEACe@CGCAUBa@BEHE\\ALFBEEAO?a@HGDMZC?GGc@qEy@iHEi@?u@AK_@eAc@wDQuB?oAMg@UyBA[C?ELKDGGE?CKGk@S}@QqAEw@@y@A[m@kFQ_A]uDO_ASmBGACHH\\^|BRdBDn@`@~Df@`EFND@BK?Sm@mHOkAw@eJ}A_Le@qBq@cGSaAIaAO{@Qy@A]FW@Ya@qCOcBIwACiABg@AgBCOBUKmA@{BHwC?}BIkBSoBGiAM{AGm@YuAEk@FwA^kFToGj@aEJcBDcCJa@JELAbA@DCA@FSHC`A?z@IJBBA@SI}@FYCEFGAGLGLAO?KHBFAHFFAXEJCBa@BOERBl@PRH_@{AD@?GFBASBKBBDE@F?DCAC@CIHJEHECABGM@KDEEWKI@RBAFL?IAJBC@BA\\CK@BAC?D@IB@@GCP@D?OD\\ESBC@@?AA@B@A@?EAC?KA@@L@B@A@H@EBD@IABAMBOECEJ@UIFCK@PDK?XAI?@Fi@@NJDA@?CI\\BB?HCF@SB?@C?DCBDTCC?@DNEK@BEAEF?CBD@?BODDAM@C?@CDECAKBK?BCD?J@BB]AVBJAGAEC@CK?@?ABJ?CBDAAB?EQEIBLEEBm@@DBJEN?XAEAB?A@D?G@NCUECCODLCI?C@B@AEIBE@PBBAHDBALFAC_@CIEEOCGEY]Go@EaDGgACwCCs@@wAFu@BeBF_ADc@d@qCNg@b@kCRy@L{@XqAZ}BZqAZsDFsAf@aCVw@p@_DFg@h@uCp@qEDg@?aBH}BHaAFmBf@kCVoBX_BNkABg@Ho@?KCIMOeDwBk@c@o@y@{@qBy@mDg@oAm@oBYu@o@aAwAeBe@c@cCaB{@q@oBoAy@u@]g@MYk@mBUkA{@aDuBuGw@yAk@wAi@eC_@iAi@yC[cCEq@BcAHm@r@yBt@{CT}Ah@eHLi@@YAIEGg@KiBm@a@K]OiA[_@QmAUc@[E@KHITKBD@HAPGHK?GCUIYMeAC}@KgBC}FEm@G{CWeGQ_H]iD[uBSgB[sEEiE@oA@MPo@AKIKe@?SBQFQNOl@IbAA|AJxCRxCLr@Ft@LrB@x@IdAsAdFOv@oAlE]f@Cl@G^eD`L]t@MDGO{@oCG]s@oB]yAQi@u@cDeAkDwAgFKk@U_A]kASg@YkAs@wBg@qAYgAc@qA_Rqp@yAaFa@mAmBaHWsAKy@EM]i@w@gCsAuEWsAe@}A}A}FsAsEWw@kAuCWu@Ga@Em@COQ]CKCs@BaAGu@WqBsAwHMwAAw@M_BIq@Mi@}CmIa@q@s@yAk@{AkAcEeAeEwBwH[eBIg@?YDaAAGKE[HIGcAaDWc@cAqCWy@a@aBYg@Yy@k@oASs@_@iBiAmHiBgIg@oAu@sAs@}Ak@qAG_@B_@LYbC_CxAiB^w@Ne@Re@^i@~@gB`A_BvAeE|@{D`@mCPsAP}@j@gEXyAVmBR_AT[bAc@DEA_@i@oDAY@[V_BH}BD_@nCcQt@kFzFg_@l@gE~BsOh@_Dr@qD~@iExAwFhFeQp@kC~@qCnHwVzAcElAuCh@kAnCkFxAiC`A{AtAoBfB_Cz@cAtD}Dt@y@tAgAhDsC@KCMcBgFE[@KDIh@WZ[X]Re@F]@]?}C@OFYDGDCX@f@EDEFUIwLAoOEgBI_BAe@Fe@t@eElBgJv@iGHoBBkBIiBSwBWkAoAwCsAuAgAqAgBuDeDsGc@iAW{@_@wB_@aB}A_G}AkEeAkC{@eBu@kAiAqAsCsCq@}@Qa@Ww@QqAIiBGaC_@sE]qCIuAAwAPoDBgCDyAHcAf@}DJuAD_C@_CEqCHmB`@}ENwC?aAC{CDwAH}@N{@r@aCJg@Hk@Bi@F_ECsH@aCh@iLPuCVkFDaCLaEL_CXsL@qBKqBKq@GkAMi@u@}AuAwDk@yBWwAu@gDQo@_@{@c@s@]a@{C{CyDqEm@w@sAkB_FmGoAgB{AeCeBcCWc@[w@_@{AIq@Cs@F}@Z}ARoAVoFN{FGmBIkASgAc@eBgAwCmBmEa@mAu@kDkBcKKuAKyEYyBg@{A]]SW[s@iB}CaFaKK]C_@Da@p@cB\\iAF]Dq@Bq@A]Mw@YcAOW[W_A]mA]uB{@}Ag@[OIQAWHcA`AsGFoA?_AKoBI_A}@{FE]GiBAiG?OHYDI\\UPQLWPk@\\qBRw@X{A\\eCNkBEIGEy@K[GEGAKJoGMiGKmBWkBGs@E{DCo@QoBOuC]wCSiA[qBGYSc@mB}Cw@cAMYOg@QcA]gDMaCEoBGm@My@Q{@m@kBOU]Wi@]k@Sq@[kCq@UKOQaBaEq@kB[q@w@sBoCkGs@kB[eAy@cDm@sBKm@M{AEaBJqH@_BIoCKwHKqAA{@a@_JG}BYaIAoAMcD_@eICyBe@}NOmHq@sLI}@I{@Oi@oBmEs@cAg@gAu@qAs@cAs@kAeAyAk@aA_@iAw@mCW_B_BeI@m@NiBHw@Py@\\}@p@kAfCoFH]?WMSUSsAg@uA_@}HsA}Cm@{Di@c@IKMYwAMcACk@Fw@Aw@@k@?iAVeD?_AGo@_@eCe@uEa@uIG{AAkAD}ANwD@i@Ai@IIO?cALaFp@y@F[@[GSIOOOa@Eg@JcB@[A[Ki@KY[o@OSOO]GsEH_@GOOQe@a@}BUq@cA{BuCmF_CqGq@{AW_A]}@_@y@[_A}BkFyFcOgBcEQo@g@mAm@cCSk@qAqCKMMAG@c@\\KE_AgB}@mBYu@Sy@MaA?q@RyFTkDTqB`@{CpAoE^u@`B{Ch@sATy@j@eDXmAd@eAXa@Z_@f@c@l@W`EiA`@MRMX[Rc@Lk@Fk@?mAQwCY_Cw@yECY?q@HiA\\}A~BmI@BA[Jw@J{AFeCF{BCiAFwBAe@HiCE}@?q@Bc@?iAKyDKaBWeDi@aKkBmY?_@Fc@l@iANw@NqA@oAKkAQq@Uk@g@o@s@q@SWEOGc@cAaPUyB]aBSo@g@kAc@u@uAwBoAcBaA}@u@_@qF_B{Bu@y@_@wBkAq@i@_@e@q@cAs@wA_BqDiHkOqCwFgAoCoAsDo@{AYe@oAuAUIS@SDQNMZ]vB[rAOXGFK@KAaD}Au@e@}BkAmAu@{@]cD}AqFqC{@_@{DsB{CyAgDeBeCmAaBu@wC{AcFcCmB{@aCmA_CaA}FuCu@YyFwCC@[@OVW?_@VOBm@WuAw@yAm@]KI?[JMLIV]xCKp@SjBShAMRSHUASKMWw@sCq@uBKe@_@_AWcAKYi@cAIUQu@WgBkMwBe@UKYGGBGB@t@Xf@`@`@LZRT@HIf@yCA[QYCSF_@Bw@b@_CHm@B}@Jm@Bw@Fk@J[HG@IE_@@MHYBCFD@EJC?G",
+    "resource_state": 3,
+    "summary_polyline": "ygftG}j_bA[sFrCkBgNqJqBgHy~A_p@iIwP|AaA?HyBj@nBmFoJoO{CxEgAwJjDh@mBuFfSAn@mTlHs@cCg[aC|DgCTgBs\\x_A_nHrJ{RiDeL`VgeBdOsq@oC_VPah@yAgTgC}LpBosAqDyGoB{VrFet@cHu^}Ame@dAo}@mD}X_HqRy@cXkJgTdAc_@}AuLuCsB|AqRoEmNVyWeDiJRyLeIoLtBmMnVga@pL{@lRdLbDeAxAqH@iJaWmZyCaMjCq`@gGw`AdKmvBxc@gCzBwMWE}CvAxBwA}BDNsDxArFViLtR_Ybd@oGhIcUOwf@{IoUcTulBsj@cGfB{Fk]exCuJ}LcWoqA}Q_U}RuFi@sOck@ww@}m@gK}@aXrFcQxFeJSaF{FKsAyP~EcNRqx@e[i]{GaQsBoTdFsHaHeJSyY_Yqr@_BgOdZiOnFgIzAwQuc@yj@aBmEvBcFyU{^sCyQslAw_@oKuI|@sItl@y_AfVap@yAcC`@e`@cHiFkEyV_JmEiOo]uCuVpDoaAeEImDxK}AoEpCu[iAuVxAeGjOeN}C_u@_NaCeAuG}KbD[gWcg@it@qEqKw@oTmG{Cm@_GwQaBaF`G}Pa[xC{Y`SwH`RaZ{BoZaDaE{IrAwD~IsD@qDcYfHy[gCeGeDgF{[aCuO{IjBe]}Kyx@xCyAbVip@|XgfArOoInd@cy@fVyDvOiTrCwVpEuIoMo\\NaHhw@uy@fYwFhRiSp\\}mAnDkGfDZxJqj@hc@ux@dWc{@nVuRx[jPzXg^ne@aPbYyz@fCcd@z\\kcAdLcIxEkQrKeH]oNxJcs@uCaJ|GjAoAga@hE_Y~Ok\\~Ha]fSq_@fXsjAj_@ys@tE{kAnRm_@tD{t@}@wb@oEii@sK{{@sSyeAsFkc@kHcn@{KmdA_@ez@hAkMdHgAoA_^fRwtAsGoFuGwQeOkMoLm_@gAsKbEkW}MaDaDqfAwBlCx@nVwLn`@m_AycDqEk`@ej@{gBtMySlLwd@CcOfZghB~Ya_Ap_@ye@iBiHhFqL]ud@bF}YO}LqOuY}Jw\\sKwNcCqXvJc~CeIeX_a@ci@^sa@eImW}CmXmMcWx@kOsLqFpA_OcB}XxEwSkBw@yAyg@gMcl@gJkE{Pwe@sGw{BuN}XoE}RnGyTu[sHoBg{@qLv@qBgKqHe@sn@uyArAgXxIcXlNaMgBkShDqNp@cXgEoz@vAgJiHua@gIkMgTqJs\\mr@gEvGs|A_v@yKeAuDvLeH}UeOoDbEnA|C_Y"
+  },
+  "trainer": false,
+  "commute": false,
+  "manual": false,
+  "private": false,
+  "visibility": "everyone",
+  "flagged": false,
+  "gear_id": "b16337781",
+  "start_latlng": [
+    45.420933,
+    10.979198
+  ],
+  "end_latlng": [
+    45.48138,
+    12.238475
+  ],
+  "average_speed": 5.804,
+  "max_speed": 15.06,
+  "average_temp": 33,
+  "average_watts": 119.6,
+  "device_watts": false,
+  "kilojoules": 2766.9,
+  "has_heartrate": false,
+  "heartrate_opt_out": false,
+  "display_hide_heartrate_option": false,
+  "elev_high": 242.2,
+  "elev_low": -6.0,
+  "upload_id": 15986016894,
+  "upload_id_str": "15986016894",
+  "external_id": "a67e70fa-cd67-4334-9e5a-0608b022aece.fit",
+  "from_accepted_tag": false,
+  "pr_count": 0,
+  "total_photo_count": 2,
+  "has_kudoed": false,
+  "description": "So boring that I started to listen to a podcast about React Native \ud83e\udd22",
+  "calories": 3085.0,
+  "perceived_exertion": null,
+  "prefer_perceived_exertion": false,
+  "segment_efforts": [
+    {
+      "id": 3375193530023196416,
+      "resource_state": 2,
+      "name": "Viale Piave dir. Centro",
+      "activity": {
+        "id": 14975702877,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 107,
+      "moving_time": 107,
+      "start_date": "2025-07-01T06:32:12Z",
+      "start_date_local": "2025-07-01T08:32:12Z",
+      "distance": 654.0,
+      "start_index": 130,
+      "end_index": 237,
+      "device_watts": false,
+      "segment": {
+        "id": 28535624,
+        "resource_state": 2,
+        "name": "Viale Piave dir. Centro",
+        "activity_type": "Ride",
+        "distance": 654.0,
+        "average_grade": -0.2,
+        "maximum_grade": 2.9,
+        "elevation_high": 56.6,
+        "elevation_low": 53.8,
+        "start_latlng": [
+          45.423403,
+          10.984331
+        ],
+        "end_latlng": [
+          45.429045,
+          10.987192
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Verona",
+        "state": "Veneto",
+        "country": "Italy",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3375193530022391552,
+      "resource_state": 2,
+      "name": "Ciclabile Corso Venezia vs E [dn]",
+      "activity": {
+        "id": 14975702877,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 298,
+      "moving_time": 298,
+      "start_date": "2025-07-01T07:28:12Z",
+      "start_date_local": "2025-07-01T09:28:12Z",
+      "distance": 1746.9,
+      "start_index": 3490,
+      "end_index": 3788,
+      "device_watts": false,
+      "segment": {
+        "id": 13154895,
+        "resource_state": 2,
+        "name": "Ciclabile Corso Venezia vs E [dn]",
+        "activity_type": "Ride",
+        "distance": 1746.9,
+        "average_grade": -0.5,
+        "maximum_grade": 3.1,
+        "elevation_high": 58.0,
+        "elevation_low": 49.0,
+        "start_latlng": [
+          45.439174,
+          11.017058
+        ],
+        "end_latlng": [
+          45.434958,
+          11.038162
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Verona",
+        "state": "Veneto",
+        "country": "Italy",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3375193530020524800,
+      "resource_state": 2,
+      "name": "San. Michele extra/ Semaforo Ferrazze",
+      "activity": {
+        "id": 14975702877,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 422,
+      "moving_time": 422,
+      "start_date": "2025-07-01T07:34:47Z",
+      "start_date_local": "2025-07-01T09:34:47Z",
+      "distance": 3040.5,
+      "start_index": 3885,
+      "end_index": 4307,
+      "device_watts": false,
+      "segment": {
+        "id": 22015625,
+        "resource_state": 2,
+        "name": "San. Michele extra/ Semaforo Ferrazze",
+        "activity_type": "Ride",
+        "distance": 3040.5,
+        "average_grade": -0.3,
+        "maximum_grade": 1.1,
+        "elevation_high": 166.6,
+        "elevation_low": 157.4,
+        "start_latlng": [
+          45.433309,
+          11.045372
+        ],
+        "end_latlng": [
+          45.425486,
+          11.080787
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Verona",
+        "state": "Veneto",
+        "country": "Italy",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3375193530021768960,
+      "resource_state": 2,
+      "name": "Via Sant'Antonio vs E [dn]",
+      "activity": {
+        "id": 14975702877,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 209,
+      "moving_time": 209,
+      "start_date": "2025-07-01T07:38:41Z",
+      "start_date_local": "2025-07-01T09:38:41Z",
+      "distance": 1386.8,
+      "start_index": 4119,
+      "end_index": 4328,
+      "device_watts": false,
+      "segment": {
+        "id": 13154793,
+        "resource_state": 2,
+        "name": "Via Sant'Antonio vs E [dn]",
+        "activity_type": "Ride",
+        "distance": 1386.8,
+        "average_grade": -0.2,
+        "maximum_grade": 3.5,
+        "elevation_high": 50.2,
+        "elevation_low": 44.7,
+        "start_latlng": [
+          45.428716,
+          11.06609
+        ],
+        "end_latlng": [
+          45.425113,
+          11.082365
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": null,
+        "state": "Veneto",
+        "country": "Italy",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3375193530021774080,
+      "resource_state": 2,
+      "name": "Strappo San Giacomo",
+      "activity": {
+        "id": 14975702877,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 109,
+      "moving_time": 109,
+      "start_date": "2025-07-01T08:16:52Z",
+      "start_date_local": "2025-07-01T10:16:52Z",
+      "distance": 510.5,
+      "start_index": 6410,
+      "end_index": 6519,
+      "device_watts": false,
+      "segment": {
+        "id": 35777043,
+        "resource_state": 2,
+        "name": "Strappo San Giacomo",
+        "activity_type": "Ride",
+        "distance": 510.5,
+        "average_grade": 2.2,
+        "maximum_grade": 6.3,
+        "elevation_high": 57.8,
+        "elevation_low": 46.3,
+        "start_latlng": [
+          45.424083,
+          11.114007
+        ],
+        "end_latlng": [
+          45.42372,
+          11.120378
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "San Martino Buon Albergo",
+        "state": "Veneto",
+        "country": "Italy",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3375193530022305536,
+      "resource_state": 2,
+      "name": "Casette-S.Giacomo",
+      "activity": {
+        "id": 14975702877,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 83,
+      "moving_time": 83,
+      "start_date": "2025-07-01T08:17:42Z",
+      "start_date_local": "2025-07-01T10:17:42Z",
+      "distance": 329.5,
+      "start_index": 6460,
+      "end_index": 6543,
+      "device_watts": false,
+      "segment": {
+        "id": 19185283,
+        "resource_state": 2,
+        "name": "Casette-S.Giacomo",
+        "activity_type": "Ride",
+        "distance": 329.5,
+        "average_grade": 3.5,
+        "maximum_grade": 6.6,
+        "elevation_high": 84.8,
+        "elevation_low": 72.2,
+        "start_latlng": [
+          45.424111,
+          11.117709
+        ],
+        "end_latlng": [
+          45.424357,
+          11.121185
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "San Martino Buon Albergo",
+        "state": "Veneto",
+        "country": "Italy",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3375193530023516928,
+      "resource_state": 2,
+      "name": "strappo san giacomo 4 strade",
+      "activity": {
+        "id": 14975702877,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 196,
+      "moving_time": 196,
+      "start_date": "2025-07-01T08:17:49Z",
+      "start_date_local": "2025-07-01T10:17:49Z",
+      "distance": 1160.7,
+      "start_index": 6467,
+      "end_index": 6663,
+      "device_watts": false,
+      "segment": {
+        "id": 19195043,
+        "resource_state": 2,
+        "name": "strappo san giacomo 4 strade",
+        "activity_type": "Ride",
+        "distance": 1160.7,
+        "average_grade": 0.2,
+        "maximum_grade": 8.2,
+        "elevation_high": -11.8,
+        "elevation_low": -26.8,
+        "start_latlng": [
+          45.424016,
+          11.118192
+        ],
+        "end_latlng": [
+          45.423996,
+          11.131965
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "San Martino Buon Albergo",
+        "state": "Veneto",
+        "country": "Italy",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3375193530020440832,
+      "resource_state": 2,
+      "name": "San Giacomo-4 strade",
+      "activity": {
+        "id": 14975702877,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 223,
+      "moving_time": 223,
+      "start_date": "2025-07-01T08:18:37Z",
+      "start_date_local": "2025-07-01T10:18:37Z",
+      "distance": 1419.5,
+      "start_index": 6515,
+      "end_index": 6738,
+      "device_watts": false,
+      "segment": {
+        "id": 35865642,
+        "resource_state": 2,
+        "name": "San Giacomo-4 strade",
+        "activity_type": "Ride",
+        "distance": 1419.5,
+        "average_grade": -0.4,
+        "maximum_grade": 6.0,
+        "elevation_high": 59.0,
+        "elevation_low": 42.6,
+        "start_latlng": [
+          45.423661,
+          11.120276
+        ],
+        "end_latlng": [
+          45.424864,
+          11.137012
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Lavagno",
+        "state": "Veneto",
+        "country": "Italy",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3375193530020635392,
+      "resource_state": 2,
+      "name": "Spaccagambe 2",
+      "activity": {
+        "id": 14975702877,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 414,
+      "moving_time": 414,
+      "start_date": "2025-07-01T08:34:32Z",
+      "start_date_local": "2025-07-01T10:34:32Z",
+      "distance": 842.0,
+      "start_index": 7470,
+      "end_index": 7884,
+      "device_watts": false,
+      "segment": {
+        "id": 17102467,
+        "resource_state": 2,
+        "name": "Spaccagambe 2",
+        "activity_type": "Ride",
+        "distance": 842.0,
+        "average_grade": 10.5,
+        "maximum_grade": 28.6,
+        "elevation_high": 162.0,
+        "elevation_low": 74.0,
+        "start_latlng": [
+          45.430275,
+          11.181002
+        ],
+        "end_latlng": [
+          45.431927,
+          11.191363
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 1,
+        "city": "Colognola Ai Colli",
+        "state": "Veneto",
+        "country": "Italy",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3375193530022094592,
+      "resource_state": 2,
+      "name": "UP Spacca gambe & DOWN Panoramica /Soave",
+      "activity": {
+        "id": 14975702877,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 1317,
+      "moving_time": 1175,
+      "start_date": "2025-07-01T08:34:41Z",
+      "start_date_local": "2025-07-01T10:34:41Z",
+      "distance": 6123.7,
+      "start_index": 7479,
+      "end_index": 8796,
+      "device_watts": false,
+      "segment": {
+        "id": 22114178,
+        "resource_state": 2,
+        "name": "UP Spacca gambe & DOWN Panoramica /Soave",
+        "activity_type": "Ride",
+        "distance": 6123.7,
+        "average_grade": -0.7,
+        "maximum_grade": 15.7,
+        "elevation_high": 213.0,
+        "elevation_low": 69.4,
+        "start_latlng": [
+          45.430523,
+          11.181404
+        ],
+        "end_latlng": [
+          45.426268,
+          11.240911
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Colognola Ai Colli",
+        "state": "Veneto",
+        "country": "Italy",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3375193530021133056,
+      "resource_state": 2,
+      "name": "Colognola arbitraria 1",
+      "activity": {
+        "id": 14975702877,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 230,
+      "moving_time": 230,
+      "start_date": "2025-07-01T08:34:44Z",
+      "start_date_local": "2025-07-01T10:34:44Z",
+      "distance": 510.7,
+      "start_index": 7482,
+      "end_index": 7712,
+      "device_watts": false,
+      "segment": {
+        "id": 33006413,
+        "resource_state": 2,
+        "name": "Colognola arbitraria 1",
+        "activity_type": "Ride",
+        "distance": 510.7,
+        "average_grade": 8.8,
+        "maximum_grade": 12.0,
+        "elevation_high": 117.6,
+        "elevation_low": 72.6,
+        "start_latlng": [
+          45.430575,
+          11.181522
+        ],
+        "end_latlng": [
+          45.431303,
+          11.187674
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Colognola Ai Colli",
+        "state": "Veneto",
+        "country": "Italy",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3375193530019681024,
+      "resource_state": 2,
+      "name": "Panoramica downhill",
+      "activity": {
+        "id": 14975702877,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 238,
+      "moving_time": 238,
+      "start_date": "2025-07-01T08:46:43Z",
+      "start_date_local": "2025-07-01T10:46:43Z",
+      "distance": 2526.6,
+      "start_index": 8201,
+      "end_index": 8439,
+      "device_watts": false,
+      "segment": {
+        "id": 8313017,
+        "resource_state": 2,
+        "name": "Panoramica downhill",
+        "activity_type": "Ride",
+        "distance": 2526.6,
+        "average_grade": -5.1,
+        "maximum_grade": 6.6,
+        "elevation_high": 179.0,
+        "elevation_low": 49.2,
+        "start_latlng": [
+          45.432812,
+          11.196071
+        ],
+        "end_latlng": [
+          45.42703,
+          11.212055
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Colognola Ai Colli",
+        "state": "Veneto",
+        "country": "Italy",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3375193530019975936,
+      "resource_state": 2,
+      "name": "Orgnano - Soave (SP37)",
+      "activity": {
+        "id": 14975702877,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 387,
+      "moving_time": 387,
+      "start_date": "2025-07-01T08:50:12Z",
+      "start_date_local": "2025-07-01T10:50:12Z",
+      "distance": 2594.5,
+      "start_index": 8410,
+      "end_index": 8797,
+      "device_watts": false,
+      "segment": {
+        "id": 16154245,
+        "resource_state": 2,
+        "name": "Orgnano - Soave (SP37)",
+        "activity_type": "Ride",
+        "distance": 2594.5,
+        "average_grade": -1.0,
+        "maximum_grade": 4.1,
+        "elevation_high": 56.0,
+        "elevation_low": 29.0,
+        "start_latlng": [
+          45.427019,
+          11.20854
+        ],
+        "end_latlng": [
+          45.426209,
+          11.241037
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": null,
+        "state": null,
+        "country": null,
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3375193530020072192,
+      "resource_state": 2,
+      "name": "Soave verso Cantina Monte Tondo",
+      "activity": {
+        "id": 14975702877,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 268,
+      "moving_time": 268,
+      "start_date": "2025-07-01T09:21:25Z",
+      "start_date_local": "2025-07-01T11:21:25Z",
+      "distance": 1410.5,
+      "start_index": 10283,
+      "end_index": 10551,
+      "device_watts": false,
+      "segment": {
+        "id": 16154230,
+        "resource_state": 2,
+        "name": "Soave verso Cantina Monte Tondo",
+        "activity_type": "Ride",
+        "distance": 1410.5,
+        "average_grade": -0.2,
+        "maximum_grade": 4.5,
+        "elevation_high": 36.0,
+        "elevation_low": 28.0,
+        "start_latlng": [
+          45.419508,
+          11.249945
+        ],
+        "end_latlng": [
+          45.409295,
+          11.257728
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Soave",
+        "state": "Veneto",
+        "country": "Italy",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3375193530022236928,
+      "resource_state": 2,
+      "name": "Soave Monteforte",
+      "activity": {
+        "id": 14975702877,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 301,
+      "moving_time": 269,
+      "start_date": "2025-07-01T09:26:07Z",
+      "start_date_local": "2025-07-01T11:26:07Z",
+      "distance": 1703.7,
+      "start_index": 10565,
+      "end_index": 10866,
+      "device_watts": false,
+      "segment": {
+        "id": 18402897,
+        "resource_state": 2,
+        "name": "Soave Monteforte",
+        "activity_type": "Ride",
+        "distance": 1703.7,
+        "average_grade": -0.2,
+        "maximum_grade": 4.6,
+        "elevation_high": 42.2,
+        "elevation_low": 34.4,
+        "start_latlng": [
+          45.409084,
+          11.258443
+        ],
+        "end_latlng": [
+          45.412692,
+          11.278993
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Soave",
+        "state": "Veneto",
+        "country": "Italy",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3375193530020223744,
+      "resource_state": 2,
+      "name": "Cavalcavia monteforte",
+      "activity": {
+        "id": 14975702877,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 67,
+      "moving_time": 67,
+      "start_date": "2025-07-01T09:31:37Z",
+      "start_date_local": "2025-07-01T11:31:37Z",
+      "distance": 367.6,
+      "start_index": 10895,
+      "end_index": 10962,
+      "device_watts": false,
+      "segment": {
+        "id": 11413021,
+        "resource_state": 2,
+        "name": "Cavalcavia monteforte",
+        "activity_type": "Ride",
+        "distance": 367.6,
+        "average_grade": 0.4,
+        "maximum_grade": 2.5,
+        "elevation_high": 33.4,
+        "elevation_low": 30.1,
+        "start_latlng": [
+          45.413147,
+          11.280874
+        ],
+        "end_latlng": [
+          45.413918,
+          11.285424
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Monteforte d'Alpone",
+        "state": "Veneto",
+        "country": "Italy",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3375193530020650752,
+      "resource_state": 2,
+      "name": "Sarmazza UP&DOWN",
+      "activity": {
+        "id": 14975702877,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 60,
+      "moving_time": 60,
+      "start_date": "2025-07-01T09:35:18Z",
+      "start_date_local": "2025-07-01T11:35:18Z",
+      "distance": 344.8,
+      "start_index": 11116,
+      "end_index": 11176,
+      "device_watts": false,
+      "segment": {
+        "id": 27024906,
+        "resource_state": 2,
+        "name": "Sarmazza UP&DOWN",
+        "activity_type": "Ride",
+        "distance": 344.8,
+        "average_grade": -1.5,
+        "maximum_grade": 10.9,
+        "elevation_high": 54.4,
+        "elevation_low": 42.8,
+        "start_latlng": [
+          45.420893,
+          11.288078
+        ],
+        "end_latlng": [
+          45.421523,
+          11.292061
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Monteforte d'Alpone",
+        "state": "Veneto",
+        "country": "Italy",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3375193530020124416,
+      "resource_state": 2,
+      "name": "Sarmazza",
+      "activity": {
+        "id": 14975702877,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 1143,
+      "moving_time": 281,
+      "start_date": "2025-07-01T09:36:05Z",
+      "start_date_local": "2025-07-01T11:36:05Z",
+      "distance": 1833.3,
+      "start_index": 11163,
+      "end_index": 12306,
+      "device_watts": false,
+      "segment": {
+        "id": 13712852,
+        "resource_state": 2,
+        "name": "Sarmazza",
+        "activity_type": "Ride",
+        "distance": 1833.3,
+        "average_grade": -0.8,
+        "maximum_grade": 5.4,
+        "elevation_high": 44.4,
+        "elevation_low": 26.2,
+        "start_latlng": [
+          45.421281,
+          11.290531
+        ],
+        "end_latlng": [
+          45.425452,
+          11.313231
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Monteforte d'Alpone",
+        "state": "Veneto",
+        "country": "Italy",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3375193530019375872,
+      "resource_state": 2,
+      "name": "Monteforte-Sorio crono",
+      "activity": {
+        "id": 14975702877,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 1749,
+      "moving_time": 887,
+      "start_date": "2025-07-01T09:37:21Z",
+      "start_date_local": "2025-07-01T11:37:21Z",
+      "distance": 5435.5,
+      "start_index": 11239,
+      "end_index": 12988,
+      "device_watts": false,
+      "segment": {
+        "id": 9735884,
+        "resource_state": 2,
+        "name": "Monteforte-Sorio crono",
+        "activity_type": "Ride",
+        "distance": 5435.5,
+        "average_grade": 0.1,
+        "maximum_grade": 6.5,
+        "elevation_high": -25.0,
+        "elevation_low": -30.4,
+        "start_latlng": [
+          45.422585,
+          11.297837
+        ],
+        "end_latlng": [
+          45.450634,
+          11.347284
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": null,
+        "state": "Veneto",
+        "country": "Italy",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3375193530019929856,
+      "resource_state": 2,
+      "name": "Da Sarmazza al torrente Chiampo",
+      "activity": {
+        "id": 14975702877,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 276,
+      "moving_time": 276,
+      "start_date": "2025-07-01T09:56:48Z",
+      "start_date_local": "2025-07-01T11:56:48Z",
+      "distance": 1651.8,
+      "start_index": 12406,
+      "end_index": 12682,
+      "device_watts": false,
+      "segment": {
+        "id": 15090329,
+        "resource_state": 2,
+        "name": "Da Sarmazza al torrente Chiampo",
+        "activity_type": "Ride",
+        "distance": 1651.8,
+        "average_grade": 0.2,
+        "maximum_grade": 12.6,
+        "elevation_high": 36.0,
+        "elevation_low": 30.9,
+        "start_latlng": [
+          45.428356,
+          11.319076
+        ],
+        "end_latlng": [
+          45.437388,
+          11.333509
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": null,
+        "state": "Veneto",
+        "country": "Italy",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3375193530023018240,
+      "resource_state": 2,
+      "name": "Via Casetta - via Verdi",
+      "activity": {
+        "id": 14975702877,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 315,
+      "moving_time": 315,
+      "start_date": "2025-07-01T10:01:25Z",
+      "start_date_local": "2025-07-01T12:01:25Z",
+      "distance": 2019.8,
+      "start_index": 12683,
+      "end_index": 12998,
+      "device_watts": false,
+      "segment": {
+        "id": 15090360,
+        "resource_state": 2,
+        "name": "Via Casetta - via Verdi",
+        "activity_type": "Ride",
+        "distance": 2019.8,
+        "average_grade": -0.0,
+        "maximum_grade": 2.6,
+        "elevation_high": 35.9,
+        "elevation_low": 34.0,
+        "start_latlng": [
+          45.437422,
+          11.333549
+        ],
+        "end_latlng": [
+          45.451207,
+          11.347281
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": null,
+        "state": "Veneto",
+        "country": "Italy",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3375193530021874432,
+      "resource_state": 2,
+      "name": "Monte sorio completo",
+      "activity": {
+        "id": 14975702877,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 157,
+      "moving_time": 157,
+      "start_date": "2025-07-01T10:08:23Z",
+      "start_date_local": "2025-07-01T12:08:23Z",
+      "distance": 885.2,
+      "start_index": 13101,
+      "end_index": 13258,
+      "device_watts": false,
+      "segment": {
+        "id": 15144280,
+        "resource_state": 2,
+        "name": "Monte sorio completo",
+        "activity_type": "Ride",
+        "distance": 885.2,
+        "average_grade": 0.2,
+        "maximum_grade": 20.1,
+        "elevation_high": 68.8,
+        "elevation_low": 42.2,
+        "start_latlng": [
+          45.452123,
+          11.351957
+        ],
+        "end_latlng": [
+          45.45185,
+          11.360017
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Gambellara",
+        "state": "Veneto",
+        "country": "Italy",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3375193530020651776,
+      "resource_state": 2,
+      "name": "Retilineo Alla Pr\u00e0",
+      "activity": {
+        "id": 14975702877,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 118,
+      "moving_time": 118,
+      "start_date": "2025-07-01T10:11:04Z",
+      "start_date_local": "2025-07-01T12:11:04Z",
+      "distance": 784.3,
+      "start_index": 13262,
+      "end_index": 13380,
+      "device_watts": false,
+      "segment": {
+        "id": 15144261,
+        "resource_state": 2,
+        "name": "Retilineo Alla Pr\u00e0",
+        "activity_type": "Ride",
+        "distance": 784.3,
+        "average_grade": -0.6,
+        "maximum_grade": 2.6,
+        "elevation_high": 44.0,
+        "elevation_low": 38.5,
+        "start_latlng": [
+          45.451722,
+          11.360507
+        ],
+        "end_latlng": [
+          45.450968,
+          11.370008
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": null,
+        "state": "Veneto",
+        "country": "Italy",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3375193530021924608,
+      "resource_state": 2,
+      "name": "Borgolecco in salita",
+      "activity": {
+        "id": 14975702877,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 151,
+      "moving_time": 151,
+      "start_date": "2025-07-01T10:13:40Z",
+      "start_date_local": "2025-07-01T12:13:40Z",
+      "distance": 769.8,
+      "start_index": 13418,
+      "end_index": 13569,
+      "device_watts": false,
+      "segment": {
+        "id": 15144214,
+        "resource_state": 2,
+        "name": "Borgolecco in salita",
+        "activity_type": "Ride",
+        "distance": 769.8,
+        "average_grade": 1.4,
+        "maximum_grade": 8.3,
+        "elevation_high": 56.0,
+        "elevation_low": 44.1,
+        "start_latlng": [
+          45.451008,
+          11.371975
+        ],
+        "end_latlng": [
+          45.456108,
+          11.378403
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": null,
+        "state": "Veneto",
+        "country": "Italy",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3375193530021816064,
+      "resource_state": 2,
+      "name": "Retilineo Ronchi",
+      "activity": {
+        "id": 14975702877,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 136,
+      "moving_time": 136,
+      "start_date": "2025-07-01T10:20:22Z",
+      "start_date_local": "2025-07-01T12:20:22Z",
+      "distance": 819.4,
+      "start_index": 13820,
+      "end_index": 13956,
+      "device_watts": false,
+      "segment": {
+        "id": 14502469,
+        "resource_state": 2,
+        "name": "Retilineo Ronchi",
+        "activity_type": "Ride",
+        "distance": 819.4,
+        "average_grade": 0.3,
+        "maximum_grade": 0.9,
+        "elevation_high": 55.8,
+        "elevation_low": 52.0,
+        "start_latlng": [
+          45.45801,
+          11.391368
+        ],
+        "end_latlng": [
+          45.461898,
+          11.400208
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Montebello Vicentino",
+        "state": "Veneto",
+        "country": "Italy",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3375193530023265024,
+      "resource_state": 2,
+      "name": "Pedocchio",
+      "activity": {
+        "id": 14975702877,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 302,
+      "moving_time": 302,
+      "start_date": "2025-07-01T10:23:17Z",
+      "start_date_local": "2025-07-01T12:23:17Z",
+      "distance": 1851.5,
+      "start_index": 13995,
+      "end_index": 14297,
+      "device_watts": false,
+      "segment": {
+        "id": 21353750,
+        "resource_state": 2,
+        "name": "Pedocchio",
+        "activity_type": "Ride",
+        "distance": 1851.5,
+        "average_grade": -0.4,
+        "maximum_grade": 0.9,
+        "elevation_high": 134.2,
+        "elevation_low": 127.0,
+        "start_latlng": [
+          45.460683,
+          11.401533
+        ],
+        "end_latlng": [
+          45.462018,
+          11.417361
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Localit\u00e0 Ss 11 Ca' Sordis",
+        "state": "Veneto",
+        "country": "Italy",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3375193530019635968,
+      "resource_state": 2,
+      "name": "Volata del gambero",
+      "activity": {
+        "id": 14975702877,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 114,
+      "moving_time": 114,
+      "start_date": "2025-07-01T10:26:08Z",
+      "start_date_local": "2025-07-01T12:26:08Z",
+      "distance": 669.3,
+      "start_index": 14166,
+      "end_index": 14280,
+      "device_watts": false,
+      "segment": {
+        "id": 20746776,
+        "resource_state": 2,
+        "name": "Volata del gambero",
+        "activity_type": "Ride",
+        "distance": 669.3,
+        "average_grade": 0.3,
+        "maximum_grade": 4.1,
+        "elevation_high": 45.4,
+        "elevation_low": 43.4,
+        "start_latlng": [
+          45.458008,
+          11.410967
+        ],
+        "end_latlng": [
+          45.462484,
+          11.416355
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": null,
+        "state": "Veneto",
+        "country": "Italy",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3375193530022072064,
+      "resource_state": 2,
+      "name": "Drittone Verso Brendola",
+      "activity": {
+        "id": 14975702877,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 2496,
+      "moving_time": 259,
+      "start_date": "2025-07-01T10:35:40Z",
+      "start_date_local": "2025-07-01T12:35:40Z",
+      "distance": 1312.6,
+      "start_index": 14738,
+      "end_index": 17234,
+      "device_watts": false,
+      "segment": {
+        "id": 25463297,
+        "resource_state": 2,
+        "name": "Drittone Verso Brendola",
+        "activity_type": "Ride",
+        "distance": 1312.6,
+        "average_grade": 0.0,
+        "maximum_grade": 4.4,
+        "elevation_high": 47.4,
+        "elevation_low": 43.8,
+        "start_latlng": [
+          45.480715,
+          11.43316
+        ],
+        "end_latlng": [
+          45.47272,
+          11.445526
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Brendola",
+        "state": "Veneto",
+        "country": "Italy",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3375193530020596480,
+      "resource_state": 2,
+      "name": "Incompiuta da Brendola",
+      "activity": {
+        "id": 14975702877,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 179,
+      "moving_time": 179,
+      "start_date": "2025-07-01T11:18:04Z",
+      "start_date_local": "2025-07-01T13:18:04Z",
+      "distance": 494.6,
+      "start_index": 17282,
+      "end_index": 17461,
+      "device_watts": false,
+      "segment": {
+        "id": 9147315,
+        "resource_state": 2,
+        "name": "Incompiuta da Brendola",
+        "activity_type": "Ride",
+        "distance": 494.6,
+        "average_grade": 7.4,
+        "maximum_grade": 11.7,
+        "elevation_high": 113.6,
+        "elevation_low": 77.0,
+        "start_latlng": [
+          45.471697,
+          11.447642
+        ],
+        "end_latlng": [
+          45.469566,
+          11.452975
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Brendola",
+        "state": "Veneto",
+        "country": "Italy",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3375193530020289280,
+      "resource_state": 2,
+      "name": "Brendola - Perarolo",
+      "activity": {
+        "id": 14975702877,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 2359,
+      "moving_time": 1476,
+      "start_date": "2025-07-01T11:22:53Z",
+      "start_date_local": "2025-07-01T13:22:53Z",
+      "distance": 4553.25,
+      "start_index": 17571,
+      "end_index": 19930,
+      "device_watts": false,
+      "segment": {
+        "id": 1970187,
+        "resource_state": 2,
+        "name": "Brendola - Perarolo",
+        "activity_type": "Ride",
+        "distance": 4553.25,
+        "average_grade": 3.6,
+        "maximum_grade": 45.9,
+        "elevation_high": 271.6,
+        "elevation_low": 73.6,
+        "start_latlng": [
+          45.46951769,
+          11.45357233
+        ],
+        "end_latlng": [
+          45.47546925,
+          11.49734156
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 2,
+        "city": "Brendola",
+        "state": "Veneto",
+        "country": "Italy",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3375193530021564160,
+      "resource_state": 2,
+      "name": "SFR 800 Brendola",
+      "activity": {
+        "id": 14975702877,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 1205,
+      "moving_time": 322,
+      "start_date": "2025-07-01T11:23:52Z",
+      "start_date_local": "2025-07-01T13:23:52Z",
+      "distance": 784.1,
+      "start_index": 17630,
+      "end_index": 18835,
+      "device_watts": false,
+      "segment": {
+        "id": 20318115,
+        "resource_state": 2,
+        "name": "SFR 800 Brendola",
+        "activity_type": "Ride",
+        "distance": 784.1,
+        "average_grade": 6.2,
+        "maximum_grade": 10.1,
+        "elevation_high": 145.8,
+        "elevation_low": 96.4,
+        "start_latlng": [
+          45.469798,
+          11.455915
+        ],
+        "end_latlng": [
+          45.472407,
+          11.463942
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": null,
+        "state": "Veneto",
+        "country": "Italy",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3375193530022317824,
+      "resource_state": 2,
+      "name": "Brendola - Perarolo da San Valentino",
+      "activity": {
+        "id": 14975702877,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 1091,
+      "moving_time": 1091,
+      "start_date": "2025-07-01T11:43:54Z",
+      "start_date_local": "2025-07-01T13:43:54Z",
+      "distance": 3616.02,
+      "start_index": 18832,
+      "end_index": 19923,
+      "device_watts": false,
+      "segment": {
+        "id": 2431823,
+        "resource_state": 2,
+        "name": "Brendola - Perarolo da San Valentino",
+        "activity_type": "Ride",
+        "distance": 3616.02,
+        "average_grade": 3.3,
+        "maximum_grade": 43.3,
+        "elevation_high": 271.7,
+        "elevation_low": 132.1,
+        "start_latlng": [
+          45.47243109,
+          11.4637657
+        ],
+        "end_latlng": [
+          45.47527899,
+          11.49688632
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 1,
+        "city": "Arcugnano",
+        "state": "Veneto",
+        "country": "Italy",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3375193530022559488,
+      "resource_state": 2,
+      "name": "pineta di brendola 2 parte",
+      "activity": {
+        "id": 14975702877,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 614,
+      "moving_time": 614,
+      "start_date": "2025-07-01T11:44:31Z",
+      "start_date_local": "2025-07-01T13:44:31Z",
+      "distance": 1486.5,
+      "start_index": 18869,
+      "end_index": 19483,
+      "device_watts": false,
+      "segment": {
+        "id": 24593512,
+        "resource_state": 2,
+        "name": "pineta di brendola 2 parte",
+        "activity_type": "Ride",
+        "distance": 1486.5,
+        "average_grade": 5.4,
+        "maximum_grade": 11.7,
+        "elevation_high": 218.2,
+        "elevation_low": 138.4,
+        "start_latlng": [
+          45.473046,
+          11.464119
+        ],
+        "end_latlng": [
+          45.476905,
+          11.480621
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": null,
+        "state": "Veneto",
+        "country": "Italy",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3375193530023264000,
+      "resource_state": 2,
+      "name": "volata pineta",
+      "activity": {
+        "id": 14975702877,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 235,
+      "moving_time": 235,
+      "start_date": "2025-07-01T11:50:16Z",
+      "start_date_local": "2025-07-01T13:50:16Z",
+      "distance": 578.0,
+      "start_index": 19214,
+      "end_index": 19449,
+      "device_watts": false,
+      "segment": {
+        "id": 12000972,
+        "resource_state": 2,
+        "name": "volata pineta",
+        "activity_type": "Ride",
+        "distance": 578.0,
+        "average_grade": 3.8,
+        "maximum_grade": 22.9,
+        "elevation_high": 199.3,
+        "elevation_low": 177.2,
+        "start_latlng": [
+          45.476854,
+          11.472315
+        ],
+        "end_latlng": [
+          45.477163,
+          11.479461
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": null,
+        "state": null,
+        "country": null,
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3375193530020660992,
+      "resource_state": 2,
+      "name": "strappetto pineta",
+      "activity": {
+        "id": 14975702877,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 141,
+      "moving_time": 141,
+      "start_date": "2025-07-01T11:51:17Z",
+      "start_date_local": "2025-07-01T13:51:17Z",
+      "distance": 344.1,
+      "start_index": 19275,
+      "end_index": 19416,
+      "device_watts": false,
+      "segment": {
+        "id": 12002004,
+        "resource_state": 2,
+        "name": "strappetto pineta",
+        "activity_type": "Ride",
+        "distance": 344.1,
+        "average_grade": 1.4,
+        "maximum_grade": 11.8,
+        "elevation_high": 196.9,
+        "elevation_low": 191.7,
+        "start_latlng": [
+          45.477188,
+          11.474006
+        ],
+        "end_latlng": [
+          45.477154,
+          11.478372
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": null,
+        "state": "Veneto",
+        "country": "Italy",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3375193530021341952,
+      "resource_state": 2,
+      "name": "Falsopiano Perarolo ",
+      "activity": {
+        "id": 14975702877,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 471,
+      "moving_time": 471,
+      "start_date": "2025-07-01T11:54:09Z",
+      "start_date_local": "2025-07-01T13:54:09Z",
+      "distance": 2014.4,
+      "start_index": 19447,
+      "end_index": 19918,
+      "device_watts": false,
+      "segment": {
+        "id": 8341818,
+        "resource_state": 2,
+        "name": "Falsopiano Perarolo ",
+        "activity_type": "Ride",
+        "distance": 2014.4,
+        "average_grade": 0.9,
+        "maximum_grade": 5.7,
+        "elevation_high": 239.2,
+        "elevation_low": 215.4,
+        "start_latlng": [
+          45.477131,
+          11.479404
+        ],
+        "end_latlng": [
+          45.475336,
+          11.49648
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": null,
+        "state": "Veneto",
+        "country": "Italy",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3375193530023148288,
+      "resource_state": 2,
+      "name": "Perarolo - Arcugnano Via Pilla",
+      "activity": {
+        "id": 14975702877,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 441,
+      "moving_time": 441,
+      "start_date": "2025-07-01T12:03:25Z",
+      "start_date_local": "2025-07-01T14:03:25Z",
+      "distance": 3753.46,
+      "start_index": 20003,
+      "end_index": 20444,
+      "device_watts": false,
+      "segment": {
+        "id": 1970283,
+        "resource_state": 2,
+        "name": "Perarolo - Arcugnano Via Pilla",
+        "activity_type": "Ride",
+        "distance": 3753.46,
+        "average_grade": -2.4,
+        "maximum_grade": 12.6,
+        "elevation_high": 241.8,
+        "elevation_low": 142.2,
+        "start_latlng": [
+          45.47576963,
+          11.49917248
+        ],
+        "end_latlng": [
+          45.49514172,
+          11.52529205
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Bedin (Paolini)",
+        "state": "Veneto",
+        "country": "Italy",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3375193530021628672,
+      "resource_state": 2,
+      "name": "Scatto Spianzana",
+      "activity": {
+        "id": 14975702877,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 73,
+      "moving_time": 73,
+      "start_date": "2025-07-01T12:06:46Z",
+      "start_date_local": "2025-07-01T14:06:46Z",
+      "distance": 520.7,
+      "start_index": 20204,
+      "end_index": 20277,
+      "device_watts": false,
+      "segment": {
+        "id": 36702152,
+        "resource_state": 2,
+        "name": "Scatto Spianzana",
+        "activity_type": "Ride",
+        "distance": 520.7,
+        "average_grade": 0.6,
+        "maximum_grade": 4.0,
+        "elevation_high": 146.0,
+        "elevation_low": 140.4,
+        "start_latlng": [
+          45.484677,
+          11.513499
+        ],
+        "end_latlng": [
+          45.487901,
+          11.518272
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Arcugnano",
+        "state": "Veneto",
+        "country": "Italy",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3375193530019432192,
+      "resource_state": 2,
+      "name": "Spianzana fino al bivio Pilla",
+      "activity": {
+        "id": 14975702877,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 193,
+      "moving_time": 193,
+      "start_date": "2025-07-01T12:07:38Z",
+      "start_date_local": "2025-07-01T14:07:38Z",
+      "distance": 1495.9,
+      "start_index": 20256,
+      "end_index": 20449,
+      "device_watts": false,
+      "segment": {
+        "id": 29926471,
+        "resource_state": 2,
+        "name": "Spianzana fino al bivio Pilla",
+        "activity_type": "Ride",
+        "distance": 1495.9,
+        "average_grade": -1.0,
+        "maximum_grade": 2.1,
+        "elevation_high": 153.4,
+        "elevation_low": 135.6,
+        "start_latlng": [
+          45.48706,
+          11.516813
+        ],
+        "end_latlng": [
+          45.49533,
+          11.52556
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Spianzana",
+        "state": "Veneto",
+        "country": "Italy",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3375193530022614784,
+      "resource_state": 2,
+      "name": "Strada Mlitare discesa",
+      "activity": {
+        "id": 14975702877,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 251,
+      "moving_time": 251,
+      "start_date": "2025-07-01T12:12:01Z",
+      "start_date_local": "2025-07-01T14:12:01Z",
+      "distance": 2373.81,
+      "start_index": 20519,
+      "end_index": 20770,
+      "device_watts": false,
+      "segment": {
+        "id": 2431841,
+        "resource_state": 2,
+        "name": "Strada Mlitare discesa",
+        "activity_type": "Ride",
+        "distance": 2373.81,
+        "average_grade": -4.5,
+        "maximum_grade": 23.5,
+        "elevation_high": 144.1,
+        "elevation_low": 34.6,
+        "start_latlng": [
+          45.49738364,
+          11.53011805
+        ],
+        "end_latlng": [
+          45.4961344,
+          11.54656975
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Arcugnano Torri",
+        "state": "Veneto",
+        "country": "Italy",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3375193530021116672,
+      "resource_state": 2,
+      "name": "Strada del Tormeno",
+      "activity": {
+        "id": 14975702877,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 130,
+      "moving_time": 130,
+      "start_date": "2025-07-01T12:17:37Z",
+      "start_date_local": "2025-07-01T14:17:37Z",
+      "distance": 839.1,
+      "start_index": 20855,
+      "end_index": 20985,
+      "device_watts": false,
+      "segment": {
+        "id": 14196790,
+        "resource_state": 2,
+        "name": "Strada del Tormeno",
+        "activity_type": "Ride",
+        "distance": 839.1,
+        "average_grade": 0.0,
+        "maximum_grade": 20.9,
+        "elevation_high": 50.7,
+        "elevation_low": 24.0,
+        "start_latlng": [
+          45.495937,
+          11.552886
+        ],
+        "end_latlng": [
+          45.503125,
+          11.555122
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": null,
+        "state": "Veneto",
+        "country": "Italy",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3375193530021536512,
+      "resource_state": 2,
+      "name": "Rettilineo distributore Tormeno reverse",
+      "activity": {
+        "id": 14975702877,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 76,
+      "moving_time": 76,
+      "start_date": "2025-07-01T12:18:24Z",
+      "start_date_local": "2025-07-01T14:18:24Z",
+      "distance": 529.2,
+      "start_index": 20902,
+      "end_index": 20978,
+      "device_watts": false,
+      "segment": {
+        "id": 34041471,
+        "resource_state": 2,
+        "name": "Rettilineo distributore Tormeno reverse",
+        "activity_type": "Ride",
+        "distance": 529.2,
+        "average_grade": -0.3,
+        "maximum_grade": 2.0,
+        "elevation_high": 37.8,
+        "elevation_low": 35.0,
+        "start_latlng": [
+          45.498184,
+          11.553123
+        ],
+        "end_latlng": [
+          45.502734,
+          11.554962
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Vicenza",
+        "state": "Veneto",
+        "country": "Italy",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3375193530020107008,
+      "resource_state": 2,
+      "name": "Tormeno - Longara",
+      "activity": {
+        "id": 14975702877,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 152,
+      "moving_time": 152,
+      "start_date": "2025-07-01T12:20:13Z",
+      "start_date_local": "2025-07-01T14:20:13Z",
+      "distance": 1016.1,
+      "start_index": 21011,
+      "end_index": 21163,
+      "device_watts": false,
+      "segment": {
+        "id": 8061034,
+        "resource_state": 2,
+        "name": "Tormeno - Longara",
+        "activity_type": "Ride",
+        "distance": 1016.1,
+        "average_grade": -0.2,
+        "maximum_grade": 2.5,
+        "elevation_high": 42.4,
+        "elevation_low": 38.2,
+        "start_latlng": [
+          45.503598,
+          11.555972
+        ],
+        "end_latlng": [
+          45.505059,
+          11.56833
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Vicenza",
+        "state": "Veneto",
+        "country": "Italy",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3375193530023342848,
+      "resource_state": 2,
+      "name": "Longara - base militare (Riviera Berica)",
+      "activity": {
+        "id": 14975702877,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 2753,
+      "moving_time": 562,
+      "start_date": "2025-07-01T12:23:33Z",
+      "start_date_local": "2025-07-01T14:23:33Z",
+      "distance": 3409.8,
+      "start_index": 21211,
+      "end_index": 23964,
+      "device_watts": false,
+      "segment": {
+        "id": 12282181,
+        "resource_state": 2,
+        "name": "Longara - base militare (Riviera Berica)",
+        "activity_type": "Ride",
+        "distance": 3409.8,
+        "average_grade": -0.0,
+        "maximum_grade": 11.4,
+        "elevation_high": 44.9,
+        "elevation_low": 24.0,
+        "start_latlng": [
+          45.504092,
+          11.570736
+        ],
+        "end_latlng": [
+          45.484309,
+          11.601195
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Vicenza",
+        "state": "Veneto",
+        "country": "Italy",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3375193530020824832,
+      "resource_state": 2,
+      "name": "ponte debba -longare",
+      "activity": {
+        "id": 14975702877,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 265,
+      "moving_time": 265,
+      "start_date": "2025-07-01T13:05:33Z",
+      "start_date_local": "2025-07-01T15:05:33Z",
+      "distance": 1710.1,
+      "start_index": 23731,
+      "end_index": 23996,
+      "device_watts": false,
+      "segment": {
+        "id": 8268328,
+        "resource_state": 2,
+        "name": "ponte debba -longare",
+        "activity_type": "Ride",
+        "distance": 1710.1,
+        "average_grade": -0.3,
+        "maximum_grade": 8.5,
+        "elevation_high": 39.2,
+        "elevation_low": 26.8,
+        "start_latlng": [
+          45.494715,
+          11.590384
+        ],
+        "end_latlng": [
+          45.482804,
+          11.602776
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Bugano",
+        "state": "Veneto",
+        "country": "Italy",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3375193530022532864,
+      "resource_state": 2,
+      "name": "Rettilineo ciclabile bugano --> longare",
+      "activity": {
+        "id": 14975702877,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 126,
+      "moving_time": 126,
+      "start_date": "2025-07-01T13:06:18Z",
+      "start_date_local": "2025-07-01T15:06:18Z",
+      "distance": 799.9,
+      "start_index": 23776,
+      "end_index": 23902,
+      "device_watts": false,
+      "segment": {
+        "id": 29059584,
+        "resource_state": 2,
+        "name": "Rettilineo ciclabile bugano --> longare",
+        "activity_type": "Ride",
+        "distance": 799.9,
+        "average_grade": -0.1,
+        "maximum_grade": 0.6,
+        "elevation_high": 29.3,
+        "elevation_low": 27.9,
+        "start_latlng": [
+          45.492782,
+          11.592609
+        ],
+        "end_latlng": [
+          45.487941,
+          11.600179
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": null,
+        "state": "Veneto",
+        "country": "Italy",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3375193530022766336,
+      "resource_state": 2,
+      "name": "Trenata base militare ",
+      "activity": {
+        "id": 14975702877,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 86,
+      "moving_time": 86,
+      "start_date": "2025-07-01T13:08:47Z",
+      "start_date_local": "2025-07-01T15:08:47Z",
+      "distance": 587.0,
+      "start_index": 23925,
+      "end_index": 24011,
+      "device_watts": false,
+      "segment": {
+        "id": 29346061,
+        "resource_state": 2,
+        "name": "Trenata base militare ",
+        "activity_type": "Ride",
+        "distance": 587.0,
+        "average_grade": -0.5,
+        "maximum_grade": 2.0,
+        "elevation_high": 56.4,
+        "elevation_low": 49.0,
+        "start_latlng": [
+          45.486703,
+          11.600628
+        ],
+        "end_latlng": [
+          45.482071,
+          11.603628
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Longare",
+        "state": "Veneto",
+        "country": "Italy",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3375193530019459840,
+      "resource_state": 2,
+      "name": "Volata Longare",
+      "activity": {
+        "id": 14975702877,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 51,
+      "moving_time": 51,
+      "start_date": "2025-07-01T13:09:47Z",
+      "start_date_local": "2025-07-01T15:09:47Z",
+      "distance": 346.4,
+      "start_index": 23985,
+      "end_index": 24036,
+      "device_watts": false,
+      "segment": {
+        "id": 29420714,
+        "resource_state": 2,
+        "name": "Volata Longare",
+        "activity_type": "Ride",
+        "distance": 346.4,
+        "average_grade": 0.1,
+        "maximum_grade": 1.0,
+        "elevation_high": 22.6,
+        "elevation_low": 21.4,
+        "start_latlng": [
+          45.483276,
+          11.602176
+        ],
+        "end_latlng": [
+          45.481118,
+          11.605328
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Longare",
+        "state": "Veneto",
+        "country": "Italy",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3375193530019736320,
+      "resource_state": 2,
+      "name": "Contropendenzaaa",
+      "activity": {
+        "id": 14975702877,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 60,
+      "moving_time": 60,
+      "start_date": "2025-07-01T13:10:24Z",
+      "start_date_local": "2025-07-01T15:10:24Z",
+      "distance": 361.2,
+      "start_index": 24022,
+      "end_index": 24082,
+      "device_watts": false,
+      "segment": {
+        "id": 29421058,
+        "resource_state": 2,
+        "name": "Contropendenzaaa",
+        "activity_type": "Ride",
+        "distance": 361.2,
+        "average_grade": 1.0,
+        "maximum_grade": 2.6,
+        "elevation_high": 27.0,
+        "elevation_low": 21.4,
+        "start_latlng": [
+          45.481616,
+          11.604275
+        ],
+        "end_latlng": [
+          45.480595,
+          11.608563
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Longare",
+        "state": "Veneto",
+        "country": "Italy",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3375193530021104384,
+      "resource_state": 2,
+      "name": "Rampa di lancio",
+      "activity": {
+        "id": 14975702877,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 85,
+      "moving_time": 85,
+      "start_date": "2025-07-01T13:12:01Z",
+      "start_date_local": "2025-07-01T15:12:01Z",
+      "distance": 518.1,
+      "start_index": 24119,
+      "end_index": 24204,
+      "device_watts": false,
+      "segment": {
+        "id": 34382014,
+        "resource_state": 2,
+        "name": "Rampa di lancio",
+        "activity_type": "Ride",
+        "distance": 518.1,
+        "average_grade": -0.2,
+        "maximum_grade": 1.5,
+        "elevation_high": 28.3,
+        "elevation_low": 26.6,
+        "start_latlng": [
+          45.479887,
+          11.610553
+        ],
+        "end_latlng": [
+          45.481994,
+          11.61619
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Longare",
+        "state": "Veneto",
+        "country": "Italy",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3375193530022355712,
+      "resource_state": 2,
+      "name": "Secula-ponte",
+      "activity": {
+        "id": 14975702877,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 401,
+      "moving_time": 401,
+      "start_date": "2025-07-01T13:13:13Z",
+      "start_date_local": "2025-07-01T15:13:13Z",
+      "distance": 2574.9,
+      "start_index": 24191,
+      "end_index": 24592,
+      "device_watts": false,
+      "segment": {
+        "id": 7300717,
+        "resource_state": 2,
+        "name": "Secula-ponte",
+        "activity_type": "Ride",
+        "distance": 2574.9,
+        "average_grade": -0.1,
+        "maximum_grade": 0.0,
+        "elevation_high": 27.0,
+        "elevation_low": 24.0,
+        "start_latlng": [
+          45.481996,
+          11.615127
+        ],
+        "end_latlng": [
+          45.464293,
+          11.633767
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Secula",
+        "state": "Veneto",
+        "country": "Italy",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3375193530019757824,
+      "resource_state": 2,
+      "name": "Secula - Colz\u00e8 - Montegalda",
+      "activity": {
+        "id": 14975702877,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 967,
+      "moving_time": 967,
+      "start_date": "2025-07-01T13:13:28Z",
+      "start_date_local": "2025-07-01T15:13:28Z",
+      "distance": 6398.7,
+      "start_index": 24206,
+      "end_index": 25173,
+      "device_watts": false,
+      "segment": {
+        "id": 7627097,
+        "resource_state": 2,
+        "name": "Secula - Colz\u00e8 - Montegalda",
+        "activity_type": "Ride",
+        "distance": 6398.7,
+        "average_grade": -0.1,
+        "maximum_grade": 2.9,
+        "elevation_high": 27.1,
+        "elevation_low": 19.7,
+        "start_latlng": [
+          45.481841,
+          11.616261
+        ],
+        "end_latlng": [
+          45.444227,
+          11.672641
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Secula",
+        "state": "Veneto",
+        "country": "Italy",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3375193530023376640,
+      "resource_state": 2,
+      "name": "Pista di decollo",
+      "activity": {
+        "id": 14975702877,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 218,
+      "moving_time": 218,
+      "start_date": "2025-07-01T13:13:28Z",
+      "start_date_local": "2025-07-01T15:13:28Z",
+      "distance": 1379.2,
+      "start_index": 24206,
+      "end_index": 24424,
+      "device_watts": false,
+      "segment": {
+        "id": 34382036,
+        "resource_state": 2,
+        "name": "Pista di decollo",
+        "activity_type": "Ride",
+        "distance": 1379.2,
+        "average_grade": -0.1,
+        "maximum_grade": 0.5,
+        "elevation_high": 26.6,
+        "elevation_low": 25.1,
+        "start_latlng": [
+          45.481929,
+          11.616307
+        ],
+        "end_latlng": [
+          45.471754,
+          11.626194
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Longare",
+        "state": "Veneto",
+        "country": "Italy",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3375193530021264128,
+      "resource_state": 2,
+      "name": "DA COLZE' A ROTATORIA ",
+      "activity": {
+        "id": 14975702877,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 234,
+      "moving_time": 234,
+      "start_date": "2025-07-01T13:18:32Z",
+      "start_date_local": "2025-07-01T15:18:32Z",
+      "distance": 1486.6,
+      "start_index": 24510,
+      "end_index": 24744,
+      "device_watts": false,
+      "segment": {
+        "id": 37959843,
+        "resource_state": 2,
+        "name": "DA COLZE' A ROTATORIA ",
+        "activity_type": "Ride",
+        "distance": 1486.6,
+        "average_grade": 0.1,
+        "maximum_grade": 2.5,
+        "elevation_high": 15.8,
+        "elevation_low": 12.8,
+        "start_latlng": [
+          45.467109,
+          11.628612
+        ],
+        "end_latlng": [
+          45.459922,
+          11.644205
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Montegalda",
+        "state": "Veneto",
+        "country": "Italy",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3375193530020560640,
+      "resource_state": 2,
+      "name": "Rotatoria to villa Fogazzaro",
+      "activity": {
+        "id": 14975702877,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 298,
+      "moving_time": 298,
+      "start_date": "2025-07-01T13:22:56Z",
+      "start_date_local": "2025-07-01T15:22:56Z",
+      "distance": 2046.3,
+      "start_index": 24774,
+      "end_index": 25072,
+      "device_watts": false,
+      "segment": {
+        "id": 18958187,
+        "resource_state": 2,
+        "name": "Rotatoria to villa Fogazzaro",
+        "activity_type": "Ride",
+        "distance": 2046.3,
+        "average_grade": -0.2,
+        "maximum_grade": 0.0,
+        "elevation_high": 8.4,
+        "elevation_low": 3.6,
+        "start_latlng": [
+          45.45918,
+          11.644934
+        ],
+        "end_latlng": [
+          45.449075,
+          11.666389
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": null,
+        "state": "Veneto",
+        "country": "Italy",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3375193530019673856,
+      "resource_state": 2,
+      "name": "palazzone",
+      "activity": {
+        "id": 14975702877,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 241,
+      "moving_time": 241,
+      "start_date": "2025-07-01T13:25:30Z",
+      "start_date_local": "2025-07-01T15:25:30Z",
+      "distance": 1692.5,
+      "start_index": 24928,
+      "end_index": 25169,
+      "device_watts": false,
+      "segment": {
+        "id": 9364857,
+        "resource_state": 2,
+        "name": "palazzone",
+        "activity_type": "Ride",
+        "distance": 1692.5,
+        "average_grade": 0.1,
+        "maximum_grade": 2.2,
+        "elevation_high": 22.6,
+        "elevation_low": 19.5,
+        "start_latlng": [
+          45.45377,
+          11.656151
+        ],
+        "end_latlng": [
+          45.444285,
+          11.672283
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": null,
+        "state": "Veneto",
+        "country": "Italy",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3375193530020404992,
+      "resource_state": 2,
+      "name": "Volata Montegalda",
+      "activity": {
+        "id": 14975702877,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 49,
+      "moving_time": 49,
+      "start_date": "2025-07-01T13:28:44Z",
+      "start_date_local": "2025-07-01T15:28:44Z",
+      "distance": 361.2,
+      "start_index": 25122,
+      "end_index": 25171,
+      "device_watts": false,
+      "segment": {
+        "id": 23738198,
+        "resource_state": 2,
+        "name": "Volata Montegalda",
+        "activity_type": "Ride",
+        "distance": 361.2,
+        "average_grade": 0.0,
+        "maximum_grade": 0.0,
+        "elevation_high": 24.2,
+        "elevation_low": 24.2,
+        "start_latlng": [
+          45.447127,
+          11.670372
+        ],
+        "end_latlng": [
+          45.444202,
+          11.672327
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": null,
+        "state": "Veneto",
+        "country": "Italy",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3375193530021826304,
+      "resource_state": 2,
+      "name": "DA ROTATORIA MONTEGALDA A ROTATORIA MONTEGALDELLA",
+      "activity": {
+        "id": 14975702877,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 461,
+      "moving_time": 85,
+      "start_date": "2025-07-01T13:29:49Z",
+      "start_date_local": "2025-07-01T15:29:49Z",
+      "distance": 500.3,
+      "start_index": 25187,
+      "end_index": 25648,
+      "device_watts": false,
+      "segment": {
+        "id": 37922702,
+        "resource_state": 2,
+        "name": "DA ROTATORIA MONTEGALDA A ROTATORIA MONTEGALDELLA",
+        "activity_type": "Ride",
+        "distance": 500.3,
+        "average_grade": -0.1,
+        "maximum_grade": 2.1,
+        "elevation_high": 23.4,
+        "elevation_low": 21.2,
+        "start_latlng": [
+          45.443646,
+          11.673034
+        ],
+        "end_latlng": [
+          45.439516,
+          11.670584
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Montegalda",
+        "state": "Veneto",
+        "country": "Italy",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3375193530021312256,
+      "resource_state": 2,
+      "name": "DA MONTEGALDELLA A CERVARESE SANTA CROCE",
+      "activity": {
+        "id": 14975702877,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 302,
+      "moving_time": 302,
+      "start_date": "2025-07-01T13:38:22Z",
+      "start_date_local": "2025-07-01T15:38:22Z",
+      "distance": 2021.8,
+      "start_index": 25700,
+      "end_index": 26002,
+      "device_watts": false,
+      "segment": {
+        "id": 38000561,
+        "resource_state": 2,
+        "name": "DA MONTEGALDELLA A CERVARESE SANTA CROCE",
+        "activity_type": "Ride",
+        "distance": 2021.8,
+        "average_grade": -0.1,
+        "maximum_grade": 0.5,
+        "elevation_high": 22.2,
+        "elevation_low": 19.9,
+        "start_latlng": [
+          45.437462,
+          11.672674
+        ],
+        "end_latlng": [
+          45.42448,
+          11.688318
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Montegaldella",
+        "state": "Veneto",
+        "country": "Italy",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3375193530022407936,
+      "resource_state": 2,
+      "name": "Saccolongo - rotonda via Scapacchio'",
+      "activity": {
+        "id": 14975702877,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 312,
+      "moving_time": 303,
+      "start_date": "2025-07-01T13:57:21Z",
+      "start_date_local": "2025-07-01T15:57:21Z",
+      "distance": 1958.4,
+      "start_index": 26839,
+      "end_index": 27151,
+      "device_watts": false,
+      "segment": {
+        "id": 13040834,
+        "resource_state": 2,
+        "name": "Saccolongo - rotonda via Scapacchio'",
+        "activity_type": "Ride",
+        "distance": 1958.4,
+        "average_grade": -0.1,
+        "maximum_grade": 2.4,
+        "elevation_high": 18.0,
+        "elevation_low": 16.0,
+        "start_latlng": [
+          45.403492,
+          11.746717
+        ],
+        "end_latlng": [
+          45.394225,
+          11.767303
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Saccolongo",
+        "state": "Veneto",
+        "country": "Italy",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3375193530022797056,
+      "resource_state": 2,
+      "name": "Strada Tencarola - Brusegana",
+      "activity": {
+        "id": 14975702877,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 217,
+      "moving_time": 184,
+      "start_date": "2025-07-01T14:10:13Z",
+      "start_date_local": "2025-07-01T16:10:13Z",
+      "distance": 1295.0,
+      "start_index": 27611,
+      "end_index": 27828,
+      "device_watts": false,
+      "segment": {
+        "id": 13851990,
+        "resource_state": 2,
+        "name": "Strada Tencarola - Brusegana",
+        "activity_type": "Ride",
+        "distance": 1295.0,
+        "average_grade": 0.0,
+        "maximum_grade": 4.3,
+        "elevation_high": 16.0,
+        "elevation_low": 11.0,
+        "start_latlng": [
+          45.391131,
+          11.809372
+        ],
+        "end_latlng": [
+          45.394977,
+          11.824354
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Selvazzano Dentro",
+        "state": "Veneto",
+        "country": "Italy",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3375193530021269248,
+      "resource_state": 2,
+      "name": "Volata Via Sorio",
+      "activity": {
+        "id": 14975702877,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 396,
+      "moving_time": 68,
+      "start_date": "2025-07-01T14:25:30Z",
+      "start_date_local": "2025-07-01T16:25:30Z",
+      "distance": 324.3,
+      "start_index": 28528,
+      "end_index": 28924,
+      "device_watts": false,
+      "segment": {
+        "id": 31583222,
+        "resource_state": 2,
+        "name": "Volata Via Sorio",
+        "activity_type": "Ride",
+        "distance": 324.3,
+        "average_grade": 0.2,
+        "maximum_grade": 0.8,
+        "elevation_high": 20.2,
+        "elevation_low": 19.2,
+        "start_latlng": [
+          45.400316,
+          11.850585
+        ],
+        "end_latlng": [
+          45.400483,
+          11.854694
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Padova",
+        "state": "Veneto",
+        "country": "Italy",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3375193530020050688,
+      "resource_state": 2,
+      "name": "Volata GF Padova",
+      "activity": {
+        "id": 14975702877,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 79,
+      "moving_time": 79,
+      "start_date": "2025-07-01T15:21:29Z",
+      "start_date_local": "2025-07-01T17:21:29Z",
+      "distance": 522.1,
+      "start_index": 31887,
+      "end_index": 31966,
+      "device_watts": false,
+      "segment": {
+        "id": 9830836,
+        "resource_state": 2,
+        "name": "Volata GF Padova",
+        "activity_type": "Ride",
+        "distance": 522.1,
+        "average_grade": -0.1,
+        "maximum_grade": 0.0,
+        "elevation_high": 15.2,
+        "elevation_low": 14.6,
+        "start_latlng": [
+          45.399333,
+          11.866694
+        ],
+        "end_latlng": [
+          45.398039,
+          11.873015
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Padova",
+        "state": "Veneto",
+        "country": "Italy",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3375193530021900032,
+      "resource_state": 2,
+      "name": "via Gattamelata",
+      "activity": {
+        "id": 14975702877,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 195,
+      "moving_time": 195,
+      "start_date": "2025-07-01T15:26:22Z",
+      "start_date_local": "2025-07-01T17:26:22Z",
+      "distance": 1253.1,
+      "start_index": 32180,
+      "end_index": 32375,
+      "device_watts": false,
+      "segment": {
+        "id": 13012762,
+        "resource_state": 2,
+        "name": "via Gattamelata",
+        "activity_type": "Ride",
+        "distance": 1253.1,
+        "average_grade": 0.1,
+        "maximum_grade": 1.7,
+        "elevation_high": 14.2,
+        "elevation_low": 10.1,
+        "start_latlng": [
+          45.398747,
+          11.886555
+        ],
+        "end_latlng": [
+          45.403184,
+          11.899178
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Padova",
+        "state": "Veneto",
+        "country": "Italy",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3375193530021022464,
+      "resource_state": 2,
+      "name": "Via Jacopo Corrado",
+      "activity": {
+        "id": 14975702877,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 121,
+      "moving_time": 121,
+      "start_date": "2025-07-01T15:31:01Z",
+      "start_date_local": "2025-07-01T17:31:01Z",
+      "distance": 805.7,
+      "start_index": 32459,
+      "end_index": 32580,
+      "device_watts": false,
+      "segment": {
+        "id": 27260439,
+        "resource_state": 2,
+        "name": "Via Jacopo Corrado",
+        "activity_type": "Ride",
+        "distance": 805.7,
+        "average_grade": -0.2,
+        "maximum_grade": 0.3,
+        "elevation_high": 14.2,
+        "elevation_low": 12.4,
+        "start_latlng": [
+          45.405333,
+          11.901607
+        ],
+        "end_latlng": [
+          45.406278,
+          11.911772
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Padova",
+        "state": "Veneto",
+        "country": "Italy",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3375193530022803200,
+      "resource_state": 2,
+      "name": "Argine Ponte di brenta -Stra",
+      "activity": {
+        "id": 14975702877,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 666,
+      "moving_time": 666,
+      "start_date": "2025-07-01T15:48:26Z",
+      "start_date_local": "2025-07-01T17:48:26Z",
+      "distance": 4145.8,
+      "start_index": 33504,
+      "end_index": 34170,
+      "device_watts": false,
+      "segment": {
+        "id": 19046156,
+        "resource_state": 2,
+        "name": "Argine Ponte di brenta -Stra",
+        "activity_type": "Ride",
+        "distance": 4145.8,
+        "average_grade": -0.1,
+        "maximum_grade": 14.6,
+        "elevation_high": 12.9,
+        "elevation_low": 2.6,
+        "start_latlng": [
+          45.426789,
+          11.951553
+        ],
+        "end_latlng": [
+          45.409044,
+          11.995948
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Padova",
+        "state": "Veneto",
+        "country": "Italy",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3375193530023337728,
+      "resource_state": 2,
+      "name": "via 4 Novembre - naviglio",
+      "activity": {
+        "id": 14975702877,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 107,
+      "moving_time": 107,
+      "start_date": "2025-07-01T16:00:23Z",
+      "start_date_local": "2025-07-01T18:00:23Z",
+      "distance": 670.7,
+      "start_index": 34221,
+      "end_index": 34328,
+      "device_watts": false,
+      "segment": {
+        "id": 29457006,
+        "resource_state": 2,
+        "name": "via 4 Novembre - naviglio",
+        "activity_type": "Ride",
+        "distance": 670.7,
+        "average_grade": -0.1,
+        "maximum_grade": 1.6,
+        "elevation_high": 38.2,
+        "elevation_low": 36.0,
+        "start_latlng": [
+          45.409105,
+          11.99792
+        ],
+        "end_latlng": [
+          45.40811,
+          12.005703
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": null,
+        "state": "Veneto",
+        "country": "Italy",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3375193530023444224,
+      "resource_state": 2,
+      "name": "Stra - Mira",
+      "activity": {
+        "id": 14975702877,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 1609,
+      "moving_time": 1609,
+      "start_date": "2025-07-01T16:01:04Z",
+      "start_date_local": "2025-07-01T18:01:04Z",
+      "distance": 11068.2,
+      "start_index": 34262,
+      "end_index": 35871,
+      "device_watts": false,
+      "segment": {
+        "id": 27361570,
+        "resource_state": 2,
+        "name": "Stra - Mira",
+        "activity_type": "Ride",
+        "distance": 11068.2,
+        "average_grade": -0.1,
+        "maximum_grade": 2.8,
+        "elevation_high": 10.9,
+        "elevation_low": 3.0,
+        "start_latlng": [
+          45.408,
+          12.0
+        ],
+        "end_latlng": [
+          45.43307,
+          12.1221
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Riviera Naviglio",
+        "state": "Veneto",
+        "country": "Italy",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3375193530021572352,
+      "resource_state": 2,
+      "name": "Riviera del Brenta W>E S. Pietro - Paluello",
+      "activity": {
+        "id": 14975702877,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 400,
+      "moving_time": 400,
+      "start_date": "2025-07-01T16:04:01Z",
+      "start_date_local": "2025-07-01T18:04:01Z",
+      "distance": 3378.4,
+      "start_index": 34439,
+      "end_index": 34839,
+      "device_watts": false,
+      "segment": {
+        "id": 4650940,
+        "resource_state": 2,
+        "name": "Riviera del Brenta W>E S. Pietro - Paluello",
+        "activity_type": "Ride",
+        "distance": 3378.4,
+        "average_grade": -0.1,
+        "maximum_grade": 4.9,
+        "elevation_high": 8.8,
+        "elevation_low": 4.6,
+        "start_latlng": [
+          45.407935,
+          12.014019
+        ],
+        "end_latlng": [
+          45.412407,
+          12.053239
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Stra",
+        "state": "Veneto",
+        "country": "Italy",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3375193530022316800,
+      "resource_state": 2,
+      "name": "Riviera del Brenta W>E Paluello - Dolo",
+      "activity": {
+        "id": 14975702877,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 308,
+      "moving_time": 308,
+      "start_date": "2025-07-01T16:11:11Z",
+      "start_date_local": "2025-07-01T18:11:11Z",
+      "distance": 2156.8,
+      "start_index": 34869,
+      "end_index": 35177,
+      "device_watts": false,
+      "segment": {
+        "id": 4650992,
+        "resource_state": 2,
+        "name": "Riviera del Brenta W>E Paluello - Dolo",
+        "activity_type": "Ride",
+        "distance": 2156.8,
+        "average_grade": -0.2,
+        "maximum_grade": 6.3,
+        "elevation_high": 11.2,
+        "elevation_low": 7.0,
+        "start_latlng": [
+          45.413051,
+          12.054907
+        ],
+        "end_latlng": [
+          45.421688,
+          12.077361
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Paluello",
+        "state": "Veneto",
+        "country": "Italy",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3375193530022989568,
+      "resource_state": 2,
+      "name": "Riviera del Brenta W>E Dolo-Mira 1",
+      "activity": {
+        "id": 14975702877,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 271,
+      "moving_time": 271,
+      "start_date": "2025-07-01T16:16:38Z",
+      "start_date_local": "2025-07-01T18:16:38Z",
+      "distance": 1678.6,
+      "start_index": 35196,
+      "end_index": 35467,
+      "device_watts": false,
+      "segment": {
+        "id": 4492801,
+        "resource_state": 2,
+        "name": "Riviera del Brenta W>E Dolo-Mira 1",
+        "activity_type": "Ride",
+        "distance": 1678.6,
+        "average_grade": -0.1,
+        "maximum_grade": 1.8,
+        "elevation_high": 10.8,
+        "elevation_low": 8.4,
+        "start_latlng": [
+          45.422066,
+          12.078401
+        ],
+        "end_latlng": [
+          45.425011,
+          12.095477
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Dolo",
+        "state": "Veneto",
+        "country": "Italy",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3375193530019564288,
+      "resource_state": 2,
+      "name": "Riviera del Brenta W>E Dolo-Mira 2",
+      "activity": {
+        "id": 14975702877,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 608,
+      "moving_time": 608,
+      "start_date": "2025-07-01T16:21:38Z",
+      "start_date_local": "2025-07-01T18:21:38Z",
+      "distance": 3788.2,
+      "start_index": 35496,
+      "end_index": 36104,
+      "device_watts": false,
+      "segment": {
+        "id": 4650766,
+        "resource_state": 2,
+        "name": "Riviera del Brenta W>E Dolo-Mira 2",
+        "activity_type": "Ride",
+        "distance": 3788.2,
+        "average_grade": -0.1,
+        "maximum_grade": 0.0,
+        "elevation_high": 10.8,
+        "elevation_low": 8.6,
+        "start_latlng": [
+          45.425503,
+          12.096399
+        ],
+        "end_latlng": [
+          45.435787,
+          12.139568
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Province of Venice, Italy",
+        "state": "Veneto",
+        "country": "Italy",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3375193530020500224,
+      "resource_state": 2,
+      "name": "Da un ponte all'altra",
+      "activity": {
+        "id": 14975702877,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 99,
+      "moving_time": 99,
+      "start_date": "2025-07-01T16:28:14Z",
+      "start_date_local": "2025-07-01T18:28:14Z",
+      "distance": 620.7,
+      "start_index": 35892,
+      "end_index": 35991,
+      "device_watts": false,
+      "segment": {
+        "id": 9079071,
+        "resource_state": 2,
+        "name": "Da un ponte all'altra",
+        "activity_type": "Ride",
+        "distance": 620.7,
+        "average_grade": 0.5,
+        "maximum_grade": 12.8,
+        "elevation_high": 13.6,
+        "elevation_low": 3.6,
+        "start_latlng": [
+          45.433181,
+          12.123647
+        ],
+        "end_latlng": [
+          45.433699,
+          12.131454
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Mira",
+        "state": "Veneto",
+        "country": "Italy",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3375193530019656448,
+      "resource_state": 2,
+      "name": "Riviera del Brenta W>E Mira-Oriago 1",
+      "activity": {
+        "id": 14975702877,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 308,
+      "moving_time": 308,
+      "start_date": "2025-07-01T16:38:17Z",
+      "start_date_local": "2025-07-01T18:38:17Z",
+      "distance": 1817.3,
+      "start_index": 36495,
+      "end_index": 36803,
+      "device_watts": false,
+      "segment": {
+        "id": 4492845,
+        "resource_state": 2,
+        "name": "Riviera del Brenta W>E Mira-Oriago 1",
+        "activity_type": "Ride",
+        "distance": 1817.3,
+        "average_grade": -0.0,
+        "maximum_grade": 5.4,
+        "elevation_high": 10.2,
+        "elevation_low": 7.8,
+        "start_latlng": [
+          45.441851,
+          12.158863
+        ],
+        "end_latlng": [
+          45.452272,
+          12.17347
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Mira Taglio",
+        "state": "Veneto",
+        "country": "Italy",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3375193530022726400,
+      "resource_state": 2,
+      "name": "SS11 PD>VE Oriago - Roundabout (No Stops)",
+      "activity": {
+        "id": 14975702877,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 398,
+      "moving_time": 386,
+      "start_date": "2025-07-01T16:43:54Z",
+      "start_date_local": "2025-07-01T18:43:54Z",
+      "distance": 2695.4,
+      "start_index": 36832,
+      "end_index": 37230,
+      "device_watts": false,
+      "segment": {
+        "id": 4546406,
+        "resource_state": 2,
+        "name": "SS11 PD>VE Oriago - Roundabout (No Stops)",
+        "activity_type": "Ride",
+        "distance": 2695.4,
+        "average_grade": 0.0,
+        "maximum_grade": 0.0,
+        "elevation_high": 9.2,
+        "elevation_low": 9.2,
+        "start_latlng": [
+          45.453102,
+          12.174336
+        ],
+        "end_latlng": [
+          45.449356,
+          12.205122
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Mira Taglio",
+        "state": "Veneto",
+        "country": "Italy",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3424441900472084874,
+      "resource_state": 2,
+      "name": "Ale",
+      "activity": {
+        "id": 14975702877,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 134,
+      "moving_time": 134,
+      "start_date": "2025-07-01T16:44:58Z",
+      "start_date_local": "2025-07-01T18:44:58Z",
+      "distance": 894.5,
+      "start_index": 36896,
+      "end_index": 37030,
+      "device_watts": false,
+      "segment": {
+        "id": 40507759,
+        "resource_state": 2,
+        "name": "Ale",
+        "activity_type": "Ride",
+        "distance": 894.5,
+        "average_grade": 0.0,
+        "maximum_grade": 1.0,
+        "elevation_high": 4.8,
+        "elevation_low": 3.6,
+        "start_latlng": [
+          45.453111,
+          12.179329
+        ],
+        "end_latlng": [
+          45.449259,
+          12.187814
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Venice",
+        "state": "Veneto",
+        "country": "Italy",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3375193530019405568,
+      "resource_state": 2,
+      "name": "via Fratelli Bandiera (Inbound)",
+      "activity": {
+        "id": 14975702877,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 478,
+      "moving_time": 465,
+      "start_date": "2025-07-01T16:53:14Z",
+      "start_date_local": "2025-07-01T18:53:14Z",
+      "distance": 3100.5,
+      "start_index": 37392,
+      "end_index": 37870,
+      "device_watts": false,
+      "segment": {
+        "id": 4338732,
+        "resource_state": 2,
+        "name": "via Fratelli Bandiera (Inbound)",
+        "activity_type": "Ride",
+        "distance": 3100.5,
+        "average_grade": 0.0,
+        "maximum_grade": 9.2,
+        "elevation_high": 4.0,
+        "elevation_low": 1.6,
+        "start_latlng": [
+          45.452107,
+          12.214575
+        ],
+        "end_latlng": [
+          45.476351,
+          12.231976
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Mestre",
+        "state": "Veneto",
+        "country": "Italy",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    }
+  ],
+  "splits_metric": [
+    {
+      "distance": 1006.0,
+      "elapsed_time": 186,
+      "elevation_difference": 0.8,
+      "moving_time": 186,
+      "split": 1,
+      "average_speed": 5.41,
+      "average_grade_adjusted_speed": 5.42,
+      "pace_zone": 0
+    },
+    {
+      "distance": 994.6,
+      "elapsed_time": 256,
+      "elevation_difference": -3.8,
+      "moving_time": 191,
+      "split": 2,
+      "average_speed": 5.21,
+      "average_grade_adjusted_speed": 5.18,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1002.0,
+      "elapsed_time": 1956,
+      "elevation_difference": -1.8,
+      "moving_time": 288,
+      "split": 3,
+      "average_speed": 3.48,
+      "average_grade_adjusted_speed": 3.48,
+      "pace_zone": 0
+    },
+    {
+      "distance": 997.6,
+      "elapsed_time": 575,
+      "elevation_difference": -3.2,
+      "moving_time": 376,
+      "split": 4,
+      "average_speed": 2.65,
+      "average_grade_adjusted_speed": 2.64,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1002.7,
+      "elapsed_time": 213,
+      "elevation_difference": 2.0,
+      "moving_time": 213,
+      "split": 5,
+      "average_speed": 4.71,
+      "average_grade_adjusted_speed": 4.75,
+      "pace_zone": 0
+    },
+    {
+      "distance": 997.9,
+      "elapsed_time": 208,
+      "elevation_difference": 1.0,
+      "moving_time": 208,
+      "split": 6,
+      "average_speed": 4.8,
+      "average_grade_adjusted_speed": 4.81,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1001.9,
+      "elapsed_time": 232,
+      "elevation_difference": -0.8,
+      "moving_time": 196,
+      "split": 7,
+      "average_speed": 5.11,
+      "average_grade_adjusted_speed": 5.11,
+      "pace_zone": 0
+    },
+    {
+      "distance": 999.9,
+      "elapsed_time": 168,
+      "elevation_difference": 1.0,
+      "moving_time": 168,
+      "split": 8,
+      "average_speed": 5.95,
+      "average_grade_adjusted_speed": 5.97,
+      "pace_zone": 0
+    },
+    {
+      "distance": 999.3,
+      "elapsed_time": 138,
+      "elevation_difference": -1.8,
+      "moving_time": 138,
+      "split": 9,
+      "average_speed": 7.24,
+      "average_grade_adjusted_speed": 7.22,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1001.3,
+      "elapsed_time": 133,
+      "elevation_difference": -4.6,
+      "moving_time": 133,
+      "split": 10,
+      "average_speed": 7.53,
+      "average_grade_adjusted_speed": 7.49,
+      "pace_zone": 0
+    },
+    {
+      "distance": 998.3,
+      "elapsed_time": 146,
+      "elevation_difference": -3.0,
+      "moving_time": 146,
+      "split": 11,
+      "average_speed": 6.84,
+      "average_grade_adjusted_speed": 6.81,
+      "pace_zone": 0
+    },
+    {
+      "distance": 999.1,
+      "elapsed_time": 183,
+      "elevation_difference": -2.4,
+      "moving_time": 162,
+      "split": 12,
+      "average_speed": 6.17,
+      "average_grade_adjusted_speed": 6.15,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1001.4,
+      "elapsed_time": 203,
+      "elevation_difference": -2.6,
+      "moving_time": 180,
+      "split": 13,
+      "average_speed": 5.56,
+      "average_grade_adjusted_speed": 5.56,
+      "pace_zone": 0
+    },
+    {
+      "distance": 999.9,
+      "elapsed_time": 1760,
+      "elevation_difference": -2.2,
+      "moving_time": 216,
+      "split": 14,
+      "average_speed": 4.63,
+      "average_grade_adjusted_speed": 4.63,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1006.4,
+      "elapsed_time": 196,
+      "elevation_difference": 8.0,
+      "moving_time": 196,
+      "split": 15,
+      "average_speed": 5.13,
+      "average_grade_adjusted_speed": 5.32,
+      "pace_zone": 0
+    },
+    {
+      "distance": 992.0,
+      "elapsed_time": 149,
+      "elevation_difference": -3.4,
+      "moving_time": 149,
+      "split": 16,
+      "average_speed": 6.66,
+      "average_grade_adjusted_speed": 6.67,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1001.1,
+      "elapsed_time": 239,
+      "elevation_difference": 4.2,
+      "moving_time": 178,
+      "split": 17,
+      "average_speed": 5.62,
+      "average_grade_adjusted_speed": 5.7,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1001.4,
+      "elapsed_time": 162,
+      "elevation_difference": 2.4,
+      "moving_time": 162,
+      "split": 18,
+      "average_speed": 6.18,
+      "average_grade_adjusted_speed": 6.22,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1002.5,
+      "elapsed_time": 184,
+      "elevation_difference": 8.0,
+      "moving_time": 184,
+      "split": 19,
+      "average_speed": 5.45,
+      "average_grade_adjusted_speed": 5.54,
+      "pace_zone": 0
+    },
+    {
+      "distance": 997.9,
+      "elapsed_time": 195,
+      "elevation_difference": 6.4,
+      "moving_time": 195,
+      "split": 20,
+      "average_speed": 5.12,
+      "average_grade_adjusted_speed": 5.2,
+      "pace_zone": 0
+    },
+    {
+      "distance": 998.7,
+      "elapsed_time": 494,
+      "elevation_difference": 88.2,
+      "moving_time": 465,
+      "split": 21,
+      "average_speed": 2.15,
+      "average_grade_adjusted_speed": 3.0,
+      "pace_zone": 0
+    },
+    {
+      "distance": 998.1,
+      "elapsed_time": 306,
+      "elevation_difference": -20.0,
+      "moving_time": 193,
+      "split": 22,
+      "average_speed": 5.17,
+      "average_grade_adjusted_speed": 5.08,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1005.2,
+      "elapsed_time": 79,
+      "elevation_difference": -61.2,
+      "moving_time": 79,
+      "split": 23,
+      "average_speed": 12.72,
+      "average_grade_adjusted_speed": 11.33,
+      "pace_zone": 0
+    },
+    {
+      "distance": 995.0,
+      "elapsed_time": 101,
+      "elevation_difference": -39.8,
+      "moving_time": 101,
+      "split": 24,
+      "average_speed": 9.85,
+      "average_grade_adjusted_speed": 9.09,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1000.9,
+      "elapsed_time": 153,
+      "elevation_difference": -5.6,
+      "moving_time": 153,
+      "split": 25,
+      "average_speed": 6.54,
+      "average_grade_adjusted_speed": 6.49,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1003.2,
+      "elapsed_time": 162,
+      "elevation_difference": -1.4,
+      "moving_time": 162,
+      "split": 26,
+      "average_speed": 6.19,
+      "average_grade_adjusted_speed": 6.18,
+      "pace_zone": 0
+    },
+    {
+      "distance": 997.3,
+      "elapsed_time": 165,
+      "elevation_difference": -0.8,
+      "moving_time": 165,
+      "split": 27,
+      "average_speed": 6.04,
+      "average_grade_adjusted_speed": 6.04,
+      "pace_zone": 0
+    },
+    {
+      "distance": 998.9,
+      "elapsed_time": 1442,
+      "elevation_difference": 3.2,
+      "moving_time": 227,
+      "split": 28,
+      "average_speed": 4.4,
+      "average_grade_adjusted_speed": 4.44,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1001.2,
+      "elapsed_time": 182,
+      "elevation_difference": 4.2,
+      "moving_time": 182,
+      "split": 29,
+      "average_speed": 5.5,
+      "average_grade_adjusted_speed": 5.6,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1000.8,
+      "elapsed_time": 194,
+      "elevation_difference": -6.6,
+      "moving_time": 162,
+      "split": 30,
+      "average_speed": 6.18,
+      "average_grade_adjusted_speed": 6.12,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1002.1,
+      "elapsed_time": 155,
+      "elevation_difference": 0.8,
+      "moving_time": 155,
+      "split": 31,
+      "average_speed": 6.47,
+      "average_grade_adjusted_speed": 6.48,
+      "pace_zone": 0
+    },
+    {
+      "distance": 996.1,
+      "elapsed_time": 166,
+      "elevation_difference": 3.8,
+      "moving_time": 166,
+      "split": 32,
+      "average_speed": 6.0,
+      "average_grade_adjusted_speed": 6.1,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1003.1,
+      "elapsed_time": 161,
+      "elevation_difference": -5.8,
+      "moving_time": 161,
+      "split": 33,
+      "average_speed": 6.23,
+      "average_grade_adjusted_speed": 6.23,
+      "pace_zone": 0
+    },
+    {
+      "distance": 997.1,
+      "elapsed_time": 1035,
+      "elevation_difference": -0.2,
+      "moving_time": 173,
+      "split": 34,
+      "average_speed": 5.76,
+      "average_grade_adjusted_speed": 5.77,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1003.0,
+      "elapsed_time": 174,
+      "elevation_difference": 0.6,
+      "moving_time": 174,
+      "split": 35,
+      "average_speed": 5.76,
+      "average_grade_adjusted_speed": 5.77,
+      "pace_zone": 0
+    },
+    {
+      "distance": 999.4,
+      "elapsed_time": 169,
+      "elevation_difference": 3.4,
+      "moving_time": 169,
+      "split": 36,
+      "average_speed": 5.91,
+      "average_grade_adjusted_speed": 5.97,
+      "pace_zone": 0
+    },
+    {
+      "distance": 999.6,
+      "elapsed_time": 159,
+      "elevation_difference": -0.6,
+      "moving_time": 159,
+      "split": 37,
+      "average_speed": 6.29,
+      "average_grade_adjusted_speed": 6.28,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1003.2,
+      "elapsed_time": 155,
+      "elevation_difference": 1.0,
+      "moving_time": 155,
+      "split": 38,
+      "average_speed": 6.47,
+      "average_grade_adjusted_speed": 6.48,
+      "pace_zone": 0
+    },
+    {
+      "distance": 997.9,
+      "elapsed_time": 182,
+      "elevation_difference": 9.0,
+      "moving_time": 182,
+      "split": 39,
+      "average_speed": 5.48,
+      "average_grade_adjusted_speed": 5.63,
+      "pace_zone": 0
+    },
+    {
+      "distance": 997.6,
+      "elapsed_time": 161,
+      "elevation_difference": -3.8,
+      "moving_time": 161,
+      "split": 40,
+      "average_speed": 6.2,
+      "average_grade_adjusted_speed": 6.28,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1002.0,
+      "elapsed_time": 169,
+      "elevation_difference": 1.2,
+      "moving_time": 169,
+      "split": 41,
+      "average_speed": 5.93,
+      "average_grade_adjusted_speed": 5.97,
+      "pace_zone": 0
+    },
+    {
+      "distance": 998.1,
+      "elapsed_time": 194,
+      "elevation_difference": 7.8,
+      "moving_time": 194,
+      "split": 42,
+      "average_speed": 5.14,
+      "average_grade_adjusted_speed": 5.25,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1002.2,
+      "elapsed_time": 209,
+      "elevation_difference": 5.4,
+      "moving_time": 209,
+      "split": 43,
+      "average_speed": 4.8,
+      "average_grade_adjusted_speed": 4.92,
+      "pace_zone": 0
+    },
+    {
+      "distance": 998.8,
+      "elapsed_time": 155,
+      "elevation_difference": -5.6,
+      "moving_time": 155,
+      "split": 44,
+      "average_speed": 6.44,
+      "average_grade_adjusted_speed": 6.37,
+      "pace_zone": 0
+    },
+    {
+      "distance": 998.6,
+      "elapsed_time": 159,
+      "elevation_difference": -4.4,
+      "moving_time": 159,
+      "split": 45,
+      "average_speed": 6.28,
+      "average_grade_adjusted_speed": 6.24,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1000.6,
+      "elapsed_time": 178,
+      "elevation_difference": 0.6,
+      "moving_time": 178,
+      "split": 46,
+      "average_speed": 5.62,
+      "average_grade_adjusted_speed": 5.63,
+      "pace_zone": 0
+    },
+    {
+      "distance": 998.7,
+      "elapsed_time": 169,
+      "elevation_difference": 0.2,
+      "moving_time": 169,
+      "split": 47,
+      "average_speed": 5.91,
+      "average_grade_adjusted_speed": 5.92,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1002.9,
+      "elapsed_time": 167,
+      "elevation_difference": 0.2,
+      "moving_time": 167,
+      "split": 48,
+      "average_speed": 6.01,
+      "average_grade_adjusted_speed": 6.01,
+      "pace_zone": 0
+    },
+    {
+      "distance": 999.5,
+      "elapsed_time": 2419,
+      "elevation_difference": -1.2,
+      "moving_time": 182,
+      "split": 49,
+      "average_speed": 5.49,
+      "average_grade_adjusted_speed": 5.48,
+      "pace_zone": 0
+    },
+    {
+      "distance": 997.9,
+      "elapsed_time": 206,
+      "elevation_difference": 4.2,
+      "moving_time": 206,
+      "split": 50,
+      "average_speed": 4.84,
+      "average_grade_adjusted_speed": 4.9,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1000.2,
+      "elapsed_time": 466,
+      "elevation_difference": 49.4,
+      "moving_time": 369,
+      "split": 51,
+      "average_speed": 2.71,
+      "average_grade_adjusted_speed": 3.25,
+      "pace_zone": 0
+    },
+    {
+      "distance": 999.2,
+      "elapsed_time": 1307,
+      "elevation_difference": 68.2,
+      "moving_time": 458,
+      "split": 52,
+      "average_speed": 2.18,
+      "average_grade_adjusted_speed": 2.78,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1001.8,
+      "elapsed_time": 393,
+      "elevation_difference": 52.4,
+      "moving_time": 393,
+      "split": 53,
+      "average_speed": 2.55,
+      "average_grade_adjusted_speed": 3.05,
+      "pace_zone": 0
+    },
+    {
+      "distance": 998.3,
+      "elapsed_time": 279,
+      "elevation_difference": 20.0,
+      "moving_time": 279,
+      "split": 54,
+      "average_speed": 3.58,
+      "average_grade_adjusted_speed": 3.79,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1000.0,
+      "elapsed_time": 171,
+      "elevation_difference": -1.2,
+      "moving_time": 171,
+      "split": 55,
+      "average_speed": 5.85,
+      "average_grade_adjusted_speed": 5.86,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1005.9,
+      "elapsed_time": 174,
+      "elevation_difference": -27.6,
+      "moving_time": 135,
+      "split": 56,
+      "average_speed": 7.45,
+      "average_grade_adjusted_speed": 7.04,
+      "pace_zone": 0
+    },
+    {
+      "distance": 996.9,
+      "elapsed_time": 97,
+      "elevation_difference": -44.0,
+      "moving_time": 97,
+      "split": 57,
+      "average_speed": 10.28,
+      "average_grade_adjusted_speed": 9.42,
+      "pace_zone": 0
+    },
+    {
+      "distance": 998.4,
+      "elapsed_time": 128,
+      "elevation_difference": -8.0,
+      "moving_time": 128,
+      "split": 58,
+      "average_speed": 7.8,
+      "average_grade_adjusted_speed": 7.72,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1000.7,
+      "elapsed_time": 125,
+      "elevation_difference": -8.4,
+      "moving_time": 125,
+      "split": 59,
+      "average_speed": 8.01,
+      "average_grade_adjusted_speed": 7.9,
+      "pace_zone": 0
+    },
+    {
+      "distance": 999.4,
+      "elapsed_time": 148,
+      "elevation_difference": -8.6,
+      "moving_time": 148,
+      "split": 60,
+      "average_speed": 6.75,
+      "average_grade_adjusted_speed": 6.7,
+      "pace_zone": 0
+    },
+    {
+      "distance": 998.6,
+      "elapsed_time": 93,
+      "elevation_difference": -45.0,
+      "moving_time": 93,
+      "split": 61,
+      "average_speed": 10.74,
+      "average_grade_adjusted_speed": 9.78,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1002.0,
+      "elapsed_time": 90,
+      "elevation_difference": -54.4,
+      "moving_time": 90,
+      "split": 62,
+      "average_speed": 11.13,
+      "average_grade_adjusted_speed": 10.0,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1002.8,
+      "elapsed_time": 155,
+      "elevation_difference": -11.2,
+      "moving_time": 155,
+      "split": 63,
+      "average_speed": 6.47,
+      "average_grade_adjusted_speed": 6.36,
+      "pace_zone": 0
+    },
+    {
+      "distance": 998.7,
+      "elapsed_time": 156,
+      "elevation_difference": -0.2,
+      "moving_time": 156,
+      "split": 64,
+      "average_speed": 6.4,
+      "average_grade_adjusted_speed": 6.42,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1001.8,
+      "elapsed_time": 169,
+      "elevation_difference": 0.2,
+      "moving_time": 169,
+      "split": 65,
+      "average_speed": 5.93,
+      "average_grade_adjusted_speed": 5.94,
+      "pace_zone": 0
+    },
+    {
+      "distance": 996.9,
+      "elapsed_time": 2371,
+      "elevation_difference": -0.4,
+      "moving_time": 181,
+      "split": 66,
+      "average_speed": 5.51,
+      "average_grade_adjusted_speed": 5.51,
+      "pace_zone": 0
+    },
+    {
+      "distance": 999.0,
+      "elapsed_time": 165,
+      "elevation_difference": -1.2,
+      "moving_time": 165,
+      "split": 67,
+      "average_speed": 6.05,
+      "average_grade_adjusted_speed": 6.05,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1004.0,
+      "elapsed_time": 157,
+      "elevation_difference": -2.8,
+      "moving_time": 157,
+      "split": 68,
+      "average_speed": 6.39,
+      "average_grade_adjusted_speed": 6.37,
+      "pace_zone": 0
+    },
+    {
+      "distance": 995.2,
+      "elapsed_time": 155,
+      "elevation_difference": 0.6,
+      "moving_time": 155,
+      "split": 69,
+      "average_speed": 6.42,
+      "average_grade_adjusted_speed": 6.46,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1002.5,
+      "elapsed_time": 163,
+      "elevation_difference": -2.4,
+      "moving_time": 163,
+      "split": 70,
+      "average_speed": 6.15,
+      "average_grade_adjusted_speed": 6.15,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1000.4,
+      "elapsed_time": 159,
+      "elevation_difference": -1.4,
+      "moving_time": 159,
+      "split": 71,
+      "average_speed": 6.29,
+      "average_grade_adjusted_speed": 6.28,
+      "pace_zone": 0
+    },
+    {
+      "distance": 998.5,
+      "elapsed_time": 152,
+      "elevation_difference": -1.2,
+      "moving_time": 152,
+      "split": 72,
+      "average_speed": 6.57,
+      "average_grade_adjusted_speed": 6.56,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1003.4,
+      "elapsed_time": 159,
+      "elevation_difference": -0.4,
+      "moving_time": 159,
+      "split": 73,
+      "average_speed": 6.31,
+      "average_grade_adjusted_speed": 6.31,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1000.0,
+      "elapsed_time": 147,
+      "elevation_difference": -0.2,
+      "moving_time": 147,
+      "split": 74,
+      "average_speed": 6.8,
+      "average_grade_adjusted_speed": 6.81,
+      "pace_zone": 0
+    },
+    {
+      "distance": 995.8,
+      "elapsed_time": 148,
+      "elevation_difference": -0.8,
+      "moving_time": 148,
+      "split": 75,
+      "average_speed": 6.73,
+      "average_grade_adjusted_speed": 6.72,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1002.7,
+      "elapsed_time": 136,
+      "elevation_difference": 0.0,
+      "moving_time": 136,
+      "split": 76,
+      "average_speed": 7.37,
+      "average_grade_adjusted_speed": 7.38,
+      "pace_zone": 0
+    },
+    {
+      "distance": 996.2,
+      "elapsed_time": 547,
+      "elevation_difference": -2.6,
+      "moving_time": 171,
+      "split": 77,
+      "average_speed": 5.83,
+      "average_grade_adjusted_speed": 5.8,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1004.9,
+      "elapsed_time": 152,
+      "elevation_difference": 0.0,
+      "moving_time": 152,
+      "split": 78,
+      "average_speed": 6.61,
+      "average_grade_adjusted_speed": 6.61,
+      "pace_zone": 0
+    },
+    {
+      "distance": 995.1,
+      "elapsed_time": 146,
+      "elevation_difference": -1.6,
+      "moving_time": 146,
+      "split": 79,
+      "average_speed": 6.82,
+      "average_grade_adjusted_speed": 6.81,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1005.2,
+      "elapsed_time": 147,
+      "elevation_difference": -1.0,
+      "moving_time": 147,
+      "split": 80,
+      "average_speed": 6.84,
+      "average_grade_adjusted_speed": 6.83,
+      "pace_zone": 0
+    },
+    {
+      "distance": 997.5,
+      "elapsed_time": 146,
+      "elevation_difference": 2.4,
+      "moving_time": 146,
+      "split": 81,
+      "average_speed": 6.83,
+      "average_grade_adjusted_speed": 6.89,
+      "pace_zone": 0
+    },
+    {
+      "distance": 998.2,
+      "elapsed_time": 150,
+      "elevation_difference": -1.0,
+      "moving_time": 150,
+      "split": 82,
+      "average_speed": 6.65,
+      "average_grade_adjusted_speed": 6.66,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1003.6,
+      "elapsed_time": 157,
+      "elevation_difference": -3.0,
+      "moving_time": 157,
+      "split": 83,
+      "average_speed": 6.39,
+      "average_grade_adjusted_speed": 6.36,
+      "pace_zone": 0
+    },
+    {
+      "distance": 996.4,
+      "elapsed_time": 140,
+      "elevation_difference": -1.6,
+      "moving_time": 140,
+      "split": 84,
+      "average_speed": 7.12,
+      "average_grade_adjusted_speed": 7.1,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1003.8,
+      "elapsed_time": 166,
+      "elevation_difference": -0.6,
+      "moving_time": 166,
+      "split": 85,
+      "average_speed": 6.05,
+      "average_grade_adjusted_speed": 6.05,
+      "pace_zone": 0
+    },
+    {
+      "distance": 998.7,
+      "elapsed_time": 150,
+      "elevation_difference": -1.4,
+      "moving_time": 150,
+      "split": 86,
+      "average_speed": 6.66,
+      "average_grade_adjusted_speed": 6.65,
+      "pace_zone": 0
+    },
+    {
+      "distance": 998.2,
+      "elapsed_time": 147,
+      "elevation_difference": -1.6,
+      "moving_time": 147,
+      "split": 87,
+      "average_speed": 6.79,
+      "average_grade_adjusted_speed": 6.78,
+      "pace_zone": 0
+    },
+    {
+      "distance": 998.7,
+      "elapsed_time": 137,
+      "elevation_difference": -0.6,
+      "moving_time": 137,
+      "split": 88,
+      "average_speed": 7.29,
+      "average_grade_adjusted_speed": 7.29,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1003.3,
+      "elapsed_time": 134,
+      "elevation_difference": -0.6,
+      "moving_time": 134,
+      "split": 89,
+      "average_speed": 7.49,
+      "average_grade_adjusted_speed": 7.48,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1001.6,
+      "elapsed_time": 113,
+      "elevation_difference": 2.4,
+      "moving_time": 113,
+      "split": 90,
+      "average_speed": 8.86,
+      "average_grade_adjusted_speed": 8.93,
+      "pace_zone": 0
+    },
+    {
+      "distance": 994.8,
+      "elapsed_time": 130,
+      "elevation_difference": -4.2,
+      "moving_time": 130,
+      "split": 91,
+      "average_speed": 7.65,
+      "average_grade_adjusted_speed": 7.6,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1002.9,
+      "elapsed_time": 201,
+      "elevation_difference": -0.6,
+      "moving_time": 168,
+      "split": 92,
+      "average_speed": 5.97,
+      "average_grade_adjusted_speed": 5.97,
+      "pace_zone": 0
+    },
+    {
+      "distance": 997.5,
+      "elapsed_time": 369,
+      "elevation_difference": -0.4,
+      "moving_time": 228,
+      "split": 93,
+      "average_speed": 4.38,
+      "average_grade_adjusted_speed": 4.38,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1004.0,
+      "elapsed_time": 208,
+      "elevation_difference": 1.2,
+      "moving_time": 208,
+      "split": 94,
+      "average_speed": 4.83,
+      "average_grade_adjusted_speed": 4.88,
+      "pace_zone": 0
+    },
+    {
+      "distance": 999.2,
+      "elapsed_time": 511,
+      "elevation_difference": -1.6,
+      "moving_time": 191,
+      "split": 95,
+      "average_speed": 5.23,
+      "average_grade_adjusted_speed": 5.22,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1001.2,
+      "elapsed_time": 2969,
+      "elevation_difference": 2.4,
+      "moving_time": 167,
+      "split": 96,
+      "average_speed": 6.0,
+      "average_grade_adjusted_speed": 6.02,
+      "pace_zone": 0
+    },
+    {
+      "distance": 995.2,
+      "elapsed_time": 175,
+      "elevation_difference": 0.8,
+      "moving_time": 175,
+      "split": 97,
+      "average_speed": 5.69,
+      "average_grade_adjusted_speed": 5.7,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1000.4,
+      "elapsed_time": 165,
+      "elevation_difference": 1.6,
+      "moving_time": 165,
+      "split": 98,
+      "average_speed": 6.06,
+      "average_grade_adjusted_speed": 6.08,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1006.3,
+      "elapsed_time": 166,
+      "elevation_difference": 1.2,
+      "moving_time": 166,
+      "split": 99,
+      "average_speed": 6.06,
+      "average_grade_adjusted_speed": 6.09,
+      "pace_zone": 0
+    },
+    {
+      "distance": 994.4,
+      "elapsed_time": 156,
+      "elevation_difference": 0.6,
+      "moving_time": 156,
+      "split": 100,
+      "average_speed": 6.37,
+      "average_grade_adjusted_speed": 6.39,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1003.6,
+      "elapsed_time": 154,
+      "elevation_difference": -1.6,
+      "moving_time": 154,
+      "split": 101,
+      "average_speed": 6.52,
+      "average_grade_adjusted_speed": 6.51,
+      "pace_zone": 0
+    },
+    {
+      "distance": 996.2,
+      "elapsed_time": 174,
+      "elevation_difference": 1.0,
+      "moving_time": 174,
+      "split": 102,
+      "average_speed": 5.73,
+      "average_grade_adjusted_speed": 5.77,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1002.9,
+      "elapsed_time": 151,
+      "elevation_difference": 0.0,
+      "moving_time": 151,
+      "split": 103,
+      "average_speed": 6.64,
+      "average_grade_adjusted_speed": 6.65,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1001.6,
+      "elapsed_time": 166,
+      "elevation_difference": -0.4,
+      "moving_time": 166,
+      "split": 104,
+      "average_speed": 6.03,
+      "average_grade_adjusted_speed": 6.07,
+      "pace_zone": 0
+    },
+    {
+      "distance": 998.9,
+      "elapsed_time": 219,
+      "elevation_difference": 4.8,
+      "moving_time": 197,
+      "split": 105,
+      "average_speed": 5.07,
+      "average_grade_adjusted_speed": 5.14,
+      "pace_zone": 0
+    },
+    {
+      "distance": 996.1,
+      "elapsed_time": 149,
+      "elevation_difference": -2.6,
+      "moving_time": 149,
+      "split": 106,
+      "average_speed": 6.69,
+      "average_grade_adjusted_speed": 6.66,
+      "pace_zone": 0
+    },
+    {
+      "distance": 999.4,
+      "elapsed_time": 179,
+      "elevation_difference": 1.8,
+      "moving_time": 179,
+      "split": 107,
+      "average_speed": 5.58,
+      "average_grade_adjusted_speed": 5.63,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1002.2,
+      "elapsed_time": 157,
+      "elevation_difference": -0.8,
+      "moving_time": 157,
+      "split": 108,
+      "average_speed": 6.38,
+      "average_grade_adjusted_speed": 6.38,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1000.4,
+      "elapsed_time": 158,
+      "elevation_difference": -1.0,
+      "moving_time": 158,
+      "split": 109,
+      "average_speed": 6.33,
+      "average_grade_adjusted_speed": 6.33,
+      "pace_zone": 0
+    },
+    {
+      "distance": 999.9,
+      "elapsed_time": 177,
+      "elevation_difference": -2.0,
+      "moving_time": 177,
+      "split": 110,
+      "average_speed": 5.65,
+      "average_grade_adjusted_speed": 5.64,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1005.3,
+      "elapsed_time": 144,
+      "elevation_difference": -4.4,
+      "moving_time": 144,
+      "split": 111,
+      "average_speed": 6.98,
+      "average_grade_adjusted_speed": 6.93,
+      "pace_zone": 0
+    },
+    {
+      "distance": 994.8,
+      "elapsed_time": 116,
+      "elevation_difference": 0.2,
+      "moving_time": 116,
+      "split": 112,
+      "average_speed": 8.58,
+      "average_grade_adjusted_speed": 8.58,
+      "pace_zone": 0
+    },
+    {
+      "distance": 998.3,
+      "elapsed_time": 116,
+      "elevation_difference": 0.6,
+      "moving_time": 116,
+      "split": 113,
+      "average_speed": 8.61,
+      "average_grade_adjusted_speed": 8.62,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1000.6,
+      "elapsed_time": 122,
+      "elevation_difference": 0.6,
+      "moving_time": 122,
+      "split": 114,
+      "average_speed": 8.2,
+      "average_grade_adjusted_speed": 8.21,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1004.1,
+      "elapsed_time": 155,
+      "elevation_difference": 2.0,
+      "moving_time": 155,
+      "split": 115,
+      "average_speed": 6.48,
+      "average_grade_adjusted_speed": 6.52,
+      "pace_zone": 0
+    },
+    {
+      "distance": 995.3,
+      "elapsed_time": 143,
+      "elevation_difference": -0.8,
+      "moving_time": 143,
+      "split": 116,
+      "average_speed": 6.96,
+      "average_grade_adjusted_speed": 6.95,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1004.8,
+      "elapsed_time": 154,
+      "elevation_difference": -3.6,
+      "moving_time": 154,
+      "split": 117,
+      "average_speed": 6.52,
+      "average_grade_adjusted_speed": 6.49,
+      "pace_zone": 0
+    },
+    {
+      "distance": 994.3,
+      "elapsed_time": 169,
+      "elevation_difference": -0.6,
+      "moving_time": 169,
+      "split": 118,
+      "average_speed": 5.88,
+      "average_grade_adjusted_speed": 5.88,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1005.5,
+      "elapsed_time": 175,
+      "elevation_difference": 0.2,
+      "moving_time": 175,
+      "split": 119,
+      "average_speed": 5.75,
+      "average_grade_adjusted_speed": 5.75,
+      "pace_zone": 0
+    },
+    {
+      "distance": 997.9,
+      "elapsed_time": 160,
+      "elevation_difference": -0.6,
+      "moving_time": 160,
+      "split": 120,
+      "average_speed": 6.24,
+      "average_grade_adjusted_speed": 6.23,
+      "pace_zone": 0
+    },
+    {
+      "distance": 996.7,
+      "elapsed_time": 160,
+      "elevation_difference": -0.4,
+      "moving_time": 160,
+      "split": 121,
+      "average_speed": 6.23,
+      "average_grade_adjusted_speed": 6.23,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1003.4,
+      "elapsed_time": 162,
+      "elevation_difference": -0.6,
+      "moving_time": 162,
+      "split": 122,
+      "average_speed": 6.19,
+      "average_grade_adjusted_speed": 6.19,
+      "pace_zone": 0
+    },
+    {
+      "distance": 998.6,
+      "elapsed_time": 206,
+      "elevation_difference": -0.6,
+      "moving_time": 178,
+      "split": 123,
+      "average_speed": 5.61,
+      "average_grade_adjusted_speed": 5.61,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1003.4,
+      "elapsed_time": 169,
+      "elevation_difference": -2.0,
+      "moving_time": 169,
+      "split": 124,
+      "average_speed": 5.94,
+      "average_grade_adjusted_speed": 5.92,
+      "pace_zone": 0
+    },
+    {
+      "distance": 994.8,
+      "elapsed_time": 178,
+      "elevation_difference": 1.6,
+      "moving_time": 178,
+      "split": 125,
+      "average_speed": 5.59,
+      "average_grade_adjusted_speed": 5.61,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1003.2,
+      "elapsed_time": 172,
+      "elevation_difference": -0.8,
+      "moving_time": 172,
+      "split": 126,
+      "average_speed": 5.83,
+      "average_grade_adjusted_speed": 5.83,
+      "pace_zone": 0
+    },
+    {
+      "distance": 996.9,
+      "elapsed_time": 151,
+      "elevation_difference": 0.2,
+      "moving_time": 151,
+      "split": 127,
+      "average_speed": 6.6,
+      "average_grade_adjusted_speed": 6.6,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1004.8,
+      "elapsed_time": 154,
+      "elevation_difference": -0.8,
+      "moving_time": 154,
+      "split": 128,
+      "average_speed": 6.52,
+      "average_grade_adjusted_speed": 6.52,
+      "pace_zone": 0
+    },
+    {
+      "distance": 997.8,
+      "elapsed_time": 132,
+      "elevation_difference": 0.0,
+      "moving_time": 132,
+      "split": 129,
+      "average_speed": 7.56,
+      "average_grade_adjusted_speed": 7.56,
+      "pace_zone": 0
+    },
+    {
+      "distance": 999.8,
+      "elapsed_time": 174,
+      "elevation_difference": -0.8,
+      "moving_time": 140,
+      "split": 130,
+      "average_speed": 7.14,
+      "average_grade_adjusted_speed": 7.14,
+      "pace_zone": 0
+    },
+    {
+      "distance": 999.2,
+      "elapsed_time": 138,
+      "elevation_difference": 0.0,
+      "moving_time": 138,
+      "split": 131,
+      "average_speed": 7.24,
+      "average_grade_adjusted_speed": 7.24,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1003.8,
+      "elapsed_time": 141,
+      "elevation_difference": 0.2,
+      "moving_time": 141,
+      "split": 132,
+      "average_speed": 7.12,
+      "average_grade_adjusted_speed": 7.12,
+      "pace_zone": 0
+    },
+    {
+      "distance": 998.1,
+      "elapsed_time": 187,
+      "elevation_difference": -0.4,
+      "moving_time": 187,
+      "split": 133,
+      "average_speed": 5.34,
+      "average_grade_adjusted_speed": 5.34,
+      "pace_zone": 0
+    },
+    {
+      "distance": 996.5,
+      "elapsed_time": 228,
+      "elevation_difference": 1.2,
+      "moving_time": 191,
+      "split": 134,
+      "average_speed": 5.22,
+      "average_grade_adjusted_speed": 5.25,
+      "pace_zone": 0
+    },
+    {
+      "distance": 313.8,
+      "elapsed_time": 98,
+      "elevation_difference": 0.8,
+      "moving_time": 77,
+      "split": 135,
+      "average_speed": 4.08,
+      "average_grade_adjusted_speed": 4.1,
+      "pace_zone": 0
+    }
+  ],
+  "splits_standard": [
+    {
+      "distance": 1609.5,
+      "elapsed_time": 289,
+      "elevation_difference": -1.2,
+      "moving_time": 289,
+      "split": 1,
+      "average_speed": 5.57,
+      "average_grade_adjusted_speed": 5.56,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1610.8,
+      "elapsed_time": 2272,
+      "elevation_difference": -4.4,
+      "moving_time": 490,
+      "split": 2,
+      "average_speed": 3.29,
+      "average_grade_adjusted_speed": 3.28,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1609.5,
+      "elapsed_time": 593,
+      "elevation_difference": -0.4,
+      "moving_time": 443,
+      "split": 3,
+      "average_speed": 3.63,
+      "average_grade_adjusted_speed": 3.65,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1612.7,
+      "elapsed_time": 372,
+      "elevation_difference": 0.0,
+      "moving_time": 336,
+      "split": 4,
+      "average_speed": 4.8,
+      "average_grade_adjusted_speed": 4.81,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1607.3,
+      "elapsed_time": 275,
+      "elevation_difference": 0.8,
+      "moving_time": 275,
+      "split": 5,
+      "average_speed": 5.84,
+      "average_grade_adjusted_speed": 5.85,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1613.7,
+      "elapsed_time": 221,
+      "elevation_difference": -3.6,
+      "moving_time": 221,
+      "split": 6,
+      "average_speed": 7.3,
+      "average_grade_adjusted_speed": 7.28,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1606.0,
+      "elapsed_time": 232,
+      "elevation_difference": -5.4,
+      "moving_time": 232,
+      "split": 7,
+      "average_speed": 6.92,
+      "average_grade_adjusted_speed": 6.89,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1609.1,
+      "elapsed_time": 311,
+      "elevation_difference": -5.8,
+      "moving_time": 267,
+      "split": 8,
+      "average_speed": 6.03,
+      "average_grade_adjusted_speed": 6.0,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1608.9,
+      "elapsed_time": 1874,
+      "elevation_difference": -1.8,
+      "moving_time": 330,
+      "split": 9,
+      "average_speed": 4.88,
+      "average_grade_adjusted_speed": 4.88,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1606.3,
+      "elapsed_time": 277,
+      "elevation_difference": 4.2,
+      "moving_time": 277,
+      "split": 10,
+      "average_speed": 5.8,
+      "average_grade_adjusted_speed": 5.93,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1614.5,
+      "elapsed_time": 336,
+      "elevation_difference": 4.8,
+      "moving_time": 275,
+      "split": 11,
+      "average_speed": 5.87,
+      "average_grade_adjusted_speed": 5.93,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1607.2,
+      "elapsed_time": 287,
+      "elevation_difference": 12.0,
+      "moving_time": 287,
+      "split": 12,
+      "average_speed": 5.6,
+      "average_grade_adjusted_speed": 5.69,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1606.6,
+      "elapsed_time": 601,
+      "elevation_difference": 87.8,
+      "moving_time": 572,
+      "split": 13,
+      "average_speed": 2.81,
+      "average_grade_adjusted_speed": 3.49,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1616.9,
+      "elapsed_time": 382,
+      "elevation_difference": -48.2,
+      "moving_time": 269,
+      "split": 14,
+      "average_speed": 6.01,
+      "average_grade_adjusted_speed": 5.8,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1607.6,
+      "elapsed_time": 160,
+      "elevation_difference": -69.4,
+      "moving_time": 160,
+      "split": 15,
+      "average_speed": 10.05,
+      "average_grade_adjusted_speed": 9.23,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1603.1,
+      "elapsed_time": 255,
+      "elevation_difference": -4.6,
+      "moving_time": 255,
+      "split": 16,
+      "average_speed": 6.29,
+      "average_grade_adjusted_speed": 6.26,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1612.4,
+      "elapsed_time": 313,
+      "elevation_difference": -1.2,
+      "moving_time": 281,
+      "split": 17,
+      "average_speed": 5.74,
+      "average_grade_adjusted_speed": 5.74,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1610.0,
+      "elapsed_time": 1509,
+      "elevation_difference": 6.2,
+      "moving_time": 326,
+      "split": 18,
+      "average_speed": 4.94,
+      "average_grade_adjusted_speed": 5.01,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1607.9,
+      "elapsed_time": 287,
+      "elevation_difference": -5.2,
+      "moving_time": 255,
+      "split": 19,
+      "average_speed": 6.31,
+      "average_grade_adjusted_speed": 6.29,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1610.7,
+      "elapsed_time": 273,
+      "elevation_difference": 3.6,
+      "moving_time": 273,
+      "split": 20,
+      "average_speed": 5.9,
+      "average_grade_adjusted_speed": 5.96,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1606.7,
+      "elapsed_time": 1122,
+      "elevation_difference": -4.8,
+      "moving_time": 260,
+      "split": 21,
+      "average_speed": 6.18,
+      "average_grade_adjusted_speed": 6.19,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1611.1,
+      "elapsed_time": 281,
+      "elevation_difference": 2.2,
+      "moving_time": 281,
+      "split": 22,
+      "average_speed": 5.73,
+      "average_grade_adjusted_speed": 5.76,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1606.9,
+      "elapsed_time": 259,
+      "elevation_difference": 0.8,
+      "moving_time": 259,
+      "split": 23,
+      "average_speed": 6.2,
+      "average_grade_adjusted_speed": 6.21,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1613.9,
+      "elapsed_time": 253,
+      "elevation_difference": 2.4,
+      "moving_time": 253,
+      "split": 24,
+      "average_speed": 6.38,
+      "average_grade_adjusted_speed": 6.4,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1606.0,
+      "elapsed_time": 276,
+      "elevation_difference": 2.2,
+      "moving_time": 276,
+      "split": 25,
+      "average_speed": 5.82,
+      "average_grade_adjusted_speed": 5.94,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1611.0,
+      "elapsed_time": 302,
+      "elevation_difference": 10.0,
+      "moving_time": 302,
+      "split": 26,
+      "average_speed": 5.33,
+      "average_grade_adjusted_speed": 5.43,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1607.4,
+      "elapsed_time": 307,
+      "elevation_difference": 6.2,
+      "moving_time": 307,
+      "split": 27,
+      "average_speed": 5.24,
+      "average_grade_adjusted_speed": 5.33,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1612.3,
+      "elapsed_time": 256,
+      "elevation_difference": -9.6,
+      "moving_time": 256,
+      "split": 28,
+      "average_speed": 6.3,
+      "average_grade_adjusted_speed": 6.23,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1608.8,
+      "elapsed_time": 278,
+      "elevation_difference": -0.4,
+      "moving_time": 278,
+      "split": 29,
+      "average_speed": 5.79,
+      "average_grade_adjusted_speed": 5.79,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1611.2,
+      "elapsed_time": 269,
+      "elevation_difference": 1.2,
+      "moving_time": 269,
+      "split": 30,
+      "average_speed": 5.99,
+      "average_grade_adjusted_speed": 6.0,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1604.8,
+      "elapsed_time": 2555,
+      "elevation_difference": -0.2,
+      "moving_time": 318,
+      "split": 31,
+      "average_speed": 5.05,
+      "average_grade_adjusted_speed": 5.05,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1608.6,
+      "elapsed_time": 1566,
+      "elevation_difference": 86.0,
+      "moving_time": 620,
+      "split": 32,
+      "average_speed": 2.59,
+      "average_grade_adjusted_speed": 3.15,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1611.0,
+      "elapsed_time": 661,
+      "elevation_difference": 87.0,
+      "moving_time": 661,
+      "split": 33,
+      "average_speed": 2.44,
+      "average_grade_adjusted_speed": 2.94,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1610.7,
+      "elapsed_time": 372,
+      "elevation_difference": 18.0,
+      "moving_time": 372,
+      "split": 34,
+      "average_speed": 4.33,
+      "average_grade_adjusted_speed": 4.49,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1613.5,
+      "elapsed_time": 251,
+      "elevation_difference": -42.0,
+      "moving_time": 212,
+      "split": 35,
+      "average_speed": 7.61,
+      "average_grade_adjusted_speed": 7.22,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1607.9,
+      "elapsed_time": 183,
+      "elevation_difference": -35.8,
+      "moving_time": 183,
+      "split": 36,
+      "average_speed": 8.79,
+      "average_grade_adjusted_speed": 8.44,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1603.4,
+      "elapsed_time": 215,
+      "elevation_difference": -11.6,
+      "moving_time": 215,
+      "split": 37,
+      "average_speed": 7.46,
+      "average_grade_adjusted_speed": 7.41,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1612.0,
+      "elapsed_time": 172,
+      "elevation_difference": -59.2,
+      "moving_time": 172,
+      "split": 38,
+      "average_speed": 9.37,
+      "average_grade_adjusted_speed": 8.69,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1610.4,
+      "elapsed_time": 197,
+      "elevation_difference": -55.8,
+      "moving_time": 197,
+      "split": 39,
+      "average_speed": 8.17,
+      "average_grade_adjusted_speed": 7.67,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1611.2,
+      "elapsed_time": 249,
+      "elevation_difference": -2.0,
+      "moving_time": 249,
+      "split": 40,
+      "average_speed": 6.47,
+      "average_grade_adjusted_speed": 6.47,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1605.1,
+      "elapsed_time": 2478,
+      "elevation_difference": -0.4,
+      "moving_time": 288,
+      "split": 41,
+      "average_speed": 5.57,
+      "average_grade_adjusted_speed": 5.58,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1610.1,
+      "elapsed_time": 262,
+      "elevation_difference": -3.2,
+      "moving_time": 262,
+      "split": 42,
+      "average_speed": 6.15,
+      "average_grade_adjusted_speed": 6.13,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1610.8,
+      "elapsed_time": 250,
+      "elevation_difference": -0.8,
+      "moving_time": 250,
+      "split": 43,
+      "average_speed": 6.44,
+      "average_grade_adjusted_speed": 6.46,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1608.2,
+      "elapsed_time": 261,
+      "elevation_difference": -3.0,
+      "moving_time": 261,
+      "split": 44,
+      "average_speed": 6.16,
+      "average_grade_adjusted_speed": 6.16,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1612.5,
+      "elapsed_time": 250,
+      "elevation_difference": -2.0,
+      "moving_time": 250,
+      "split": 45,
+      "average_speed": 6.45,
+      "average_grade_adjusted_speed": 6.44,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1607.3,
+      "elapsed_time": 241,
+      "elevation_difference": -0.2,
+      "moving_time": 241,
+      "split": 46,
+      "average_speed": 6.67,
+      "average_grade_adjusted_speed": 6.68,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1611.2,
+      "elapsed_time": 233,
+      "elevation_difference": -1.0,
+      "moving_time": 233,
+      "split": 47,
+      "average_speed": 6.92,
+      "average_grade_adjusted_speed": 6.91,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1609.4,
+      "elapsed_time": 634,
+      "elevation_difference": -2.2,
+      "moving_time": 258,
+      "split": 48,
+      "average_speed": 6.24,
+      "average_grade_adjusted_speed": 6.23,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1605.0,
+      "elapsed_time": 237,
+      "elevation_difference": -1.4,
+      "moving_time": 237,
+      "split": 49,
+      "average_speed": 6.77,
+      "average_grade_adjusted_speed": 6.77,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1608.8,
+      "elapsed_time": 240,
+      "elevation_difference": 1.2,
+      "moving_time": 240,
+      "split": 50,
+      "average_speed": 6.7,
+      "average_grade_adjusted_speed": 6.73,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1613.4,
+      "elapsed_time": 237,
+      "elevation_difference": -1.2,
+      "moving_time": 237,
+      "split": 51,
+      "average_speed": 6.81,
+      "average_grade_adjusted_speed": 6.81,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1608.6,
+      "elapsed_time": 240,
+      "elevation_difference": -4.2,
+      "moving_time": 240,
+      "split": 52,
+      "average_speed": 6.7,
+      "average_grade_adjusted_speed": 6.67,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1609.6,
+      "elapsed_time": 255,
+      "elevation_difference": -2.0,
+      "moving_time": 255,
+      "split": 53,
+      "average_speed": 6.31,
+      "average_grade_adjusted_speed": 6.3,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1605.5,
+      "elapsed_time": 241,
+      "elevation_difference": -1.8,
+      "moving_time": 241,
+      "split": 54,
+      "average_speed": 6.66,
+      "average_grade_adjusted_speed": 6.65,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1610.6,
+      "elapsed_time": 222,
+      "elevation_difference": -1.4,
+      "moving_time": 222,
+      "split": 55,
+      "average_speed": 7.25,
+      "average_grade_adjusted_speed": 7.25,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1610.6,
+      "elapsed_time": 187,
+      "elevation_difference": 1.0,
+      "moving_time": 187,
+      "split": 56,
+      "average_speed": 8.61,
+      "average_grade_adjusted_speed": 8.64,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1608.6,
+      "elapsed_time": 274,
+      "elevation_difference": -3.4,
+      "moving_time": 241,
+      "split": 57,
+      "average_speed": 6.67,
+      "average_grade_adjusted_speed": 6.66,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1610.4,
+      "elapsed_time": 487,
+      "elevation_difference": 0.2,
+      "moving_time": 346,
+      "split": 58,
+      "average_speed": 4.65,
+      "average_grade_adjusted_speed": 4.66,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1606.7,
+      "elapsed_time": 635,
+      "elevation_difference": -1.2,
+      "moving_time": 315,
+      "split": 59,
+      "average_speed": 5.1,
+      "average_grade_adjusted_speed": 5.12,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1612.7,
+      "elapsed_time": 3073,
+      "elevation_difference": 2.8,
+      "moving_time": 271,
+      "split": 60,
+      "average_speed": 5.95,
+      "average_grade_adjusted_speed": 5.97,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1611.6,
+      "elapsed_time": 271,
+      "elevation_difference": 1.8,
+      "moving_time": 271,
+      "split": 61,
+      "average_speed": 5.95,
+      "average_grade_adjusted_speed": 5.96,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1607.3,
+      "elapsed_time": 267,
+      "elevation_difference": 2.0,
+      "moving_time": 267,
+      "split": 62,
+      "average_speed": 6.02,
+      "average_grade_adjusted_speed": 6.05,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1608.3,
+      "elapsed_time": 245,
+      "elevation_difference": -0.6,
+      "moving_time": 245,
+      "split": 63,
+      "average_speed": 6.56,
+      "average_grade_adjusted_speed": 6.57,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1612.2,
+      "elapsed_time": 263,
+      "elevation_difference": 0.2,
+      "moving_time": 263,
+      "split": 64,
+      "average_speed": 6.13,
+      "average_grade_adjusted_speed": 6.15,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1604.8,
+      "elapsed_time": 310,
+      "elevation_difference": 1.0,
+      "moving_time": 288,
+      "split": 65,
+      "average_speed": 5.57,
+      "average_grade_adjusted_speed": 5.6,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1613.1,
+      "elapsed_time": 269,
+      "elevation_difference": 3.4,
+      "moving_time": 269,
+      "split": 66,
+      "average_speed": 6.0,
+      "average_grade_adjusted_speed": 6.06,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1608.2,
+      "elapsed_time": 265,
+      "elevation_difference": -1.4,
+      "moving_time": 265,
+      "split": 67,
+      "average_speed": 6.07,
+      "average_grade_adjusted_speed": 6.06,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1608.7,
+      "elapsed_time": 273,
+      "elevation_difference": -1.4,
+      "moving_time": 273,
+      "split": 68,
+      "average_speed": 5.89,
+      "average_grade_adjusted_speed": 5.89,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1614.0,
+      "elapsed_time": 237,
+      "elevation_difference": -6.4,
+      "moving_time": 237,
+      "split": 69,
+      "average_speed": 6.81,
+      "average_grade_adjusted_speed": 6.77,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1604.4,
+      "elapsed_time": 187,
+      "elevation_difference": 0.8,
+      "moving_time": 187,
+      "split": 70,
+      "average_speed": 8.58,
+      "average_grade_adjusted_speed": 8.59,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1610.6,
+      "elapsed_time": 211,
+      "elevation_difference": 3.0,
+      "moving_time": 211,
+      "split": 71,
+      "average_speed": 7.63,
+      "average_grade_adjusted_speed": 7.67,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1610.3,
+      "elapsed_time": 232,
+      "elevation_difference": -0.8,
+      "moving_time": 232,
+      "split": 72,
+      "average_speed": 6.94,
+      "average_grade_adjusted_speed": 6.94,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1604.7,
+      "elapsed_time": 255,
+      "elevation_difference": -3.2,
+      "moving_time": 255,
+      "split": 73,
+      "average_speed": 6.29,
+      "average_grade_adjusted_speed": 6.28,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1613.7,
+      "elapsed_time": 275,
+      "elevation_difference": -1.2,
+      "moving_time": 275,
+      "split": 74,
+      "average_speed": 5.87,
+      "average_grade_adjusted_speed": 5.86,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1606.7,
+      "elapsed_time": 258,
+      "elevation_difference": -0.6,
+      "moving_time": 258,
+      "split": 75,
+      "average_speed": 6.23,
+      "average_grade_adjusted_speed": 6.23,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1609.7,
+      "elapsed_time": 262,
+      "elevation_difference": -0.2,
+      "moving_time": 262,
+      "split": 76,
+      "average_speed": 6.14,
+      "average_grade_adjusted_speed": 6.15,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1607.6,
+      "elapsed_time": 308,
+      "elevation_difference": -3.2,
+      "moving_time": 280,
+      "split": 77,
+      "average_speed": 5.74,
+      "average_grade_adjusted_speed": 5.73,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1614.0,
+      "elapsed_time": 281,
+      "elevation_difference": 1.2,
+      "moving_time": 281,
+      "split": 78,
+      "average_speed": 5.74,
+      "average_grade_adjusted_speed": 5.76,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1609.3,
+      "elapsed_time": 257,
+      "elevation_difference": 0.2,
+      "moving_time": 257,
+      "split": 79,
+      "average_speed": 6.26,
+      "average_grade_adjusted_speed": 6.27,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1603.9,
+      "elapsed_time": 229,
+      "elevation_difference": -1.2,
+      "moving_time": 229,
+      "split": 80,
+      "average_speed": 7.0,
+      "average_grade_adjusted_speed": 7.0,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1615.1,
+      "elapsed_time": 257,
+      "elevation_difference": -0.6,
+      "moving_time": 223,
+      "split": 81,
+      "average_speed": 7.24,
+      "average_grade_adjusted_speed": 7.24,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1606.8,
+      "elapsed_time": 225,
+      "elevation_difference": 0.0,
+      "moving_time": 225,
+      "split": 82,
+      "average_speed": 7.14,
+      "average_grade_adjusted_speed": 7.14,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1608.2,
+      "elapsed_time": 289,
+      "elevation_difference": -1.6,
+      "moving_time": 289,
+      "split": 83,
+      "average_speed": 5.56,
+      "average_grade_adjusted_speed": 5.56,
+      "pace_zone": 0
+    },
+    {
+      "distance": 736.4,
+      "elapsed_time": 229,
+      "elevation_difference": 3.2,
+      "moving_time": 171,
+      "split": 84,
+      "average_speed": 4.31,
+      "average_grade_adjusted_speed": 4.38,
+      "pace_zone": 0
+    }
+  ],
+  "laps": [
+    {
+      "id": 53268299051,
+      "resource_state": 2,
+      "name": "Lap 1",
+      "activity": {
+        "id": 14975702877,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 38235,
+      "moving_time": 38235,
+      "start_date": "2025-07-01T06:30:02Z",
+      "start_date_local": "2025-07-01T08:30:02Z",
+      "distance": 134314.0,
+      "average_speed": 3.51,
+      "max_speed": 15.06,
+      "lap_index": 1,
+      "split": 1,
+      "start_index": 0,
+      "end_index": 38235,
+      "total_elevation_gain": 532.6,
+      "device_watts": false,
+      "average_watts": 119.6
+    }
+  ],
+  "gear": {
+    "id": "b16337781",
+    "primary": false,
+    "name": "Betty (Milan ->)",
+    "nickname": "Betty (Milan ->)",
+    "resource_state": 2,
+    "retired": false,
+    "distance": 9056030,
+    "converted_distance": 9056.0
+  },
+  "photos": {
+    "primary": {
+      "unique_id": "c0edc3f7-75b9-409f-86a9-0b9386b78760",
+      "urls": {
+        "600": "https://dgtzuqphqg23d.cloudfront.net/4zrF-PByid-p0n924ahLoUGFc8Am9Go2Uc9Ttu72u2s-432x768.jpg",
+        "100": "https://dgtzuqphqg23d.cloudfront.net/4zrF-PByid-p0n924ahLoUGFc8Am9Go2Uc9Ttu72u2s-72x128.jpg"
+      },
+      "source": 1,
+      "media_type": 1
+    },
+    "use_primary_photo": false,
+    "count": 2
+  },
+  "stats_visibility": [
+    {
+      "type": "heart_rate",
+      "visibility": "everyone"
+    },
+    {
+      "type": "pace",
+      "visibility": "everyone"
+    },
+    {
+      "type": "power",
+      "visibility": "everyone"
+    },
+    {
+      "type": "speed",
+      "visibility": "everyone"
+    },
+    {
+      "type": "calories",
+      "visibility": "everyone"
+    }
+  ],
+  "hide_from_home": false,
+  "embed_token": "75b0ec12e89a7799b0fc45afe132a535b48a22fd",
+  "available_zones": [
+    "power"
+  ]
+}

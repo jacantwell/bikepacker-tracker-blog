@@ -1,0 +1,583 @@
+{
+  "resource_state": 3,
+  "athlete": {
+    "id": 49023768,
+    "resource_state": 1
+  },
+  "name": "Annapurna Day 3",
+  "distance": 15225.4,
+  "moving_time": 5273,
+  "elapsed_time": 6700,
+  "total_elevation_gain": 456.0,
+  "type": "Ride",
+  "sport_type": "Ride",
+  "workout_type": null,
+  "device_name": "Garmin Edge 540",
+  "id": 16661767873,
+  "start_date": "2025-12-05T03:05:10Z",
+  "start_date_local": "2025-12-05T08:50:10Z",
+  "timezone": "(GMT+05:45) Asia/Kathmandu",
+  "utc_offset": 20700.0,
+  "location_city": null,
+  "location_state": null,
+  "location_country": null,
+  "achievement_count": 0,
+  "kudos_count": 4,
+  "comment_count": 0,
+  "athlete_count": 1,
+  "photo_count": 0,
+  "map": {
+    "id": "a16661767873",
+    "polyline": "ofsmDiur`OCECVSl@?@B?GBmAdCeB|C}@jBi@x@m@p@y@dAsA|Bm@h@]h@WNa@Ng@@k@FyBIYBKBWZKRe@rAw@hAQRQJSFgAJg@NoAz@a@`@OJoArC]bAB@MRGPCn@A`BUzEA`BMlAS|@Uh@sApBS^GXGHCRCp@?zACf@IPg@d@iAt@QV}Az@[\\SPu@\\e@XQTQ\\Ob@Wj@Qh@]f@CLw@z@MHMDMAMCIKIEOAODUXOXOPg@`@_@Pm@l@k@r@[f@WROX[\\IDi@Fa@j@q@Xi@f@o@n@Wr@KBg@EUFSRW\\[~A]h@YXOHMB]GUAK?GDMp@Uv@Cb@OdAGPa@p@kAvAg@z@i@j@Sb@YRSHEL?HBDNBx@g@NSJGJBBD@HCJ]Zk@z@MJWFc@DiAZ{ARg@Ri@ZWTKPAH@LDHR?BFVCt@Jb@Tb@f@PNDLAHMBEASYSOOGWCqADuBC[Cc@IKBGJ?JFJh@Tj@\\JRHp@GbB@b@BL?NGbASlASn@WnBGFW~@q@xAW|@Wl@q@bAYr@g@|BQ~ASf@SdAC^BdACn@U`DK~@Q|E?j@Fv@IlB?hC@ZCZC|EQ|Bg@hEAjBGnBWhFArBI`AMvDOrCIr@CdAIp@U|EKjADrAI|@@j@Gf@Cx@CNMTCNO`DAt@Gn@@^QlBEhBKnAAb@P|@Bl@Er@If@Od@W`B[xAQhAe@jBu@nEUt@]n@M|@K^Mr@Sz@c@rAwAvEStAEJYZ?\\YPGj@MJOp@_@~@Kf@_@x@Id@EFCA@?CDALIHAVKRe@nASf@i@|@m@xAW`@Qj@Q`@UZQd@U`@WXMVcBbCo@l@OHe@`@[b@Q`@SL}@nA]v@KNo@zCOVITG\\q@bBW~A]|AOjA[`A@FCF?RGTOPUl@ILOHe@`@m@fA[v@Ql@MTUNUFWVc@l@a@t@Qh@k@r@a@t@GRANGNMROJaAbBMb@Ed@BlAJZJr@VjCF~@@h@Fl@TlAFp@Dz@BRB@@vABHDHHlA@d@NPAh@XxACjADXETF\\CNGNYRKBM@IHSv@MRQPw@b@ITG\\DZVV^d@DVVl@J`@LPZbAFn@Rr@@VCb@?`AK\\AXC`ENdBAdB]zGQ`CO~EG`H?pADjAEjB?v@G~@?nDCf@KZMl@I|@@RETOp@i@xACHQ`@AHB@IBILYXEDGXIFQ@IE@BSCm@\\KJANFV?RQf@WHqAPq@NS?WH_@Fe@T]V{AvAURc@TYRg@h@kA`A}@`AuArBy@t@c@x@Qh@GVAh@DT?XGnAO~@e@xAAPGViArD]v@IHOXM`@_@nBo@~B]|@UlA[pAw@fCKL_@LK?YESBMDAZM\\aAdBsA|Am@dAa@`@QRGPI@?JFX?HEPWx@GDGLMLa@Xq@l@i@r@cA|@}@|@Wb@aAnCk@`AQP_AhBg@nAs@jAs@vBQ~@g@zAYbAOz@KvA?|@JhBKlBOz@k@jBW`BMh@S\\o@v@a@l@@@MJe@v@i@^_@^}AjBiCdDmAvA]d@KHuA`D]`@MTW`BMn@_@p@UZQh@@?ANJ`@AJGLGBQN_@JMJDXAf@]t@i@^]x@@A",
+    "resource_state": 3,
+    "summary_polyline": "ofsmDiur`OCECVSl@B@GBmAdCcDhGqCpDsA|Bm@h@]h@y@^sAHyBIe@Fc@n@e@rAiA|Ae@RgAJg@NoAz@q@l@oArCo@jBEpCUzEA`BMlAS|@Uh@sApBc@bAGdA?zACf@IPqBzAQV}Az@o@n@{Av@c@r@y@xBa@t@w@z@[N[ESQ_@Bu@dAgAr@m@l@gAzAWRk@v@s@La@j@q@Xi@f@o@n@Wr@s@AUFk@p@[~Aw@bA]Ls@ISDc@hBCb@WvAa@p@sBrCi@j@Sb@m@\\EPBJNBtAcANHATwAbB{@LiAZ{ARqAn@c@f@?VDHR?BFVCt@Jb@Tt@v@BVMBm@k@g@KgE@_AMSNFVtAr@JRHp@GbBD`AGbASlASn@WnBqA`Do@jBq@bAYr@g@|BQ~ASf@WdB?tBa@`FQ|EFbBIlB@dDGxFQ|Bg@hEIzEWhFArBI`AMvDiAhRDrAI|@@j@K`BUt@WfHWvEKnAAb@P|@Bl@OzAuAjHe@jBu@nEUt@]n@M|@m@nC{BjHStA_@f@?\\YPGj@MJOp@k@fB_@x@Id@Wb@AVq@bB}@dBeAzBc@lA}@bBiCtDeBxA[b@Q`@SL}@nAi@fAo@zCsAnDu@|DOjA[`AAb@GTo@lAu@j@m@fA{@zBk@V{@dAa@t@Qh@mAhBQr@MROJaAbBMb@Ed@BlAVnAVjCHhBd@lDLpA@vAHRJrBNPAh@XxACjADXETF\\K^}@b@a@jAiAt@Qr@DZv@|@\\dAJ`@LPZbA\\zBCb@?`AK\\AXC`ENdBAdBo@|KO~EG`HD|CEbDG~@?nDCf@YhAMfBOp@_AdC@Jm@j@Wf@Y?SCy@h@ANFj@Qf@gF|@cAl@{AvAsA|@sBjB}@`AuArBy@t@c@x@Y`ABxAGnAO~@e@xAsA|EeA|B_@nBo@~B]|@q@~Cw@fCKL_@Le@Ea@HAZM\\aAdBsA|Am@dA{@fAI@Fn@]jA]`@sAfAi@r@aCzBWb@aAnC}@rA_AhBg@nAs@jAs@vBy@zCi@~BKvA?|@JhBKlBOz@k@jBe@jCwChEiA~@_JxKuA`Dk@v@e@pCu@lAQh@H|@a@`@m@VB`A]t@i@^[v@"
+  },
+  "trainer": false,
+  "commute": false,
+  "manual": false,
+  "private": false,
+  "visibility": "everyone",
+  "flagged": false,
+  "gear_id": "b16337781",
+  "start_latlng": [
+    28.611764,
+    84.150778
+  ],
+  "end_latlng": [
+    28.664541,
+    84.025059
+  ],
+  "average_speed": 2.887,
+  "max_speed": 8.26,
+  "average_temp": 8,
+  "average_watts": 100.0,
+  "device_watts": false,
+  "kilojoules": 527.2,
+  "has_heartrate": false,
+  "heartrate_opt_out": false,
+  "display_hide_heartrate_option": false,
+  "elev_high": 3542.4,
+  "elev_low": 3233.0,
+  "upload_id": 17750936828,
+  "upload_id_str": "17750936828",
+  "external_id": "garmin_ping_509593844708",
+  "from_accepted_tag": false,
+  "pr_count": 0,
+  "total_photo_count": 4,
+  "has_kudoed": false,
+  "description": "Taking it slow to acclimatise. Properly in the mountains now.",
+  "calories": 581.0,
+  "perceived_exertion": null,
+  "prefer_perceived_exertion": null,
+  "segment_efforts": [
+    {
+      "id": 3432206791215244494,
+      "resource_state": 2,
+      "name": "Segment",
+      "activity": {
+        "id": 16661767873,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 1208,
+      "moving_time": 1131,
+      "start_date": "2025-12-05T03:14:02Z",
+      "start_date_local": "2025-12-05T08:59:02Z",
+      "distance": 2182.63,
+      "start_index": 366,
+      "end_index": 1499,
+      "device_watts": false,
+      "segment": {
+        "id": 1179714,
+        "resource_state": 2,
+        "name": "Segment",
+        "activity_type": "Ride",
+        "distance": 2182.63,
+        "average_grade": 8.8,
+        "maximum_grade": 26.8,
+        "elevation_high": 3416.0,
+        "elevation_low": 3224.3,
+        "start_latlng": [
+          28.619131,
+          84.14125
+        ],
+        "end_latlng": [
+          28.630958,
+          84.127041
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 2,
+        "city": "Manang, Nepal",
+        "state": "Gandaki, Nepal",
+        "country": "Nepal",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3432206791216655566,
+      "resource_state": 2,
+      "name": "Braga to Manang",
+      "activity": {
+        "id": 16661767873,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 729,
+      "moving_time": 548,
+      "start_date": "2025-12-05T04:43:20Z",
+      "start_date_local": "2025-12-05T10:28:20Z",
+      "distance": 1623.2,
+      "start_index": 4660,
+      "end_index": 5214,
+      "device_watts": false,
+      "segment": {
+        "id": 14422323,
+        "resource_state": 2,
+        "name": "Braga to Manang",
+        "activity_type": "Ride",
+        "distance": 1623.2,
+        "average_grade": 2.3,
+        "maximum_grade": 12.6,
+        "elevation_high": 3506.4,
+        "elevation_low": 3468.9,
+        "start_latlng": [
+          28.657089,
+          84.039934
+        ],
+        "end_latlng": [
+          28.664044,
+          84.026085
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Bhakra",
+        "state": "Mid-Western Development Region",
+        "country": "Nepal",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3432206791214848206,
+      "resource_state": 2,
+      "name": "Hot shower awaits",
+      "activity": {
+        "id": 16661767873,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 312,
+      "moving_time": 284,
+      "start_date": "2025-12-05T04:50:51Z",
+      "start_date_local": "2025-12-05T10:35:51Z",
+      "distance": 655.0,
+      "start_index": 4962,
+      "end_index": 5248,
+      "device_watts": false,
+      "segment": {
+        "id": 36431737,
+        "resource_state": 2,
+        "name": "Hot shower awaits",
+        "activity_type": "Ride",
+        "distance": 655.0,
+        "average_grade": 7.6,
+        "maximum_grade": 36.0,
+        "elevation_high": 3545.4,
+        "elevation_low": 3495.8,
+        "start_latlng": [
+          28.661011,
+          84.03081
+        ],
+        "end_latlng": [
+          28.664179,
+          84.025594
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Bhraka",
+        "state": null,
+        "country": "Nepal",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    }
+  ],
+  "splits_metric": [
+    {
+      "distance": 1000.3,
+      "elapsed_time": 286,
+      "elevation_difference": 5.8,
+      "moving_time": 270,
+      "split": 1,
+      "average_speed": 3.7,
+      "average_grade_adjusted_speed": 3.9,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1002.2,
+      "elapsed_time": 499,
+      "elevation_difference": 30.6,
+      "moving_time": 346,
+      "split": 2,
+      "average_speed": 2.9,
+      "average_grade_adjusted_speed": 3.28,
+      "pace_zone": 0
+    },
+    {
+      "distance": 998.8,
+      "elapsed_time": 591,
+      "elevation_difference": 77.2,
+      "moving_time": 515,
+      "split": 3,
+      "average_speed": 1.94,
+      "average_grade_adjusted_speed": 2.67,
+      "pace_zone": 0
+    },
+    {
+      "distance": 998.7,
+      "elapsed_time": 604,
+      "elevation_difference": 27.6,
+      "moving_time": 480,
+      "split": 4,
+      "average_speed": 2.08,
+      "average_grade_adjusted_speed": 2.78,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1003.2,
+      "elapsed_time": 257,
+      "elevation_difference": -26.4,
+      "moving_time": 242,
+      "split": 5,
+      "average_speed": 4.15,
+      "average_grade_adjusted_speed": 4.03,
+      "pace_zone": 0
+    },
+    {
+      "distance": 997.6,
+      "elapsed_time": 311,
+      "elevation_difference": 15.0,
+      "moving_time": 311,
+      "split": 6,
+      "average_speed": 3.21,
+      "average_grade_adjusted_speed": 3.4,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1000.9,
+      "elapsed_time": 599,
+      "elevation_difference": 19.6,
+      "moving_time": 308,
+      "split": 7,
+      "average_speed": 3.25,
+      "average_grade_adjusted_speed": 3.5,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1000.3,
+      "elapsed_time": 641,
+      "elevation_difference": 27.6,
+      "moving_time": 360,
+      "split": 8,
+      "average_speed": 2.78,
+      "average_grade_adjusted_speed": 3.08,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1001.4,
+      "elapsed_time": 365,
+      "elevation_difference": 12.4,
+      "moving_time": 365,
+      "split": 9,
+      "average_speed": 2.74,
+      "average_grade_adjusted_speed": 2.89,
+      "pace_zone": 0
+    },
+    {
+      "distance": 996.7,
+      "elapsed_time": 490,
+      "elevation_difference": 9.6,
+      "moving_time": 370,
+      "split": 10,
+      "average_speed": 2.69,
+      "average_grade_adjusted_speed": 2.83,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1004.8,
+      "elapsed_time": 255,
+      "elevation_difference": 12.6,
+      "moving_time": 255,
+      "split": 11,
+      "average_speed": 3.94,
+      "average_grade_adjusted_speed": 4.14,
+      "pace_zone": 0
+    },
+    {
+      "distance": 995.8,
+      "elapsed_time": 474,
+      "elevation_difference": 24.8,
+      "moving_time": 395,
+      "split": 12,
+      "average_speed": 2.52,
+      "average_grade_adjusted_speed": 2.91,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1003.2,
+      "elapsed_time": 359,
+      "elevation_difference": 6.8,
+      "moving_time": 268,
+      "split": 13,
+      "average_speed": 3.74,
+      "average_grade_adjusted_speed": 3.94,
+      "pace_zone": 0
+    },
+    {
+      "distance": 997.4,
+      "elapsed_time": 387,
+      "elevation_difference": 5.0,
+      "moving_time": 306,
+      "split": 14,
+      "average_speed": 3.26,
+      "average_grade_adjusted_speed": 3.41,
+      "pace_zone": 0
+    },
+    {
+      "distance": 999.0,
+      "elapsed_time": 411,
+      "elevation_difference": 36.6,
+      "moving_time": 341,
+      "split": 15,
+      "average_speed": 2.93,
+      "average_grade_adjusted_speed": 3.37,
+      "pace_zone": 0
+    },
+    {
+      "distance": 225.1,
+      "elapsed_time": 171,
+      "elevation_difference": 24.6,
+      "moving_time": 144,
+      "split": 16,
+      "average_speed": 1.56,
+      "average_grade_adjusted_speed": 2.45,
+      "pace_zone": 0
+    }
+  ],
+  "splits_standard": [
+    {
+      "distance": 1609.6,
+      "elapsed_time": 613,
+      "elevation_difference": 12.6,
+      "moving_time": 444,
+      "split": 1,
+      "average_speed": 3.63,
+      "average_grade_adjusted_speed": 3.81,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1609.6,
+      "elapsed_time": 906,
+      "elevation_difference": 129.2,
+      "moving_time": 830,
+      "split": 2,
+      "average_speed": 1.94,
+      "average_grade_adjusted_speed": 2.7,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1609.6,
+      "elapsed_time": 682,
+      "elevation_difference": -27.2,
+      "moving_time": 543,
+      "split": 3,
+      "average_speed": 2.96,
+      "average_grade_adjusted_speed": 3.25,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1611.2,
+      "elapsed_time": 759,
+      "elevation_difference": 19.4,
+      "moving_time": 468,
+      "split": 4,
+      "average_speed": 3.44,
+      "average_grade_adjusted_speed": 3.61,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1606.9,
+      "elapsed_time": 842,
+      "elevation_difference": 42.8,
+      "moving_time": 561,
+      "split": 5,
+      "average_speed": 2.86,
+      "average_grade_adjusted_speed": 3.16,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1611.3,
+      "elapsed_time": 693,
+      "elevation_difference": 20.0,
+      "moving_time": 603,
+      "split": 6,
+      "average_speed": 2.67,
+      "average_grade_adjusted_speed": 2.81,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1610.2,
+      "elapsed_time": 461,
+      "elevation_difference": 15.6,
+      "moving_time": 431,
+      "split": 7,
+      "average_speed": 3.74,
+      "average_grade_adjusted_speed": 3.9,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1607.0,
+      "elapsed_time": 727,
+      "elevation_difference": 28.4,
+      "moving_time": 557,
+      "split": 8,
+      "average_speed": 2.89,
+      "average_grade_adjusted_speed": 3.24,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1609.8,
+      "elapsed_time": 651,
+      "elevation_difference": 17.6,
+      "moving_time": 500,
+      "split": 9,
+      "average_speed": 3.22,
+      "average_grade_adjusted_speed": 3.4,
+      "pace_zone": 0
+    },
+    {
+      "distance": 740.2,
+      "elapsed_time": 366,
+      "elevation_difference": 51.0,
+      "moving_time": 339,
+      "split": 10,
+      "average_speed": 2.18,
+      "average_grade_adjusted_speed": 2.9,
+      "pace_zone": 0
+    }
+  ],
+  "laps": [
+    {
+      "id": 59405686574,
+      "resource_state": 2,
+      "name": "Lap 1",
+      "activity": {
+        "id": 16661767873,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 6700,
+      "moving_time": 5276,
+      "start_date": "2025-12-05T03:05:10Z",
+      "start_date_local": "2025-12-05T08:50:10Z",
+      "distance": 15225.4,
+      "average_speed": 2.89,
+      "max_speed": 8.26,
+      "lap_index": 1,
+      "split": 1,
+      "start_index": 0,
+      "end_index": 5295,
+      "total_elevation_gain": 458.0,
+      "device_watts": false,
+      "average_watts": 100.0
+    }
+  ],
+  "gear": {
+    "id": "b16337781",
+    "primary": false,
+    "name": "Betty (Milan ->)",
+    "nickname": "Betty (Milan ->)",
+    "resource_state": 2,
+    "retired": false,
+    "distance": 9056030,
+    "converted_distance": 9056.0
+  },
+  "photos": {
+    "primary": {
+      "unique_id": "460c846b-d55a-4c63-8771-1e2ed51b4e72",
+      "urls": {
+        "600": "https://dgtzuqphqg23d.cloudfront.net/oHt7QPs443vrnowh4tqqaovlD8cyrt94H-70EvXoFLM-432x768.jpg",
+        "100": "https://dgtzuqphqg23d.cloudfront.net/oHt7QPs443vrnowh4tqqaovlD8cyrt94H-70EvXoFLM-72x128.jpg"
+      },
+      "source": 1,
+      "media_type": 1
+    },
+    "use_primary_photo": false,
+    "count": 4
+  },
+  "stats_visibility": [
+    {
+      "type": "heart_rate",
+      "visibility": "everyone"
+    },
+    {
+      "type": "pace",
+      "visibility": "everyone"
+    },
+    {
+      "type": "power",
+      "visibility": "everyone"
+    },
+    {
+      "type": "speed",
+      "visibility": "everyone"
+    },
+    {
+      "type": "calories",
+      "visibility": "everyone"
+    }
+  ],
+  "hide_from_home": false,
+  "embed_token": "d6f63a79899718075814b50f4fa449fe49e10881",
+  "available_zones": [
+    "power"
+  ]
+}
