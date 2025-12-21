@@ -157,9 +157,7 @@ jobs:
         run: npm run build
         env:
           VITE_PUBLIC_MAPBOX_TOKEN: ${{ secrets.VITE_PUBLIC_MAPBOX_TOKEN }}
-          VITE_STRAVA_CLIENT_ID: ${{ secrets.VITE_STRAVA_CLIENT_ID }}
-          VITE_STRAVA_CLIENT_SECRET: ${{ secrets.VITE_STRAVA_CLIENT_SECRET }}
-          VITE_STRAVA_REFRESH_TOKEN: ${{ secrets.VITE_STRAVA_REFRESH_TOKEN }}
+          VITE_STRAVA_PHOTOS_BASE_URL: ${{ vars.VITE_STRAVA_PHOTOS_BASE_URL }}
           VITE_JOURNEY_START_DATE: ${{ vars.VITE_JOURNEY_START_DATE }}
           VITE_API_URL: ${{ vars.VITE_API_URL }}
 

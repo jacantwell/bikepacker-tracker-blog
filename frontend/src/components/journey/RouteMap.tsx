@@ -127,19 +127,27 @@ const RouteMap = ({ className, routeId }: RouteMapProps) => {
       }
 
       try {
-        console.log('Fetching planned route from Strava...');
+        console.log('Loading route from static data...');
         const route = await getRouteById(routeId);
-        console.log('Successfully fetched route:', route);
-        
+
+        if (!route) {
+          throw new Error('Route not found');
+        }
+
+        console.log('Successfully loaded route:', route);
+
         const processedRoute = processStravaRoute(route);
-        
+
         if (mounted) {
           setRouteData(processedRoute.geoJson);
           setWaypoints(processedRoute.waypoints);
           setStats(processedRoute.stats);
         }
       } catch (err) {
-        console.error('Failed to load Strava route:', err);
+        console.error('Failed to load route:', err);
+        if (mounted) {
+          setError('Could not load route data');
+        }
       } finally {
         if (mounted) {
           setLoading(false);
