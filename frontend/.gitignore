@@ -29,4 +29,4 @@ local-server
 .env
 
 # Media files
-frontend/public/media/*
+frontend/public/strava_data/media/*
