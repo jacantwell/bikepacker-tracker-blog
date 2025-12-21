@@ -1,0 +1,122 @@
+[
+  {
+    "unique_id": "8aa2a518-b3b0-4ba0-82ec-300d973acb67",
+    "athlete_id": 49023768,
+    "activity_id": 14798572137,
+    "activity_name": "Crit\u00e9rium du Dauphin\u00e9 Spectating",
+    "post_id": null,
+    "resource_state": 2,
+    "caption": "",
+    "type": 1,
+    "source": 1,
+    "status": 3,
+    "uploaded_at": "2025-06-14T16:38:58Z",
+    "created_at": "2025-06-14T16:32:17Z",
+    "created_at_local": "2025-06-14T18:32:17Z",
+    "urls": {
+      "5000": "https://dgtzuqphqg23d.cloudfront.net/ZOFN3lK46m7Sm4TsuCy39RhpWmavA3OLL4iAtF9fIgk-1536x2048.jpg"
+    },
+    "placeholder_image": null,
+    "sizes": {
+      "5000": [
+        1536,
+        2048
+      ]
+    },
+    "default_photo": false,
+    "cursor": null,
+    "location": [
+      45.17869722222222,
+      6.488244444444445
+    ]
+  },
+  {
+    "unique_id": "ee9bd461-775d-469a-8930-4eceda6b1943",
+    "athlete_id": 49023768,
+    "activity_id": 14798572137,
+    "activity_name": "Crit\u00e9rium du Dauphin\u00e9 Spectating",
+    "post_id": null,
+    "resource_state": 2,
+    "caption": "",
+    "type": 2,
+    "source": 1,
+    "status": 3,
+    "uploaded_at": "2025-06-14T16:39:43Z",
+    "created_at": "2025-06-14T14:11:28Z",
+    "created_at_local": "2025-06-14T16:11:28Z",
+    "urls": {
+      "5000": "https://d35tn3x5zm6xrc.cloudfront.net/Y1UsuKmG6UdCNdllzVUeB7r6fwHE8trtPeEdt2BbsZI/thumbnails/Y1UsuKmG6UdCNdllzVUeB7r6fwHE8trtPeEdt2BbsZI_1080x1920.jpg"
+    },
+    "placeholder_image": null,
+    "sizes": {
+      "5000": [
+        1080,
+        1920
+      ]
+    },
+    "default_photo": false,
+    "cursor": null,
+    "duration": 11.081356,
+    "video_url": "https://d35tn3x5zm6xrc.cloudfront.net/Y1UsuKmG6UdCNdllzVUeB7r6fwHE8trtPeEdt2BbsZI/hls/Y1UsuKmG6UdCNdllzVUeB7r6fwHE8trtPeEdt2BbsZI.m3u8"
+  },
+  {
+    "unique_id": "eaef95b1-d5e0-455b-80cc-28d32b2f8a1c",
+    "athlete_id": 49023768,
+    "activity_id": 14798572137,
+    "activity_name": "Crit\u00e9rium du Dauphin\u00e9 Spectating",
+    "post_id": null,
+    "resource_state": 2,
+    "caption": "",
+    "type": 1,
+    "source": 1,
+    "status": 3,
+    "uploaded_at": "2025-06-14T16:38:58Z",
+    "created_at": "2025-06-14T08:29:32Z",
+    "created_at_local": "2025-06-14T10:29:32Z",
+    "urls": {
+      "5000": "https://dgtzuqphqg23d.cloudfront.net/1M9xzHQWl40qboVxuYbyKtVhxlJgxkFv4ncgZfehf3A-2048x1536.jpg"
+    },
+    "placeholder_image": null,
+    "sizes": {
+      "5000": [
+        2048,
+        1536
+      ]
+    },
+    "default_photo": false,
+    "cursor": null,
+    "location": [
+      45.171438888888886,
+      6.494777777777778
+    ]
+  },
+  {
+    "unique_id": "50d7cb8a-fe22-47ec-a83d-281ac8310d29",
+    "athlete_id": 49023768,
+    "activity_id": 14798572137,
+    "activity_name": "Crit\u00e9rium du Dauphin\u00e9 Spectating",
+    "post_id": null,
+    "resource_state": 2,
+    "caption": "",
+    "type": 2,
+    "source": 1,
+    "status": 3,
+    "uploaded_at": "2025-06-14T16:39:15Z",
+    "created_at": "2025-06-14T14:56:04Z",
+    "created_at_local": "2025-06-14T16:56:04Z",
+    "urls": {
+      "5000": "https://d35tn3x5zm6xrc.cloudfront.net/q9E0nSCFbHCosu_GmTZFiVLMXuh7emYWHJFQxDlFogs/thumbnails/q9E0nSCFbHCosu_GmTZFiVLMXuh7emYWHJFQxDlFogs_1080x1920.jpg"
+    },
+    "placeholder_image": null,
+    "sizes": {
+      "5000": [
+        1080,
+        1920
+      ]
+    },
+    "default_photo": false,
+    "cursor": null,
+    "duration": 9.267689,
+    "video_url": "https://d35tn3x5zm6xrc.cloudfront.net/q9E0nSCFbHCosu_GmTZFiVLMXuh7emYWHJFQxDlFogs/hls/q9E0nSCFbHCosu_GmTZFiVLMXuh7emYWHJFQxDlFogs.m3u8"
+  }
+]

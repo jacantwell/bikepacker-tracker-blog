@@ -1,0 +1,93 @@
+[
+  {
+    "unique_id": "d9f4d79c-ee31-4eef-b0f2-eb9a81387166",
+    "athlete_id": 49023768,
+    "activity_id": 14765554033,
+    "activity_name": "Col du Galibier",
+    "post_id": null,
+    "resource_state": 2,
+    "caption": "",
+    "type": 1,
+    "source": 1,
+    "status": 3,
+    "uploaded_at": "2025-06-11T13:08:12Z",
+    "created_at": "2025-06-11T13:04:44Z",
+    "created_at_local": "2025-06-11T15:04:44Z",
+    "urls": {
+      "5000": "https://dgtzuqphqg23d.cloudfront.net/WKs6WVsKkhv_PRPSyml9nvkvDX3YLkY3gDBKOypUMnY-1536x2048.jpg"
+    },
+    "placeholder_image": null,
+    "sizes": {
+      "5000": [
+        1536,
+        2048
+      ]
+    },
+    "default_photo": false,
+    "cursor": null,
+    "location": [
+      45.06404722222222,
+      6.407625
+    ]
+  },
+  {
+    "unique_id": "75b07a71-e552-4c77-8346-1d2c52bf591b",
+    "athlete_id": 49023768,
+    "activity_id": 14765554033,
+    "activity_name": "Col du Galibier",
+    "post_id": null,
+    "resource_state": 2,
+    "caption": "",
+    "type": 1,
+    "source": 1,
+    "status": 3,
+    "uploaded_at": "2025-06-11T13:08:12Z",
+    "created_at": "2025-06-11T13:05:16Z",
+    "created_at_local": "2025-06-11T15:05:16Z",
+    "urls": {
+      "5000": "https://dgtzuqphqg23d.cloudfront.net/cJZtnJCeEAq0PgQ8anSuuXPpn0eozCnB7rtRjNU8h0s-2048x1536.jpg"
+    },
+    "placeholder_image": null,
+    "sizes": {
+      "5000": [
+        2048,
+        1536
+      ]
+    },
+    "default_photo": false,
+    "cursor": null,
+    "location": [
+      45.06229444444444,
+      6.40955
+    ]
+  },
+  {
+    "unique_id": "0cb127cf-33cf-438f-8017-dcd4d984bf31",
+    "athlete_id": 49023768,
+    "activity_id": 14765554033,
+    "activity_name": "Col du Galibier",
+    "post_id": null,
+    "resource_state": 2,
+    "caption": "",
+    "type": 2,
+    "source": 1,
+    "status": 3,
+    "uploaded_at": "2025-06-11T13:08:19Z",
+    "created_at": "2025-06-11T11:52:14Z",
+    "created_at_local": "2025-06-11T13:52:14Z",
+    "urls": {
+      "5000": "https://d35tn3x5zm6xrc.cloudfront.net/z4N8KYHKXo-07IECjjmczd5ZoWLuZdLn71FI-Xxi9i0/thumbnails/z4N8KYHKXo-07IECjjmczd5ZoWLuZdLn71FI-Xxi9i0_1080x1920.jpg"
+    },
+    "placeholder_image": null,
+    "sizes": {
+      "5000": [
+        1080,
+        1920
+      ]
+    },
+    "default_photo": false,
+    "cursor": null,
+    "duration": 11.685333,
+    "video_url": "https://d35tn3x5zm6xrc.cloudfront.net/z4N8KYHKXo-07IECjjmczd5ZoWLuZdLn71FI-Xxi9i0/hls/z4N8KYHKXo-07IECjjmczd5ZoWLuZdLn71FI-Xxi9i0.m3u8"
+  }
+]

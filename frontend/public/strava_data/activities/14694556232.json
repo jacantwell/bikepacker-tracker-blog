@@ -1,0 +1,4453 @@
+{
+  "resource_state": 3,
+  "athlete": {
+    "id": 49023768,
+    "resource_state": 1
+  },
+  "name": "Country 3/?",
+  "distance": 84428.1,
+  "moving_time": 18031,
+  "elapsed_time": 27857,
+  "total_elevation_gain": 1809.7,
+  "type": "Ride",
+  "sport_type": "Ride",
+  "workout_type": 10,
+  "device_name": "Wahoo ELEMNT BOLT",
+  "id": 14694556232,
+  "start_date": "2025-06-04T06:58:17Z",
+  "start_date_local": "2025-06-04T08:58:17Z",
+  "timezone": "(GMT+01:00) Europe/Andorra",
+  "utc_offset": 7200.0,
+  "location_city": null,
+  "location_state": null,
+  "location_country": null,
+  "achievement_count": 0,
+  "kudos_count": 17,
+  "comment_count": 0,
+  "athlete_count": 1,
+  "photo_count": 0,
+  "map": {
+    "id": "a14694556232",
+    "polyline": "{ytbGoyfHuB`AIAU[EICWHcAVw@T_@Zu@^_@^o@nAeCPSdAeAL[Jc@J{AF}CA}@O}AKq@Ss@g@oAaAwAYm@OSQQ_@MgAQu@[aBa@o@_@k@m@yBoC_@e@MWIQGa@YcCMm@eAgC_AoBg@_AWYSQSOe@Uk@My@Ea@Ka@BSCa@S_@]c@i@qAmBSa@W_@g@o@o@o@gA_AiAm@_Aq@m@e@g@e@IO]u@e@qAUa@EUII{@wCG_@Aw@JcDNu@LMDCF?ZZl@\\j@n@`@^^TvBv@\\PN?DCDQCQe@_AKm@EiAWsCBMHMFGL@LJTb@JJZh@d@j@TLnAVp@b@RNJLJp@ZfAFl@j@dC\\x@f@Z^^D`@DJB`@J^L~@d@rAHfAPv@LPJDHCFKNo@?c@Ni@Fq@H[FcAES@SK[?OOe@Ia@Dm@EqA@e@?YBiBB]Cs@UqAc@eB?u@HeA@{@D[Ak@[iBC_@GU_@gAIKE[a@u@_@w@IIASIa@?i@W}@GsAGq@My@CgAMu@Ue@@KESI[]c@]k@SQs@aAgAaAc@K]?c@KYMYYKSAEBGCGY[MCQ?]He@\\OH]b@SJa@BSIEIYaAIi@UcAIm@ESEk@@MGS@WCc@@GG]@[EUAc@UaA[q@Ok@B[FWD_AES@[EO?SMWGW[[MUOIIO_@MA]HODCJ@j@h@RVVPXLH?HGDWASGMWSMUMMUe@ScA@SAa@Yy@SQ_@UICICEEG?KG}AiAQ[Ik@a@i@Oc@Mm@@QDEFCJDPZ@LLZ^^XR\\PrBz@tA`@~@^TNNTr@jBDZHNFb@Xj@h@v@\\Zr@d@DHKhAKl@@x@DZ?v@Bd@Tj@LNHFPHJ@HALI^g@POf@YVCNBXPLRLZJh@LPLJ~@P`A@|@M\\Bl@Jf@@h@EPBDHF\\Jb@B\\Vp@xAzAPFZ@RAR@PHRXJ\\RxABxBFZDDLEFEDa@GuCKs@GsAE[?SEWOQMG[Ac@DUEIIYg@Ww@Gi@?g@KkBOa@KIWG[EG@g@CMEeAs@g@UMMGYU}A_@q@Qi@Uw@Ik@MYWmAU]_@e@[e@II_@QUQi@u@Oe@Cw@WeAOa@]i@GYKq@C_@Ko@AWSs@_AoBk@{Aa@q@Uo@G[?WLeAX}AFs@@u@DKB]By@Cy@O{ADe@ASC[IYUa@UIe@?c@FOHq@JGAOIOOGSKc@OmA?aAXsA@w@Gc@AuAGi@?_AFY@WLaAFwANqB?eAHyA?iAC{@BUJi@@OR^Jr@?t@C\\Bf@FZT^r@p@R\\BN@n@FlARjAVxB\\~AXb@HTf@l@HPj@x@h@`@b@d@\\t@Vr@^tABPJN?HPVVjBLjAB~@?`AEz@ELAZLnBPx@Rl@p@vATXN?LGDQ?MGSYe@ISGUAa@Hi@j@yANq@V{C@k@Ae@GsBKqAWeAM_BWeAKWYe@I[EuCIaA?i@HkADQ\\cAXoA^eAHo@PwCBuAPqC?o@EcAMmA[_Au@mB{@gBw@eA_@}@g@sCWiAa@oAO]KS[i@[_@y@{@[a@Ug@Sy@g@_EWwAi@wB_@oAOWKM_@[aAo@Q]Ci@Bi@F]Pi@AGE@KTSnABx@HXLPb@ZLQ@E?F@?SG[SOUG[@k@Ho@\\mAB]C_@EQ[m@_D_Gi@mAg@uA[k@]Uc@Mi@G]?]HkA`@iB\\{Ab@oD~Aa@Lc@Da@?gA_@k@E_@@s@Je@LwAp@sAd@gARWAICSMMOIUWaCKo@]eAKSOO[MiAOYKaBcAy@o@m@m@m@}@KUa@qAIYAe@CoFKcI?uBAq@WuC_@uCc@kEU{@c@w@SSWQa@Mc@[_@c@U_@qA_BS]Um@Mc@[iBAOBGHgAEr@EJC@Ya@M[MOYKUAM@UN{@p@i@ZyBfAyExASBc@@}@Mk@?{@Ls@NM?_@AGEEGAMBOFGb@GXKx@c@pAeAnBiBhBmB\\YNEP@b@FP@d@Eb@St@m@^e@j@cA|BeGT]d@YFIFOA]GGICKBKHo@t@c@r@c@z@_@`Ag@v@m@f@OFOBOAa@QyBuAQO]i@}@qB_@a@e@Ue@KQ?a@FM?MCKIGO?c@Fw@De@Lu@b@uAZm@H_@NyCHq@XgABc@?YEa@KWQWc@YMKGMMa@Ei@@k@ZwDHsDIuI@wBCaA[eDMmC?a@FOFKJEJAFDFJBNAh@K`AAl@Hl@`@~AHt@RvFN`CRzBRjDDdCFTZ^RJv@XNLZb@HRLj@?XK`CIl@St@AP@LFFHAHKP]DUDSBk@BkADYVaAFg@Ai@ESc@iASa@MOi@[Q[CQb@qKd@iETeBFIJGH?JBHHFN@NAPc@~AIl@CX?t@FnC?t@AXQrA?^HFJ?JEHO`@iADU@W?gB@o@BWNg@VWNEbA@RERIPMNSj@eAlA}AXSLEH?HDFJ@JALGHe@RYVU^ETEl@H`B?TCRKP]TeA\\OJKPGRIn@?XDVHV\\h@zAnARL|AT~@d@b@`@LVRx@N|@XnCH^\\p@bA|AbAlBd@t@tAtA|@xApArAX`@Xp@HJJFHAHIBM?c@GSSa@MOq@o@OSe@kA]q@oBcDa@k@]k@Yk@GWE[EgADi@HYfBaENIJAJBJLH?FEXy@H}@@y@CQSk@ESOSGUEEEc@MQCA?@KUE}@MW{@sCOo@Ec@EO]k@}@_CI_@Gm@[[[e@qAqC_@aASu@s@iDa@{AW[[Qk@QiCk@u@U[QSQYk@Oi@s@aGu@aFMg@K[e@_ASs@Ek@Aw@VuEGiAS_AYm@c@{@YgAGaAAkDOwAq@sDyDkRMc@Yo@_@k@u@}@Yi@O}@q@}GScAYy@Sc@Ye@qCoCQc@Sy@_AkHOy@Y}@]o@_@e@m@g@{A_Ag@c@KMO[M_@Ie@Cc@Au@Dw@RcBDs@Cw@Gi@U}@Ug@Uw@Sa@k@{AI]Q}@EcAHoAd@yDLoAJwC@}A@URe@?WCIS[IUWgCUeBw@{CQkAEe@?qADuAH{A@y@AUW}AkAmDQm@QaAE{@GcIC{@@kCIuBWoCOsBAs@IUa@m@M]K]Mq@Iw@EmA?OVoAHm@j@eBl@gCJQHKh@S\\]XM\\YV]JWRyAFi@?]VeBn@oDl@kCX_BZsAV_BH}A?eAEiAKq@s@yCWy@Ym@Wc@_AmAgAeBy@wAo@uAo@eAi@iAaAyAaCyCqEoE{AoA}AkAqA{@iAaAMQIUKq@@a@BWNc@JQVUTGTA`AD~BVnABlBHJ@rAb@TDd@PZFrCz@dABl@Hp@\\h@h@VPbAXRLXHJ?RCNGVUNQJSJa@DuBPkBPgBZ_BPgBb@{BJgAHa@PaDDIB_@FUZk@H_@HODU`@cAVgAB]FMBUTy@Jw@Pm@He@Tq@VcAv@{B|@wAbAmAp@sAV]`@eAJQ|@oAtBoBfAsAt@mAf@_Ah@y@f@k@`Ay@`CyAdCsB|@e@tA[p@KpA[pAQl@CvBF`@EhAc@jC}AfAg@`AY~@IdABb@C~@g@~@u@REHGx@gAxG_Hr@_ATSxAqBd@y@`@}@Tw@Tk@r@kALO~@aBh@s@`AaBZc@j@}@zBiDx@qAhBmDf@s@xAcB`C{Af@a@`A_ApAeAjC}BrCkC~BqCb@s@`@aAhAqB~C}Eb@{@NORINMFWBgAJ_@FKv@i@Zc@~BcEl@kAh@{Ah@mA\\k@zAqB|@s@p@c@h@WlA]VEZO^Wp@m@n@e@dDmBx@k@r@q@r@{@jCwCr@o@j@a@r@_@ZM`@KVCR@v@TLALEJW@WM[OOMGu@Gu@@s@H{@XQBOICMFQFC\\ETG`@GhAg@vBs@XIjAIXGNMDIBYEYMKIAI@e@TWBkBO}@Cy@Du@FaBX}Dv@oBZkCj@mBVeAGmAKa@M[Om@OUC]Bk@N[RU\\YVY`@]XODG?GEEOBKDKl@q@j@s@l@_A`@u@h@k@f@YREt@AjAFR?z@QZOtA_Ah@i@VQ^a@lAkB\\_@h@a@p@a@zCwAn@UzAYf@S|AgAd@e@Va@fBeDn@sATeAT_CLc@PYd@e@TKNCj@BdAf@N?HCHIDU@OEQOOcCaAuBiA_@GYHKFYZKTCPA`@?RDh@?ZGLI@IACCCMDgAEmBDe@H_@l@qAn@gA^a@ZOVGf@Ed@DfBf@f@RNL`@f@NCFEFIFQ@QASGKWUWc@yC}IWi@][SKUE]?WDU\\I?]EIEGIEWBS\\_Az@yB^eAl@wAXg@VWz@c@hBoA\\Y\\i@d@}EO}@Ok@AKDQDGF?D@FJPx@L^x@rA|BhDNPd@\\RHl@Fd@Ef@Q^]HQPm@DWDo@?_AGo@Mi@[u@_@o@}CaEGUOiAGMYGCMI?UDGAMGiGcIa@]WKg@G]?MDs@XI?IEEK?MBOFKHEj@@NC\\O~@k@d@Md@?d@J`@T\\^Xd@Vb@Vt@HHJBH?JCHGBK?OI]uBmE]_@o@c@YIuAW{@]OK]]}@iAQOi@YaDqAe@EaAHMCKEIICMDMFKLEbET`ALl@JbDx@hAJXAp@KxAu@VGp@Cl@LdBz@nBv@`@Vf@l@XVJDXEJIFMBSASEQa@m@KSKWOo@Qk@g@{@mC{Ce@a@UMUIo@ImAEs@I_EcAy@OwCYuIiBmAMyDIcEg@MGa@]KGMAk@D]IOG_@W}@{@s@k@qA{@[Q[IWCg@Fe@NM@KI]g@a@SGGFXQb@MHs@JKDORUCSMUGZHJLRBHEHOFCp@Gh@UJ@f@TNAHEBEB_@DKFIJEJAt@JdEhAb@NjAl@h@LR@T?j@GhF_ApAIfA]^W`@g@Tg@R}@Da@@c@LeAAQSeAEy@@a@F_@Nm@LWTa@FUA[Ui@i@s@e@c@YSm@WcAQ{Em@kBMk@Ig@QqA{@k@W{Aa@qAg@g@IkAM_Ac@Y?g@LYAq@CkAYyBeA_B_AkGsEi@c@qAsAyAkAi@o@S[q@{AgAcD_@}@Q[aEuGuCoDmBgDoAcBmDcF_@u@K]QaAg@_DK_AC}@D}@J{@@[CyA@w@PsABu@c@sHFyBCyCEi@[iC}@eGAK@UOaAUq@[q@i@aA]u@s@gDMy@G_AAgA?uKCmC@u@ReCR{CFs@Pq@Xk@Za@fBeAnBsBPOh@UbAMj@QpAg@f@]p@w@Zi@\\cADm@ASGSKMOIgA_@kAy@c@a@QS]o@k@mB[m@SQqAq@g@_@kDkDOUWo@eCgMIs@Em@Fw@Nm@BW@WCYESMW[g@KUIWCW?YBWRm@Zi@p@k@JQDS?U?UGQMOOKQEgDYi@Qe@a@mCcDYg@U{@MgCMi@KO_@Uq@SUI_@W[[KOIOMo@GMIGK?IBEHCb@Rx@n@bBV`@n@v@HRFVBr@EjA@x@Hv@f@bCFx@Bt@Hp@HTJN^XNLJPFPFj@AXOj@KNa@XOLKROn@OhBCtAAxBDrDEZOp@Gt@JrAd@|BFh@?P?NELKFK?MGKKEa@Aw@G{@EQw@uBOk@o@iDOmADiBAYKo@GWaBoDa@cAWkAi@yCQm@g@}@kDeFi@{@m@{AYi@_@a@eBuA_@c@Yi@y@mBwBuCi@{@iAcDc@cAyAuBw@uAUq@_@gBUo@w@uAsAoBUe@Ik@@WHm@Fq@AWCYIWUk@MOQMc@Oc@WoAoAuB_B_@a@iAqBu@mAu@iBy@wAa@y@uBgFmAeBk@_Ac@k@W[uBcBe@[_CeA}CkB_@a@]i@_@Yc@SSCSCw@FQCOGc@]iAuAOOc@Ue@I}@Cy@K}@ASCSGkAe@e@GoACg@Gg@Oc@Qu@c@e@SeCu@e@QyAeAa@_@_@g@MSUq@{@uC[sASk@QWmAsAe@u@MKMEM?KFKJGPER?TDRXX|@Z\\RV\\FRBT?xAH~@f@vBFRV\\LJh@XRXB`@CPGLKDM?MEGK}@wBmA{B}A_EYi@i@w@w@uBgBoCKW]oAUq@]k@yAqAOSYo@_@mAYo@a@e@gCyAgCeBq@s@q@y@]i@k@qAKQKKMGOAK@KHGNAPFb@TVt@\\XXl@~@rAbC^`@jD|CZh@Pt@NrATrA|@`DTtBj@jCZtBb@hBJXbAlAj@dAj@v@\\l@JV@L?XKn@ENGHSNG@SGQQQY[_As@i@c@c@oAyAu@iA]u@i@eBgAcFa@}Ai@uAa@s@]]]UOGuCo@_@Oy@q@]S_@IuAQOG[WYe@[_AsAgG]cAa@_AYe@[c@qDkDiCyAcEqB_Ak@_CeB{@y@y@aAoAiAg@_@_Ai@m@WyAe@cJcCiCm@aA[k@WaAi@qA{@{@q@g@]wAk@y@q@]k@M]Ss@SqAM[KQa@e@{@q@qA{AaC_CeCgBoAu@QMeAkAe@Y_A_@SMa@c@a@e@c@]e@U{@[qAu@SG_AQ_AEi@MwCkBQG[?MFKLETARBLHNJJLF`AHd@LRLHAj@`@JDVFv@H\\JbEhC\\ZZ^b@n@Nb@Bd@API^ILMHKBK@[GeDuBuB_Bi@Ym@W_@G]?oAJmBV]@o@E_@K[Qg@e@uAaB[Yk@_@_@MiBa@w@Y]Im@IsAGsABc@A{Bi@iBOo@Qs@_@y@w@wA{AkCeD_@Ye@QOAc@@gANu@BiC?c@GUGa@W]c@Yi@c@cAYk@q@s@g@]_@S_A[iHuA{@[_@W_@[wBeC[Sc@Qe@I_@CeBBq@AcBKa@Aa@DOB_A\\SDo@D]AaBSuA?SE]Ok@e@Y[{@sAg@q@eAiA}AuA_Am@oEeCcAg@q@WeGcBwCu@uBY}D_@{AWm@Q{@[mAk@iAo@uBwA_BaAk@Y}@[kAUi@GiFIeEAiAE_BMqB]}@WmAi@kR}JiA_@_AQuCa@iBSc@?kCPQ?iAMQ?e@@{AHW?a@KMIc@_@[c@OOSKa@MaBMiADoA_@i@EcFXs@AWGi@a@@WB?FH?ZEHE@sBo@}DsAu@O}AGO?_@Dm@TsBtAm@\\cBl@[Nq@h@aA\\SROZKjBEPQTy@n@e@Xm@Po@Hi@?i@Em@Og@Wo@e@UY_@g@u@wAU[WUMEMAi@?y@Lw@Dy@WWGq@E{ACoEc@}AA_@C}A[q@?kANu@BiHw@{@GS@e@NcDtBg@RUDk@AUC}@Yi@Ig@?e@Je@Tq@h@m@j@u@bAoBlDw@`Ae@p@sDpI[l@a@h@e@\\qD~BYVs@lAa@f@}AfAuAx@U\\Yx@_@v@g@h@wApAm@^gAZ_@VKPITOj@gBrJ]lAMTOTQNSJy@Xc@TcCzAs@XQ?SEQK_@Yo@iAcAiCMQQMSGSEa@BSBa@XQFoACa@Ky@]s@SiAc@aCk@s@We@EeBAg@GOGOKKOGSEWCeAKg@KQg@m@}@u@]]IOKg@?WJgAjAgE^uCDs@?iBEmAKo@Uk@Ya@}KiJaAw@oFaCgEaBg@Oi@GeDMqAAe@Dc@HmBl@aD^u@@y@MwGiBqDk@i@Oe@UmEyCc@]}@eAQMOKe@MqAUa@CW@SB{Af@c@JQ@]EO?MDk@b@?DFHPBRHN@NKDGBWAQDGp@NHFiSrCcCb@gANg@DoBFaC?gFGeDDsBL}Cj@kUvGyGpBiBn@mAl@q@`@uAfAqArAyAlB{AlCs@dBe@vAm@`CY`Bc@nDIx@MdDAdBHhD^xHVhH@fA?lCG~CQ|CS`Ce@`Fk@jFaA~Km@zFS`Cg@|Dk@tCe@`B{@`Cc@fA_AjBs@jAeBdC_C|CkAvAURYL[H[B_@COCaAc@QEa@@QF[Vm@x@YZc@LOJGHAJ?XJVd@`@Zd@n@t@jAdAZ\\Zr@Ld@LPn@^LRDX?VK`@a@n@s@~@kAbBUl@A^Bb@P`ABhAGZILG@iB`@IFC@AAFED@FJDbARhB@d@HRZT@YO@IGAE@i@IwAMaABUFMNIt@ONEFGHQFa@?YSuAC_@Be@Jc@j@aAzAiBZe@L]Da@?OS_AEy@ESEIQI[CSGu@e@aBcB[a@Oa@EWAk@ESIOMGOBEDINMfAW`ADZD@DLCp@DVLVAFEBK@?YCEKE[AGFW~@s@lBmBhDoAdC]b@w@p@MVw@fCy@~DIh@Qv@KXu@zAK^Mp@Bj@k@xECj@Y|@S`@_@pAKlASf@_@Da@N]^]XS\\CN@j@H^HPFZFtAGp@GXs@fBS^UXKH[LqAXS?[GQKUUi@w@a@c@K[@u@?IEIe@a@KCGBIJM\\OT[p@]b@KDYKE?KFkBxCq@rAaCjDYd@k@t@cAlBK`@g@lCq@`EKb@OfAUdAG`@kAxEYv@g@hAUr@A`@BNJX^d@LVBX?VI^Q`@W`@u@tAQd@E^Gf@C~@A`EEzBEh@YlBCd@GNeAhA}BlAk@T_@\\a@n@wBtEYb@a@^cAz@wDlCmDrCm@t@}C~Ea@d@u@p@_Ab@mBp@cJ~CuD|AgBp@iDnAaBf@c@Fa@Aq@SaA_@s@Oc@Ae@Hc@TyAhAmG`Gy@dAg@|@Uj@g@|AiD|M_@`BMz@?~@Cb@@JLLL@^AFET_@JKf@Qj@e@LAJBLh@Df@ANBND?DBBPFLl@\\RXLFHGB@C@E?OIIQk@[EI?ELOBKVFXR\\LRARK",
+    "resource_state": 3,
+    "summary_polyline": "{ytbGoyfH_D@tIaQPwHwAsG}BkD{IkDgDmEgF}OeJcDaPePoDqJd@cIjJdFm@sKlHzFzHxXtA{FkAq^wGy\\wKuJ{EnA}C_Z{BgDdDZ_IgL{AcEdMxGfFjJVfJpDmAlBlCnJTt@zCrEfClAdGe@cKwCmA{@wGyFwBuC_LsNs]XkToEYs@uCpAeb@|EnWfI~Nh@nOlCjEq@_D|AcLqCmWpBgJRaQgOi]}CyOoCoCVcDWzDbA\\gAmAh@gFoHoOue@pGyB_IkHmDiCsEyBsg@gIeKs@{GsQfFmIDjMuKvEaAtGaMyHvHiNoJ|CsSqBkF@yg@bD~c@rDlEi@~GfBiImCcG~AaU|@Zi@jQtAeJ`JkGqApIsCvBDxBnIdFzF|P~HlKl@i@gKcRHkCnEeKiQui@iJqEmEeUFcKeCwPkF_XwCgFoByMqE}F}B}McHqITaJkDeN`BcTyCqOHyJgC{JY}TmCoRzB{JxDmD~EwYG_HkOqZmU}UnAmCtKh@lVxFtEk_@rFqStTg]nLyIrNwAfTyHvNmPpVob@vXcWvZ{i@p]aWpFm@]cBaGHvLuF__@~DsHaAuEdC|E_HhH{@lIkI~MeG`HeQ`FWgH{EgB~EGgEhDqGnIbAiFsNsEw@dEsKxFoEHeJhHlKnCE`AuBOiEyFuK_K{JyDEzF{BzEjEqBoGsUqK|PtAnFoAxKtEmGuMwl@kJgSkIgDrAnHoAhLbDdMoBjBeDf@cPwCcCyc@uIeNyI_GsFo\\_k@iA_JFy^oB}O{D}LKaVzAsLxOgJpBsEwTqVoC{Nu@wJnByGgHoBgDkEq@mFaGoEzEfYfBtDuBtFc@|Px@lGw@PeDuV_F_Pa^_l@mFuL[yGmIwG}Pq[_ZqQaYcGiDaD}HsNSzAlCfB|@zHjBpBo@`AqVag@mPkNlMbQvF`ZpEjHgAzB{HsK_FqP{N}FiEqNgFuF{XmRs`@eOyMcRoOgLiOaGaAtAhOfGdBfFoMwFiIXaMkH_P_BqJsJ{KMqFgHeMaDwF_FcWA_UsQm[uGsOgIaY{Aa[qNwTe@uDcC}PUeOkDsNtGgAbE}DdBiDm@eFyFai@gCeGzCmGW{RzZaZlWiE`QmI`EmFgHqXiDoEuJvB}LK{GoOoNiO{FaU`AsNeDqOuIeHdBvCSuYfEy\\dAoa@xLaKxIuDjIuBlMj@nk@oI~y@eEvKeJfMmG?sDdD`JlMcEzHNjFkCx@vAdGk@_GnBgA?{FvDaH_@mCyH{I]vHaA_@qJpQoJbd@eDtC`@~EcArDsEbB}DeGcQzVcIt]~@zDaC~F_ArRcMtNoVjV{`@|NwHu@kK`J_DlG{E~UhEqAzBpEg@_BvBZ"
+  },
+  "trainer": false,
+  "commute": false,
+  "manual": false,
+  "private": false,
+  "visibility": "everyone",
+  "flagged": false,
+  "gear_id": "b11943195",
+  "start_latlng": [
+    42.546387,
+    1.51464
+  ],
+  "end_latlng": [
+    42.758251,
+    1.763592
+  ],
+  "average_speed": 4.682,
+  "max_speed": 16.84,
+  "average_temp": 13,
+  "average_watts": 116.7,
+  "device_watts": false,
+  "kilojoules": 2105.0,
+  "has_heartrate": false,
+  "heartrate_opt_out": false,
+  "display_hide_heartrate_option": false,
+  "elev_high": 2408.5,
+  "elev_low": 605.9,
+  "upload_id": 15680920511,
+  "upload_id_str": "15680920511",
+  "external_id": "518a5548-225e-4cfa-bd28-224386a5e206.fit",
+  "from_accepted_tag": false,
+  "pr_count": 0,
+  "total_photo_count": 8,
+  "has_kudoed": false,
+  "description": "Best day on the bike ever. Hills climbed themselves. Pro cyclist spotting. Buttery smooth tarmac. Even saw the ProCyclingStats Fiat Panda.",
+  "calories": 2347.0,
+  "perceived_exertion": null,
+  "prefer_perceived_exertion": false,
+  "segment_efforts": [
+    {
+      "id": 3365357079706995834,
+      "resource_state": 2,
+      "name": "La MAssana - Rotonda La Clota",
+      "activity": {
+        "id": 14694556232,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 357,
+      "moving_time": 357,
+      "start_date": "2025-06-04T06:58:41Z",
+      "start_date_local": "2025-06-04T08:58:41Z",
+      "distance": 1631.8,
+      "start_index": 24,
+      "end_index": 381,
+      "device_watts": false,
+      "segment": {
+        "id": 33045329,
+        "resource_state": 2,
+        "name": "La MAssana - Rotonda La Clota",
+        "activity_type": "Ride",
+        "distance": 1631.8,
+        "average_grade": 1.6,
+        "maximum_grade": 11.4,
+        "elevation_high": 1271.1,
+        "elevation_low": 1244.8,
+        "start_latlng": [
+          42.546811,
+          1.515375
+        ],
+        "end_latlng": [
+          42.553618,
+          1.528698
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "La Massana",
+        "state": "La Massana",
+        "country": "Andorra",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3365357079707504762,
+      "resource_state": 2,
+      "name": "La Massana a Ordino",
+      "activity": {
+        "id": 14694556232,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 423,
+      "moving_time": 423,
+      "start_date": "2025-06-04T06:59:59Z",
+      "start_date_local": "2025-06-04T08:59:59Z",
+      "distance": 1658.7,
+      "start_index": 102,
+      "end_index": 525,
+      "device_watts": false,
+      "segment": {
+        "id": 10026148,
+        "resource_state": 2,
+        "name": "La Massana a Ordino",
+        "activity_type": "Ride",
+        "distance": 1658.7,
+        "average_grade": 3.2,
+        "maximum_grade": 20.1,
+        "elevation_high": 1293.8,
+        "elevation_low": 1240.1,
+        "start_latlng": [
+          42.545535,
+          1.519873
+        ],
+        "end_latlng": [
+          42.555505,
+          1.532795
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "La Massana",
+        "state": "La Massana",
+        "country": "Andorra",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3365357079706696826,
+      "resource_state": 2,
+      "name": "Rotonda Aldosa - Entrada Ordino",
+      "activity": {
+        "id": 14694556232,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 222,
+      "moving_time": 222,
+      "start_date": "2025-06-04T07:03:21Z",
+      "start_date_local": "2025-06-04T09:03:21Z",
+      "distance": 768.3,
+      "start_index": 304,
+      "end_index": 526,
+      "device_watts": false,
+      "segment": {
+        "id": 33902087,
+        "resource_state": 2,
+        "name": "Rotonda Aldosa - Entrada Ordino",
+        "activity_type": "Ride",
+        "distance": 768.3,
+        "average_grade": 4.0,
+        "maximum_grade": 13.7,
+        "elevation_high": 1294.0,
+        "elevation_low": 1262.8,
+        "start_latlng": [
+          42.551376,
+          1.526528
+        ],
+        "end_latlng": [
+          42.55555,
+          1.53287
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Ordino",
+        "state": null,
+        "country": "Andorra",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3365357079706456186,
+      "resource_state": 2,
+      "name": "ORDINO->COLL ORDINO",
+      "activity": {
+        "id": 14694556232,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 4819,
+      "moving_time": 4403,
+      "start_date": "2025-06-04T07:06:56Z",
+      "start_date_local": "2025-06-04T09:06:56Z",
+      "distance": 9845.4,
+      "start_index": 519,
+      "end_index": 4927,
+      "device_watts": false,
+      "segment": {
+        "id": 6137187,
+        "resource_state": 2,
+        "name": "ORDINO->COLL ORDINO",
+        "activity_type": "Ride",
+        "distance": 9845.4,
+        "average_grade": 7.0,
+        "maximum_grade": 57.6,
+        "elevation_high": 1978.8,
+        "elevation_low": 1292.6,
+        "start_latlng": [
+          42.555627,
+          1.532702
+        ],
+        "end_latlng": [
+          42.554948,
+          1.56959
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 4,
+        "city": "Ordino",
+        "state": "Ordino",
+        "country": "Andorra",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3365357079705709690,
+      "resource_state": 2,
+      "name": "..",
+      "activity": {
+        "id": 14694556232,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 1141,
+      "moving_time": 1136,
+      "start_date": "2025-06-04T07:07:28Z",
+      "start_date_local": "2025-06-04T09:07:28Z",
+      "distance": 2496.0,
+      "start_index": 551,
+      "end_index": 1688,
+      "device_watts": false,
+      "segment": {
+        "id": 20590189,
+        "resource_state": 2,
+        "name": "..",
+        "activity_type": "Ride",
+        "distance": 2496.0,
+        "average_grade": 6.6,
+        "maximum_grade": 12.3,
+        "elevation_high": 1316.8,
+        "elevation_low": 1151.4,
+        "start_latlng": [
+          42.554961,
+          1.53272
+        ],
+        "end_latlng": [
+          42.555677,
+          1.542652
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 2,
+        "city": "Ordino",
+        "state": "Ordino",
+        "country": "Andorra",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3365357079706029178,
+      "resource_state": 2,
+      "name": "Ordino- Envalira",
+      "activity": {
+        "id": 14694556232,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 16717,
+      "moving_time": 11599,
+      "start_date": "2025-06-04T07:07:48Z",
+      "start_date_local": "2025-06-04T09:07:48Z",
+      "distance": 35346.1,
+      "start_index": 571,
+      "end_index": 12199,
+      "device_watts": false,
+      "segment": {
+        "id": 30162220,
+        "resource_state": 2,
+        "name": "Ordino- Envalira",
+        "activity_type": "Ride",
+        "distance": 35346.1,
+        "average_grade": 3.1,
+        "maximum_grade": 17.2,
+        "elevation_high": 2401.7,
+        "elevation_low": 1295.7,
+        "start_latlng": [
+          42.5545,
+          1.532188
+        ],
+        "end_latlng": [
+          42.540615,
+          1.718894
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 5,
+        "city": "Ordino",
+        "state": "Ordino",
+        "country": "Andorra",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3365357079709328506,
+      "resource_state": 2,
+      "name": "Coll Ordino - Km1 (desde primera rampa)",
+      "activity": {
+        "id": 14694556232,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 377,
+      "moving_time": 377,
+      "start_date": "2025-06-04T07:08:27Z",
+      "start_date_local": "2025-06-04T09:08:27Z",
+      "distance": 839.5,
+      "start_index": 606,
+      "end_index": 983,
+      "device_watts": false,
+      "segment": {
+        "id": 35944949,
+        "resource_state": 2,
+        "name": "Coll Ordino - Km1 (desde primera rampa)",
+        "activity_type": "Ride",
+        "distance": 839.5,
+        "average_grade": 7.5,
+        "maximum_grade": 12.1,
+        "elevation_high": 1360.4,
+        "elevation_low": 1297.4,
+        "start_latlng": [
+          42.553536,
+          1.53194
+        ],
+        "end_latlng": [
+          42.550514,
+          1.528899
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Ordino",
+        "state": null,
+        "country": "Andorra",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3365357079702345850,
+      "resource_state": 2,
+      "name": "Ordino hasta mirador",
+      "activity": {
+        "id": 14694556232,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 2290,
+      "moving_time": 2094,
+      "start_date": "2025-06-04T07:10:05Z",
+      "start_date_local": "2025-06-04T09:10:05Z",
+      "distance": 4522.4,
+      "start_index": 704,
+      "end_index": 2800,
+      "device_watts": false,
+      "segment": {
+        "id": 15366883,
+        "resource_state": 2,
+        "name": "Ordino hasta mirador",
+        "activity_type": "Ride",
+        "distance": 4522.4,
+        "average_grade": 7.7,
+        "maximum_grade": 25.3,
+        "elevation_high": 1614.2,
+        "elevation_low": 1267.0,
+        "start_latlng": [
+          42.553904,
+          1.532901
+        ],
+        "end_latlng": [
+          42.549312,
+          1.541369
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 3,
+        "city": "Ordino",
+        "state": "Ordino",
+        "country": "Andorra",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3365357079710065786,
+      "resource_state": 2,
+      "name": "km1 Coll Ordino",
+      "activity": {
+        "id": 14694556232,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 344,
+      "moving_time": 344,
+      "start_date": "2025-06-04T07:11:31Z",
+      "start_date_local": "2025-06-04T09:11:31Z",
+      "distance": 738.0,
+      "start_index": 790,
+      "end_index": 1134,
+      "device_watts": false,
+      "segment": {
+        "id": 32384997,
+        "resource_state": 2,
+        "name": "km1 Coll Ordino",
+        "activity_type": "Ride",
+        "distance": 738.0,
+        "average_grade": 7.9,
+        "maximum_grade": 13.8,
+        "elevation_high": 1380.0,
+        "elevation_low": 1321.8,
+        "start_latlng": [
+          42.552176,
+          1.532181
+        ],
+        "end_latlng": [
+          42.550538,
+          1.532736
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Ordino",
+        "state": "Ordino",
+        "country": "Andorra",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3365357079707357306,
+      "resource_state": 2,
+      "name": "Ordino km 1,5",
+      "activity": {
+        "id": 14694556232,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 457,
+      "moving_time": 457,
+      "start_date": "2025-06-04T07:12:54Z",
+      "start_date_local": "2025-06-04T09:12:54Z",
+      "distance": 1022.9,
+      "start_index": 873,
+      "end_index": 1330,
+      "device_watts": false,
+      "segment": {
+        "id": 39040862,
+        "resource_state": 2,
+        "name": "Ordino km 1,5",
+        "activity_type": "Ride",
+        "distance": 1022.9,
+        "average_grade": 7.3,
+        "maximum_grade": 18.6,
+        "elevation_high": 1411.6,
+        "elevation_low": 1336.8,
+        "start_latlng": [
+          42.551278,
+          1.530482
+        ],
+        "end_latlng": [
+          42.551755,
+          1.537891
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Ordino",
+        "state": null,
+        "country": "Andorra",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3413672207403455276,
+      "resource_state": 2,
+      "name": "FAC Control 2,5km",
+      "activity": {
+        "id": 14694556232,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 1226,
+      "moving_time": 1226,
+      "start_date": "2025-06-04T07:14:34Z",
+      "start_date_local": "2025-06-04T09:14:34Z",
+      "distance": 2493.2,
+      "start_index": 973,
+      "end_index": 2199,
+      "device_watts": false,
+      "segment": {
+        "id": 40338485,
+        "resource_state": 2,
+        "name": "FAC Control 2,5km",
+        "activity_type": "Ride",
+        "distance": 2493.2,
+        "average_grade": 7.4,
+        "maximum_grade": 15.1,
+        "elevation_high": 1552.2,
+        "elevation_low": 1366.8,
+        "start_latlng": [
+          42.550575,
+          1.528638
+        ],
+        "end_latlng": [
+          42.556568,
+          1.548259
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 2,
+        "city": "Ordino",
+        "state": null,
+        "country": "Andorra",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3365357079706215546,
+      "resource_state": 2,
+      "name": "Km 3 Ordino",
+      "activity": {
+        "id": 14694556232,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 432,
+      "moving_time": 432,
+      "start_date": "2025-06-04T07:21:27Z",
+      "start_date_local": "2025-06-04T09:21:27Z",
+      "distance": 1003.1,
+      "start_index": 1386,
+      "end_index": 1818,
+      "device_watts": false,
+      "segment": {
+        "id": 33038668,
+        "resource_state": 2,
+        "name": "Km 3 Ordino",
+        "activity_type": "Ride",
+        "distance": 1003.1,
+        "average_grade": 8.0,
+        "maximum_grade": 27.6,
+        "elevation_high": 1497.5,
+        "elevation_low": 1417.5,
+        "start_latlng": [
+          42.551871,
+          1.539226
+        ],
+        "end_latlng": [
+          42.555826,
+          1.545759
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Ordino",
+        "state": "Ordino",
+        "country": "Andorra",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3365357079703009402,
+      "resource_state": 2,
+      "name": "Cs 340 Climb",
+      "activity": {
+        "id": 14694556232,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 319,
+      "moving_time": 319,
+      "start_date": "2025-06-04T07:24:58Z",
+      "start_date_local": "2025-06-04T09:24:58Z",
+      "distance": 612.922,
+      "start_index": 1597,
+      "end_index": 1916,
+      "device_watts": false,
+      "segment": {
+        "id": 1112061,
+        "resource_state": 2,
+        "name": "Cs 340 Climb",
+        "activity_type": "Ride",
+        "distance": 612.922,
+        "average_grade": 18.4,
+        "maximum_grade": 45.6,
+        "elevation_high": 1531.9,
+        "elevation_low": 1419.1,
+        "start_latlng": [
+          42.55496892146766,
+          1.5407839883118868
+        ],
+        "end_latlng": [
+          42.55575598217547,
+          1.5458719711750746
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 1,
+        "city": "Ordino",
+        "state": "Ordino",
+        "country": "Andorra",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3365357079704413306,
+      "resource_state": 2,
+      "name": "arrancada al *uto Yates",
+      "activity": {
+        "id": 14694556232,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 260,
+      "moving_time": 260,
+      "start_date": "2025-06-04T07:30:48Z",
+      "start_date_local": "2025-06-04T09:30:48Z",
+      "distance": 502.7,
+      "start_index": 1947,
+      "end_index": 2207,
+      "device_watts": false,
+      "segment": {
+        "id": 32612468,
+        "resource_state": 2,
+        "name": "arrancada al *uto Yates",
+        "activity_type": "Ride",
+        "distance": 502.7,
+        "average_grade": 7.5,
+        "maximum_grade": 10.6,
+        "elevation_high": 1539.3,
+        "elevation_low": 1501.5,
+        "start_latlng": [
+          42.556185,
+          1.546414
+        ],
+        "end_latlng": [
+          42.556431,
+          1.54821
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Ordino",
+        "state": "Ordino",
+        "country": "Andorra",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3365357079704763514,
+      "resource_state": 2,
+      "name": "Cs 340 Climb",
+      "activity": {
+        "id": 14694556232,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 310,
+      "moving_time": 310,
+      "start_date": "2025-06-04T07:32:28Z",
+      "start_date_local": "2025-06-04T09:32:28Z",
+      "distance": 591.733,
+      "start_index": 2047,
+      "end_index": 2357,
+      "device_watts": false,
+      "segment": {
+        "id": 1112062,
+        "resource_state": 2,
+        "name": "Cs 340 Climb",
+        "activity_type": "Ride",
+        "distance": 591.733,
+        "average_grade": 15.3,
+        "maximum_grade": 35.8,
+        "elevation_high": 1608.2,
+        "elevation_low": 1517.7,
+        "start_latlng": [
+          42.55728794261813,
+          1.5480849612504244
+        ],
+        "end_latlng": [
+          42.55444798618555,
+          1.5460129547864199
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 1,
+        "city": "Ordino",
+        "state": "Ordino",
+        "country": "Andorra",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3365357079704621178,
+      "resource_state": 2,
+      "name": "barrera - pas de vianants",
+      "activity": {
+        "id": 14694556232,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 2487,
+      "moving_time": 2076,
+      "start_date": "2025-06-04T07:35:01Z",
+      "start_date_local": "2025-06-04T09:35:01Z",
+      "distance": 4543.1,
+      "start_index": 2200,
+      "end_index": 4280,
+      "device_watts": false,
+      "segment": {
+        "id": 32104149,
+        "resource_state": 2,
+        "name": "barrera - pas de vianants",
+        "activity_type": "Ride",
+        "distance": 4543.1,
+        "average_grade": 6.7,
+        "maximum_grade": 16.1,
+        "elevation_high": 1855.4,
+        "elevation_low": 1549.0,
+        "start_latlng": [
+          42.556541,
+          1.548295
+        ],
+        "end_latlng": [
+          42.552245,
+          1.553257
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 2,
+        "city": "Ordino",
+        "state": "Ordino",
+        "country": "Andorra",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3365357079703054458,
+      "resource_state": 2,
+      "name": "Cs 340 Climb",
+      "activity": {
+        "id": 14694556232,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 518,
+      "moving_time": 322,
+      "start_date": "2025-06-04T07:39:17Z",
+      "start_date_local": "2025-06-04T09:39:17Z",
+      "distance": 723.047,
+      "start_index": 2456,
+      "end_index": 2780,
+      "device_watts": false,
+      "segment": {
+        "id": 1112063,
+        "resource_state": 2,
+        "name": "Cs 340 Climb",
+        "activity_type": "Ride",
+        "distance": 723.047,
+        "average_grade": 15.1,
+        "maximum_grade": 60.2,
+        "elevation_high": 1678.3,
+        "elevation_low": 1569.3,
+        "start_latlng": [
+          42.55403894931078,
+          1.5440129488706589
+        ],
+        "end_latlng": [
+          42.549300994724035,
+          1.5408299211412668
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 1,
+        "city": "Ordino",
+        "state": "Ordino",
+        "country": "Andorra",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3365357079703686266,
+      "resource_state": 2,
+      "name": "Mirador - Coll d'Ordino",
+      "activity": {
+        "id": 14694556232,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 2462,
+      "moving_time": 2247,
+      "start_date": "2025-06-04T07:47:52Z",
+      "start_date_local": "2025-06-04T09:47:52Z",
+      "distance": 4994.8,
+      "start_index": 2777,
+      "end_index": 5026,
+      "device_watts": false,
+      "segment": {
+        "id": 11952453,
+        "resource_state": 2,
+        "name": "Mirador - Coll d'Ordino",
+        "activity_type": "Ride",
+        "distance": 4994.8,
+        "average_grade": 6.9,
+        "maximum_grade": 14.3,
+        "elevation_high": 2052.8,
+        "elevation_low": 1707.4,
+        "start_latlng": [
+          42.549384,
+          1.540903
+        ],
+        "end_latlng": [
+          42.556104,
+          1.571979
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 3,
+        "city": null,
+        "state": null,
+        "country": null,
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3365357079703032954,
+      "resource_state": 2,
+      "name": "Cs 340 Climb",
+      "activity": {
+        "id": 14694556232,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 575,
+      "moving_time": 575,
+      "start_date": "2025-06-04T07:50:01Z",
+      "start_date_local": "2025-06-04T09:50:01Z",
+      "distance": 1178.05,
+      "start_index": 2906,
+      "end_index": 3481,
+      "device_watts": false,
+      "segment": {
+        "id": 1112064,
+        "resource_state": 2,
+        "name": "Cs 340 Climb",
+        "activity_type": "Ride",
+        "distance": 1178.05,
+        "average_grade": 9.5,
+        "maximum_grade": 44.2,
+        "elevation_high": 1764.7,
+        "elevation_low": 1652.8,
+        "start_latlng": [
+          42.550271954387426,
+          1.5432599186897278
+        ],
+        "end_latlng": [
+          42.55496992729604,
+          1.5549449622631073
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 1,
+        "city": "Ordino",
+        "state": "Ordino",
+        "country": "Andorra",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3365357079702287482,
+      "resource_state": 2,
+      "name": "Cs 340 Climb",
+      "activity": {
+        "id": 14694556232,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 775,
+      "moving_time": 560,
+      "start_date": "2025-06-04T08:00:53Z",
+      "start_date_local": "2025-06-04T10:00:53Z",
+      "distance": 1226.97,
+      "start_index": 3558,
+      "end_index": 4120,
+      "device_watts": false,
+      "segment": {
+        "id": 1112065,
+        "resource_state": 2,
+        "name": "Cs 340 Climb",
+        "activity_type": "Ride",
+        "distance": 1226.97,
+        "average_grade": 9.8,
+        "maximum_grade": 38.2,
+        "elevation_high": 1860.9,
+        "elevation_low": 1740.8,
+        "start_latlng": [
+          42.55608195438981,
+          1.5558369643986225
+        ],
+        "end_latlng": [
+          42.552847964689136,
+          1.5547869633883238
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 1,
+        "city": "Ordino",
+        "state": "Ordino",
+        "country": "Andorra",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3365357079703751802,
+      "resource_state": 2,
+      "name": "Ultims 3k ordino attack",
+      "activity": {
+        "id": 14694556232,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 1537,
+      "moving_time": 1322,
+      "start_date": "2025-06-04T08:02:42Z",
+      "start_date_local": "2025-06-04T10:02:42Z",
+      "distance": 3001.0,
+      "start_index": 3667,
+      "end_index": 4991,
+      "device_watts": false,
+      "segment": {
+        "id": 22038927,
+        "resource_state": 2,
+        "name": "Ultims 3k ordino attack",
+        "activity_type": "Ride",
+        "distance": 3001.0,
+        "average_grade": 7.0,
+        "maximum_grade": 15.3,
+        "elevation_high": 1977.0,
+        "elevation_low": 1765.6,
+        "start_latlng": [
+          42.556163,
+          1.558807
+        ],
+        "end_latlng": [
+          42.555517,
+          1.571233
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 2,
+        "city": "Ordino",
+        "state": "Ordino",
+        "country": "Andorra",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3365357079702854778,
+      "resource_state": 2,
+      "name": "Cs 340 Climb",
+      "activity": {
+        "id": 14694556232,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 319,
+      "moving_time": 319,
+      "start_date": "2025-06-04T08:15:45Z",
+      "start_date_local": "2025-06-04T10:15:45Z",
+      "distance": 734.357,
+      "start_index": 4237,
+      "end_index": 4556,
+      "device_watts": false,
+      "segment": {
+        "id": 1112066,
+        "resource_state": 2,
+        "name": "Cs 340 Climb",
+        "activity_type": "Ride",
+        "distance": 734.357,
+        "average_grade": 14.5,
+        "maximum_grade": 27.6,
+        "elevation_high": 1955.6,
+        "elevation_low": 1849.4,
+        "start_latlng": [
+          42.552137933671474,
+          1.5519469231367111
+        ],
+        "end_latlng": [
+          42.55219794809818,
+          1.5603589173406363
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 1,
+        "city": "Ordino",
+        "state": "Ordino",
+        "country": "Andorra",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3365357079702813818,
+      "resource_state": 2,
+      "name": "Final sprint to the top",
+      "activity": {
+        "id": 14694556232,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 367,
+      "moving_time": 367,
+      "start_date": "2025-06-04T08:22:55Z",
+      "start_date_local": "2025-06-04T10:22:55Z",
+      "distance": 868.5,
+      "start_index": 4667,
+      "end_index": 5034,
+      "device_watts": false,
+      "segment": {
+        "id": 15934476,
+        "resource_state": 2,
+        "name": "Final sprint to the top",
+        "activity_type": "Ride",
+        "distance": 868.5,
+        "average_grade": 6.3,
+        "maximum_grade": 9.4,
+        "elevation_high": 1938.8,
+        "elevation_low": 1884.0,
+        "start_latlng": [
+          42.552138,
+          1.563385
+        ],
+        "end_latlng": [
+          42.555943,
+          1.572166
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Ordino",
+        "state": "Ordino",
+        "country": "Andorra",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3365357079705657466,
+      "resource_state": 2,
+      "name": "Final effort \ud83d\udd25",
+      "activity": {
+        "id": 14694556232,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 178,
+      "moving_time": 178,
+      "start_date": "2025-06-04T08:25:45Z",
+      "start_date_local": "2025-06-04T10:25:45Z",
+      "distance": 428.3,
+      "start_index": 4837,
+      "end_index": 5015,
+      "device_watts": false,
+      "segment": {
+        "id": 25638543,
+        "resource_state": 2,
+        "name": "Final effort \ud83d\udd25",
+        "activity_type": "Ride",
+        "distance": 428.3,
+        "average_grade": 5.7,
+        "maximum_grade": 8.9,
+        "elevation_high": 1997.4,
+        "elevation_low": 1972.8,
+        "start_latlng": [
+          42.55397,
+          1.567495
+        ],
+        "end_latlng": [
+          42.556066,
+          1.571667
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Ordino",
+        "state": "Ordino",
+        "country": "Andorra",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3365357079704606842,
+      "resource_state": 2,
+      "name": "down to canillo",
+      "activity": {
+        "id": 14694556232,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 3173,
+      "moving_time": 1151,
+      "start_date": "2025-06-04T08:38:17Z",
+      "start_date_local": "2025-06-04T10:38:17Z",
+      "distance": 8775.4,
+      "start_index": 5166,
+      "end_index": 6321,
+      "device_watts": false,
+      "segment": {
+        "id": 15692881,
+        "resource_state": 2,
+        "name": "down to canillo",
+        "activity_type": "Ride",
+        "distance": 8775.4,
+        "average_grade": -4.9,
+        "maximum_grade": 7.4,
+        "elevation_high": 1966.2,
+        "elevation_low": 1532.4,
+        "start_latlng": [
+          42.556537,
+          1.574018
+        ],
+        "end_latlng": [
+          42.566709,
+          1.595682
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Canillo",
+        "state": "Canillo",
+        "country": "Andorra",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3365357079702815866,
+      "resource_state": 2,
+      "name": "Last Push Ordino",
+      "activity": {
+        "id": 14694556232,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 322,
+      "moving_time": 296,
+      "start_date": "2025-06-04T08:41:21Z",
+      "start_date_local": "2025-06-04T10:41:21Z",
+      "distance": 971.1,
+      "start_index": 5338,
+      "end_index": 5635,
+      "device_watts": false,
+      "segment": {
+        "id": 21117063,
+        "resource_state": 2,
+        "name": "Last Push Ordino",
+        "activity_type": "Ride",
+        "distance": 971.1,
+        "average_grade": -0.8,
+        "maximum_grade": 0.8,
+        "elevation_high": 1955.8,
+        "elevation_low": 1947.8,
+        "start_latlng": [
+          42.565591,
+          1.576669
+        ],
+        "end_latlng": [
+          42.568868,
+          1.586791
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Canillo",
+        "state": "Canillo",
+        "country": "Andorra",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3365357079703948410,
+      "resource_state": 2,
+      "name": "Descent into Canillo",
+      "activity": {
+        "id": 14694556232,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 975,
+      "moving_time": 532,
+      "start_date": "2025-06-04T09:13:32Z",
+      "start_date_local": "2025-06-04T11:13:32Z",
+      "distance": 5094.1,
+      "start_index": 5705,
+      "end_index": 6238,
+      "device_watts": false,
+      "segment": {
+        "id": 10158337,
+        "resource_state": 2,
+        "name": "Descent into Canillo",
+        "activity_type": "Ride",
+        "distance": 5094.1,
+        "average_grade": -5.9,
+        "maximum_grade": 0.0,
+        "elevation_high": 1895.4,
+        "elevation_low": 1592.8,
+        "start_latlng": [
+          42.57124,
+          1.586797
+        ],
+        "end_latlng": [
+          42.568032,
+          1.596609
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Canillo",
+        "state": "Canillo",
+        "country": "Andorra",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3365357079705830522,
+      "resource_state": 2,
+      "name": "Coll Ordino down End",
+      "activity": {
+        "id": 14694556232,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 111,
+      "moving_time": 111,
+      "start_date": "2025-06-04T09:29:27Z",
+      "start_date_local": "2025-06-04T11:29:27Z",
+      "distance": 1308.4,
+      "start_index": 6218,
+      "end_index": 6329,
+      "device_watts": false,
+      "segment": {
+        "id": 36525513,
+        "resource_state": 2,
+        "name": "Coll Ordino down End",
+        "activity_type": "Ride",
+        "distance": 1308.4,
+        "average_grade": -6.8,
+        "maximum_grade": -2.7,
+        "elevation_high": 1632.2,
+        "elevation_low": 1542.6,
+        "start_latlng": [
+          42.569713,
+          1.598182
+        ],
+        "end_latlng": [
+          42.566296,
+          1.596483
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Canillo",
+        "state": null,
+        "country": "Andorra",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3365357079704309882,
+      "resource_state": 2,
+      "name": "Canillo -Rotonda Ransol (by#31)",
+      "activity": {
+        "id": 14694556232,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 1120,
+      "moving_time": 1120,
+      "start_date": "2025-06-04T09:51:14Z",
+      "start_date_local": "2025-06-04T11:51:14Z",
+      "distance": 4279.4,
+      "start_index": 6426,
+      "end_index": 7546,
+      "device_watts": false,
+      "segment": {
+        "id": 22014165,
+        "resource_state": 2,
+        "name": "Canillo -Rotonda Ransol (by#31)",
+        "activity_type": "Ride",
+        "distance": 4279.4,
+        "average_grade": 3.1,
+        "maximum_grade": 11.5,
+        "elevation_high": 1612.4,
+        "elevation_low": 1477.8,
+        "start_latlng": [
+          42.566699,
+          1.600196
+        ],
+        "end_latlng": [
+          42.579735,
+          1.645668
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 1,
+        "city": "Canillo",
+        "state": "Canillo",
+        "country": "Andorra",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3365357079702513786,
+      "resource_state": 2,
+      "name": "Canillo - Rotonda Soldeu (by#31)",
+      "activity": {
+        "id": 14694556232,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 2387,
+      "moving_time": 2387,
+      "start_date": "2025-06-04T09:51:32Z",
+      "start_date_local": "2025-06-04T11:51:32Z",
+      "distance": 7737.1,
+      "start_index": 6444,
+      "end_index": 8831,
+      "device_watts": false,
+      "segment": {
+        "id": 21512302,
+        "resource_state": 2,
+        "name": "Canillo - Rotonda Soldeu (by#31)",
+        "activity_type": "Ride",
+        "distance": 7737.1,
+        "average_grade": 4.0,
+        "maximum_grade": 14.7,
+        "elevation_high": 1842.8,
+        "elevation_low": 1534.8,
+        "start_latlng": [
+          42.567368,
+          1.601478
+        ],
+        "end_latlng": [
+          42.574069,
+          1.673554
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 2,
+        "city": "Canillo",
+        "state": "Canillo",
+        "country": "Andorra",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3365357079706191994,
+      "resource_state": 2,
+      "name": "Sprint Cascada Moles",
+      "activity": {
+        "id": 14694556232,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 184,
+      "moving_time": 184,
+      "start_date": "2025-06-04T09:53:55Z",
+      "start_date_local": "2025-06-04T11:53:55Z",
+      "distance": 910.6,
+      "start_index": 6587,
+      "end_index": 6771,
+      "device_watts": false,
+      "segment": {
+        "id": 15611582,
+        "resource_state": 2,
+        "name": "Sprint Cascada Moles",
+        "activity_type": "Ride",
+        "distance": 910.6,
+        "average_grade": 2.4,
+        "maximum_grade": 17.5,
+        "elevation_high": 1573.8,
+        "elevation_low": 1551.7,
+        "start_latlng": [
+          42.571116,
+          1.608197
+        ],
+        "end_latlng": [
+          42.57364,
+          1.61845
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Canillo",
+        "state": "Canillo",
+        "country": "Andorra",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3365357079704423546,
+      "resource_state": 2,
+      "name": "Tarter - Incles",
+      "activity": {
+        "id": 14694556232,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 578,
+      "moving_time": 578,
+      "start_date": "2025-06-04T10:10:00Z",
+      "start_date_local": "2025-06-04T12:10:00Z",
+      "distance": 1898.36,
+      "start_index": 7552,
+      "end_index": 8130,
+      "device_watts": false,
+      "segment": {
+        "id": 1407739,
+        "resource_state": 2,
+        "name": "Tarter - Incles",
+        "activity_type": "Ride",
+        "distance": 1898.36,
+        "average_grade": 4.5,
+        "maximum_grade": 17.5,
+        "elevation_high": 1754.9,
+        "elevation_low": 1668.8,
+        "start_latlng": [
+          42.5799142,
+          1.64578254
+        ],
+        "end_latlng": [
+          42.5838611,
+          1.66349728
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 1,
+        "city": "El Tarter",
+        "state": "Canillo",
+        "country": "Andorra",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3365357079703328890,
+      "resource_state": 2,
+      "name": "Up to Soldeu",
+      "activity": {
+        "id": 14694556232,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 480,
+      "moving_time": 480,
+      "start_date": "2025-06-04T10:16:19Z",
+      "start_date_local": "2025-06-04T12:16:19Z",
+      "distance": 1331.9,
+      "start_index": 7931,
+      "end_index": 8411,
+      "device_watts": false,
+      "segment": {
+        "id": 12573380,
+        "resource_state": 2,
+        "name": "Up to Soldeu",
+        "activity_type": "Ride",
+        "distance": 1331.9,
+        "average_grade": 5.3,
+        "maximum_grade": 15.2,
+        "elevation_high": 1801.8,
+        "elevation_low": 1727.6,
+        "start_latlng": [
+          42.579375,
+          1.658608
+        ],
+        "end_latlng": [
+          42.578381,
+          1.663251
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Canillo",
+        "state": "Canillo",
+        "country": "Andorra",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3365357079705263226,
+      "resource_state": 2,
+      "name": "Incles-Rotonda Hermi.",
+      "activity": {
+        "id": 14694556232,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 682,
+      "moving_time": 682,
+      "start_date": "2025-06-04T10:19:51Z",
+      "start_date_local": "2025-06-04T12:19:51Z",
+      "distance": 1671.9,
+      "start_index": 8143,
+      "end_index": 8825,
+      "device_watts": false,
+      "segment": {
+        "id": 18075792,
+        "resource_state": 2,
+        "name": "Incles-Rotonda Hermi.",
+        "activity_type": "Ride",
+        "distance": 1671.9,
+        "average_grade": 5.8,
+        "maximum_grade": 9.0,
+        "elevation_high": 1860.8,
+        "elevation_low": 1763.2,
+        "start_latlng": [
+          42.583845,
+          1.664133
+        ],
+        "end_latlng": [
+          42.57425,
+          1.673393
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 1,
+        "city": "Canillo",
+        "state": "Canillo",
+        "country": "Andorra",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3365357079704645754,
+      "resource_state": 2,
+      "name": "La Pujada a Soldeu",
+      "activity": {
+        "id": 14694556232,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 398,
+      "moving_time": 398,
+      "start_date": "2025-06-04T10:19:55Z",
+      "start_date_local": "2025-06-04T12:19:55Z",
+      "distance": 965.0,
+      "start_index": 8147,
+      "end_index": 8545,
+      "device_watts": false,
+      "segment": {
+        "id": 9551930,
+        "resource_state": 2,
+        "name": "La Pujada a Soldeu",
+        "activity_type": "Ride",
+        "distance": 965.0,
+        "average_grade": 5.6,
+        "maximum_grade": 26.1,
+        "elevation_high": 1806.7,
+        "elevation_low": 1751.9,
+        "start_latlng": [
+          42.583834,
+          1.664362
+        ],
+        "end_latlng": [
+          42.577234,
+          1.665656
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Canillo",
+        "state": "Canillo",
+        "country": "Andorra",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3365357079702615162,
+      "resource_state": 2,
+      "name": "Incles - Port Envalira",
+      "activity": {
+        "id": 14694556232,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 5212,
+      "moving_time": 4064,
+      "start_date": "2025-06-04T10:20:01Z",
+      "start_date_local": "2025-06-04T12:20:01Z",
+      "distance": 11114.3,
+      "start_index": 8153,
+      "end_index": 12227,
+      "device_watts": false,
+      "segment": {
+        "id": 1462699,
+        "resource_state": 2,
+        "name": "Incles - Port Envalira",
+        "activity_type": "Ride",
+        "distance": 11114.3,
+        "average_grade": 5.9,
+        "maximum_grade": 30.7,
+        "elevation_high": 2407.9,
+        "elevation_low": 1752.3,
+        "start_latlng": [
+          42.58369317,
+          1.66455277
+        ],
+        "end_latlng": [
+          42.54000606,
+          1.7196183
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 4,
+        "city": "Canillo",
+        "state": "Canillo",
+        "country": "Andorra",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3365357079705620602,
+      "resource_state": 2,
+      "name": "Incles - Rotonda Grau Roig",
+      "activity": {
+        "id": 14694556232,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 1831,
+      "moving_time": 1831,
+      "start_date": "2025-06-04T10:20:22Z",
+      "start_date_local": "2025-06-04T12:20:22Z",
+      "distance": 4936.0,
+      "start_index": 8174,
+      "end_index": 10005,
+      "device_watts": false,
+      "segment": {
+        "id": 9221796,
+        "resource_state": 2,
+        "name": "Incles - Rotonda Grau Roig",
+        "activity_type": "Ride",
+        "distance": 4936.0,
+        "average_grade": 5.3,
+        "maximum_grade": 23.8,
+        "elevation_high": 2020.1,
+        "elevation_low": 1756.5,
+        "start_latlng": [
+          42.583083,
+          1.664555
+        ],
+        "end_latlng": [
+          42.551708,
+          1.695096
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 2,
+        "city": "Canillo",
+        "state": "Canillo",
+        "country": "Andorra",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3365357079706224762,
+      "resource_state": 2,
+      "name": "SOLDEU-MIRADOR GRAU",
+      "activity": {
+        "id": 14694556232,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 2936,
+      "moving_time": 1847,
+      "start_date": "2025-06-04T10:28:39Z",
+      "start_date_local": "2025-06-04T12:28:39Z",
+      "distance": 4766.0,
+      "start_index": 8671,
+      "end_index": 10525,
+      "device_watts": false,
+      "segment": {
+        "id": 24229039,
+        "resource_state": 2,
+        "name": "SOLDEU-MIRADOR GRAU",
+        "activity_type": "Ride",
+        "distance": 4766.0,
+        "average_grade": 5.8,
+        "maximum_grade": 10.7,
+        "elevation_high": 2136.2,
+        "elevation_low": 1861.6,
+        "start_latlng": [
+          42.5764,
+          1.669296
+        ],
+        "end_latlng": [
+          42.543451,
+          1.703473
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 2,
+        "city": "Soldeu",
+        "state": "Canillo",
+        "country": "Andorra",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3365357079704137850,
+      "resource_state": 2,
+      "name": "rotonda hermitage entrada peretol",
+      "activity": {
+        "id": 14694556232,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 544,
+      "moving_time": 544,
+      "start_date": "2025-06-04T10:31:16Z",
+      "start_date_local": "2025-06-04T12:31:16Z",
+      "distance": 1344.2,
+      "start_index": 8828,
+      "end_index": 9372,
+      "device_watts": false,
+      "segment": {
+        "id": 27757503,
+        "resource_state": 2,
+        "name": "rotonda hermitage entrada peretol",
+        "activity_type": "Ride",
+        "distance": 1344.2,
+        "average_grade": 6.2,
+        "maximum_grade": 8.2,
+        "elevation_high": 1945.4,
+        "elevation_low": 1861.7,
+        "start_latlng": [
+          42.574172,
+          1.673497
+        ],
+        "end_latlng": [
+          42.563657,
+          1.680387
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 1,
+        "city": "Canillo",
+        "state": "Canillo",
+        "country": "Andorra",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3365357079704542330,
+      "resource_state": 2,
+      "name": "Rotonda Soldeu - Rotonda Grau",
+      "activity": {
+        "id": 14694556232,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 1166,
+      "moving_time": 1166,
+      "start_date": "2025-06-04T10:31:32Z",
+      "start_date_local": "2025-06-04T12:31:32Z",
+      "distance": 3124.4,
+      "start_index": 8844,
+      "end_index": 10010,
+      "device_watts": false,
+      "segment": {
+        "id": 35053263,
+        "resource_state": 2,
+        "name": "Rotonda Soldeu - Rotonda Grau",
+        "activity_type": "Ride",
+        "distance": 3124.4,
+        "average_grade": 5.5,
+        "maximum_grade": 9.9,
+        "elevation_high": 2033.0,
+        "elevation_low": 1862.4,
+        "start_latlng": [
+          42.573841,
+          1.674059
+        ],
+        "end_latlng": [
+          42.551593,
+          1.695199
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 2,
+        "city": "Canillo",
+        "state": null,
+        "country": "Andorra",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3365357079703929978,
+      "resource_state": 2,
+      "name": "Carretera de Grau Roig Climb",
+      "activity": {
+        "id": 14694556232,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 1731,
+      "moving_time": 642,
+      "start_date": "2025-06-04T10:49:21Z",
+      "start_date_local": "2025-06-04T12:49:21Z",
+      "distance": 1657.3,
+      "start_index": 9913,
+      "end_index": 10562,
+      "device_watts": false,
+      "segment": {
+        "id": 5060879,
+        "resource_state": 2,
+        "name": "Carretera de Grau Roig Climb",
+        "activity_type": "Ride",
+        "distance": 1657.3,
+        "average_grade": 6.9,
+        "maximum_grade": 18.4,
+        "elevation_high": 2119.1,
+        "elevation_low": 2004.8,
+        "start_latlng": [
+          42.55378,
+          1.692088
+        ],
+        "end_latlng": [
+          42.542641,
+          1.703829
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 1,
+        "city": "Encamp",
+        "state": "Encamp",
+        "country": "Andorra",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3365357079705153658,
+      "resource_state": 2,
+      "name": "Dalt T\u00fanel De Envalira Ida",
+      "activity": {
+        "id": 14694556232,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 2931,
+      "moving_time": 1821,
+      "start_date": "2025-06-04T10:51:13Z",
+      "start_date_local": "2025-06-04T12:51:13Z",
+      "distance": 4473.4,
+      "start_index": 10025,
+      "end_index": 11854,
+      "device_watts": false,
+      "segment": {
+        "id": 20998438,
+        "resource_state": 2,
+        "name": "Dalt T\u00fanel De Envalira Ida",
+        "activity_type": "Ride",
+        "distance": 4473.4,
+        "average_grade": 6.7,
+        "maximum_grade": 9.2,
+        "elevation_high": 2342.9,
+        "elevation_low": 2042.3,
+        "start_latlng": [
+          42.551515,
+          1.695693
+        ],
+        "end_latlng": [
+          42.54203,
+          1.713781
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 2,
+        "city": "Encamp",
+        "state": "Encamp",
+        "country": "Andorra",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3365357079703267450,
+      "resource_state": 2,
+      "name": "Siga Saga final Port d'Envalira. ROAD.",
+      "activity": {
+        "id": 14694556232,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 1706,
+      "moving_time": 1647,
+      "start_date": "2025-06-04T11:17:20Z",
+      "start_date_local": "2025-06-04T13:17:20Z",
+      "distance": 4148.5,
+      "start_index": 10510,
+      "end_index": 12160,
+      "device_watts": false,
+      "segment": {
+        "id": 7838657,
+        "resource_state": 2,
+        "name": "Siga Saga final Port d'Envalira. ROAD.",
+        "activity_type": "Ride",
+        "distance": 4148.5,
+        "average_grade": 6.7,
+        "maximum_grade": 32.9,
+        "elevation_high": 2394.9,
+        "elevation_low": 2112.3,
+        "start_latlng": [
+          42.543761,
+          1.703399
+        ],
+        "end_latlng": [
+          42.541354,
+          1.718328
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 2,
+        "city": "Encamp",
+        "state": "Encamp",
+        "country": "Andorra",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3365357079705647226,
+      "resource_state": 2,
+      "name": "2km to the top",
+      "activity": {
+        "id": 14694556232,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 869,
+      "moving_time": 810,
+      "start_date": "2025-06-04T11:32:15Z",
+      "start_date_local": "2025-06-04T13:32:15Z",
+      "distance": 2030.9,
+      "start_index": 11405,
+      "end_index": 12218,
+      "device_watts": false,
+      "segment": {
+        "id": 15942498,
+        "resource_state": 2,
+        "name": "2km to the top",
+        "activity_type": "Ride",
+        "distance": 2030.9,
+        "average_grade": 6.6,
+        "maximum_grade": 9.8,
+        "elevation_high": 2411.0,
+        "elevation_low": 2277.6,
+        "start_latlng": [
+          42.544256,
+          1.707916
+        ],
+        "end_latlng": [
+          42.540257,
+          1.719255
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 1,
+        "city": "Encamp",
+        "state": "Encamp",
+        "country": "Andorra",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3365357079702592634,
+      "resource_state": 2,
+      "name": "LAST KM ENVALIRA",
+      "activity": {
+        "id": 14694556232,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 465,
+      "moving_time": 406,
+      "start_date": "2025-06-04T11:39:06Z",
+      "start_date_local": "2025-06-04T13:39:06Z",
+      "distance": 1042.4,
+      "start_index": 11816,
+      "end_index": 12225,
+      "device_watts": false,
+      "segment": {
+        "id": 35164542,
+        "resource_state": 2,
+        "name": "LAST KM ENVALIRA",
+        "activity_type": "Ride",
+        "distance": 1042.4,
+        "average_grade": 7.7,
+        "maximum_grade": 12.4,
+        "elevation_high": 2408.7,
+        "elevation_low": 2328.7,
+        "start_latlng": [
+          42.542501,
+          1.713021
+        ],
+        "end_latlng": [
+          42.54015,
+          1.71941
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Encamp",
+        "state": null,
+        "country": "Andorra",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3365357079704418426,
+      "resource_state": 2,
+      "name": "\u00daltima recta Envalira",
+      "activity": {
+        "id": 14694556232,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 131,
+      "moving_time": 131,
+      "start_date": "2025-06-04T11:44:39Z",
+      "start_date_local": "2025-06-04T13:44:39Z",
+      "distance": 350.9,
+      "start_index": 12093,
+      "end_index": 12224,
+      "device_watts": false,
+      "segment": {
+        "id": 15367784,
+        "resource_state": 2,
+        "name": "\u00daltima recta Envalira",
+        "activity_type": "Ride",
+        "distance": 350.9,
+        "average_grade": 6.6,
+        "maximum_grade": 12.6,
+        "elevation_high": 2428.2,
+        "elevation_low": 2405.2,
+        "start_latlng": [
+          42.54232,
+          1.7164
+        ],
+        "end_latlng": [
+          42.540149,
+          1.719358
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Encamp",
+        "state": "Encamp",
+        "country": "Andorra",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3365357079698728058,
+      "resource_state": 2,
+      "name": "Envalira - Pas de la casa ",
+      "activity": {
+        "id": 14694556232,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 1161,
+      "moving_time": 400,
+      "start_date": "2025-06-04T11:46:53Z",
+      "start_date_local": "2025-06-04T13:46:53Z",
+      "distance": 3935.3,
+      "start_index": 12227,
+      "end_index": 12629,
+      "device_watts": false,
+      "segment": {
+        "id": 32543340,
+        "resource_state": 2,
+        "name": "Envalira - Pas de la casa ",
+        "activity_type": "Ride",
+        "distance": 3935.3,
+        "average_grade": -6.3,
+        "maximum_grade": 1.6,
+        "elevation_high": 2406.6,
+        "elevation_low": 2160.2,
+        "start_latlng": [
+          42.540056,
+          1.719502
+        ],
+        "end_latlng": [
+          42.546074,
+          1.730835
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Pas de la Casa",
+        "state": "Encamp",
+        "country": "Andorra",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3365357079700184186,
+      "resource_state": 2,
+      "name": "Envalira Descent",
+      "activity": {
+        "id": 14694556232,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 1430,
+      "moving_time": 870,
+      "start_date": "2025-06-04T11:56:01Z",
+      "start_date_local": "2025-06-04T13:56:01Z",
+      "distance": 7436.2,
+      "start_index": 12249,
+      "end_index": 13130,
+      "device_watts": false,
+      "segment": {
+        "id": 5700170,
+        "resource_state": 2,
+        "name": "Envalira Descent",
+        "activity_type": "Ride",
+        "distance": 7436.2,
+        "average_grade": -5.8,
+        "maximum_grade": 0.7,
+        "elevation_high": 2393.4,
+        "elevation_low": 1962.0,
+        "start_latlng": [
+          42.539843,
+          1.720843
+        ],
+        "end_latlng": [
+          42.558957,
+          1.753979
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Encamp",
+        "state": "Encamp",
+        "country": "Andorra",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3365357079701253242,
+      "resource_state": 2,
+      "name": "Avinguda d'Encamp Climb",
+      "activity": {
+        "id": 14694556232,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 57,
+      "moving_time": 57,
+      "start_date": "2025-06-04T12:15:34Z",
+      "start_date_local": "2025-06-04T14:15:34Z",
+      "distance": 425.1,
+      "start_index": 12873,
+      "end_index": 12930,
+      "device_watts": false,
+      "segment": {
+        "id": 4534339,
+        "resource_state": 2,
+        "name": "Avinguda d'Encamp Climb",
+        "activity_type": "Ride",
+        "distance": 425.1,
+        "average_grade": 30.3,
+        "maximum_grade": 36.1,
+        "elevation_high": 2093.0,
+        "elevation_low": 1964.2,
+        "start_latlng": [
+          42.54444,
+          1.732682
+        ],
+        "end_latlng": [
+          42.543803,
+          1.736135
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 1,
+        "city": "Encamp",
+        "state": "Encamp",
+        "country": "Andorra",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3365357079700931706,
+      "resource_state": 2,
+      "name": "Pas de la Casa - Inicio Puymorens",
+      "activity": {
+        "id": 14694556232,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 489,
+      "moving_time": 473,
+      "start_date": "2025-06-04T12:17:28Z",
+      "start_date_local": "2025-06-04T14:17:28Z",
+      "distance": 4951.3,
+      "start_index": 12987,
+      "end_index": 13461,
+      "device_watts": false,
+      "segment": {
+        "id": 37073557,
+        "resource_state": 2,
+        "name": "Pas de la Casa - Inicio Puymorens",
+        "activity_type": "Ride",
+        "distance": 4951.3,
+        "average_grade": -5.5,
+        "maximum_grade": 4.8,
+        "elevation_high": 2043.9,
+        "elevation_low": 1772.4,
+        "start_latlng": [
+          42.549239,
+          1.73805
+        ],
+        "end_latlng": [
+          42.564354,
+          1.782154
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Porta",
+        "state": "Occitania",
+        "country": null,
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3365357079701707898,
+      "resource_state": 2,
+      "name": "Border to L'Hospitalet Downhill",
+      "activity": {
+        "id": 14694556232,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 1122,
+      "moving_time": 960,
+      "start_date": "2025-06-04T12:20:52Z",
+      "start_date_local": "2025-06-04T14:20:52Z",
+      "distance": 9966.3,
+      "start_index": 13191,
+      "end_index": 14151,
+      "device_watts": false,
+      "segment": {
+        "id": 9885486,
+        "resource_state": 2,
+        "name": "Border to L'Hospitalet Downhill",
+        "activity_type": "Ride",
+        "distance": 9966.3,
+        "average_grade": -4.6,
+        "maximum_grade": 1.6,
+        "elevation_high": 1748.0,
+        "elevation_low": 1289.2,
+        "start_latlng": [
+          42.560113,
+          1.758873
+        ],
+        "end_latlng": [
+          42.588106,
+          1.799026
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Porta",
+        "state": "Languedoc-Roussillon",
+        "country": "France",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3365357079698502778,
+      "resource_state": 2,
+      "name": "L'Hospitalet to Bridge downhill",
+      "activity": {
+        "id": 14694556232,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 2458,
+      "moving_time": 1357,
+      "start_date": "2025-06-04T12:40:36Z",
+      "start_date_local": "2025-06-04T14:40:36Z",
+      "distance": 12911.8,
+      "start_index": 14213,
+      "end_index": 15578,
+      "device_watts": false,
+      "segment": {
+        "id": 9888004,
+        "resource_state": 2,
+        "name": "L'Hospitalet to Bridge downhill",
+        "activity_type": "Ride",
+        "distance": 12911.8,
+        "average_grade": -3.6,
+        "maximum_grade": 0.0,
+        "elevation_high": 1269.4,
+        "elevation_low": 809.6,
+        "start_latlng": [
+          42.590578,
+          1.801799
+        ],
+        "end_latlng": [
+          42.685191,
+          1.823188
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "L'Hospitalet-pr\u00e9s-l'Andorre",
+        "state": "Midi-Pyr\u00e9n\u00e9es",
+        "country": "France",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3365357079698939002,
+      "resource_state": 2,
+      "name": "La double voie",
+      "activity": {
+        "id": 14694556232,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 88,
+      "moving_time": 88,
+      "start_date": "2025-06-04T12:41:45Z",
+      "start_date_local": "2025-06-04T14:41:45Z",
+      "distance": 1116.3,
+      "start_index": 14282,
+      "end_index": 14370,
+      "device_watts": false,
+      "segment": {
+        "id": 27374558,
+        "resource_state": 2,
+        "name": "La double voie",
+        "activity_type": "Ride",
+        "distance": 1116.3,
+        "average_grade": -5.0,
+        "maximum_grade": -2.9,
+        "elevation_high": 1408.4,
+        "elevation_low": 1352.8,
+        "start_latlng": [
+          42.594901,
+          1.807084
+        ],
+        "end_latlng": [
+          42.603897,
+          1.812814
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "L'Hospitalet-pr\u00e9s-l'Andorre",
+        "state": "Occitanie",
+        "country": "France",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    }
+  ],
+  "splits_metric": [
+    {
+      "distance": 1003.9,
+      "elapsed_time": 171,
+      "elevation_difference": 7.6,
+      "moving_time": 171,
+      "split": 1,
+      "average_speed": 5.87,
+      "average_grade_adjusted_speed": 6.03,
+      "pace_zone": 0
+    },
+    {
+      "distance": 998.7,
+      "elapsed_time": 262,
+      "elevation_difference": 27.5,
+      "moving_time": 262,
+      "split": 2,
+      "average_speed": 3.81,
+      "average_grade_adjusted_speed": 4.17,
+      "pace_zone": 0
+    },
+    {
+      "distance": 997.4,
+      "elapsed_time": 386,
+      "elevation_difference": 52.5,
+      "moving_time": 382,
+      "split": 3,
+      "average_speed": 2.61,
+      "average_grade_adjusted_speed": 3.16,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1001.2,
+      "elapsed_time": 459,
+      "elevation_difference": 73.3,
+      "moving_time": 459,
+      "split": 4,
+      "average_speed": 2.18,
+      "average_grade_adjusted_speed": 2.86,
+      "pace_zone": 0
+    },
+    {
+      "distance": 999.2,
+      "elapsed_time": 482,
+      "elevation_difference": 70.7,
+      "moving_time": 482,
+      "split": 5,
+      "average_speed": 2.07,
+      "average_grade_adjusted_speed": 2.68,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1000.2,
+      "elapsed_time": 502,
+      "elevation_difference": 75.1,
+      "moving_time": 502,
+      "split": 6,
+      "average_speed": 1.99,
+      "average_grade_adjusted_speed": 2.62,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1001.8,
+      "elapsed_time": 561,
+      "elevation_difference": 71.1,
+      "moving_time": 470,
+      "split": 7,
+      "average_speed": 2.13,
+      "average_grade_adjusted_speed": 2.75,
+      "pace_zone": 0
+    },
+    {
+      "distance": 998.6,
+      "elapsed_time": 575,
+      "elevation_difference": 72.9,
+      "moving_time": 472,
+      "split": 8,
+      "average_speed": 2.12,
+      "average_grade_adjusted_speed": 2.75,
+      "pace_zone": 0
+    },
+    {
+      "distance": 999.8,
+      "elapsed_time": 457,
+      "elevation_difference": 66.2,
+      "moving_time": 457,
+      "split": 9,
+      "average_speed": 2.19,
+      "average_grade_adjusted_speed": 2.76,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1000.4,
+      "elapsed_time": 674,
+      "elevation_difference": 67.9,
+      "moving_time": 461,
+      "split": 10,
+      "average_speed": 2.17,
+      "average_grade_adjusted_speed": 2.79,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1001.0,
+      "elapsed_time": 430,
+      "elevation_difference": 66.2,
+      "moving_time": 430,
+      "split": 11,
+      "average_speed": 2.33,
+      "average_grade_adjusted_speed": 2.93,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1000.1,
+      "elapsed_time": 425,
+      "elevation_difference": 82.2,
+      "moving_time": 425,
+      "split": 12,
+      "average_speed": 2.35,
+      "average_grade_adjusted_speed": 3.19,
+      "pace_zone": 0
+    },
+    {
+      "distance": 997.7,
+      "elapsed_time": 667,
+      "elevation_difference": -15.8,
+      "moving_time": 244,
+      "split": 13,
+      "average_speed": 4.09,
+      "average_grade_adjusted_speed": 4.39,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1001.5,
+      "elapsed_time": 213,
+      "elevation_difference": -21.3,
+      "moving_time": 201,
+      "split": 14,
+      "average_speed": 4.98,
+      "average_grade_adjusted_speed": 4.97,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1006.4,
+      "elapsed_time": 1842,
+      "elevation_difference": 13.4,
+      "moving_time": 278,
+      "split": 15,
+      "average_speed": 3.62,
+      "average_grade_adjusted_speed": 3.93,
+      "pace_zone": 0
+    },
+    {
+      "distance": 992.5,
+      "elapsed_time": 99,
+      "elevation_difference": -67.0,
+      "moving_time": 99,
+      "split": 16,
+      "average_speed": 10.03,
+      "average_grade_adjusted_speed": 9.07,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1003.3,
+      "elapsed_time": 564,
+      "elevation_difference": -54.5,
+      "moving_time": 122,
+      "split": 17,
+      "average_speed": 8.22,
+      "average_grade_adjusted_speed": 7.45,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1004.6,
+      "elapsed_time": 100,
+      "elevation_difference": -62.7,
+      "moving_time": 100,
+      "split": 18,
+      "average_speed": 10.05,
+      "average_grade_adjusted_speed": 8.99,
+      "pace_zone": 0
+    },
+    {
+      "distance": 993.6,
+      "elapsed_time": 102,
+      "elevation_difference": -61.0,
+      "moving_time": 102,
+      "split": 19,
+      "average_speed": 9.74,
+      "average_grade_adjusted_speed": 9.27,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1008.8,
+      "elapsed_time": 105,
+      "elevation_difference": -78.8,
+      "moving_time": 105,
+      "split": 20,
+      "average_speed": 9.61,
+      "average_grade_adjusted_speed": 8.52,
+      "pace_zone": 0
+    },
+    {
+      "distance": 990.5,
+      "elapsed_time": 81,
+      "elevation_difference": -65.8,
+      "moving_time": 81,
+      "split": 21,
+      "average_speed": 12.23,
+      "average_grade_adjusted_speed": 11.17,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1003.5,
+      "elapsed_time": 1277,
+      "elevation_difference": -12.8,
+      "moving_time": 178,
+      "split": 22,
+      "average_speed": 5.64,
+      "average_grade_adjusted_speed": 5.7,
+      "pace_zone": 0
+    },
+    {
+      "distance": 999.6,
+      "elapsed_time": 215,
+      "elevation_difference": 29.7,
+      "moving_time": 215,
+      "split": 23,
+      "average_speed": 4.65,
+      "average_grade_adjusted_speed": 5.12,
+      "pace_zone": 0
+    },
+    {
+      "distance": 996.4,
+      "elapsed_time": 245,
+      "elevation_difference": 23.2,
+      "moving_time": 245,
+      "split": 24,
+      "average_speed": 4.07,
+      "average_grade_adjusted_speed": 4.39,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1003.0,
+      "elapsed_time": 345,
+      "elevation_difference": 45.8,
+      "moving_time": 345,
+      "split": 25,
+      "average_speed": 2.91,
+      "average_grade_adjusted_speed": 3.47,
+      "pace_zone": 0
+    },
+    {
+      "distance": 999.2,
+      "elapsed_time": 288,
+      "elevation_difference": 36.2,
+      "moving_time": 288,
+      "split": 26,
+      "average_speed": 3.47,
+      "average_grade_adjusted_speed": 4.15,
+      "pace_zone": 0
+    },
+    {
+      "distance": 999.1,
+      "elapsed_time": 315,
+      "elevation_difference": 40.0,
+      "moving_time": 315,
+      "split": 27,
+      "average_speed": 3.17,
+      "average_grade_adjusted_speed": 3.65,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1001.1,
+      "elapsed_time": 305,
+      "elevation_difference": 41.7,
+      "moving_time": 305,
+      "split": 28,
+      "average_speed": 3.28,
+      "average_grade_adjusted_speed": 3.84,
+      "pace_zone": 0
+    },
+    {
+      "distance": 998.0,
+      "elapsed_time": 439,
+      "elevation_difference": 67.6,
+      "moving_time": 439,
+      "split": 29,
+      "average_speed": 2.27,
+      "average_grade_adjusted_speed": 2.98,
+      "pace_zone": 0
+    },
+    {
+      "distance": 999.2,
+      "elapsed_time": 377,
+      "elevation_difference": 50.8,
+      "moving_time": 377,
+      "split": 30,
+      "average_speed": 2.65,
+      "average_grade_adjusted_speed": 3.16,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1001.0,
+      "elapsed_time": 413,
+      "elevation_difference": 70.2,
+      "moving_time": 413,
+      "split": 31,
+      "average_speed": 2.42,
+      "average_grade_adjusted_speed": 3.11,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1001.9,
+      "elapsed_time": 399,
+      "elevation_difference": 61.5,
+      "moving_time": 399,
+      "split": 32,
+      "average_speed": 2.51,
+      "average_grade_adjusted_speed": 3.12,
+      "pace_zone": 0
+    },
+    {
+      "distance": 997.3,
+      "elapsed_time": 306,
+      "elevation_difference": 36.3,
+      "moving_time": 306,
+      "split": 33,
+      "average_speed": 3.26,
+      "average_grade_adjusted_speed": 3.69,
+      "pace_zone": 0
+    },
+    {
+      "distance": 999.6,
+      "elapsed_time": 1534,
+      "elevation_difference": 74.1,
+      "moving_time": 452,
+      "split": 34,
+      "average_speed": 2.21,
+      "average_grade_adjusted_speed": 2.89,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1001.9,
+      "elapsed_time": 401,
+      "elevation_difference": 65.1,
+      "moving_time": 401,
+      "split": 35,
+      "average_speed": 2.5,
+      "average_grade_adjusted_speed": 3.14,
+      "pace_zone": 0
+    },
+    {
+      "distance": 998.8,
+      "elapsed_time": 398,
+      "elevation_difference": 65.8,
+      "moving_time": 398,
+      "split": 36,
+      "average_speed": 2.51,
+      "average_grade_adjusted_speed": 3.17,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1001.4,
+      "elapsed_time": 406,
+      "elevation_difference": 68.2,
+      "moving_time": 406,
+      "split": 37,
+      "average_speed": 2.47,
+      "average_grade_adjusted_speed": 3.15,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1000.4,
+      "elapsed_time": 443,
+      "elevation_difference": 70.2,
+      "moving_time": 387,
+      "split": 38,
+      "average_speed": 2.59,
+      "average_grade_adjusted_speed": 3.33,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1003.0,
+      "elapsed_time": 932,
+      "elevation_difference": -55.9,
+      "moving_time": 173,
+      "split": 39,
+      "average_speed": 5.8,
+      "average_grade_adjusted_speed": 5.79,
+      "pace_zone": 0
+    },
+    {
+      "distance": 998.5,
+      "elapsed_time": 121,
+      "elevation_difference": -63.7,
+      "moving_time": 121,
+      "split": 40,
+      "average_speed": 8.25,
+      "average_grade_adjusted_speed": 7.57,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1005.5,
+      "elapsed_time": 92,
+      "elevation_difference": -64.9,
+      "moving_time": 92,
+      "split": 41,
+      "average_speed": 10.93,
+      "average_grade_adjusted_speed": 9.9,
+      "pace_zone": 0
+    },
+    {
+      "distance": 992.4,
+      "elapsed_time": 71,
+      "elevation_difference": -66.0,
+      "moving_time": 71,
+      "split": 42,
+      "average_speed": 13.98,
+      "average_grade_adjusted_speed": 12.6,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1004.6,
+      "elapsed_time": 540,
+      "elevation_difference": -41.8,
+      "moving_time": 224,
+      "split": 43,
+      "average_speed": 4.48,
+      "average_grade_adjusted_speed": 5.18,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1002.3,
+      "elapsed_time": 114,
+      "elevation_difference": -52.3,
+      "moving_time": 114,
+      "split": 44,
+      "average_speed": 8.79,
+      "average_grade_adjusted_speed": 8.47,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1003.2,
+      "elapsed_time": 85,
+      "elevation_difference": -52.7,
+      "moving_time": 85,
+      "split": 45,
+      "average_speed": 11.8,
+      "average_grade_adjusted_speed": 10.92,
+      "pace_zone": 0
+    },
+    {
+      "distance": 998.2,
+      "elapsed_time": 72,
+      "elevation_difference": -48.5,
+      "moving_time": 72,
+      "split": 46,
+      "average_speed": 13.86,
+      "average_grade_adjusted_speed": 12.56,
+      "pace_zone": 0
+    },
+    {
+      "distance": 992.9,
+      "elapsed_time": 165,
+      "elevation_difference": -50.9,
+      "moving_time": 150,
+      "split": 47,
+      "average_speed": 6.62,
+      "average_grade_adjusted_speed": 6.32,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1003.9,
+      "elapsed_time": 83,
+      "elevation_difference": -51.7,
+      "moving_time": 83,
+      "split": 48,
+      "average_speed": 12.1,
+      "average_grade_adjusted_speed": 11.0,
+      "pace_zone": 0
+    },
+    {
+      "distance": 997.4,
+      "elapsed_time": 87,
+      "elevation_difference": -63.1,
+      "moving_time": 87,
+      "split": 49,
+      "average_speed": 11.46,
+      "average_grade_adjusted_speed": 10.27,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1001.2,
+      "elapsed_time": 96,
+      "elevation_difference": -55.5,
+      "moving_time": 96,
+      "split": 50,
+      "average_speed": 10.43,
+      "average_grade_adjusted_speed": 9.37,
+      "pace_zone": 0
+    },
+    {
+      "distance": 997.0,
+      "elapsed_time": 96,
+      "elevation_difference": -43.4,
+      "moving_time": 96,
+      "split": 51,
+      "average_speed": 10.39,
+      "average_grade_adjusted_speed": 9.51,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1005.4,
+      "elapsed_time": 90,
+      "elevation_difference": -52.8,
+      "moving_time": 90,
+      "split": 52,
+      "average_speed": 11.17,
+      "average_grade_adjusted_speed": 10.14,
+      "pace_zone": 0
+    },
+    {
+      "distance": 999.4,
+      "elapsed_time": 252,
+      "elevation_difference": -52.1,
+      "moving_time": 105,
+      "split": 53,
+      "average_speed": 9.52,
+      "average_grade_adjusted_speed": 8.62,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1000.2,
+      "elapsed_time": 89,
+      "elevation_difference": -45.5,
+      "moving_time": 89,
+      "split": 54,
+      "average_speed": 11.24,
+      "average_grade_adjusted_speed": 10.31,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1003.9,
+      "elapsed_time": 103,
+      "elevation_difference": -34.6,
+      "moving_time": 103,
+      "split": 55,
+      "average_speed": 9.75,
+      "average_grade_adjusted_speed": 9.08,
+      "pace_zone": 0
+    },
+    {
+      "distance": 993.0,
+      "elapsed_time": 91,
+      "elevation_difference": -51.2,
+      "moving_time": 91,
+      "split": 56,
+      "average_speed": 10.91,
+      "average_grade_adjusted_speed": 9.87,
+      "pace_zone": 0
+    },
+    {
+      "distance": 997.8,
+      "elapsed_time": 109,
+      "elevation_difference": -39.6,
+      "moving_time": 109,
+      "split": 57,
+      "average_speed": 9.15,
+      "average_grade_adjusted_speed": 8.56,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1010.7,
+      "elapsed_time": 93,
+      "elevation_difference": -57.6,
+      "moving_time": 93,
+      "split": 58,
+      "average_speed": 10.87,
+      "average_grade_adjusted_speed": 10.02,
+      "pace_zone": 0
+    },
+    {
+      "distance": 992.9,
+      "elapsed_time": 76,
+      "elevation_difference": -39.5,
+      "moving_time": 76,
+      "split": 59,
+      "average_speed": 13.06,
+      "average_grade_adjusted_speed": 12.03,
+      "pace_zone": 0
+    },
+    {
+      "distance": 996.1,
+      "elapsed_time": 86,
+      "elevation_difference": -45.7,
+      "moving_time": 86,
+      "split": 60,
+      "average_speed": 11.58,
+      "average_grade_adjusted_speed": 10.56,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1000.4,
+      "elapsed_time": 134,
+      "elevation_difference": -33.2,
+      "moving_time": 124,
+      "split": 61,
+      "average_speed": 8.07,
+      "average_grade_adjusted_speed": 7.53,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1005.7,
+      "elapsed_time": 102,
+      "elevation_difference": -39.6,
+      "moving_time": 102,
+      "split": 62,
+      "average_speed": 9.86,
+      "average_grade_adjusted_speed": 9.08,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1000.2,
+      "elapsed_time": 97,
+      "elevation_difference": -35.4,
+      "moving_time": 97,
+      "split": 63,
+      "average_speed": 10.31,
+      "average_grade_adjusted_speed": 9.58,
+      "pace_zone": 0
+    },
+    {
+      "distance": 995.1,
+      "elapsed_time": 103,
+      "elevation_difference": -38.4,
+      "moving_time": 103,
+      "split": 64,
+      "average_speed": 9.66,
+      "average_grade_adjusted_speed": 8.96,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1002.2,
+      "elapsed_time": 116,
+      "elevation_difference": -28.2,
+      "moving_time": 116,
+      "split": 65,
+      "average_speed": 8.64,
+      "average_grade_adjusted_speed": 8.17,
+      "pace_zone": 0
+    },
+    {
+      "distance": 994.5,
+      "elapsed_time": 122,
+      "elevation_difference": -29.7,
+      "moving_time": 122,
+      "split": 66,
+      "average_speed": 8.15,
+      "average_grade_adjusted_speed": 7.68,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1004.2,
+      "elapsed_time": 1230,
+      "elevation_difference": -27.1,
+      "moving_time": 147,
+      "split": 67,
+      "average_speed": 6.83,
+      "average_grade_adjusted_speed": 6.5,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1002.1,
+      "elapsed_time": 109,
+      "elevation_difference": -41.8,
+      "moving_time": 109,
+      "split": 68,
+      "average_speed": 9.19,
+      "average_grade_adjusted_speed": 8.47,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1000.6,
+      "elapsed_time": 100,
+      "elevation_difference": -37.9,
+      "moving_time": 100,
+      "split": 69,
+      "average_speed": 10.01,
+      "average_grade_adjusted_speed": 9.25,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1000.5,
+      "elapsed_time": 98,
+      "elevation_difference": -33.4,
+      "moving_time": 98,
+      "split": 70,
+      "average_speed": 10.21,
+      "average_grade_adjusted_speed": 9.56,
+      "pace_zone": 0
+    },
+    {
+      "distance": 999.6,
+      "elapsed_time": 204,
+      "elevation_difference": -50.6,
+      "moving_time": 106,
+      "split": 71,
+      "average_speed": 9.43,
+      "average_grade_adjusted_speed": 8.57,
+      "pace_zone": 0
+    },
+    {
+      "distance": 993.1,
+      "elapsed_time": 91,
+      "elevation_difference": -30.7,
+      "moving_time": 91,
+      "split": 72,
+      "average_speed": 10.91,
+      "average_grade_adjusted_speed": 10.23,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1001.7,
+      "elapsed_time": 112,
+      "elevation_difference": -37.8,
+      "moving_time": 112,
+      "split": 73,
+      "average_speed": 8.94,
+      "average_grade_adjusted_speed": 8.31,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1005.0,
+      "elapsed_time": 317,
+      "elevation_difference": -24.4,
+      "moving_time": 127,
+      "split": 74,
+      "average_speed": 7.91,
+      "average_grade_adjusted_speed": 7.64,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1000.5,
+      "elapsed_time": 121,
+      "elevation_difference": -43.0,
+      "moving_time": 121,
+      "split": 75,
+      "average_speed": 8.27,
+      "average_grade_adjusted_speed": 7.56,
+      "pace_zone": 0
+    },
+    {
+      "distance": 997.7,
+      "elapsed_time": 114,
+      "elevation_difference": -33.9,
+      "moving_time": 114,
+      "split": 76,
+      "average_speed": 8.75,
+      "average_grade_adjusted_speed": 8.17,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1002.5,
+      "elapsed_time": 114,
+      "elevation_difference": -28.5,
+      "moving_time": 114,
+      "split": 77,
+      "average_speed": 8.79,
+      "average_grade_adjusted_speed": 8.29,
+      "pace_zone": 0
+    },
+    {
+      "distance": 994.8,
+      "elapsed_time": 1620,
+      "elevation_difference": 7.7,
+      "moving_time": 219,
+      "split": 78,
+      "average_speed": 4.54,
+      "average_grade_adjusted_speed": 4.69,
+      "pace_zone": 0
+    },
+    {
+      "distance": 999.4,
+      "elapsed_time": 300,
+      "elevation_difference": -8.3,
+      "moving_time": 219,
+      "split": 79,
+      "average_speed": 4.56,
+      "average_grade_adjusted_speed": 4.5,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1002.9,
+      "elapsed_time": 250,
+      "elevation_difference": -10.8,
+      "moving_time": 250,
+      "split": 80,
+      "average_speed": 4.01,
+      "average_grade_adjusted_speed": 3.98,
+      "pace_zone": 0
+    },
+    {
+      "distance": 996.1,
+      "elapsed_time": 226,
+      "elevation_difference": -12.9,
+      "moving_time": 226,
+      "split": 81,
+      "average_speed": 4.41,
+      "average_grade_adjusted_speed": 4.48,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1001.0,
+      "elapsed_time": 369,
+      "elevation_difference": 17.7,
+      "moving_time": 265,
+      "split": 82,
+      "average_speed": 3.78,
+      "average_grade_adjusted_speed": 4.09,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1007.0,
+      "elapsed_time": 127,
+      "elevation_difference": -39.3,
+      "moving_time": 127,
+      "split": 83,
+      "average_speed": 7.93,
+      "average_grade_adjusted_speed": 7.47,
+      "pace_zone": 0
+    },
+    {
+      "distance": 992.2,
+      "elapsed_time": 116,
+      "elevation_difference": -10.9,
+      "moving_time": 116,
+      "split": 84,
+      "average_speed": 8.55,
+      "average_grade_adjusted_speed": 8.47,
+      "pace_zone": 0
+    },
+    {
+      "distance": 427.0,
+      "elapsed_time": 759,
+      "elevation_difference": 17.5,
+      "moving_time": 206,
+      "split": 85,
+      "average_speed": 2.07,
+      "average_grade_adjusted_speed": 2.48,
+      "pace_zone": 0
+    }
+  ],
+  "splits_standard": [
+    {
+      "distance": 1610.6,
+      "elapsed_time": 322,
+      "elevation_difference": 22.6,
+      "moving_time": 322,
+      "split": 1,
+      "average_speed": 5.0,
+      "average_grade_adjusted_speed": 5.25,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1609.6,
+      "elapsed_time": 599,
+      "elevation_difference": 82.5,
+      "moving_time": 595,
+      "split": 2,
+      "average_speed": 2.71,
+      "average_grade_adjusted_speed": 3.26,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1608.9,
+      "elapsed_time": 750,
+      "elevation_difference": 111.0,
+      "moving_time": 750,
+      "split": 3,
+      "average_speed": 2.15,
+      "average_grade_adjusted_speed": 2.76,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1610.3,
+      "elapsed_time": 809,
+      "elevation_difference": 124.0,
+      "moving_time": 809,
+      "split": 4,
+      "average_speed": 1.99,
+      "average_grade_adjusted_speed": 2.64,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1608.9,
+      "elapsed_time": 941,
+      "elevation_difference": 113.5,
+      "moving_time": 747,
+      "split": 5,
+      "average_speed": 2.15,
+      "average_grade_adjusted_speed": 2.77,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1609.2,
+      "elapsed_time": 955,
+      "elevation_difference": 110.0,
+      "moving_time": 742,
+      "split": 6,
+      "average_speed": 2.17,
+      "average_grade_adjusted_speed": 2.78,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1609.5,
+      "elapsed_time": 692,
+      "elevation_difference": 104.3,
+      "moving_time": 692,
+      "split": 7,
+      "average_speed": 2.33,
+      "average_grade_adjusted_speed": 2.92,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1610.4,
+      "elapsed_time": 971,
+      "elevation_difference": 56.8,
+      "moving_time": 548,
+      "split": 8,
+      "average_speed": 2.94,
+      "average_grade_adjusted_speed": 3.62,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1607.6,
+      "elapsed_time": 358,
+      "elevation_difference": -13.9,
+      "moving_time": 346,
+      "split": 9,
+      "average_speed": 4.65,
+      "average_grade_adjusted_speed": 4.73,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1608.7,
+      "elapsed_time": 1821,
+      "elevation_difference": -69.6,
+      "moving_time": 257,
+      "split": 10,
+      "average_speed": 6.26,
+      "average_grade_adjusted_speed": 6.03,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1614.4,
+      "elapsed_time": 627,
+      "elevation_difference": -94.6,
+      "moving_time": 185,
+      "split": 11,
+      "average_speed": 8.73,
+      "average_grade_adjusted_speed": 7.83,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1604.4,
+      "elapsed_time": 159,
+      "elevation_difference": -107.1,
+      "moving_time": 159,
+      "split": 12,
+      "average_speed": 10.09,
+      "average_grade_adjusted_speed": 9.35,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1622.3,
+      "elapsed_time": 148,
+      "elevation_difference": -114.9,
+      "moving_time": 148,
+      "split": 13,
+      "average_speed": 10.96,
+      "average_grade_adjusted_speed": 9.91,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1596.7,
+      "elapsed_time": 1394,
+      "elevation_difference": -2.1,
+      "moving_time": 295,
+      "split": 14,
+      "average_speed": 5.41,
+      "average_grade_adjusted_speed": 5.6,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1609.9,
+      "elapsed_time": 396,
+      "elevation_difference": 42.5,
+      "moving_time": 396,
+      "split": 15,
+      "average_speed": 4.07,
+      "average_grade_adjusted_speed": 4.43,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1609.9,
+      "elapsed_time": 512,
+      "elevation_difference": 57.5,
+      "moving_time": 512,
+      "split": 16,
+      "average_speed": 3.14,
+      "average_grade_adjusted_speed": 3.63,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1608.7,
+      "elapsed_time": 503,
+      "elevation_difference": 77.3,
+      "moving_time": 503,
+      "split": 17,
+      "average_speed": 3.2,
+      "average_grade_adjusted_speed": 3.92,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1610.1,
+      "elapsed_time": 616,
+      "elevation_difference": 89.9,
+      "moving_time": 616,
+      "split": 18,
+      "average_speed": 2.61,
+      "average_grade_adjusted_speed": 3.24,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1607.9,
+      "elapsed_time": 625,
+      "elevation_difference": 92.1,
+      "moving_time": 625,
+      "split": 19,
+      "average_speed": 2.57,
+      "average_grade_adjusted_speed": 3.14,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1609.2,
+      "elapsed_time": 626,
+      "elevation_difference": 95.1,
+      "moving_time": 626,
+      "split": 20,
+      "average_speed": 2.57,
+      "average_grade_adjusted_speed": 3.17,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1610.4,
+      "elapsed_time": 1709,
+      "elevation_difference": 93.7,
+      "moving_time": 627,
+      "split": 21,
+      "average_speed": 2.57,
+      "average_grade_adjusted_speed": 3.16,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1609.4,
+      "elapsed_time": 644,
+      "elevation_difference": 106.1,
+      "moving_time": 644,
+      "split": 22,
+      "average_speed": 2.5,
+      "average_grade_adjusted_speed": 3.16,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1610.2,
+      "elapsed_time": 648,
+      "elevation_difference": 107.2,
+      "moving_time": 648,
+      "split": 23,
+      "average_speed": 2.48,
+      "average_grade_adjusted_speed": 3.15,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1615.7,
+      "elapsed_time": 1076,
+      "elevation_difference": 37.4,
+      "moving_time": 494,
+      "split": 24,
+      "average_speed": 3.27,
+      "average_grade_adjusted_speed": 3.93,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1606.7,
+      "elapsed_time": 440,
+      "elevation_difference": -98.7,
+      "moving_time": 207,
+      "split": 25,
+      "average_speed": 7.76,
+      "average_grade_adjusted_speed": 7.07,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1607.5,
+      "elapsed_time": 124,
+      "elevation_difference": -117.1,
+      "moving_time": 124,
+      "split": 26,
+      "average_speed": 12.96,
+      "average_grade_adjusted_speed": 11.61,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1609.4,
+      "elapsed_time": 613,
+      "elevation_difference": -57.4,
+      "moving_time": 297,
+      "split": 27,
+      "average_speed": 5.42,
+      "average_grade_adjusted_speed": 6.0,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1618.5,
+      "elapsed_time": 144,
+      "elevation_difference": -95.3,
+      "moving_time": 144,
+      "split": 28,
+      "average_speed": 11.24,
+      "average_grade_adjusted_speed": 10.28,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1604.2,
+      "elapsed_time": 154,
+      "elevation_difference": -80.8,
+      "moving_time": 154,
+      "split": 29,
+      "average_speed": 10.42,
+      "average_grade_adjusted_speed": 9.74,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1608.2,
+      "elapsed_time": 185,
+      "elevation_difference": -85.0,
+      "moving_time": 170,
+      "split": 30,
+      "average_speed": 9.46,
+      "average_grade_adjusted_speed": 8.57,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1612.1,
+      "elapsed_time": 151,
+      "elevation_difference": -95.3,
+      "moving_time": 151,
+      "split": 31,
+      "average_speed": 10.68,
+      "average_grade_adjusted_speed": 9.59,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1600.7,
+      "elapsed_time": 149,
+      "elevation_difference": -74.7,
+      "moving_time": 149,
+      "split": 32,
+      "average_speed": 10.74,
+      "average_grade_adjusted_speed": 9.77,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1614.8,
+      "elapsed_time": 308,
+      "elevation_difference": -85.5,
+      "moving_time": 161,
+      "split": 33,
+      "average_speed": 10.03,
+      "average_grade_adjusted_speed": 9.1,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1611.1,
+      "elapsed_time": 158,
+      "elevation_difference": -60.5,
+      "moving_time": 158,
+      "split": 34,
+      "average_speed": 10.2,
+      "average_grade_adjusted_speed": 9.48,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1601.6,
+      "elapsed_time": 141,
+      "elevation_difference": -75.9,
+      "moving_time": 141,
+      "split": 35,
+      "average_speed": 11.36,
+      "average_grade_adjusted_speed": 10.34,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1616.7,
+      "elapsed_time": 171,
+      "elevation_difference": -82.2,
+      "moving_time": 171,
+      "split": 36,
+      "average_speed": 9.45,
+      "average_grade_adjusted_speed": 8.79,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1604.7,
+      "elapsed_time": 125,
+      "elevation_difference": -71.2,
+      "moving_time": 125,
+      "split": 37,
+      "average_speed": 12.84,
+      "average_grade_adjusted_speed": 11.73,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1612.7,
+      "elapsed_time": 194,
+      "elevation_difference": -54.3,
+      "moving_time": 184,
+      "split": 38,
+      "average_speed": 8.76,
+      "average_grade_adjusted_speed": 8.17,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1603.7,
+      "elapsed_time": 155,
+      "elevation_difference": -64.8,
+      "moving_time": 155,
+      "split": 39,
+      "average_speed": 10.35,
+      "average_grade_adjusted_speed": 9.5,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1615.2,
+      "elapsed_time": 170,
+      "elevation_difference": -59.3,
+      "moving_time": 170,
+      "split": 40,
+      "average_speed": 9.5,
+      "average_grade_adjusted_speed": 8.84,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1603.7,
+      "elapsed_time": 195,
+      "elevation_difference": -43.2,
+      "moving_time": 195,
+      "split": 41,
+      "average_speed": 8.22,
+      "average_grade_adjusted_speed": 7.8,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1618.0,
+      "elapsed_time": 1303,
+      "elevation_difference": -46.7,
+      "moving_time": 220,
+      "split": 42,
+      "average_speed": 7.35,
+      "average_grade_adjusted_speed": 6.96,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1604.2,
+      "elapsed_time": 161,
+      "elevation_difference": -66.9,
+      "moving_time": 161,
+      "split": 43,
+      "average_speed": 9.96,
+      "average_grade_adjusted_speed": 9.15,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1610.7,
+      "elapsed_time": 261,
+      "elevation_difference": -71.1,
+      "moving_time": 163,
+      "split": 44,
+      "average_speed": 9.88,
+      "average_grade_adjusted_speed": 9.1,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1604.0,
+      "elapsed_time": 153,
+      "elevation_difference": -55.3,
+      "moving_time": 153,
+      "split": 45,
+      "average_speed": 10.48,
+      "average_grade_adjusted_speed": 9.77,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1611.8,
+      "elapsed_time": 388,
+      "elevation_difference": -44.7,
+      "moving_time": 198,
+      "split": 46,
+      "average_speed": 8.14,
+      "average_grade_adjusted_speed": 7.77,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1611.0,
+      "elapsed_time": 187,
+      "elevation_difference": -68.3,
+      "moving_time": 187,
+      "split": 47,
+      "average_speed": 8.61,
+      "average_grade_adjusted_speed": 7.89,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1605.4,
+      "elapsed_time": 196,
+      "elevation_difference": -35.7,
+      "moving_time": 196,
+      "split": 48,
+      "average_speed": 8.19,
+      "average_grade_adjusted_speed": 7.84,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1613.0,
+      "elapsed_time": 1855,
+      "elevation_difference": -1.7,
+      "moving_time": 373,
+      "split": 49,
+      "average_speed": 4.32,
+      "average_grade_adjusted_speed": 4.36,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1606.0,
+      "elapsed_time": 416,
+      "elevation_difference": -3.0,
+      "moving_time": 416,
+      "split": 50,
+      "average_speed": 3.86,
+      "average_grade_adjusted_speed": 3.94,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1610.2,
+      "elapsed_time": 473,
+      "elevation_difference": -1.0,
+      "moving_time": 369,
+      "split": 51,
+      "average_speed": 4.36,
+      "average_grade_adjusted_speed": 4.54,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1612.0,
+      "elapsed_time": 173,
+      "elevation_difference": -60.1,
+      "moving_time": 173,
+      "split": 52,
+      "average_speed": 9.32,
+      "average_grade_adjusted_speed": 8.75,
+      "pace_zone": 0
+    },
+    {
+      "distance": 737.4,
+      "elapsed_time": 813,
+      "elevation_difference": 25.8,
+      "moving_time": 260,
+      "split": 53,
+      "average_speed": 2.84,
+      "average_grade_adjusted_speed": 3.26,
+      "pace_zone": 0
+    }
+  ],
+  "laps": [
+    {
+      "id": 52248792774,
+      "resource_state": 2,
+      "name": "Lap 1",
+      "activity": {
+        "id": 14694556232,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 27857,
+      "moving_time": 18011,
+      "start_date": "2025-06-04T06:58:17Z",
+      "start_date_local": "2025-06-04T08:58:17Z",
+      "distance": 84444.0,
+      "average_speed": 4.69,
+      "max_speed": 16.84,
+      "lap_index": 1,
+      "split": 1,
+      "start_index": 0,
+      "end_index": 18011,
+      "total_elevation_gain": 1809.7,
+      "device_watts": false,
+      "average_watts": 116.7
+    }
+  ],
+  "gear": {
+    "id": "b11943195",
+    "primary": false,
+    "name": "Betty",
+    "nickname": "Betty",
+    "resource_state": 2,
+    "retired": false,
+    "distance": 12373192,
+    "converted_distance": 12373.2
+  },
+  "photos": {
+    "primary": {
+      "unique_id": "608bcedc-5ebe-4b2c-9673-a4f505eb780e",
+      "urls": {
+        "600": "https://dgtzuqphqg23d.cloudfront.net/nQLU4lsJHsKokoeXF25LNQ0wFMnYSYS10gfE1TD2678-576x768.jpg",
+        "100": "https://dgtzuqphqg23d.cloudfront.net/nQLU4lsJHsKokoeXF25LNQ0wFMnYSYS10gfE1TD2678-96x128.jpg"
+      },
+      "source": 1,
+      "media_type": 1
+    },
+    "use_primary_photo": false,
+    "count": 8
+  },
+  "stats_visibility": [
+    {
+      "type": "heart_rate",
+      "visibility": "everyone"
+    },
+    {
+      "type": "pace",
+      "visibility": "everyone"
+    },
+    {
+      "type": "power",
+      "visibility": "everyone"
+    },
+    {
+      "type": "speed",
+      "visibility": "everyone"
+    },
+    {
+      "type": "calories",
+      "visibility": "everyone"
+    }
+  ],
+  "hide_from_home": false,
+  "embed_token": "b7fb57058fd421c9d6df2ce34b458a37fdf78245",
+  "available_zones": [
+    "power"
+  ]
+}

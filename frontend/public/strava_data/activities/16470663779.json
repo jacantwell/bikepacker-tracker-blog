@@ -1,0 +1,3005 @@
+{
+  "resource_state": 3,
+  "athlete": {
+    "id": 49023768,
+    "resource_state": 1
+  },
+  "name": "Bardiya National Park",
+  "distance": 173052.0,
+  "moving_time": 23997,
+  "elapsed_time": 35460,
+  "total_elevation_gain": 417.0,
+  "type": "Ride",
+  "sport_type": "Ride",
+  "workout_type": null,
+  "device_name": "Garmin Edge 540",
+  "id": 16470663779,
+  "start_date": "2025-11-15T02:07:03Z",
+  "start_date_local": "2025-11-15T07:52:03Z",
+  "timezone": "(GMT+05:45) Asia/Kathmandu",
+  "utc_offset": 20700.0,
+  "location_city": null,
+  "location_state": null,
+  "location_country": null,
+  "achievement_count": 0,
+  "kudos_count": 11,
+  "comment_count": 1,
+  "athlete_count": 1,
+  "photo_count": 0,
+  "map": {
+    "id": "a16470663779",
+    "polyline": "}vyoDk|jhNJg@h@iBNaAZcAx@}Dz@oDl@uBp@gDdAgEdA{Ev@}Cl@oC~@wD@MJ_@p@wCbAoDzB_Kp@gCtA}Fr@gDd@uAj@sCbAkELg@Tq@hA{E^sB~CkNTu@VaBRu@ReAxAwG^qAxAcH\\uAdBgIXcAp@_DpAeFlAmFf@iC|@_En@mCRw@Jk@t@kDvEyS~A{H`AyDtCiMf@sBzCcNp@mCl@sCtBaJp@}C`GsWzAgG|CgNNu@|@oD~CgNfAoEd@iBLy@X}ANyAFyABwAAkIBgDE_HDuCAiUBkWCiF@eBH_DJsAn@mEjA{El@cB\\w@hA{Bv@mAtAiBh@g@\\a@vAuB~Xk^rJeMfBeCbBqBxFqHnA{A|BaDnAiBbAiBTi@jAeDr@gCr@gELmBJy@DoEMoDGy@gAgLSyDAcCHoD\\qDh@aDr@mCh@aBn@}Ad@aA`AcBbByBjBoBpN_L`CiBbA{@h@k@~@mAn@iAZq@n@gBhGsSha@cuAz@gCbAaCz@aBtAeC`@m@zS}^bAcBl@oAXa@~F}J\\s@vKiRrMkUxCcFbB_DhEmHvEqIdAeBdCgDpIiJrBwBxAcB`J}JtAmB`AyBNg@d@kBPiAH{@PuCAwBGiAgBuR]yEMoDA_BB{C`@oM|@y]TeIFwABeBNmDBgBb@{N?k@\\wM`Aw]XuLH}ANeB\\qB\\oAbAkCxG{Ol@gAb@s@z@eAx@u@|@s@nOeKfFmDhEyCr@m@lAoAfAoAdAyAvA{Bp@wArTqg@nAkCbA_B`AkAd@c@dAy@tAy@xB_BlIuFzHmFxBsAv@o@|B}Aty@sj@pHeFl@c@dAgAr@}@`AcBd@iAlAaDfDiJ|@cBbB{BZ[hBwAvKmIzDuCrAeAnDgCjCuBvCwB~CgCdCeBjC{BtBaCzA{Bz@_B`@}@v@qBhBuG|CiKT}@rHmWzCsKbD{KjB{G`EcNvF_S`BsFp@gCrFkR`AuDvF_SlEeOhH_W^uAn@_Df@mD`BkPtF{g@r@kHfByOp@cEbHuZd@oBlC}Ln@iC\\oAjAwFbAyDpMwk@vBkJZkArT{`AZoAfAyDb@oAjAkCl@kAhAiBrKmOhFiHdDcF|AiC~FsLnAmClCiFtVeg@|BsEj@cAzB{EjGeMfAcCbAcDr@}Cb@wCRwBFgAJkD_@}RKqCQmJa@qNAwBKaDE}DEEEAOFK?NKAICCQAMOBBd@a@He@?m@QuFBUKsBDKH@DDD^Ab@CLFr@KJKA]HHHNBDC@GGyBDk@Gq@?{@C]EkBMk@QYMg@?QDYXkA@_@DCXBFE?mAEg@Aw@CYAe@EOUKCGK_@AW?uAE_BC_@?gAEu@GwDMmEBy@KuBOiGAkCQqHCCk@?l@WCuDKwCCmB_@yPAmCWoJIkFGsAa@cVMyCO_Bk@kEQcBC_ADaAP}@Zy@P[fCsErBkDz@eBhB}CtEuIjEuH|BgEXa@|@cBb@_Ah@oAz@uC|@kD|@cEzDgPXeAhCiMxAeHVaA|Isb@v@iDd@eCzDwQj@uBd@qC`AkE@IEIs@SIA]IG?AB@BLCXHx@JHCHQ`BaInDkP|H{^`@kBRsAVaAd@yAd@gCpEwSnAgG~AcHfBsIbNen@PiAPcBFcDGwBOyAK{@c@qBa@qAYs@y@cBeA{AeMqOyEeGiC{CsAgBc@u@e@y@_@{@o@cBWaA_@kB[aCIwAGsB@eBDcBnDkcAlC_x@RuETsHZwHDqBn@kRf@cNNyAb@cCj@mBh@sAhAsBdAcChCmFrAiC~L_WrEaJh@wAd@aBRgAPsAdA}NzAqRbAoNXcCzD_SXsARs@XoBdA_FlD_RvDeRt@_ElBqJh@uBfAyC~L_WjF{K~CsG`B}CPg@~BaFtUaf@z@uAjAyAbA}@nA}@fRsJ~BiAhBcAj[cPnNoHhAc@h@_@nAq@xTeLfBaA~@o@vAmAl@m@h@q@|@qAt@yAv@mB^oATcAhAuGLiAhAoHhD}SfEiXf@uBp@kBdAqBz@kAbR}TbDsDpQqTb@m@n@eAt@gBd@mBlAwFjAcGh@{ChCkMT}@NcAtFuXl@_DrBaKXqArBuKjAcGv@oD~AmIv@wD`AcFRy@lCeNh@uBd@uClA}FtFeYf@}B\\oBhAsF^mAx@uBzJ}U|KmX`@wAd@yB\\kCrBu]`@uFR}D|@oNh@{GXeCTkCr@sG\\wDb@qDd@aFv@{GjB}Q|A{Mb@cFrAoMJmAbD}ZT_Bd@uFdA_K^{CF{@b@_DdAmGzBgLt@aDrAmElA_DtAaDxAoCbM_SjJoOxA{Bl@iA`D}EnAuBz@mAf@aA~E{H~@aBvD{FfDuFxF{IlJqOV_@b@i@Te@n@gAbDcF|CgF|Q}YnBeDjA_Ch@oAX}@d@gAPo@pAiHPiB`AwIl@uEdCoTLu@FgAPwAnB_PPmBfAgJNgAbAaJzAqLbBmOtIst@`E_^Z}B`@sBx@mDj@sBx@}B`A{Bp@wAtFwKx@sAx@mBfS}`@zD_IxHiOjAuBhB}D|DeIfBcDxBsEzIaQl@sAhBqDfBeD\\y@nEwItEmJfAkBr@mBh@_BV_A^aBb@kCV_D^aHP}DNaBLyCLgB@u@lAiTXcHzBqb@j@yJ@e@XwEb@uFV_Ct@yFbBcLlC{RTqAn@qE|@qFH{@XwBl@wDbAgHZeCfBaLrAaJ|@_HrAkI|@wEfAcF`BqGd@{ATk@To@d@mBpEuMb@{Ah@yAlNob@t@cC`@cBXoCHuBEkCCi@OoAQkAOy@o@yB}@cCqAkEa@cAuBoGQs@iB}Ei@iBOw@a@eCCg@GcBBaDFkAHy@|@aFb@oBz@mE\\{AvA}HfGm[t@aE|@gEr@yD~DgSZmB^cBRoAvDwQhDmQ^_B|DuRzAcIhDmPZmB`GsYTsArEiTh@yCz@kERqAbAoExAkH^eClBkJ^uBbAaFRmAx@gEx@wDd@oC~@gEf@mC~CwOnAyH`AkHJcAl@gEJa@L}A~@sGj@sEl@}DJkAZ{BhDeSpAuGz@_F`BiIXkBdDsPx@}El@sCDKJFG]DYhEyTd@oCJ]`@cCRgANc@n@aET{@tBgLbKei@dAwFBYDID?@@GZ@DR^RLMOSGIM?]Fc@ZyA~CwPR}@hB}Jp@cDv@qENk@zCcPLi@TwAlEiUpAgGjAsEbBsFp@wBDG@@AHW|@HLRNBN?KB?BEGBRNFHAKB`@IKLCIQAFGIB@i@SIE?a@D[fAoCxBcHt@qBZiAv@{Bp@}BVi@Vy@Pw@lA_DJi@d@oAV_ArBmG`AgCt@_CxAkEl@qBVeAVg@dAyCpAqEbAkEh@{CPk@DmAVcC\\sEd@_Ip@kJ?e@`@wFb@yHVoAASEQL_BhA{Qt@iK`@aHVqDFoAjJyxA\\iEL{@@eAFyAZyDTeC`@qC\\{Bx@aEnC_MX}@PcA~@gE`G_W|CkNd@kB~@gEvAeGr@sDr@iE`@wDdAwKvCu\\NeAFiAn@mHxA_Pb@mFDkA@{BEkAMcBSaBc@yBo@qB]{@yf@_eAw@cBqEmJ}G}Non@mrAeEsJmYor@c@kAmByEwA_Dq@uAgAgB{BeD_CaDeBeC[_@[i@m@{@KWgBuBiAcBaBwBaBeCw@cA@GPDLEJQFAJOy@l@U]aC}CiBkCUe@Ou@?SLy@J[P]^Wz@aAZe@b@e@^k@JIdAoA\\c@JUZ[j@u@n@w@x@iAl@o@|CaEz@cAf@s@d@a@ZMb@It@?RBr@XvGpDbBt@jCdAzRrJ|PdIb@R@FVLVJJ@DBt@Zp@\\lGxCdBf@r@JfAJlDNty@bCjA?~AKv@OzA]nAe@|@a@h@]bAu@jAkAj@w@j@y@l@oAr@mBd@oBRyAjBgPZcBx@mCjAaCn@}@\\[lAsA^]r@g@t@c@~g@oUrBcAv@c@pEwClKcI~B_BhDuBlDmBlcA{f@fCaAf`Bu_@t@SddBux@f@Mty@eWL[fBgDt@}@f@g@|@s@rBiA`Bm@~@QrAOxBElFBhKN|~@yGtQkAJ@XETB\\?`@CL@p@EnBBlDPd@FxD^fT~A`gBtNviEjW`_C_l@dB{@rwAo_E]uKb}@oyBfGdFvFpEjBrAtAz@vAt@zAn@|Aj@`Bb@dB\\jCZbBLjDDhCGdBKzBUjCi@jBg@hBm@|Aq@lBeAhJoGrE{CzA}@hD}BhEwCfFoCxAq@pBw@xHcCzCw@lQ_DpF{@jc@qHfCy@hC_A`CeA~BkAzCkBdEaDjAeAdBiBdBmBxAoBhBoCjAuBv@}Av@iBt@mBnAwDfGiTlA_EnAqEp~Aw_EHGjCiAtCcAtCw@xIwB|G_BxBe@vMaD~Bu@|@U^SrDyAjB{@v@g@PEdDkBzEgDlC}B`HoGhCyBp@u@tL{KhAaAfBqAbBaAdAi@~Aq@vBs@zA_@dB]zASpBOvCKxB@DAHBV?vDXhC`@dB`@tBn@xTbHB@HG@K@FNNn@ZlDfA~Ab@|AVnCRpB@dCOpC_@b@EvAIfBCd@@bCNr@J`APzA^`C~@~LxFpAn@t\\nOlBr@tCr@dBZjCVnBJjA@pBA`AEbAIzAOvOyBvC[xAK`CMfBGdXi@hAGbBOdC_@lCq@dC}@lAg@lCwAtA}@pAeAnAiAz@}@hC_DhJ}MrEmG`B_CdEyFdEcGjMkQBBADU^KBAGzLwPhAcBd@m@x@}@~AyAtAcAfAm@v@[nAc@x@WjG_BrEcAz@]~@UjA_@|@]tAk@b@Uv@e@jA{@nAiAjBmBt@cAnAuBt@iBp@kBvCmKlAaEbBgGZcApAaD|A{Ch@}@xAoBhAuAdAeAfAcA~AkAdBeAhB}@`UwJ~BmAlBsArAiAdB_BjAuAdAyAx@qAr@sA~@oBtAuDt@uCn@kDd@aEReERuIBu@?IIAIGJBDCDI@SDsCXcKJ}E~A}n@RqJPgFJqALsAj@aEh@iCjA}Dv@sBx@cBl@gAjByCfCsCz@{@rAgAbAs@dAk@lAu@pAm@`DiA|HwBd@SxBgA|AaAjB_BfAiAtAiBl@{@f@_AzEuJ^o@lDaH\\m@^_Ad@w@dDwGjAsCpAoCxAkCl@uApB{Dv@qAnAoCfAoBjB}DfAoB|HsO`DwGhBeE^cAt@eBp@uBp@eB`A{C`@_BzH_ZdAcE~CsLb@eBdD_Mf@sBbEuOrBaI~ByIpAgFr@_C`@gB`CaJpAuEj@eC`AgDrAgFd@oBlEgPNy@pCuKnBgHdAgEZeALWJk@rAsFlAkEvEyQhHiXbEaPvAeFDYJU~@mDTy@VgAZeAfEqPx@uCl@qBNu@dE{OTaAp@eCVs@\\_B|@cDlCgK`BmFRu@n@gBrAaDtBoE~a@su@vAeCl@}@l@qAtA_Cn@qA|AoCrD_HbAyBnAaDpAgFz@yEl@{FNuCFkCBuCGaBQkNS_LAyG@cBFkCRoERuC\\mDp@cFt@eEzEmU\\sAx@gElAoFvAoHf@}BnFqWvAkGRsApAmGb@_CZaCRaDHgBBcBGmEMeCUoCiC_VUiC_CkTsA_Nc@oDo@}Gq@cGM_ACc@@IHORE`@?j@JzCdAl@XpAz@ZJNAdA[DEh@w@@QAGMK_@KCGGACEIWBPJJt@XDLANGNQ\\MJ]Rw@NG@]I{@k@iB}@kCu@MCm@?MCEEGc@Um@G_@SaCiCiV{@yIS_Bo@yGYyBYyCKiBO_EC_FBaDJwCPoCP{ANcAr@uGf@uDl@uFpA_KN}Ad@gDHaAXaCPkA@W\\oCBINQHEB?j@PVA`@HV@|@PXJF?BGBUFS?Gc@QQD",
+    "resource_state": 3,
+    "summary_polyline": "}vyoDk|jhNhh@}xB|j@ugCzn@ioCbAcL@ouATsFzBiLlEeJ~|@ajAfH_L~BmHlAoJG_KeB_Xf@aJ|AoH~BaGdD}EbXuTtDuFbo@iuBjyA{hCf_@kb@fDoG`AqFNmGmCy[KkLrHqqCtAeK|IgTlCaEx`@wXnGgHl[qr@dCkDjlB{pAzDiFzGuQ`D_Frt@}j@lG}IjvAe}EvAmIdPqyAr`AeeEfFqK`[ed@dw@k~AjCgHvAuHf@kJsBgaAYUc@Ur@cAUwLVd@@dBk@\\VGQkKo@qC`@eCf@E?mAM_Dm@{AqAqq@o@Cl@WCuD}BajAyAkT~@sCx_@}q@hCeHpI}]f_@agBiBo@vB?zu@ynDOuJkBsHa`@qg@mC{GeAeI?}HxLkmDf@cNr@}Eva@s{@nAyDdH_{@|Ze}A|y@seBzGkHjaBqz@lHmF|C}ElBaGrOwaAxAaF`C}Dxi@cp@hC{Eb~@csErZou@fAqE~IspAnZcvCzGw^pI_TvoBy_DdH{NbByIdh@qoEvB_LxEeMddBmhDtCoJz@kHnLgxBtRiuArMkx@f^shApBwJBaGu@_GmOqe@m@qGTgH`fBm|IpQenAxn@mfDh@pAk@e@FaA`Y_zAxHoYWhA~@nA_A{@D}@`a@{lApEeRl[i|ExBoM`]m|AdMquAKwJeCiKqgB}vD}f@ilA{^ei@`Ak@y@l@aGgIe@{AXiBjXa]zCy@liA|h@~bAjD~Hy@zF{CpEmGxA}EzCeVdCoGzCmD|o@}Znb@cYtgA}h@|aBi`@ddBux@|z@sWrEiHrI}DdYArqAeJjHCvhCnSviEjW`_C_l@dB{@rwAo_E]uKb}@oyBjRjOfJlEvLjBvOc@~LqDzb@eYrLyFtM{Dj}@mOrOkG`JmGpJmKdHmMjPaj@z~A_`E`HmC~i@wMpKyDvP}Jre@mb@`KqEnKaBvGKbJ~@ri@zO`GTzNcA~Gn@dt@x[tNzCnJDh\\{D|d@wAxKoCbKcGtGgHz`AwsAtHgFd]}JbJoHlFoKvL}`@jH_LrI{Gx_@wQdG_GrFoJjCkItAmJp@cSpDmyAdAgJtBgIjGyLvGwGhHcE~R}GfJuInbAupBzFaPnmCmdKxFyMhj@ibAtM}WlCaM|@qKc@ip@nAcWfBiLn\\g_B|AkOg@gQkOkxAlBSvHfDtA]n@}@gAyAjAdAi@hA}Ad@_LwD}Ikx@u@cM\\iThK_|@\\a@dFt@Ju@u@K"
+  },
+  "trainer": false,
+  "commute": false,
+  "manual": false,
+  "private": false,
+  "visibility": "everyone",
+  "flagged": false,
+  "gear_id": "b16337781",
+  "start_latlng": [
+    28.972799,
+    80.178782
+  ],
+  "end_latlng": [
+    28.198933,
+    81.685919
+  ],
+  "average_speed": 7.211,
+  "max_speed": 21.32,
+  "average_temp": 25,
+  "average_watts": 168.1,
+  "device_watts": false,
+  "kilojoules": 4035.1,
+  "has_heartrate": false,
+  "heartrate_opt_out": false,
+  "display_hide_heartrate_option": false,
+  "elev_high": 231.8,
+  "elev_low": 140.8,
+  "upload_id": 17557168177,
+  "upload_id_str": "17557168177",
+  "external_id": "garmin_ping_502489572361",
+  "from_accepted_tag": false,
+  "pr_count": 0,
+  "total_photo_count": 7,
+  "has_kudoed": false,
+  "description": "No tigers but got to see some crocs.",
+  "calories": 4684.0,
+  "perceived_exertion": null,
+  "prefer_perceived_exertion": false,
+  "segment_efforts": [],
+  "splits_metric": [
+    {
+      "distance": 1001.9,
+      "elapsed_time": 250,
+      "elevation_difference": 20.6,
+      "moving_time": 209,
+      "split": 1,
+      "average_speed": 4.79,
+      "average_grade_adjusted_speed": 4.77,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1002.0,
+      "elapsed_time": 148,
+      "elevation_difference": 2.4,
+      "moving_time": 148,
+      "split": 2,
+      "average_speed": 6.77,
+      "average_grade_adjusted_speed": 6.81,
+      "pace_zone": 0
+    },
+    {
+      "distance": 997.0,
+      "elapsed_time": 135,
+      "elevation_difference": -5.2,
+      "moving_time": 135,
+      "split": 3,
+      "average_speed": 7.39,
+      "average_grade_adjusted_speed": 7.33,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1006.5,
+      "elapsed_time": 137,
+      "elevation_difference": -3.8,
+      "moving_time": 137,
+      "split": 4,
+      "average_speed": 7.35,
+      "average_grade_adjusted_speed": 7.31,
+      "pace_zone": 0
+    },
+    {
+      "distance": 993.1,
+      "elapsed_time": 135,
+      "elevation_difference": -0.4,
+      "moving_time": 135,
+      "split": 5,
+      "average_speed": 7.36,
+      "average_grade_adjusted_speed": 7.36,
+      "pace_zone": 0
+    },
+    {
+      "distance": 999.5,
+      "elapsed_time": 138,
+      "elevation_difference": -3.0,
+      "moving_time": 138,
+      "split": 6,
+      "average_speed": 7.24,
+      "average_grade_adjusted_speed": 7.22,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1006.2,
+      "elapsed_time": 142,
+      "elevation_difference": -1.4,
+      "moving_time": 142,
+      "split": 7,
+      "average_speed": 7.09,
+      "average_grade_adjusted_speed": 7.08,
+      "pace_zone": 0
+    },
+    {
+      "distance": 994.6,
+      "elapsed_time": 135,
+      "elevation_difference": -1.2,
+      "moving_time": 135,
+      "split": 8,
+      "average_speed": 7.37,
+      "average_grade_adjusted_speed": 7.36,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1000.9,
+      "elapsed_time": 134,
+      "elevation_difference": -2.8,
+      "moving_time": 134,
+      "split": 9,
+      "average_speed": 7.47,
+      "average_grade_adjusted_speed": 7.44,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1005.0,
+      "elapsed_time": 137,
+      "elevation_difference": 2.4,
+      "moving_time": 137,
+      "split": 10,
+      "average_speed": 7.34,
+      "average_grade_adjusted_speed": 7.37,
+      "pace_zone": 0
+    },
+    {
+      "distance": 997.4,
+      "elapsed_time": 133,
+      "elevation_difference": -1.4,
+      "moving_time": 133,
+      "split": 11,
+      "average_speed": 7.5,
+      "average_grade_adjusted_speed": 7.48,
+      "pace_zone": 0
+    },
+    {
+      "distance": 997.8,
+      "elapsed_time": 138,
+      "elevation_difference": 1.8,
+      "moving_time": 138,
+      "split": 12,
+      "average_speed": 7.23,
+      "average_grade_adjusted_speed": 7.26,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1002.5,
+      "elapsed_time": 160,
+      "elevation_difference": 11.2,
+      "moving_time": 160,
+      "split": 13,
+      "average_speed": 6.27,
+      "average_grade_adjusted_speed": 6.47,
+      "pace_zone": 0
+    },
+    {
+      "distance": 996.9,
+      "elapsed_time": 131,
+      "elevation_difference": -5.0,
+      "moving_time": 131,
+      "split": 14,
+      "average_speed": 7.61,
+      "average_grade_adjusted_speed": 7.56,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1000.0,
+      "elapsed_time": 132,
+      "elevation_difference": -6.2,
+      "moving_time": 132,
+      "split": 15,
+      "average_speed": 7.58,
+      "average_grade_adjusted_speed": 7.48,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1003.7,
+      "elapsed_time": 159,
+      "elevation_difference": 2.0,
+      "moving_time": 152,
+      "split": 16,
+      "average_speed": 6.6,
+      "average_grade_adjusted_speed": 6.63,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1001.7,
+      "elapsed_time": 136,
+      "elevation_difference": -2.2,
+      "moving_time": 136,
+      "split": 17,
+      "average_speed": 7.37,
+      "average_grade_adjusted_speed": 7.35,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1000.4,
+      "elapsed_time": 129,
+      "elevation_difference": -1.6,
+      "moving_time": 129,
+      "split": 18,
+      "average_speed": 7.76,
+      "average_grade_adjusted_speed": 7.75,
+      "pace_zone": 0
+    },
+    {
+      "distance": 995.8,
+      "elapsed_time": 134,
+      "elevation_difference": 1.8,
+      "moving_time": 134,
+      "split": 19,
+      "average_speed": 7.43,
+      "average_grade_adjusted_speed": 7.45,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1001.0,
+      "elapsed_time": 133,
+      "elevation_difference": -0.2,
+      "moving_time": 133,
+      "split": 20,
+      "average_speed": 7.53,
+      "average_grade_adjusted_speed": 7.53,
+      "pace_zone": 0
+    },
+    {
+      "distance": 997.5,
+      "elapsed_time": 138,
+      "elevation_difference": 1.8,
+      "moving_time": 138,
+      "split": 21,
+      "average_speed": 7.23,
+      "average_grade_adjusted_speed": 7.25,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1004.6,
+      "elapsed_time": 145,
+      "elevation_difference": 1.8,
+      "moving_time": 145,
+      "split": 22,
+      "average_speed": 6.93,
+      "average_grade_adjusted_speed": 6.97,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1001.1,
+      "elapsed_time": 157,
+      "elevation_difference": -0.4,
+      "moving_time": 157,
+      "split": 23,
+      "average_speed": 6.38,
+      "average_grade_adjusted_speed": 6.4,
+      "pace_zone": 0
+    },
+    {
+      "distance": 996.4,
+      "elapsed_time": 128,
+      "elevation_difference": -8.0,
+      "moving_time": 128,
+      "split": 24,
+      "average_speed": 7.78,
+      "average_grade_adjusted_speed": 7.67,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1003.7,
+      "elapsed_time": 144,
+      "elevation_difference": 0.4,
+      "moving_time": 144,
+      "split": 25,
+      "average_speed": 6.97,
+      "average_grade_adjusted_speed": 6.98,
+      "pace_zone": 0
+    },
+    {
+      "distance": 998.8,
+      "elapsed_time": 133,
+      "elevation_difference": -5.0,
+      "moving_time": 133,
+      "split": 26,
+      "average_speed": 7.51,
+      "average_grade_adjusted_speed": 7.45,
+      "pace_zone": 0
+    },
+    {
+      "distance": 996.3,
+      "elapsed_time": 136,
+      "elevation_difference": 0.4,
+      "moving_time": 136,
+      "split": 27,
+      "average_speed": 7.33,
+      "average_grade_adjusted_speed": 7.35,
+      "pace_zone": 0
+    },
+    {
+      "distance": 998.9,
+      "elapsed_time": 148,
+      "elevation_difference": 1.0,
+      "moving_time": 148,
+      "split": 28,
+      "average_speed": 6.75,
+      "average_grade_adjusted_speed": 6.78,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1001.7,
+      "elapsed_time": 144,
+      "elevation_difference": -2.4,
+      "moving_time": 144,
+      "split": 29,
+      "average_speed": 6.96,
+      "average_grade_adjusted_speed": 6.94,
+      "pace_zone": 0
+    },
+    {
+      "distance": 998.2,
+      "elapsed_time": 155,
+      "elevation_difference": 2.0,
+      "moving_time": 155,
+      "split": 30,
+      "average_speed": 6.44,
+      "average_grade_adjusted_speed": 6.47,
+      "pace_zone": 0
+    },
+    {
+      "distance": 999.2,
+      "elapsed_time": 152,
+      "elevation_difference": 4.2,
+      "moving_time": 152,
+      "split": 31,
+      "average_speed": 6.57,
+      "average_grade_adjusted_speed": 6.64,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1004.3,
+      "elapsed_time": 175,
+      "elevation_difference": 12.2,
+      "moving_time": 175,
+      "split": 32,
+      "average_speed": 5.74,
+      "average_grade_adjusted_speed": 5.95,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1002.0,
+      "elapsed_time": 143,
+      "elevation_difference": -0.6,
+      "moving_time": 143,
+      "split": 33,
+      "average_speed": 7.01,
+      "average_grade_adjusted_speed": 7.01,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1000.5,
+      "elapsed_time": 131,
+      "elevation_difference": -11.2,
+      "moving_time": 131,
+      "split": 34,
+      "average_speed": 7.64,
+      "average_grade_adjusted_speed": 7.48,
+      "pace_zone": 0
+    },
+    {
+      "distance": 994.3,
+      "elapsed_time": 138,
+      "elevation_difference": -0.8,
+      "moving_time": 138,
+      "split": 35,
+      "average_speed": 7.21,
+      "average_grade_adjusted_speed": 7.2,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1003.0,
+      "elapsed_time": 141,
+      "elevation_difference": -0.4,
+      "moving_time": 141,
+      "split": 36,
+      "average_speed": 7.11,
+      "average_grade_adjusted_speed": 7.12,
+      "pace_zone": 0
+    },
+    {
+      "distance": 995.7,
+      "elapsed_time": 128,
+      "elevation_difference": -5.8,
+      "moving_time": 128,
+      "split": 37,
+      "average_speed": 7.78,
+      "average_grade_adjusted_speed": 7.71,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1004.1,
+      "elapsed_time": 139,
+      "elevation_difference": -2.0,
+      "moving_time": 139,
+      "split": 38,
+      "average_speed": 7.22,
+      "average_grade_adjusted_speed": 7.21,
+      "pace_zone": 0
+    },
+    {
+      "distance": 997.7,
+      "elapsed_time": 151,
+      "elevation_difference": 1.6,
+      "moving_time": 151,
+      "split": 39,
+      "average_speed": 6.61,
+      "average_grade_adjusted_speed": 6.65,
+      "pace_zone": 0
+    },
+    {
+      "distance": 998.7,
+      "elapsed_time": 143,
+      "elevation_difference": -2.8,
+      "moving_time": 143,
+      "split": 40,
+      "average_speed": 6.98,
+      "average_grade_adjusted_speed": 6.96,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1001.5,
+      "elapsed_time": 138,
+      "elevation_difference": -0.6,
+      "moving_time": 138,
+      "split": 41,
+      "average_speed": 7.26,
+      "average_grade_adjusted_speed": 7.26,
+      "pace_zone": 0
+    },
+    {
+      "distance": 999.0,
+      "elapsed_time": 363,
+      "elevation_difference": -0.2,
+      "moving_time": 184,
+      "split": 42,
+      "average_speed": 5.43,
+      "average_grade_adjusted_speed": 5.44,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1002.5,
+      "elapsed_time": 669,
+      "elevation_difference": 0.8,
+      "moving_time": 343,
+      "split": 43,
+      "average_speed": 2.92,
+      "average_grade_adjusted_speed": 2.94,
+      "pace_zone": 0
+    },
+    {
+      "distance": 998.0,
+      "elapsed_time": 284,
+      "elevation_difference": 0.6,
+      "moving_time": 198,
+      "split": 44,
+      "average_speed": 5.04,
+      "average_grade_adjusted_speed": 5.06,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1000.3,
+      "elapsed_time": 146,
+      "elevation_difference": 0.8,
+      "moving_time": 146,
+      "split": 45,
+      "average_speed": 6.85,
+      "average_grade_adjusted_speed": 6.87,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1002.7,
+      "elapsed_time": 122,
+      "elevation_difference": 1.2,
+      "moving_time": 122,
+      "split": 46,
+      "average_speed": 8.22,
+      "average_grade_adjusted_speed": 8.24,
+      "pace_zone": 0
+    },
+    {
+      "distance": 995.5,
+      "elapsed_time": 135,
+      "elevation_difference": 1.4,
+      "moving_time": 135,
+      "split": 47,
+      "average_speed": 7.37,
+      "average_grade_adjusted_speed": 7.4,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1003.8,
+      "elapsed_time": 145,
+      "elevation_difference": 4.0,
+      "moving_time": 145,
+      "split": 48,
+      "average_speed": 6.92,
+      "average_grade_adjusted_speed": 6.98,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1000.5,
+      "elapsed_time": 1260,
+      "elevation_difference": 1.0,
+      "moving_time": 185,
+      "split": 49,
+      "average_speed": 5.41,
+      "average_grade_adjusted_speed": 5.42,
+      "pace_zone": 0
+    },
+    {
+      "distance": 999.5,
+      "elapsed_time": 152,
+      "elevation_difference": -0.4,
+      "moving_time": 152,
+      "split": 50,
+      "average_speed": 6.58,
+      "average_grade_adjusted_speed": 6.58,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1000.7,
+      "elapsed_time": 143,
+      "elevation_difference": 0.6,
+      "moving_time": 143,
+      "split": 51,
+      "average_speed": 7.0,
+      "average_grade_adjusted_speed": 7.02,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1002.3,
+      "elapsed_time": 140,
+      "elevation_difference": -2.0,
+      "moving_time": 140,
+      "split": 52,
+      "average_speed": 7.16,
+      "average_grade_adjusted_speed": 7.13,
+      "pace_zone": 0
+    },
+    {
+      "distance": 994.7,
+      "elapsed_time": 141,
+      "elevation_difference": 4.0,
+      "moving_time": 141,
+      "split": 53,
+      "average_speed": 7.05,
+      "average_grade_adjusted_speed": 7.11,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1003.7,
+      "elapsed_time": 145,
+      "elevation_difference": 1.0,
+      "moving_time": 145,
+      "split": 54,
+      "average_speed": 6.92,
+      "average_grade_adjusted_speed": 6.94,
+      "pace_zone": 0
+    },
+    {
+      "distance": 998.7,
+      "elapsed_time": 140,
+      "elevation_difference": -0.8,
+      "moving_time": 140,
+      "split": 55,
+      "average_speed": 7.13,
+      "average_grade_adjusted_speed": 7.13,
+      "pace_zone": 0
+    },
+    {
+      "distance": 998.9,
+      "elapsed_time": 145,
+      "elevation_difference": -2.8,
+      "moving_time": 145,
+      "split": 56,
+      "average_speed": 6.89,
+      "average_grade_adjusted_speed": 6.87,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1002.2,
+      "elapsed_time": 132,
+      "elevation_difference": -11.0,
+      "moving_time": 132,
+      "split": 57,
+      "average_speed": 7.59,
+      "average_grade_adjusted_speed": 7.44,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1000.6,
+      "elapsed_time": 145,
+      "elevation_difference": 0.8,
+      "moving_time": 145,
+      "split": 58,
+      "average_speed": 6.9,
+      "average_grade_adjusted_speed": 6.94,
+      "pace_zone": 0
+    },
+    {
+      "distance": 998.0,
+      "elapsed_time": 151,
+      "elevation_difference": 0.4,
+      "moving_time": 151,
+      "split": 59,
+      "average_speed": 6.61,
+      "average_grade_adjusted_speed": 6.62,
+      "pace_zone": 0
+    },
+    {
+      "distance": 996.7,
+      "elapsed_time": 129,
+      "elevation_difference": 1.2,
+      "moving_time": 129,
+      "split": 60,
+      "average_speed": 7.73,
+      "average_grade_adjusted_speed": 7.78,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1005.3,
+      "elapsed_time": 142,
+      "elevation_difference": -0.4,
+      "moving_time": 142,
+      "split": 61,
+      "average_speed": 7.08,
+      "average_grade_adjusted_speed": 7.08,
+      "pace_zone": 0
+    },
+    {
+      "distance": 999.5,
+      "elapsed_time": 142,
+      "elevation_difference": -2.2,
+      "moving_time": 142,
+      "split": 62,
+      "average_speed": 7.04,
+      "average_grade_adjusted_speed": 7.02,
+      "pace_zone": 0
+    },
+    {
+      "distance": 996.9,
+      "elapsed_time": 145,
+      "elevation_difference": -0.4,
+      "moving_time": 145,
+      "split": 63,
+      "average_speed": 6.88,
+      "average_grade_adjusted_speed": 6.88,
+      "pace_zone": 0
+    },
+    {
+      "distance": 998.1,
+      "elapsed_time": 139,
+      "elevation_difference": -3.2,
+      "moving_time": 139,
+      "split": 64,
+      "average_speed": 7.18,
+      "average_grade_adjusted_speed": 7.15,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1006.7,
+      "elapsed_time": 143,
+      "elevation_difference": 0.0,
+      "moving_time": 143,
+      "split": 65,
+      "average_speed": 7.04,
+      "average_grade_adjusted_speed": 7.05,
+      "pace_zone": 0
+    },
+    {
+      "distance": 995.6,
+      "elapsed_time": 142,
+      "elevation_difference": -1.4,
+      "moving_time": 142,
+      "split": 66,
+      "average_speed": 7.01,
+      "average_grade_adjusted_speed": 7.02,
+      "pace_zone": 0
+    },
+    {
+      "distance": 999.3,
+      "elapsed_time": 151,
+      "elevation_difference": 1.0,
+      "moving_time": 151,
+      "split": 67,
+      "average_speed": 6.62,
+      "average_grade_adjusted_speed": 6.64,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1002.2,
+      "elapsed_time": 140,
+      "elevation_difference": -0.4,
+      "moving_time": 140,
+      "split": 68,
+      "average_speed": 7.16,
+      "average_grade_adjusted_speed": 7.16,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1000.4,
+      "elapsed_time": 154,
+      "elevation_difference": 2.6,
+      "moving_time": 154,
+      "split": 69,
+      "average_speed": 6.5,
+      "average_grade_adjusted_speed": 6.57,
+      "pace_zone": 0
+    },
+    {
+      "distance": 998.8,
+      "elapsed_time": 134,
+      "elevation_difference": -4.0,
+      "moving_time": 134,
+      "split": 70,
+      "average_speed": 7.45,
+      "average_grade_adjusted_speed": 7.41,
+      "pace_zone": 0
+    },
+    {
+      "distance": 999.4,
+      "elapsed_time": 143,
+      "elevation_difference": 5.8,
+      "moving_time": 143,
+      "split": 71,
+      "average_speed": 6.99,
+      "average_grade_adjusted_speed": 7.09,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1002.4,
+      "elapsed_time": 129,
+      "elevation_difference": -8.6,
+      "moving_time": 129,
+      "split": 72,
+      "average_speed": 7.77,
+      "average_grade_adjusted_speed": 7.66,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1000.7,
+      "elapsed_time": 130,
+      "elevation_difference": 0.0,
+      "moving_time": 130,
+      "split": 73,
+      "average_speed": 7.7,
+      "average_grade_adjusted_speed": 7.7,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1001.6,
+      "elapsed_time": 124,
+      "elevation_difference": -1.4,
+      "moving_time": 124,
+      "split": 74,
+      "average_speed": 8.08,
+      "average_grade_adjusted_speed": 8.07,
+      "pace_zone": 0
+    },
+    {
+      "distance": 997.6,
+      "elapsed_time": 100,
+      "elevation_difference": -0.2,
+      "moving_time": 100,
+      "split": 75,
+      "average_speed": 9.98,
+      "average_grade_adjusted_speed": 9.98,
+      "pace_zone": 0
+    },
+    {
+      "distance": 996.4,
+      "elapsed_time": 103,
+      "elevation_difference": 1.0,
+      "moving_time": 103,
+      "split": 76,
+      "average_speed": 9.67,
+      "average_grade_adjusted_speed": 9.7,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1001.6,
+      "elapsed_time": 103,
+      "elevation_difference": 6.0,
+      "moving_time": 103,
+      "split": 77,
+      "average_speed": 9.72,
+      "average_grade_adjusted_speed": 9.93,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1003.4,
+      "elapsed_time": 97,
+      "elevation_difference": -11.6,
+      "moving_time": 97,
+      "split": 78,
+      "average_speed": 10.34,
+      "average_grade_adjusted_speed": 10.12,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1000.7,
+      "elapsed_time": 101,
+      "elevation_difference": 5.6,
+      "moving_time": 101,
+      "split": 79,
+      "average_speed": 9.91,
+      "average_grade_adjusted_speed": 10.03,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1001.3,
+      "elapsed_time": 98,
+      "elevation_difference": -8.6,
+      "moving_time": 98,
+      "split": 80,
+      "average_speed": 10.22,
+      "average_grade_adjusted_speed": 10.06,
+      "pace_zone": 0
+    },
+    {
+      "distance": 998.6,
+      "elapsed_time": 109,
+      "elevation_difference": -1.0,
+      "moving_time": 109,
+      "split": 81,
+      "average_speed": 9.16,
+      "average_grade_adjusted_speed": 9.16,
+      "pace_zone": 0
+    },
+    {
+      "distance": 995.0,
+      "elapsed_time": 113,
+      "elevation_difference": 5.6,
+      "moving_time": 113,
+      "split": 82,
+      "average_speed": 8.81,
+      "average_grade_adjusted_speed": 8.92,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1007.2,
+      "elapsed_time": 99,
+      "elevation_difference": -4.0,
+      "moving_time": 99,
+      "split": 83,
+      "average_speed": 10.17,
+      "average_grade_adjusted_speed": 10.15,
+      "pace_zone": 0
+    },
+    {
+      "distance": 992.0,
+      "elapsed_time": 99,
+      "elevation_difference": 0.2,
+      "moving_time": 99,
+      "split": 84,
+      "average_speed": 10.02,
+      "average_grade_adjusted_speed": 10.05,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1000.3,
+      "elapsed_time": 99,
+      "elevation_difference": 0.6,
+      "moving_time": 99,
+      "split": 85,
+      "average_speed": 10.1,
+      "average_grade_adjusted_speed": 10.12,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1007.0,
+      "elapsed_time": 103,
+      "elevation_difference": 1.2,
+      "moving_time": 103,
+      "split": 86,
+      "average_speed": 9.78,
+      "average_grade_adjusted_speed": 9.8,
+      "pace_zone": 0
+    },
+    {
+      "distance": 999.4,
+      "elapsed_time": 115,
+      "elevation_difference": 1.4,
+      "moving_time": 115,
+      "split": 87,
+      "average_speed": 8.69,
+      "average_grade_adjusted_speed": 8.71,
+      "pace_zone": 0
+    },
+    {
+      "distance": 999.7,
+      "elapsed_time": 114,
+      "elevation_difference": 0.6,
+      "moving_time": 114,
+      "split": 88,
+      "average_speed": 8.77,
+      "average_grade_adjusted_speed": 8.79,
+      "pace_zone": 0
+    },
+    {
+      "distance": 993.9,
+      "elapsed_time": 98,
+      "elevation_difference": 2.2,
+      "moving_time": 98,
+      "split": 89,
+      "average_speed": 10.14,
+      "average_grade_adjusted_speed": 10.19,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1006.4,
+      "elapsed_time": 106,
+      "elevation_difference": -4.0,
+      "moving_time": 106,
+      "split": 90,
+      "average_speed": 9.49,
+      "average_grade_adjusted_speed": 9.44,
+      "pace_zone": 0
+    },
+    {
+      "distance": 993.0,
+      "elapsed_time": 99,
+      "elevation_difference": -0.8,
+      "moving_time": 99,
+      "split": 91,
+      "average_speed": 10.03,
+      "average_grade_adjusted_speed": 10.04,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1003.5,
+      "elapsed_time": 109,
+      "elevation_difference": 3.2,
+      "moving_time": 109,
+      "split": 92,
+      "average_speed": 9.21,
+      "average_grade_adjusted_speed": 9.27,
+      "pace_zone": 0
+    },
+    {
+      "distance": 999.8,
+      "elapsed_time": 106,
+      "elevation_difference": -3.6,
+      "moving_time": 106,
+      "split": 93,
+      "average_speed": 9.43,
+      "average_grade_adjusted_speed": 9.39,
+      "pace_zone": 0
+    },
+    {
+      "distance": 996.0,
+      "elapsed_time": 102,
+      "elevation_difference": 0.6,
+      "moving_time": 102,
+      "split": 94,
+      "average_speed": 9.76,
+      "average_grade_adjusted_speed": 9.78,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1004.7,
+      "elapsed_time": 105,
+      "elevation_difference": 0.2,
+      "moving_time": 105,
+      "split": 95,
+      "average_speed": 9.57,
+      "average_grade_adjusted_speed": 9.57,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1003.5,
+      "elapsed_time": 102,
+      "elevation_difference": -1.2,
+      "moving_time": 102,
+      "split": 96,
+      "average_speed": 9.84,
+      "average_grade_adjusted_speed": 9.82,
+      "pace_zone": 0
+    },
+    {
+      "distance": 993.2,
+      "elapsed_time": 118,
+      "elevation_difference": -0.6,
+      "moving_time": 118,
+      "split": 97,
+      "average_speed": 8.42,
+      "average_grade_adjusted_speed": 8.42,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1006.2,
+      "elapsed_time": 105,
+      "elevation_difference": -1.6,
+      "moving_time": 105,
+      "split": 98,
+      "average_speed": 9.58,
+      "average_grade_adjusted_speed": 9.57,
+      "pace_zone": 0
+    },
+    {
+      "distance": 995.7,
+      "elapsed_time": 112,
+      "elevation_difference": 2.4,
+      "moving_time": 112,
+      "split": 99,
+      "average_speed": 8.89,
+      "average_grade_adjusted_speed": 8.93,
+      "pace_zone": 0
+    },
+    {
+      "distance": 997.3,
+      "elapsed_time": 103,
+      "elevation_difference": -0.4,
+      "moving_time": 103,
+      "split": 100,
+      "average_speed": 9.68,
+      "average_grade_adjusted_speed": 9.69,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1005.8,
+      "elapsed_time": 110,
+      "elevation_difference": 0.8,
+      "moving_time": 110,
+      "split": 101,
+      "average_speed": 9.14,
+      "average_grade_adjusted_speed": 9.16,
+      "pace_zone": 0
+    },
+    {
+      "distance": 995.9,
+      "elapsed_time": 105,
+      "elevation_difference": -0.4,
+      "moving_time": 105,
+      "split": 102,
+      "average_speed": 9.48,
+      "average_grade_adjusted_speed": 9.49,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1001.5,
+      "elapsed_time": 562,
+      "elevation_difference": 3.2,
+      "moving_time": 177,
+      "split": 103,
+      "average_speed": 5.66,
+      "average_grade_adjusted_speed": 5.71,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1002.0,
+      "elapsed_time": 206,
+      "elevation_difference": 3.2,
+      "moving_time": 189,
+      "split": 104,
+      "average_speed": 5.3,
+      "average_grade_adjusted_speed": 5.34,
+      "pace_zone": 0
+    },
+    {
+      "distance": 996.7,
+      "elapsed_time": 2506,
+      "elevation_difference": 2.0,
+      "moving_time": 189,
+      "split": 105,
+      "average_speed": 5.27,
+      "average_grade_adjusted_speed": 5.32,
+      "pace_zone": 0
+    },
+    {
+      "distance": 999.7,
+      "elapsed_time": 257,
+      "elevation_difference": 3.6,
+      "moving_time": 169,
+      "split": 106,
+      "average_speed": 5.92,
+      "average_grade_adjusted_speed": 5.97,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1000.5,
+      "elapsed_time": 654,
+      "elevation_difference": 1.8,
+      "moving_time": 286,
+      "split": 107,
+      "average_speed": 3.5,
+      "average_grade_adjusted_speed": 3.6,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1002.0,
+      "elapsed_time": 189,
+      "elevation_difference": 3.0,
+      "moving_time": 189,
+      "split": 108,
+      "average_speed": 5.3,
+      "average_grade_adjusted_speed": 5.34,
+      "pace_zone": 0
+    },
+    {
+      "distance": 997.0,
+      "elapsed_time": 156,
+      "elevation_difference": 2.6,
+      "moving_time": 156,
+      "split": 109,
+      "average_speed": 6.39,
+      "average_grade_adjusted_speed": 6.42,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1003.6,
+      "elapsed_time": 261,
+      "elevation_difference": 4.4,
+      "moving_time": 168,
+      "split": 110,
+      "average_speed": 5.97,
+      "average_grade_adjusted_speed": 6.05,
+      "pace_zone": 0
+    },
+    {
+      "distance": 998.8,
+      "elapsed_time": 147,
+      "elevation_difference": 0.2,
+      "moving_time": 147,
+      "split": 111,
+      "average_speed": 6.79,
+      "average_grade_adjusted_speed": 6.8,
+      "pace_zone": 0
+    },
+    {
+      "distance": 998.7,
+      "elapsed_time": 147,
+      "elevation_difference": 2.2,
+      "moving_time": 147,
+      "split": 112,
+      "average_speed": 6.79,
+      "average_grade_adjusted_speed": 6.83,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1002.5,
+      "elapsed_time": 141,
+      "elevation_difference": -1.6,
+      "moving_time": 141,
+      "split": 113,
+      "average_speed": 7.11,
+      "average_grade_adjusted_speed": 7.1,
+      "pace_zone": 0
+    },
+    {
+      "distance": 997.4,
+      "elapsed_time": 137,
+      "elevation_difference": -0.4,
+      "moving_time": 137,
+      "split": 114,
+      "average_speed": 7.28,
+      "average_grade_adjusted_speed": 7.28,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1004.1,
+      "elapsed_time": 139,
+      "elevation_difference": -1.0,
+      "moving_time": 139,
+      "split": 115,
+      "average_speed": 7.22,
+      "average_grade_adjusted_speed": 7.22,
+      "pace_zone": 0
+    },
+    {
+      "distance": 994.2,
+      "elapsed_time": 150,
+      "elevation_difference": 7.8,
+      "moving_time": 150,
+      "split": 116,
+      "average_speed": 6.63,
+      "average_grade_adjusted_speed": 6.73,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1000.1,
+      "elapsed_time": 189,
+      "elevation_difference": 14.8,
+      "moving_time": 189,
+      "split": 117,
+      "average_speed": 5.29,
+      "average_grade_adjusted_speed": 5.49,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1004.2,
+      "elapsed_time": 133,
+      "elevation_difference": -15.0,
+      "moving_time": 133,
+      "split": 118,
+      "average_speed": 7.55,
+      "average_grade_adjusted_speed": 7.32,
+      "pace_zone": 0
+    },
+    {
+      "distance": 996.0,
+      "elapsed_time": 168,
+      "elevation_difference": 11.4,
+      "moving_time": 168,
+      "split": 119,
+      "average_speed": 5.93,
+      "average_grade_adjusted_speed": 6.12,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1002.2,
+      "elapsed_time": 166,
+      "elevation_difference": 2.2,
+      "moving_time": 166,
+      "split": 120,
+      "average_speed": 6.04,
+      "average_grade_adjusted_speed": 6.07,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1000.5,
+      "elapsed_time": 181,
+      "elevation_difference": 2.2,
+      "moving_time": 181,
+      "split": 121,
+      "average_speed": 5.53,
+      "average_grade_adjusted_speed": 5.6,
+      "pace_zone": 0
+    },
+    {
+      "distance": 995.9,
+      "elapsed_time": 2405,
+      "elevation_difference": 0.2,
+      "moving_time": 263,
+      "split": 122,
+      "average_speed": 3.79,
+      "average_grade_adjusted_speed": 3.83,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1002.4,
+      "elapsed_time": 177,
+      "elevation_difference": -9.0,
+      "moving_time": 146,
+      "split": 123,
+      "average_speed": 6.87,
+      "average_grade_adjusted_speed": 6.76,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1004.2,
+      "elapsed_time": 296,
+      "elevation_difference": -2.6,
+      "moving_time": 128,
+      "split": 124,
+      "average_speed": 7.85,
+      "average_grade_adjusted_speed": 7.83,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1000.3,
+      "elapsed_time": 92,
+      "elevation_difference": -0.4,
+      "moving_time": 92,
+      "split": 125,
+      "average_speed": 10.87,
+      "average_grade_adjusted_speed": 10.88,
+      "pace_zone": 0
+    },
+    {
+      "distance": 996.1,
+      "elapsed_time": 112,
+      "elevation_difference": 25.0,
+      "moving_time": 112,
+      "split": 126,
+      "average_speed": 8.89,
+      "average_grade_adjusted_speed": 9.57,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1004.4,
+      "elapsed_time": 81,
+      "elevation_difference": 3.8,
+      "moving_time": 81,
+      "split": 127,
+      "average_speed": 12.4,
+      "average_grade_adjusted_speed": 12.61,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1002.4,
+      "elapsed_time": 530,
+      "elevation_difference": -32.6,
+      "moving_time": 81,
+      "split": 128,
+      "average_speed": 12.38,
+      "average_grade_adjusted_speed": 12.05,
+      "pace_zone": 0
+    },
+    {
+      "distance": 991.2,
+      "elapsed_time": 400,
+      "elevation_difference": -10.2,
+      "moving_time": 128,
+      "split": 129,
+      "average_speed": 7.74,
+      "average_grade_adjusted_speed": 7.67,
+      "pace_zone": 0
+    },
+    {
+      "distance": 999.1,
+      "elapsed_time": 972,
+      "elevation_difference": -6.8,
+      "moving_time": 93,
+      "split": 130,
+      "average_speed": 10.74,
+      "average_grade_adjusted_speed": 11.32,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1005.9,
+      "elapsed_time": 740,
+      "elevation_difference": 5.4,
+      "moving_time": 61,
+      "split": 131,
+      "average_speed": 16.49,
+      "average_grade_adjusted_speed": 17.24,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1003.8,
+      "elapsed_time": 65,
+      "elevation_difference": -7.0,
+      "moving_time": 65,
+      "split": 132,
+      "average_speed": 15.44,
+      "average_grade_adjusted_speed": 15.29,
+      "pace_zone": 0
+    },
+    {
+      "distance": 990.9,
+      "elapsed_time": 58,
+      "elevation_difference": 1.8,
+      "moving_time": 58,
+      "split": 133,
+      "average_speed": 17.08,
+      "average_grade_adjusted_speed": 17.15,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1009.6,
+      "elapsed_time": 62,
+      "elevation_difference": -4.0,
+      "moving_time": 62,
+      "split": 134,
+      "average_speed": 16.28,
+      "average_grade_adjusted_speed": 16.18,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1004.6,
+      "elapsed_time": 58,
+      "elevation_difference": 1.6,
+      "moving_time": 58,
+      "split": 135,
+      "average_speed": 17.32,
+      "average_grade_adjusted_speed": 17.41,
+      "pace_zone": 0
+    },
+    {
+      "distance": 989.0,
+      "elapsed_time": 531,
+      "elevation_difference": -14.2,
+      "moving_time": 67,
+      "split": 136,
+      "average_speed": 14.76,
+      "average_grade_adjusted_speed": 15.07,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1001.0,
+      "elapsed_time": 162,
+      "elevation_difference": -2.8,
+      "moving_time": 162,
+      "split": 137,
+      "average_speed": 6.18,
+      "average_grade_adjusted_speed": 6.16,
+      "pace_zone": 0
+    },
+    {
+      "distance": 996.1,
+      "elapsed_time": 260,
+      "elevation_difference": -0.4,
+      "moving_time": 170,
+      "split": 138,
+      "average_speed": 5.86,
+      "average_grade_adjusted_speed": 5.86,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1000.4,
+      "elapsed_time": 175,
+      "elevation_difference": 0.0,
+      "moving_time": 167,
+      "split": 139,
+      "average_speed": 5.99,
+      "average_grade_adjusted_speed": 5.99,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1000.0,
+      "elapsed_time": 258,
+      "elevation_difference": -0.6,
+      "moving_time": 179,
+      "split": 140,
+      "average_speed": 5.59,
+      "average_grade_adjusted_speed": 5.59,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1002.6,
+      "elapsed_time": 139,
+      "elevation_difference": -4.0,
+      "moving_time": 139,
+      "split": 141,
+      "average_speed": 7.21,
+      "average_grade_adjusted_speed": 7.17,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1002.5,
+      "elapsed_time": 136,
+      "elevation_difference": -1.6,
+      "moving_time": 136,
+      "split": 142,
+      "average_speed": 7.37,
+      "average_grade_adjusted_speed": 7.36,
+      "pace_zone": 0
+    },
+    {
+      "distance": 998.5,
+      "elapsed_time": 138,
+      "elevation_difference": -0.6,
+      "moving_time": 138,
+      "split": 143,
+      "average_speed": 7.24,
+      "average_grade_adjusted_speed": 7.23,
+      "pace_zone": 0
+    },
+    {
+      "distance": 997.2,
+      "elapsed_time": 142,
+      "elevation_difference": 2.0,
+      "moving_time": 142,
+      "split": 144,
+      "average_speed": 7.02,
+      "average_grade_adjusted_speed": 7.05,
+      "pace_zone": 0
+    },
+    {
+      "distance": 999.6,
+      "elapsed_time": 131,
+      "elevation_difference": -1.4,
+      "moving_time": 131,
+      "split": 145,
+      "average_speed": 7.63,
+      "average_grade_adjusted_speed": 7.62,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1000.4,
+      "elapsed_time": 431,
+      "elevation_difference": 2.6,
+      "moving_time": 167,
+      "split": 146,
+      "average_speed": 5.99,
+      "average_grade_adjusted_speed": 6.02,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1001.5,
+      "elapsed_time": 139,
+      "elevation_difference": -3.0,
+      "moving_time": 139,
+      "split": 147,
+      "average_speed": 7.21,
+      "average_grade_adjusted_speed": 7.18,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1000.2,
+      "elapsed_time": 133,
+      "elevation_difference": -1.8,
+      "moving_time": 133,
+      "split": 148,
+      "average_speed": 7.52,
+      "average_grade_adjusted_speed": 7.51,
+      "pace_zone": 0
+    },
+    {
+      "distance": 998.4,
+      "elapsed_time": 136,
+      "elevation_difference": 0.0,
+      "moving_time": 136,
+      "split": 149,
+      "average_speed": 7.34,
+      "average_grade_adjusted_speed": 7.34,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1000.1,
+      "elapsed_time": 240,
+      "elevation_difference": -2.2,
+      "moving_time": 161,
+      "split": 150,
+      "average_speed": 6.21,
+      "average_grade_adjusted_speed": 6.2,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1002.7,
+      "elapsed_time": 158,
+      "elevation_difference": 1.0,
+      "moving_time": 158,
+      "split": 151,
+      "average_speed": 6.35,
+      "average_grade_adjusted_speed": 6.36,
+      "pace_zone": 0
+    },
+    {
+      "distance": 998.1,
+      "elapsed_time": 139,
+      "elevation_difference": -0.2,
+      "moving_time": 139,
+      "split": 152,
+      "average_speed": 7.18,
+      "average_grade_adjusted_speed": 7.18,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1004.2,
+      "elapsed_time": 133,
+      "elevation_difference": -1.8,
+      "moving_time": 133,
+      "split": 153,
+      "average_speed": 7.55,
+      "average_grade_adjusted_speed": 7.54,
+      "pace_zone": 0
+    },
+    {
+      "distance": 999.1,
+      "elapsed_time": 137,
+      "elevation_difference": -0.2,
+      "moving_time": 137,
+      "split": 154,
+      "average_speed": 7.29,
+      "average_grade_adjusted_speed": 7.29,
+      "pace_zone": 0
+    },
+    {
+      "distance": 993.8,
+      "elapsed_time": 134,
+      "elevation_difference": -1.0,
+      "moving_time": 134,
+      "split": 155,
+      "average_speed": 7.42,
+      "average_grade_adjusted_speed": 7.41,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1002.7,
+      "elapsed_time": 137,
+      "elevation_difference": -0.2,
+      "moving_time": 137,
+      "split": 156,
+      "average_speed": 7.32,
+      "average_grade_adjusted_speed": 7.32,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1002.9,
+      "elapsed_time": 133,
+      "elevation_difference": 0.0,
+      "moving_time": 133,
+      "split": 157,
+      "average_speed": 7.54,
+      "average_grade_adjusted_speed": 7.54,
+      "pace_zone": 0
+    },
+    {
+      "distance": 995.5,
+      "elapsed_time": 128,
+      "elevation_difference": -2.0,
+      "moving_time": 128,
+      "split": 158,
+      "average_speed": 7.78,
+      "average_grade_adjusted_speed": 7.76,
+      "pace_zone": 0
+    },
+    {
+      "distance": 998.9,
+      "elapsed_time": 132,
+      "elevation_difference": -0.6,
+      "moving_time": 132,
+      "split": 159,
+      "average_speed": 7.57,
+      "average_grade_adjusted_speed": 7.57,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1001.0,
+      "elapsed_time": 143,
+      "elevation_difference": 0.2,
+      "moving_time": 143,
+      "split": 160,
+      "average_speed": 7.0,
+      "average_grade_adjusted_speed": 7.01,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1005.3,
+      "elapsed_time": 783,
+      "elevation_difference": -2.0,
+      "moving_time": 167,
+      "split": 161,
+      "average_speed": 6.02,
+      "average_grade_adjusted_speed": 6.0,
+      "pace_zone": 0
+    },
+    {
+      "distance": 993.4,
+      "elapsed_time": 141,
+      "elevation_difference": 2.4,
+      "moving_time": 141,
+      "split": 162,
+      "average_speed": 7.05,
+      "average_grade_adjusted_speed": 7.07,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1000.5,
+      "elapsed_time": 140,
+      "elevation_difference": 2.0,
+      "moving_time": 140,
+      "split": 163,
+      "average_speed": 7.15,
+      "average_grade_adjusted_speed": 7.17,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1002.3,
+      "elapsed_time": 129,
+      "elevation_difference": 1.6,
+      "moving_time": 129,
+      "split": 164,
+      "average_speed": 7.77,
+      "average_grade_adjusted_speed": 7.79,
+      "pace_zone": 0
+    },
+    {
+      "distance": 999.2,
+      "elapsed_time": 140,
+      "elevation_difference": -0.6,
+      "moving_time": 140,
+      "split": 165,
+      "average_speed": 7.14,
+      "average_grade_adjusted_speed": 7.13,
+      "pace_zone": 0
+    },
+    {
+      "distance": 999.9,
+      "elapsed_time": 145,
+      "elevation_difference": 3.6,
+      "moving_time": 145,
+      "split": 166,
+      "average_speed": 6.9,
+      "average_grade_adjusted_speed": 6.94,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1001.2,
+      "elapsed_time": 137,
+      "elevation_difference": -0.2,
+      "moving_time": 137,
+      "split": 167,
+      "average_speed": 7.31,
+      "average_grade_adjusted_speed": 7.31,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1000.9,
+      "elapsed_time": 137,
+      "elevation_difference": 0.2,
+      "moving_time": 137,
+      "split": 168,
+      "average_speed": 7.31,
+      "average_grade_adjusted_speed": 7.31,
+      "pace_zone": 0
+    },
+    {
+      "distance": 996.1,
+      "elapsed_time": 145,
+      "elevation_difference": 2.2,
+      "moving_time": 145,
+      "split": 169,
+      "average_speed": 6.87,
+      "average_grade_adjusted_speed": 6.9,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1002.3,
+      "elapsed_time": 394,
+      "elevation_difference": -0.8,
+      "moving_time": 220,
+      "split": 170,
+      "average_speed": 4.56,
+      "average_grade_adjusted_speed": 4.55,
+      "pace_zone": 0
+    },
+    {
+      "distance": 998.3,
+      "elapsed_time": 190,
+      "elevation_difference": 0.2,
+      "moving_time": 190,
+      "split": 171,
+      "average_speed": 5.25,
+      "average_grade_adjusted_speed": 5.27,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1002.8,
+      "elapsed_time": 160,
+      "elevation_difference": 3.0,
+      "moving_time": 160,
+      "split": 172,
+      "average_speed": 6.27,
+      "average_grade_adjusted_speed": 6.31,
+      "pace_zone": 0
+    },
+    {
+      "distance": 998.6,
+      "elapsed_time": 274,
+      "elevation_difference": 0.0,
+      "moving_time": 216,
+      "split": 173,
+      "average_speed": 4.62,
+      "average_grade_adjusted_speed": 4.63,
+      "pace_zone": 0
+    },
+    {
+      "distance": 52.9,
+      "elapsed_time": 22,
+      "elevation_difference": 0.8,
+      "moving_time": 22,
+      "split": 174,
+      "average_speed": 2.4,
+      "average_grade_adjusted_speed": 2.5,
+      "pace_zone": 0
+    }
+  ],
+  "splits_standard": [
+    {
+      "distance": 1612.3,
+      "elapsed_time": 345,
+      "elevation_difference": 21.0,
+      "moving_time": 304,
+      "split": 1,
+      "average_speed": 5.3,
+      "average_grade_adjusted_speed": 5.29,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1607.5,
+      "elapsed_time": 219,
+      "elevation_difference": -1.6,
+      "moving_time": 219,
+      "split": 2,
+      "average_speed": 7.34,
+      "average_grade_adjusted_speed": 7.34,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1612.8,
+      "elapsed_time": 217,
+      "elevation_difference": -6.4,
+      "moving_time": 217,
+      "split": 3,
+      "average_speed": 7.43,
+      "average_grade_adjusted_speed": 7.39,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1605.5,
+      "elapsed_time": 223,
+      "elevation_difference": -4.0,
+      "moving_time": 223,
+      "split": 4,
+      "average_speed": 7.2,
+      "average_grade_adjusted_speed": 7.18,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1612.4,
+      "elapsed_time": 223,
+      "elevation_difference": -0.8,
+      "moving_time": 223,
+      "split": 5,
+      "average_speed": 7.23,
+      "average_grade_adjusted_speed": 7.23,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1610.8,
+      "elapsed_time": 215,
+      "elevation_difference": -2.6,
+      "moving_time": 215,
+      "split": 6,
+      "average_speed": 7.49,
+      "average_grade_adjusted_speed": 7.48,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1610.2,
+      "elapsed_time": 219,
+      "elevation_difference": 1.6,
+      "moving_time": 219,
+      "split": 7,
+      "average_speed": 7.35,
+      "average_grade_adjusted_speed": 7.37,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1604.3,
+      "elapsed_time": 239,
+      "elevation_difference": 11.2,
+      "moving_time": 239,
+      "split": 8,
+      "average_speed": 6.71,
+      "average_grade_adjusted_speed": 6.85,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1612.7,
+      "elapsed_time": 217,
+      "elevation_difference": -8.0,
+      "moving_time": 217,
+      "split": 9,
+      "average_speed": 7.43,
+      "average_grade_adjusted_speed": 7.37,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1607.2,
+      "elapsed_time": 240,
+      "elevation_difference": -0.4,
+      "moving_time": 233,
+      "split": 10,
+      "average_speed": 6.9,
+      "average_grade_adjusted_speed": 6.9,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1613.6,
+      "elapsed_time": 215,
+      "elevation_difference": -3.0,
+      "moving_time": 215,
+      "split": 11,
+      "average_speed": 7.51,
+      "average_grade_adjusted_speed": 7.5,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1608.8,
+      "elapsed_time": 213,
+      "elevation_difference": 1.6,
+      "moving_time": 213,
+      "split": 12,
+      "average_speed": 7.55,
+      "average_grade_adjusted_speed": 7.57,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1608.4,
+      "elapsed_time": 219,
+      "elevation_difference": 1.2,
+      "moving_time": 219,
+      "split": 13,
+      "average_speed": 7.34,
+      "average_grade_adjusted_speed": 7.36,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1609.8,
+      "elapsed_time": 250,
+      "elevation_difference": 6.4,
+      "moving_time": 250,
+      "split": 14,
+      "average_speed": 6.44,
+      "average_grade_adjusted_speed": 6.51,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1608.1,
+      "elapsed_time": 210,
+      "elevation_difference": -13.2,
+      "moving_time": 210,
+      "split": 15,
+      "average_speed": 7.66,
+      "average_grade_adjusted_speed": 7.54,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1609.6,
+      "elapsed_time": 223,
+      "elevation_difference": -4.2,
+      "moving_time": 223,
+      "split": 16,
+      "average_speed": 7.22,
+      "average_grade_adjusted_speed": 7.19,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1606.1,
+      "elapsed_time": 226,
+      "elevation_difference": 1.6,
+      "moving_time": 226,
+      "split": 17,
+      "average_speed": 7.11,
+      "average_grade_adjusted_speed": 7.14,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1608.3,
+      "elapsed_time": 231,
+      "elevation_difference": -2.8,
+      "moving_time": 231,
+      "split": 18,
+      "average_speed": 6.96,
+      "average_grade_adjusted_speed": 6.95,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1609.5,
+      "elapsed_time": 246,
+      "elevation_difference": 2.8,
+      "moving_time": 246,
+      "split": 19,
+      "average_speed": 6.54,
+      "average_grade_adjusted_speed": 6.57,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1615.1,
+      "elapsed_time": 268,
+      "elevation_difference": 14.2,
+      "moving_time": 268,
+      "split": 20,
+      "average_speed": 6.03,
+      "average_grade_adjusted_speed": 6.19,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1604.3,
+      "elapsed_time": 219,
+      "elevation_difference": -8.2,
+      "moving_time": 219,
+      "split": 21,
+      "average_speed": 7.33,
+      "average_grade_adjusted_speed": 7.26,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1611.4,
+      "elapsed_time": 223,
+      "elevation_difference": -3.0,
+      "moving_time": 223,
+      "split": 22,
+      "average_speed": 7.23,
+      "average_grade_adjusted_speed": 7.21,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1606.5,
+      "elapsed_time": 214,
+      "elevation_difference": -6.4,
+      "moving_time": 214,
+      "split": 23,
+      "average_speed": 7.51,
+      "average_grade_adjusted_speed": 7.46,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1615.0,
+      "elapsed_time": 222,
+      "elevation_difference": -4.6,
+      "moving_time": 222,
+      "split": 24,
+      "average_speed": 7.27,
+      "average_grade_adjusted_speed": 7.25,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1605.1,
+      "elapsed_time": 242,
+      "elevation_difference": 0.8,
+      "moving_time": 242,
+      "split": 25,
+      "average_speed": 6.63,
+      "average_grade_adjusted_speed": 6.66,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1610.6,
+      "elapsed_time": 244,
+      "elevation_difference": -1.0,
+      "moving_time": 244,
+      "split": 26,
+      "average_speed": 6.6,
+      "average_grade_adjusted_speed": 6.6,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1606.4,
+      "elapsed_time": 972,
+      "elevation_difference": 1.6,
+      "moving_time": 467,
+      "split": 27,
+      "average_speed": 3.44,
+      "average_grade_adjusted_speed": 3.46,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1611.1,
+      "elapsed_time": 359,
+      "elevation_difference": 1.8,
+      "moving_time": 273,
+      "split": 28,
+      "average_speed": 5.9,
+      "average_grade_adjusted_speed": 5.93,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1612.0,
+      "elapsed_time": 204,
+      "elevation_difference": 1.2,
+      "moving_time": 204,
+      "split": 29,
+      "average_speed": 7.9,
+      "average_grade_adjusted_speed": 7.92,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1609.1,
+      "elapsed_time": 231,
+      "elevation_difference": 5.6,
+      "moving_time": 231,
+      "split": 30,
+      "average_speed": 6.97,
+      "average_grade_adjusted_speed": 7.01,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1606.4,
+      "elapsed_time": 1355,
+      "elevation_difference": 0.4,
+      "moving_time": 280,
+      "split": 31,
+      "average_speed": 5.74,
+      "average_grade_adjusted_speed": 5.75,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1610.7,
+      "elapsed_time": 230,
+      "elevation_difference": -2.2,
+      "moving_time": 230,
+      "split": 32,
+      "average_speed": 7.0,
+      "average_grade_adjusted_speed": 7.0,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1608.7,
+      "elapsed_time": 226,
+      "elevation_difference": 5.2,
+      "moving_time": 226,
+      "split": 33,
+      "average_speed": 7.12,
+      "average_grade_adjusted_speed": 7.16,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1612.9,
+      "elapsed_time": 231,
+      "elevation_difference": 0.8,
+      "moving_time": 231,
+      "split": 34,
+      "average_speed": 6.98,
+      "average_grade_adjusted_speed": 6.99,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1608.2,
+      "elapsed_time": 227,
+      "elevation_difference": -5.2,
+      "moving_time": 227,
+      "split": 35,
+      "average_speed": 7.08,
+      "average_grade_adjusted_speed": 7.06,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1608.7,
+      "elapsed_time": 222,
+      "elevation_difference": -10.4,
+      "moving_time": 222,
+      "split": 36,
+      "average_speed": 7.25,
+      "average_grade_adjusted_speed": 7.18,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1612.9,
+      "elapsed_time": 236,
+      "elevation_difference": 4.2,
+      "moving_time": 236,
+      "split": 37,
+      "average_speed": 6.83,
+      "average_grade_adjusted_speed": 6.89,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1607.2,
+      "elapsed_time": 219,
+      "elevation_difference": -2.2,
+      "moving_time": 219,
+      "split": 38,
+      "average_speed": 7.34,
+      "average_grade_adjusted_speed": 7.33,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1605.0,
+      "elapsed_time": 232,
+      "elevation_difference": -0.6,
+      "moving_time": 232,
+      "split": 39,
+      "average_speed": 6.92,
+      "average_grade_adjusted_speed": 6.92,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1614.9,
+      "elapsed_time": 225,
+      "elevation_difference": -6.2,
+      "moving_time": 225,
+      "split": 40,
+      "average_speed": 7.18,
+      "average_grade_adjusted_speed": 7.14,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1605.6,
+      "elapsed_time": 229,
+      "elevation_difference": -0.4,
+      "moving_time": 229,
+      "split": 41,
+      "average_speed": 7.01,
+      "average_grade_adjusted_speed": 7.02,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1610.6,
+      "elapsed_time": 235,
+      "elevation_difference": 2.0,
+      "moving_time": 235,
+      "split": 42,
+      "average_speed": 6.85,
+      "average_grade_adjusted_speed": 6.88,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1609.6,
+      "elapsed_time": 241,
+      "elevation_difference": 0.4,
+      "moving_time": 241,
+      "split": 43,
+      "average_speed": 6.68,
+      "average_grade_adjusted_speed": 6.71,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1609.0,
+      "elapsed_time": 218,
+      "elevation_difference": 0.6,
+      "moving_time": 218,
+      "split": 44,
+      "average_speed": 7.38,
+      "average_grade_adjusted_speed": 7.4,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1606.7,
+      "elapsed_time": 214,
+      "elevation_difference": -6.4,
+      "moving_time": 214,
+      "split": 45,
+      "average_speed": 7.51,
+      "average_grade_adjusted_speed": 7.47,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1614.8,
+      "elapsed_time": 203,
+      "elevation_difference": -1.2,
+      "moving_time": 203,
+      "split": 46,
+      "average_speed": 7.95,
+      "average_grade_adjusted_speed": 7.95,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1609.4,
+      "elapsed_time": 164,
+      "elevation_difference": 0.0,
+      "moving_time": 164,
+      "split": 47,
+      "average_speed": 9.81,
+      "average_grade_adjusted_speed": 9.82,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1613.3,
+      "elapsed_time": 163,
+      "elevation_difference": 2.8,
+      "moving_time": 163,
+      "split": 48,
+      "average_speed": 9.9,
+      "average_grade_adjusted_speed": 9.99,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1604.1,
+      "elapsed_time": 156,
+      "elevation_difference": -1.4,
+      "moving_time": 156,
+      "split": 49,
+      "average_speed": 10.28,
+      "average_grade_adjusted_speed": 10.28,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1604.6,
+      "elapsed_time": 169,
+      "elevation_difference": -8.4,
+      "moving_time": 169,
+      "split": 50,
+      "average_speed": 9.49,
+      "average_grade_adjusted_speed": 9.41,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1617.8,
+      "elapsed_time": 178,
+      "elevation_difference": 4.6,
+      "moving_time": 178,
+      "split": 51,
+      "average_speed": 9.09,
+      "average_grade_adjusted_speed": 9.16,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1601.0,
+      "elapsed_time": 157,
+      "elevation_difference": -3.8,
+      "moving_time": 157,
+      "split": 52,
+      "average_speed": 10.2,
+      "average_grade_adjusted_speed": 10.19,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1611.6,
+      "elapsed_time": 161,
+      "elevation_difference": 0.8,
+      "moving_time": 161,
+      "split": 53,
+      "average_speed": 10.01,
+      "average_grade_adjusted_speed": 10.02,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1612.0,
+      "elapsed_time": 176,
+      "elevation_difference": 1.8,
+      "moving_time": 176,
+      "split": 54,
+      "average_speed": 9.16,
+      "average_grade_adjusted_speed": 9.18,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1607.5,
+      "elapsed_time": 178,
+      "elevation_difference": 3.4,
+      "moving_time": 178,
+      "split": 55,
+      "average_speed": 9.03,
+      "average_grade_adjusted_speed": 9.07,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1611.0,
+      "elapsed_time": 164,
+      "elevation_difference": -4.8,
+      "moving_time": 164,
+      "split": 56,
+      "average_speed": 9.82,
+      "average_grade_adjusted_speed": 9.79,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1605.8,
+      "elapsed_time": 162,
+      "elevation_difference": 2.8,
+      "moving_time": 162,
+      "split": 57,
+      "average_speed": 9.91,
+      "average_grade_adjusted_speed": 9.96,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1611.4,
+      "elapsed_time": 173,
+      "elevation_difference": -4.0,
+      "moving_time": 173,
+      "split": 58,
+      "average_speed": 9.31,
+      "average_grade_adjusted_speed": 9.29,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1609.4,
+      "elapsed_time": 169,
+      "elevation_difference": 0.8,
+      "moving_time": 169,
+      "split": 59,
+      "average_speed": 9.52,
+      "average_grade_adjusted_speed": 9.53,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1612.4,
+      "elapsed_time": 174,
+      "elevation_difference": -0.8,
+      "moving_time": 174,
+      "split": 60,
+      "average_speed": 9.27,
+      "average_grade_adjusted_speed": 9.27,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1610.1,
+      "elapsed_time": 173,
+      "elevation_difference": -1.8,
+      "moving_time": 173,
+      "split": 61,
+      "average_speed": 9.31,
+      "average_grade_adjusted_speed": 9.3,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1601.8,
+      "elapsed_time": 177,
+      "elevation_difference": 0.4,
+      "moving_time": 177,
+      "split": 62,
+      "average_speed": 9.05,
+      "average_grade_adjusted_speed": 9.06,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1612.1,
+      "elapsed_time": 172,
+      "elevation_difference": 1.6,
+      "moving_time": 172,
+      "split": 63,
+      "average_speed": 9.37,
+      "average_grade_adjusted_speed": 9.4,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1606.6,
+      "elapsed_time": 625,
+      "elevation_difference": 2.8,
+      "moving_time": 240,
+      "split": 64,
+      "average_speed": 6.69,
+      "average_grade_adjusted_speed": 6.73,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1609.5,
+      "elapsed_time": 2652,
+      "elevation_difference": 4.6,
+      "moving_time": 318,
+      "split": 65,
+      "average_speed": 5.06,
+      "average_grade_adjusted_speed": 5.11,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1614.1,
+      "elapsed_time": 350,
+      "elevation_difference": 5.0,
+      "moving_time": 262,
+      "split": 66,
+      "average_speed": 6.16,
+      "average_grade_adjusted_speed": 6.2,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1608.1,
+      "elapsed_time": 782,
+      "elevation_difference": 4.0,
+      "moving_time": 414,
+      "split": 67,
+      "average_speed": 3.88,
+      "average_grade_adjusted_speed": 3.97,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1609.3,
+      "elapsed_time": 354,
+      "elevation_difference": 1.6,
+      "moving_time": 261,
+      "split": 68,
+      "average_speed": 6.17,
+      "average_grade_adjusted_speed": 6.19,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1608.6,
+      "elapsed_time": 245,
+      "elevation_difference": 5.8,
+      "moving_time": 245,
+      "split": 69,
+      "average_speed": 6.57,
+      "average_grade_adjusted_speed": 6.62,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1607.3,
+      "elapsed_time": 235,
+      "elevation_difference": 1.2,
+      "moving_time": 235,
+      "split": 70,
+      "average_speed": 6.84,
+      "average_grade_adjusted_speed": 6.86,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1612.0,
+      "elapsed_time": 222,
+      "elevation_difference": -1.0,
+      "moving_time": 222,
+      "split": 71,
+      "average_speed": 7.26,
+      "average_grade_adjusted_speed": 7.26,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1608.3,
+      "elapsed_time": 231,
+      "elevation_difference": 5.8,
+      "moving_time": 231,
+      "split": 72,
+      "average_speed": 6.96,
+      "average_grade_adjusted_speed": 7.02,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1612.3,
+      "elapsed_time": 272,
+      "elevation_difference": 5.4,
+      "moving_time": 272,
+      "split": 73,
+      "average_speed": 5.93,
+      "average_grade_adjusted_speed": 6.0,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1608.2,
+      "elapsed_time": 255,
+      "elevation_difference": 7.2,
+      "moving_time": 255,
+      "split": 74,
+      "average_speed": 6.31,
+      "average_grade_adjusted_speed": 6.4,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1605.0,
+      "elapsed_time": 269,
+      "elevation_difference": 1.2,
+      "moving_time": 269,
+      "split": 75,
+      "average_speed": 5.97,
+      "average_grade_adjusted_speed": 6.01,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1609.6,
+      "elapsed_time": 2581,
+      "elevation_difference": -4.4,
+      "moving_time": 408,
+      "split": 76,
+      "average_speed": 3.95,
+      "average_grade_adjusted_speed": 3.95,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1614.2,
+      "elapsed_time": 351,
+      "elevation_difference": -5.4,
+      "moving_time": 183,
+      "split": 77,
+      "average_speed": 8.82,
+      "average_grade_adjusted_speed": 8.8,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1605.4,
+      "elapsed_time": 156,
+      "elevation_difference": 12.2,
+      "moving_time": 156,
+      "split": 78,
+      "average_speed": 10.29,
+      "average_grade_adjusted_speed": 10.52,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1610.4,
+      "elapsed_time": 147,
+      "elevation_difference": 14.6,
+      "moving_time": 147,
+      "split": 79,
+      "average_speed": 10.96,
+      "average_grade_adjusted_speed": 11.32,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1617.1,
+      "elapsed_time": 735,
+      "elevation_difference": -34.0,
+      "moving_time": 144,
+      "split": 80,
+      "average_speed": 11.23,
+      "average_grade_adjusted_speed": 11.05,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1603.7,
+      "elapsed_time": 1860,
+      "elevation_difference": -10.4,
+      "moving_time": 172,
+      "split": 81,
+      "average_speed": 9.32,
+      "average_grade_adjusted_speed": 9.83,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1606.5,
+      "elapsed_time": 98,
+      "elevation_difference": -3.6,
+      "moving_time": 98,
+      "split": 82,
+      "average_speed": 16.39,
+      "average_grade_adjusted_speed": 16.37,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1614.1,
+      "elapsed_time": 96,
+      "elevation_difference": -1.2,
+      "moving_time": 96,
+      "split": 83,
+      "average_speed": 16.81,
+      "average_grade_adjusted_speed": 16.8,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1607.7,
+      "elapsed_time": 94,
+      "elevation_difference": 0.8,
+      "moving_time": 94,
+      "split": 84,
+      "average_speed": 17.1,
+      "average_grade_adjusted_speed": 17.15,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1609.3,
+      "elapsed_time": 651,
+      "elevation_difference": -16.8,
+      "moving_time": 187,
+      "split": 85,
+      "average_speed": 8.61,
+      "average_grade_adjusted_speed": 8.69,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1605.8,
+      "elapsed_time": 354,
+      "elevation_difference": -2.4,
+      "moving_time": 264,
+      "split": 86,
+      "average_speed": 6.08,
+      "average_grade_adjusted_speed": 6.08,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1609.3,
+      "elapsed_time": 374,
+      "elevation_difference": 0.2,
+      "moving_time": 287,
+      "split": 87,
+      "average_speed": 5.61,
+      "average_grade_adjusted_speed": 5.62,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1613.2,
+      "elapsed_time": 220,
+      "elevation_difference": -6.4,
+      "moving_time": 220,
+      "split": 88,
+      "average_speed": 7.33,
+      "average_grade_adjusted_speed": 7.29,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1605.8,
+      "elapsed_time": 223,
+      "elevation_difference": 1.6,
+      "moving_time": 223,
+      "split": 89,
+      "average_speed": 7.2,
+      "average_grade_adjusted_speed": 7.22,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1609.4,
+      "elapsed_time": 220,
+      "elevation_difference": -0.6,
+      "moving_time": 220,
+      "split": 90,
+      "average_speed": 7.32,
+      "average_grade_adjusted_speed": 7.32,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1609.2,
+      "elapsed_time": 516,
+      "elevation_difference": 1.4,
+      "moving_time": 252,
+      "split": 91,
+      "average_speed": 6.39,
+      "average_grade_adjusted_speed": 6.4,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1611.2,
+      "elapsed_time": 216,
+      "elevation_difference": -3.6,
+      "moving_time": 216,
+      "split": 92,
+      "average_speed": 7.46,
+      "average_grade_adjusted_speed": 7.44,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1607.4,
+      "elapsed_time": 219,
+      "elevation_difference": -1.2,
+      "moving_time": 219,
+      "split": 93,
+      "average_speed": 7.34,
+      "average_grade_adjusted_speed": 7.34,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1608.2,
+      "elapsed_time": 345,
+      "elevation_difference": -0.6,
+      "moving_time": 266,
+      "split": 94,
+      "average_speed": 6.05,
+      "average_grade_adjusted_speed": 6.05,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1613.3,
+      "elapsed_time": 219,
+      "elevation_difference": -1.2,
+      "moving_time": 219,
+      "split": 95,
+      "average_speed": 7.37,
+      "average_grade_adjusted_speed": 7.36,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1608.6,
+      "elapsed_time": 219,
+      "elevation_difference": -0.4,
+      "moving_time": 219,
+      "split": 96,
+      "average_speed": 7.35,
+      "average_grade_adjusted_speed": 7.35,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1613.6,
+      "elapsed_time": 219,
+      "elevation_difference": -1.2,
+      "moving_time": 219,
+      "split": 97,
+      "average_speed": 7.37,
+      "average_grade_adjusted_speed": 7.36,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1608.7,
+      "elapsed_time": 210,
+      "elevation_difference": -2.4,
+      "moving_time": 210,
+      "split": 98,
+      "average_speed": 7.66,
+      "average_grade_adjusted_speed": 7.65,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1605.4,
+      "elapsed_time": 212,
+      "elevation_difference": -1.0,
+      "moving_time": 212,
+      "split": 99,
+      "average_speed": 7.57,
+      "average_grade_adjusted_speed": 7.57,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1611.7,
+      "elapsed_time": 872,
+      "elevation_difference": -1.2,
+      "moving_time": 256,
+      "split": 100,
+      "average_speed": 6.3,
+      "average_grade_adjusted_speed": 6.29,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1605.6,
+      "elapsed_time": 227,
+      "elevation_difference": 3.6,
+      "moving_time": 227,
+      "split": 101,
+      "average_speed": 7.07,
+      "average_grade_adjusted_speed": 7.1,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1611.8,
+      "elapsed_time": 213,
+      "elevation_difference": 3.0,
+      "moving_time": 213,
+      "split": 102,
+      "average_speed": 7.57,
+      "average_grade_adjusted_speed": 7.59,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1606.6,
+      "elapsed_time": 230,
+      "elevation_difference": 2.6,
+      "moving_time": 230,
+      "split": 103,
+      "average_speed": 6.99,
+      "average_grade_adjusted_speed": 7.01,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1613.0,
+      "elapsed_time": 223,
+      "elevation_difference": -0.6,
+      "moving_time": 223,
+      "split": 104,
+      "average_speed": 7.23,
+      "average_grade_adjusted_speed": 7.23,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1609.7,
+      "elapsed_time": 229,
+      "elevation_difference": 2.6,
+      "moving_time": 229,
+      "split": 105,
+      "average_speed": 7.03,
+      "average_grade_adjusted_speed": 7.05,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1608.3,
+      "elapsed_time": 525,
+      "elevation_difference": 0.8,
+      "moving_time": 351,
+      "split": 106,
+      "average_speed": 4.58,
+      "average_grade_adjusted_speed": 4.59,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1610.3,
+      "elapsed_time": 251,
+      "elevation_difference": 2.6,
+      "moving_time": 251,
+      "split": 107,
+      "average_speed": 6.42,
+      "average_grade_adjusted_speed": 6.44,
+      "pace_zone": 0
+    },
+    {
+      "distance": 849.9,
+      "elapsed_time": 266,
+      "elevation_difference": 0.0,
+      "moving_time": 208,
+      "split": 108,
+      "average_speed": 4.09,
+      "average_grade_adjusted_speed": 4.09,
+      "pace_zone": 0
+    }
+  ],
+  "laps": [
+    {
+      "id": 58708337894,
+      "resource_state": 2,
+      "name": "Lap 1",
+      "activity": {
+        "id": 16470663779,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 22278,
+      "moving_time": 17010,
+      "start_date": "2025-11-15T02:07:03Z",
+      "start_date_local": "2025-11-15T07:52:03Z",
+      "distance": 121122.0,
+      "average_speed": 7.12,
+      "max_speed": 11.42,
+      "lap_index": 1,
+      "split": 1,
+      "start_index": 0,
+      "end_index": 17034,
+      "total_elevation_gain": 297.0,
+      "device_watts": false,
+      "average_watts": 163.8
+    },
+    {
+      "id": 58708337918,
+      "resource_state": 2,
+      "name": "Lap 2",
+      "activity": {
+        "id": 16470663779,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 13178,
+      "moving_time": 7018,
+      "start_date": "2025-11-15T08:18:25Z",
+      "start_date_local": "2025-11-15T14:03:25Z",
+      "distance": 51932.6,
+      "average_speed": 7.4,
+      "max_speed": 21.32,
+      "lap_index": 2,
+      "split": 2,
+      "start_index": 17035,
+      "end_index": 24079,
+      "total_elevation_gain": 109.8,
+      "device_watts": false,
+      "average_watts": 178.5
+    }
+  ],
+  "gear": {
+    "id": "b16337781",
+    "primary": false,
+    "name": "Betty (Milan ->)",
+    "nickname": "Betty (Milan ->)",
+    "resource_state": 2,
+    "retired": false,
+    "distance": 9056030,
+    "converted_distance": 9056.0
+  },
+  "photos": {
+    "primary": {
+      "unique_id": "6c613c98-e613-4aed-b460-19194ff7240e",
+      "urls": {
+        "600": "https://dgtzuqphqg23d.cloudfront.net/h4Vcbo7YFb7kBpYPgyDpWPrAAMb7iz-ivkXViWuNCt4-768x432.jpg",
+        "100": "https://dgtzuqphqg23d.cloudfront.net/h4Vcbo7YFb7kBpYPgyDpWPrAAMb7iz-ivkXViWuNCt4-128x72.jpg"
+      },
+      "source": 1,
+      "media_type": 1
+    },
+    "use_primary_photo": false,
+    "count": 7
+  },
+  "stats_visibility": [
+    {
+      "type": "heart_rate",
+      "visibility": "everyone"
+    },
+    {
+      "type": "pace",
+      "visibility": "everyone"
+    },
+    {
+      "type": "power",
+      "visibility": "everyone"
+    },
+    {
+      "type": "speed",
+      "visibility": "everyone"
+    },
+    {
+      "type": "calories",
+      "visibility": "everyone"
+    }
+  ],
+  "hide_from_home": false,
+  "embed_token": "3d5bfaa7e77cd5f8841b25ff9cfe8629d36afa3f",
+  "available_zones": [
+    "power"
+  ]
+}

@@ -11,11 +11,10 @@ import Map, {
 import "mapbox-gl/dist/mapbox-gl.css";
 import Photos from "./Photos";
 import { Photo } from "./Photos";
-import { SummaryActivity, DetailedActivity } from "@/api/strava/api";
+import { SummaryActivity, DetailedActivity } from "@/types/StravaTypes";
 import { getDetailedActivity, getActivityPhotos } from "@/services/strava";
 import { processActivities, calculateBounds } from "@/lib/activity-processor";
 import { formatDistance, formatTime } from "@/lib/dates";
-import { cacheService } from "@/services/cache"
 
 interface JourneyMapProps {
   activities: SummaryActivity[];
@@ -274,33 +273,24 @@ export function JourneyMap({
     setTimeout(scrollToActivityDetails, 100);
 
     try {
-      // Try fetching from the cache first
-      const cachedData = cacheService.getItem(`cache:strava:activity:${activityId}`);
+      // Fetch detailed activity (browser HTTP cache handles caching)
+      const detailedActivity = await getDetailedActivity(activityId);
+      setSelectedActivity(detailedActivity);
 
-      if (cachedData) {
-        setSelectedActivity(cachedData);
-      } else {
-        // Fetch from API if not cached
-        const detailedActivity = await getDetailedActivity(activityId);
-        setSelectedActivity(detailedActivity);
-      }
-
-      // Fetch the activity photos
+      // Fetch the activity photos (they include all sizes)
       const photos = await getActivityPhotos(activityId.toString());
-      const previewPhotos = await getActivityPhotos(activityId.toString(), 100);
 
       // Extract photos into the desired json format
-      if (photos && previewPhotos) {
-        const extractedPhotos: Photo[] = photos.map((activity, index) => {
-          // TODO
-          const smallSize = 100
-          const largeSize = 5000
+      if (photos) {
+        const extractedPhotos: Photo[] = photos.map((photo) => {
+          const smallSize = 100;
+          const largeSize = 5000;
 
           return {
-            id: activity.unique_id,
-            smallUrl: previewPhotos[index]?.urls[smallSize.toString()] || '',
-            largeUrl: activity.urls[largeSize.toString()] || '',
-            videoUrl: activity.video_url || null
+            id: photo.unique_id,
+            smallUrl: photo.urls[smallSize.toString()] || photo.urls[largeSize.toString()] || '',
+            largeUrl: photo.urls[largeSize.toString()] || '',
+            videoUrl: photo.video_url || null
           };
         });
 

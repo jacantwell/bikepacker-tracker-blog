@@ -1,5 +1,5 @@
 import { useState, useEffect, useCallback } from 'react';
-import { SummaryActivity } from '../api/strava/api';
+import { SummaryActivity } from '@/types/StravaTypes';
 import { getJourneyActivities } from '../services/strava';
 
 function useStravaData(startDate: string) {
@@ -17,7 +17,7 @@ function useStravaData(startDate: string) {
     try {
       setLoading(true);
       
-      const data = await getJourneyActivities(startDate, skipCache);
+      const data = await getJourneyActivities(startDate);
       setActivities(data.activities);
       setLastUpdated(new Date(data.timestamp));
       setError(null);
@@ -36,10 +36,9 @@ function useStravaData(startDate: string) {
   // Function to manually refresh data (also memoized)
   const refresh = useCallback(() => loadData(true), [loadData]);
 
-  // Initial data load (try from cache first)
   useEffect(() => {
-    loadData(false); // Try to use cache for initial load
-  }, [loadData]); // Now we can safely include loadData in dependencies
+    loadData(false);
+  }, [loadData]);
 
   return { 
     activities, 

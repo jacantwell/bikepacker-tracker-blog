@@ -1,5 +1,5 @@
 import { useState, useEffect } from "react";
-import { SummaryActivity } from "@/api/strava/api";
+import { SummaryActivity } from "@/types/StravaTypes";
 import { formatDistance } from "@/lib/dates";
 
 interface JourneyStatsProps {
@@ -8,13 +8,6 @@ interface JourneyStatsProps {
     isLoading?: boolean;
 }
 
-function getDaysSinceStart(startDate: string): number {
-    const start = new Date(startDate);
-    const now = new Date();
-    // Calculate difference in ms and convert to days
-    const diffTime = now.getTime() - start.getTime();
-    return Math.max(0, Math.floor(diffTime / (1000 * 60 * 60 * 24)));
-}
 
 export function JourneyStats({
     activities = [],
@@ -79,7 +72,7 @@ export function JourneyStats({
                     <div className="mt-1 h-8 w-16 animate-pulse rounded bg-gray-200 dark:bg-gray-700"></div>
                 ) : (
                     <p className="text-2xl font-bold text-green-600 dark:text-green-400">
-                        {getDaysSinceStart(startDate)}
+                        199
                     </p>
                 )}
             </div>

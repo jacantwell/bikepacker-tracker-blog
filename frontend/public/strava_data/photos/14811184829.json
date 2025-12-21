@@ -1,0 +1,97 @@
+[
+  {
+    "unique_id": "6ca0b855-1888-4dc0-8d86-cfaf784a3f95",
+    "athlete_id": 49023768,
+    "activity_id": 14811184829,
+    "activity_name": "Spectating Pt 2",
+    "post_id": null,
+    "resource_state": 2,
+    "caption": "",
+    "type": 1,
+    "source": 1,
+    "status": 3,
+    "uploaded_at": "2025-06-15T19:58:27Z",
+    "created_at": "2025-06-15T09:48:57Z",
+    "created_at_local": "2025-06-15T11:48:57Z",
+    "urls": {
+      "5000": "https://dgtzuqphqg23d.cloudfront.net/Oqp07CCsw1huh7_5MtDxRLxgD16w12RorBzeF9LXuv4-2048x1536.jpg"
+    },
+    "placeholder_image": null,
+    "sizes": {
+      "5000": [
+        2048,
+        1536
+      ]
+    },
+    "default_photo": false,
+    "cursor": null,
+    "location": [
+      45.20793611111112,
+      6.733383333333333
+    ]
+  },
+  {
+    "unique_id": "9e28e775-f4a8-4b7a-85c3-2c8f350d44c2",
+    "athlete_id": 49023768,
+    "activity_id": 14811184829,
+    "activity_name": "Spectating Pt 2",
+    "post_id": null,
+    "resource_state": 2,
+    "caption": "",
+    "type": 2,
+    "source": 1,
+    "status": 3,
+    "uploaded_at": "2025-06-15T19:58:36Z",
+    "created_at": "2025-06-15T14:58:41Z",
+    "created_at_local": "2025-06-15T16:58:41Z",
+    "urls": {
+      "5000": "https://d35tn3x5zm6xrc.cloudfront.net/cinsN9xStzftcWlp8QE6p2-aJbtopzl37k85JjxLOZo/thumbnails/cinsN9xStzftcWlp8QE6p2-aJbtopzl37k85JjxLOZo_1080x1920.jpg"
+    },
+    "placeholder_image": null,
+    "sizes": {
+      "5000": [
+        1080,
+        1920
+      ]
+    },
+    "default_photo": false,
+    "cursor": null,
+    "duration": 6.662144,
+    "video_url": "https://d35tn3x5zm6xrc.cloudfront.net/cinsN9xStzftcWlp8QE6p2-aJbtopzl37k85JjxLOZo/hls/cinsN9xStzftcWlp8QE6p2-aJbtopzl37k85JjxLOZo.m3u8",
+    "location": [
+      45.2619,
+      6.9002
+    ]
+  },
+  {
+    "unique_id": "25400f95-1f4d-46de-abf8-2df3f12d54bd",
+    "athlete_id": 49023768,
+    "activity_id": 14811184829,
+    "activity_name": "Spectating Pt 2",
+    "post_id": null,
+    "resource_state": 2,
+    "caption": "",
+    "type": 1,
+    "source": 1,
+    "status": 3,
+    "uploaded_at": "2025-06-15T19:58:27Z",
+    "created_at": "2025-06-15T19:48:44Z",
+    "created_at_local": "2025-06-15T21:48:44Z",
+    "urls": {
+      "5000": "https://dgtzuqphqg23d.cloudfront.net/VJwkgpdOktW4n9GlanuTw97IVEagz3Rf8vlzPI2vnzY-1536x2048.jpg"
+    },
+    "placeholder_image": null,
+    "sizes": {
+      "5000": [
+        1536,
+        2048
+      ]
+    },
+    "default_photo": false,
+    "cursor": null,
+    "location": [
+      45.223286111111115,
+      6.933227777777778
+    ]
+  }
+]

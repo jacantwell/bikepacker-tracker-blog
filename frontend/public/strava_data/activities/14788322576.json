@@ -1,0 +1,618 @@
+{
+  "resource_state": 3,
+  "athlete": {
+    "id": 49023768,
+    "resource_state": 1
+  },
+  "name": "Morning Ride",
+  "distance": 7541.2,
+  "moving_time": 2980,
+  "elapsed_time": 19819,
+  "total_elevation_gain": 287.0,
+  "type": "Ride",
+  "sport_type": "Ride",
+  "workout_type": null,
+  "device_name": "Wahoo ELEMNT BOLT",
+  "id": 14788322576,
+  "start_date": "2025-06-13T08:02:38Z",
+  "start_date_local": "2025-06-13T10:02:38Z",
+  "timezone": "(GMT+01:00) Europe/Paris",
+  "utc_offset": 7200.0,
+  "location_city": null,
+  "location_state": null,
+  "location_country": null,
+  "achievement_count": 0,
+  "kudos_count": 14,
+  "comment_count": 0,
+  "athlete_count": 1,
+  "photo_count": 0,
+  "map": {
+    "id": "a14788322576",
+    "polyline": "c_srGwbef@BSC[IIYGiEe@}@@GAUMc@MeD[{CS]IeEuAgASq@Qa@QQSO]Eg@Bg@X{AAg@Mc@a@aA?WNiAJe@@KB@AB?@YLE}@BmAAkAI_D@sAI}CCyDCc@?qA?OFUPCT@b@A|@RZAH@LA@HLHFPHHTn@BHC?qBgBSAi@Qi@?o@C_AB]Ca@BIAIHCHC?IKu@CQGC@ILSxAAZHl@?ZDXCPDL@NYbBCROl@QfA?NA@v@qIEc@@q@VuAFuA\\kDR}@B[Na@@QEI_@W_@]o@_@kAi@i@[_@Oc@[WYS{@_@eAc@e@kByAw@Qk@?q@Jc@AWG_@SOCe@Wg@QSCO@e@LwAtAa@X_@FcBEW@g@Nm@VWBQ?m@DGBKA{@LSNc@j@o@jAWRs@^UPa@Be@EgB]aD_@UEc@S[WcAiAIM]Yo@Yq@QQOIa@Eq@@OGk@@KEu@AaBCg@ESY_@Ww@g@MIKQEAD?VxAw@@YGWA[EWe@gA_@_@KS[WOQYk@CIIM?Ec@g@i@aAUUg@UUCc@Co@MS?u@Kq@HKAc@BOAYMc@e@SEe@C_AT_A\\e@ToAZmBj@YBk@G[Ii@E_@DYPaAdAKXIHIDe@DQHMLI@ICQWGCa@Ao@KiAY[AYDA?AEDC^BTLJ@\\GH?~@RXEb@]j@y@JE^o@j@y@TSBODMf@YVAYDQLS\\q@t@o@|@wA`BIDMDKA_@GoA_@KCMBKC{@s@_Bu@e@Ms@KeAC{Bg@]Eu@OoBi@[MuAgA]Sk@KUCS@a@@YDW?[F_AFKCa@?c@I_@M{@Q]Ei@Bk@Ic@KM?MG_@]}@gAk@e@E?]Q]Eq@]c@Og@ISAQBkB@]HGOc@OgAo@a@Oy@Qw@K[?[F{@@kAQ]Ks@Gq@?{@OwFaCqDiAcC}@[Bg@TMBSE]Oy@WYCWGSCOGQMi@CQGQA}@VKH?JHHBFAHCB",
+    "resource_state": 3,
+    "summary_polyline": "c_srGwbef@BSC[IIYGiEe@}@@GAUMc@MeD[{CS]IeEuAgASq@Qa@QQSO]Eg@Bg@X{AAg@Mc@a@aA?WNiAJe@@KB@AB?@YLE}@Ba@?kAKkE@sAI}CCyDCc@?qA?OFUPC|@?x@RZAH@LA@HLHFPHHTn@BHC?qBgBSAi@Qi@?o@C_AB]Ca@BIAIHCHC?IKu@CQGC@ILSxAAZHl@?ZDXCPDL@NYbBCROl@QfA?NA@v@qIEc@@q@VuAFuA\\kDR}@B[Na@@QEI_@W_@]o@_@kAi@i@[_@Oc@[WYS{@_@eAc@e@kByAw@Qk@?q@Jc@AWG_@SOCe@Wg@QSCO@e@LwAtAa@X_@FcBEW@g@Nm@VWBQ?m@DGBKA{@LSNc@j@o@jAWRs@^UPa@Be@EgB]aD_@UEc@S[WcAiAIM]Yo@Yq@QQOIa@Eq@@OGk@@KEu@AaBCg@ESY_@Ww@g@MIKQEAD?VxAw@@YGWA[EWe@gA_@_@KS[WOQYk@CIIM?Ec@g@i@aAUUg@UUCc@Co@MS?u@Kq@HKAc@BOAYMc@e@SEe@C_AT_A\\e@ToAZmBj@YBk@G[Ii@E_@DYPaAdAKXIHIDe@DQHMLI@ICQWGCa@Ao@KiAY[AYDA?AEDC^BTLJ@\\GH?~@RXEb@]j@y@JE^o@j@y@TSBODMf@YVAYDQLS\\q@t@o@|@wA`BIDMDKA_@GoA_@KCMBKC{@s@_Bu@e@Ms@KeAC{Bg@]Eu@OoBi@[MuAgA]Sk@KUCS@a@@YDW?[F_AFKCa@?c@I_@M{@Q]Ei@Bk@Ic@KM?MG_@]}@gAk@e@E?]Q]Eq@]c@Og@ISAQBkB@]HGOc@OgAo@a@Oy@Qw@K[?[F{@@kAQ]Ks@Gq@?{@OwFaCqDiAcC}@[Bg@TMBSE]Oy@WYCWGSCOGQMi@CQGQA}@VKH?JHHBFAHCB"
+  },
+  "trainer": false,
+  "commute": false,
+  "manual": false,
+  "private": false,
+  "visibility": "everyone",
+  "flagged": false,
+  "gear_id": "b11943195",
+  "start_latlng": [
+    45.158428,
+    6.421083
+  ],
+  "end_latlng": [
+    45.203163,
+    6.443948
+  ],
+  "average_speed": 2.531,
+  "max_speed": 9.52,
+  "average_temp": 32,
+  "average_watts": 79.5,
+  "device_watts": false,
+  "kilojoules": 237.0,
+  "has_heartrate": false,
+  "heartrate_opt_out": false,
+  "display_hide_heartrate_option": false,
+  "elev_high": 1564.0,
+  "elev_low": 1408.6,
+  "upload_id": 15782117936,
+  "upload_id_str": "15782117936",
+  "external_id": "1ac9666a-c24b-4b3c-8936-c10c97084746.fit",
+  "from_accepted_tag": false,
+  "pr_count": 0,
+  "total_photo_count": 1,
+  "has_kudoed": false,
+  "description": "Got to keep the line connected ",
+  "calories": 264.0,
+  "perceived_exertion": null,
+  "prefer_perceived_exertion": false,
+  "segment_efforts": [
+    {
+      "id": 3393200992279128490,
+      "resource_state": 2,
+      "name": "Sprint Bergelin ",
+      "activity": {
+        "id": 14788322576,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 261,
+      "moving_time": 261,
+      "start_date": "2025-06-13T10:19:48Z",
+      "start_date_local": "2025-06-13T12:19:48Z",
+      "distance": 507.8,
+      "start_index": 683,
+      "end_index": 944,
+      "device_watts": false,
+      "segment": {
+        "id": 39930183,
+        "resource_state": 2,
+        "name": "Sprint Bergelin ",
+        "activity_type": "Ride",
+        "distance": 507.8,
+        "average_grade": 4.5,
+        "maximum_grade": 13.3,
+        "elevation_high": 1426.2,
+        "elevation_low": 1403.2,
+        "start_latlng": [
+          45.165166,
+          6.431628
+        ],
+        "end_latlng": [
+          45.168806,
+          6.434364
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Valloire",
+        "state": "Savoy",
+        "country": "France",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3368650503948444150,
+      "resource_state": 2,
+      "name": "Valloire - Le Col ",
+      "activity": {
+        "id": 14788322576,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 1426,
+      "moving_time": 1122,
+      "start_date": "2025-06-13T10:21:37Z",
+      "start_date_local": "2025-06-13T12:21:37Z",
+      "distance": 2151.4,
+      "start_index": 792,
+      "end_index": 1917,
+      "device_watts": false,
+      "segment": {
+        "id": 12448018,
+        "resource_state": 2,
+        "name": "Valloire - Le Col ",
+        "activity_type": "Ride",
+        "distance": 2151.4,
+        "average_grade": 5.0,
+        "maximum_grade": 15.6,
+        "elevation_high": 1516.0,
+        "elevation_low": 1407.4,
+        "start_latlng": [
+          45.166626,
+          6.433026
+        ],
+        "end_latlng": [
+          45.182337,
+          6.438905
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 1,
+        "city": "Valloire",
+        "state": "Auvergne Rh\u00f4ne-Alpes",
+        "country": "France",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3368650503948003830,
+      "resource_state": 2,
+      "name": "Village du col : bas en haut",
+      "activity": {
+        "id": 14788322576,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 9133,
+      "moving_time": 245,
+      "start_date": "2025-06-13T10:46:26Z",
+      "start_date_local": "2025-06-13T12:46:26Z",
+      "distance": 403.1,
+      "start_index": 1980,
+      "end_index": 2230,
+      "device_watts": false,
+      "segment": {
+        "id": 21486309,
+        "resource_state": 2,
+        "name": "Village du col : bas en haut",
+        "activity_type": "Ride",
+        "distance": 403.1,
+        "average_grade": 5.3,
+        "maximum_grade": 15.1,
+        "elevation_high": 1569.2,
+        "elevation_low": 1548.0,
+        "start_latlng": [
+          45.183711,
+          6.438544
+        ],
+        "end_latlng": [
+          45.18329,
+          6.439906
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Valloire",
+        "state": "Auvergne-Rh\u00f4ne-Alpes",
+        "country": "France",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3368650503949051382,
+      "resource_state": 2,
+      "name": "D902 Climb",
+      "activity": {
+        "id": 14788322576,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 515,
+      "moving_time": 443,
+      "start_date": "2025-06-13T13:20:42Z",
+      "start_date_local": "2025-06-13T15:20:42Z",
+      "distance": 1111.9,
+      "start_index": 2353,
+      "end_index": 2798,
+      "device_watts": false,
+      "segment": {
+        "id": 5060446,
+        "resource_state": 2,
+        "name": "D902 Climb",
+        "activity_type": "Ride",
+        "distance": 1111.9,
+        "average_grade": 10.5,
+        "maximum_grade": 45.1,
+        "elevation_high": 1535.8,
+        "elevation_low": 1419.6,
+        "start_latlng": [
+          45.187984,
+          6.439577
+        ],
+        "end_latlng": [
+          45.19735,
+          6.4426
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 1,
+        "city": "Valloire",
+        "state": "RA",
+        "country": "France",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3368650503949743606,
+      "resource_state": 2,
+      "name": "Last K T\u00e9l\u00e9graphe from Valloire",
+      "activity": {
+        "id": 14788322576,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 257,
+      "moving_time": 257,
+      "start_date": "2025-06-13T13:27:50Z",
+      "start_date_local": "2025-06-13T15:27:50Z",
+      "distance": 813.8,
+      "start_index": 2711,
+      "end_index": 2968,
+      "device_watts": false,
+      "segment": {
+        "id": 8056122,
+        "resource_state": 2,
+        "name": "Last K T\u00e9l\u00e9graphe from Valloire",
+        "activity_type": "Ride",
+        "distance": 813.8,
+        "average_grade": 1.4,
+        "maximum_grade": 8.3,
+        "elevation_high": 1582.2,
+        "elevation_low": 1570.4,
+        "start_latlng": [
+          45.195506,
+          6.442204
+        ],
+        "end_latlng": [
+          45.202516,
+          6.444361
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Valloire",
+        "state": "Rhone-Alpes",
+        "country": "France",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3368650503950687734,
+      "resource_state": 2,
+      "name": "Relance du T\u00e9l\u00e9graphe",
+      "activity": {
+        "id": 14788322576,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 149,
+      "moving_time": 149,
+      "start_date": "2025-06-13T13:29:37Z",
+      "start_date_local": "2025-06-13T15:29:37Z",
+      "distance": 530.8,
+      "start_index": 2818,
+      "end_index": 2967,
+      "device_watts": false,
+      "segment": {
+        "id": 8036859,
+        "resource_state": 2,
+        "name": "Relance du T\u00e9l\u00e9graphe",
+        "activity_type": "Ride",
+        "distance": 530.8,
+        "average_grade": -0.7,
+        "maximum_grade": 19.4,
+        "elevation_high": 1566.6,
+        "elevation_low": 1549.5,
+        "start_latlng": [
+          45.197955,
+          6.442768
+        ],
+        "end_latlng": [
+          45.202502,
+          6.444435
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Valloire",
+        "state": "Rhone-Alpes",
+        "country": "France",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    }
+  ],
+  "splits_metric": [
+    {
+      "distance": 1002.4,
+      "elapsed_time": 884,
+      "elevation_difference": -37.2,
+      "moving_time": 193,
+      "split": 1,
+      "average_speed": 5.19,
+      "average_grade_adjusted_speed": 4.85,
+      "pace_zone": 0
+    },
+    {
+      "distance": 997.8,
+      "elapsed_time": 7316,
+      "elevation_difference": -38.6,
+      "moving_time": 460,
+      "split": 2,
+      "average_speed": 2.17,
+      "average_grade_adjusted_speed": 2.26,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1001.0,
+      "elapsed_time": 561,
+      "elevation_difference": 44.8,
+      "moving_time": 504,
+      "split": 3,
+      "average_speed": 1.99,
+      "average_grade_adjusted_speed": 2.3,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1000.4,
+      "elapsed_time": 759,
+      "elevation_difference": 50.6,
+      "moving_time": 515,
+      "split": 4,
+      "average_speed": 1.94,
+      "average_grade_adjusted_speed": 2.31,
+      "pace_zone": 0
+    },
+    {
+      "distance": 999.7,
+      "elapsed_time": 9222,
+      "elevation_difference": 33.2,
+      "moving_time": 450,
+      "split": 5,
+      "average_speed": 2.22,
+      "average_grade_adjusted_speed": 2.5,
+      "pace_zone": 0
+    },
+    {
+      "distance": 999.1,
+      "elapsed_time": 483,
+      "elevation_difference": 1.0,
+      "moving_time": 308,
+      "split": 6,
+      "average_speed": 3.24,
+      "average_grade_adjusted_speed": 3.43,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1002.3,
+      "elapsed_time": 409,
+      "elevation_difference": 16.4,
+      "moving_time": 403,
+      "split": 7,
+      "average_speed": 2.49,
+      "average_grade_adjusted_speed": 2.62,
+      "pace_zone": 0
+    },
+    {
+      "distance": 538.5,
+      "elapsed_time": 185,
+      "elevation_difference": 4.4,
+      "moving_time": 185,
+      "split": 8,
+      "average_speed": 2.91,
+      "average_grade_adjusted_speed": 3.08,
+      "pace_zone": 0
+    }
+  ],
+  "splits_standard": [
+    {
+      "distance": 1610.3,
+      "elapsed_time": 7624,
+      "elevation_difference": -74.8,
+      "moving_time": 473,
+      "split": 1,
+      "average_speed": 3.4,
+      "average_grade_adjusted_speed": 3.31,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1608.9,
+      "elapsed_time": 1251,
+      "elevation_difference": 55.6,
+      "moving_time": 798,
+      "split": 2,
+      "average_speed": 2.02,
+      "average_grade_adjusted_speed": 2.3,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1611.6,
+      "elapsed_time": 1031,
+      "elevation_difference": 68.0,
+      "moving_time": 779,
+      "split": 3,
+      "average_speed": 2.07,
+      "average_grade_adjusted_speed": 2.39,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1608.5,
+      "elapsed_time": 9507,
+      "elevation_difference": 15.2,
+      "moving_time": 568,
+      "split": 4,
+      "average_speed": 2.83,
+      "average_grade_adjusted_speed": 3.02,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1101.9,
+      "elapsed_time": 406,
+      "elevation_difference": 10.6,
+      "moving_time": 400,
+      "split": 5,
+      "average_speed": 2.75,
+      "average_grade_adjusted_speed": 2.89,
+      "pace_zone": 0
+    }
+  ],
+  "laps": [
+    {
+      "id": 52589537404,
+      "resource_state": 2,
+      "name": "Lap 1",
+      "activity": {
+        "id": 14788322576,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 19820,
+      "moving_time": 3019,
+      "start_date": "2025-06-13T08:02:38Z",
+      "start_date_local": "2025-06-13T10:02:38Z",
+      "distance": 7542.02,
+      "average_speed": 2.5,
+      "max_speed": 9.52,
+      "lap_index": 1,
+      "split": 1,
+      "start_index": 0,
+      "end_index": 3018,
+      "total_elevation_gain": 195.8,
+      "device_watts": false,
+      "average_watts": 79.5
+    }
+  ],
+  "gear": {
+    "id": "b11943195",
+    "primary": false,
+    "name": "Betty",
+    "nickname": "Betty",
+    "resource_state": 2,
+    "retired": false,
+    "distance": 12373192,
+    "converted_distance": 12373.2
+  },
+  "photos": {
+    "primary": {
+      "unique_id": "728cfaa8-b594-468b-bb4d-7f1cf6efde5c",
+      "urls": {
+        "600": "https://dgtzuqphqg23d.cloudfront.net/PxOvioVHgBhpzBQGZB8lk163qdH9i_Rhp6wmFrGKQq0-576x768.jpg",
+        "100": "https://dgtzuqphqg23d.cloudfront.net/PxOvioVHgBhpzBQGZB8lk163qdH9i_Rhp6wmFrGKQq0-96x128.jpg"
+      },
+      "source": 1,
+      "media_type": 1
+    },
+    "use_primary_photo": false,
+    "count": 1
+  },
+  "stats_visibility": [
+    {
+      "type": "heart_rate",
+      "visibility": "everyone"
+    },
+    {
+      "type": "pace",
+      "visibility": "everyone"
+    },
+    {
+      "type": "power",
+      "visibility": "everyone"
+    },
+    {
+      "type": "speed",
+      "visibility": "everyone"
+    },
+    {
+      "type": "calories",
+      "visibility": "everyone"
+    }
+  ],
+  "hide_from_home": false,
+  "embed_token": "8e353e56eeecf40b7a065687fd681e6ebf37833f",
+  "available_zones": [
+    "power"
+  ]
+}

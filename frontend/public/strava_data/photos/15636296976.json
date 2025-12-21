@@ -1,0 +1,33 @@
+[
+  {
+    "unique_id": "80ba5d20-71c6-46f9-9d08-f145147ced05",
+    "athlete_id": 49023768,
+    "activity_id": 15636296976,
+    "activity_name": "Recovery",
+    "post_id": null,
+    "resource_state": 2,
+    "caption": "",
+    "type": 1,
+    "source": 1,
+    "status": 3,
+    "uploaded_at": "2025-08-30T12:00:10Z",
+    "created_at": "2025-08-30T08:47:38Z",
+    "created_at_local": "2025-08-30T12:47:38Z",
+    "urls": {
+      "5000": "https://dgtzuqphqg23d.cloudfront.net/1a_MWxrGe5aGYNIpoIxh7gq2j_zsdNU8pRkF0w0Y0ts-1152x2048.jpg"
+    },
+    "placeholder_image": null,
+    "sizes": {
+      "5000": [
+        1152,
+        2048
+      ]
+    },
+    "default_photo": true,
+    "cursor": null,
+    "location": [
+      41.93535,
+      41.983513888888886
+    ]
+  }
+]

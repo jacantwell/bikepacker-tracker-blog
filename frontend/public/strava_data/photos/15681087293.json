@@ -1,0 +1,64 @@
+[
+  {
+    "unique_id": "5bf57be1-f52d-4ff4-9186-19b79951d480",
+    "athlete_id": 49023768,
+    "activity_id": 15681087293,
+    "activity_name": "Morning Ride",
+    "post_id": null,
+    "resource_state": 2,
+    "caption": "",
+    "type": 1,
+    "source": 1,
+    "status": 3,
+    "uploaded_at": "2025-09-03T10:42:52Z",
+    "created_at": "2025-09-03T06:47:18Z",
+    "created_at_local": "2025-09-03T10:47:18Z",
+    "urls": {
+      "5000": "https://dgtzuqphqg23d.cloudfront.net/3kv9IYY-UYJbCJWkLF1pCsXSI_0TkoGobnAgB8WoCBw-1152x2048.jpg"
+    },
+    "placeholder_image": null,
+    "sizes": {
+      "5000": [
+        1152,
+        2048
+      ]
+    },
+    "default_photo": false,
+    "cursor": null,
+    "location": [
+      41.98279166666667,
+      43.957861111111114
+    ]
+  },
+  {
+    "unique_id": "46542d0c-43eb-4a01-9c00-41ed93fef224",
+    "athlete_id": 49023768,
+    "activity_id": 15681087293,
+    "activity_name": "Morning Ride",
+    "post_id": null,
+    "resource_state": 2,
+    "caption": "",
+    "type": 1,
+    "source": 1,
+    "status": 3,
+    "uploaded_at": "2025-09-03T10:42:52Z",
+    "created_at": "2025-09-03T05:12:59Z",
+    "created_at_local": "2025-09-03T09:12:59Z",
+    "urls": {
+      "5000": "https://dgtzuqphqg23d.cloudfront.net/5tdQE7WB1rqqsKezlmRmYC7ba17a94XaffzsWx9IY7Q-1152x2048.jpg"
+    },
+    "placeholder_image": null,
+    "sizes": {
+      "5000": [
+        1152,
+        2048
+      ]
+    },
+    "default_photo": false,
+    "cursor": null,
+    "location": [
+      42.01748055555556,
+      43.83773055555556
+    ]
+  }
+]

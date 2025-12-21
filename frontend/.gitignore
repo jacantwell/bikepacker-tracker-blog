@@ -27,3 +27,6 @@ local-server
 
 # Environment variables
 .env
+
+# Media files
+public/strava_data/media/*

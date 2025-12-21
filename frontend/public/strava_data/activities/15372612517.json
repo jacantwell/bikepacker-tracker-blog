@@ -1,0 +1,337 @@
+{
+  "resource_state": 3,
+  "athlete": {
+    "id": 49023768,
+    "resource_state": 1
+  },
+  "name": "Broken spoke :/",
+  "distance": 10746.5,
+  "moving_time": 1112,
+  "elapsed_time": 2272,
+  "total_elevation_gain": 266.0,
+  "type": "Ride",
+  "sport_type": "Ride",
+  "workout_type": 10,
+  "device_name": "Wahoo ELEMNT BOLT",
+  "id": 15372612517,
+  "start_date": "2025-08-07T05:08:17Z",
+  "start_date_local": "2025-08-07T08:08:17Z",
+  "timezone": "(GMT+03:00) Europe/Istanbul",
+  "utc_offset": 10800.0,
+  "location_city": null,
+  "location_state": null,
+  "location_country": null,
+  "achievement_count": 0,
+  "kudos_count": 16,
+  "comment_count": 0,
+  "athlete_count": 1,
+  "photo_count": 0,
+  "map": {
+    "id": "a15372612517",
+    "polyline": "yosvFo{v{DBBTl@`@~AJPh@h@BL\\kAz@sBNu@AcAEuAG}@GQE]?}@D_@^u@TOBBPSLIh@i@d@_AZ{BNe@Zg@FWTc@x@eCH_@@QQcCHgCEg@ESGOKGMAe@Na@V_@LMBICIIESBoBKqCIm@Om@o@uBQs@OsAKqC?}@DuBVyEJaDIyAE]]qBG{@@sDHk@HO^]`Ae@j@Up@OfDWhADj@J|@\\n@Nj@T~@j@THXBP?l@I~@[n@MXAbABXCPIb@i@Xy@nAcGb@gCf@_CJcBAaA_@sEO}@Uw@[i@q@u@MSIWIu@B{@JyAD[J]^y@fAqBXy@PcAPgBLu@Rm@Nk@Fq@?s@EUISMQOOi@Yc@a@Yi@CWF}@D]H]b@sAN{@D_@?_@C[KYQ]OQ_Aq@SSOSMWGWAYBYTw@v@kBP[lAiBv@sAZo@Ro@DYAw@[uEA]B]D]H[t@uAHUBW?WGWOWiBgBg@o@O[K[M}@I][w@SUSSiBw@w@g@s@o@_AkAQYO_@Ic@_@yCKc@K]OYiAyAYw@MaAC_@CgB@eAB_@L}@Z{@f@o@TQTOp@QbBUp@ULGJIDK@KCMGIIEwBG_BYeA[m@[QS]o@M[Q{@[uCMs@Wu@iAoBKi@AWDWx@iCZ}AP}ADuACi@EOKGi@U_Ce@_Cu@c@a@q@u@g@u@s@wA}AeF[w@O[_@o@SSOKaA_@SISSQU]w@a@cBMu@E_ALeC@cAC_@u@yCi@oDIcAQiDMiD?gDRiD?iAEiA_@sDOsNDaAd@qEBa@EaA[aB_AuDoEgPqFeTSiAMiAMqBKmCO}@]w@eAmBM_@Kc@s@aFuA{GI_@M}AEuB?a@HcAZuBH{@A{@C]S}@Yy@_CqFcAqCG[CY@YDUHQLINATDfAXjCx@d@ThCdCpB|Bv@rAj@r@BVVFf@j@r@p@b@\\|@h@jDxAbAXPKRWH[Jo@FQJGH@rEtCVV@HECCD",
+    "resource_state": 3,
+    "summary_polyline": "yosvFo{v{DBBTl@`@~AJPh@h@BL\\kAz@sBNu@AcAEoAGcAGQE]?}@D_@^u@TOBBPSLIh@i@d@_AZ{BNe@Zg@FWTc@x@eCH_@@QQcCHgCEg@ESGOKGMAe@Na@V_@LMBICIIESBoBKqCIm@Om@o@uBQs@OsAKqC?}@DuBVyEJaDIyAE]]qBG{@@sDHk@HO^]`Ae@j@Up@OfDWhADj@J|@\\n@Nj@T~@j@THXBP?l@I~@[n@MXAbABXCPIb@i@Xy@nAcGb@gCf@_CJcBAaA_@sEO}@Uw@[i@q@u@MSIWIu@B{@JyAD[J]^y@fAqBXy@PcAPgBLu@Rm@Nk@Fq@?s@EUISMQOOi@Yc@a@Yi@CWF}@D]H]b@sAN{@D_@?_@C[KYQ]OQ_Aq@SSOSMWGWAYBYTw@v@kBP[lAiBv@sAZo@Ro@DYAw@[uEA]B]D]H[t@uAHUBW?WGWOWiBgBg@o@O[K[M}@I][w@SUSSiBw@w@g@s@o@_AkAQYO_@Ic@_@yCKc@K]OYiAyAYw@MaAC_@CgB@eAB_@L}@Z{@f@o@TQTOp@QbBUp@ULGJIDK@KCMGIIEwBG_BYeA[m@[QS]o@M[Q{@[uCMs@Wu@iAoBKi@AWDWx@iCZ}AP}ADuACi@EOKGi@U_Ce@_Cu@c@a@q@u@g@u@s@wA}AeF[w@O[_@o@SSOKaA_@SISSQU]w@a@cBMu@E_ALeC@cAC_@u@yCi@oDIcAQiDMiD?gDRiD?iAEiA_@sDOsNDaAd@qEBa@EaA[aB_AuDoEgPqFeTSiAMiAMqBKmCO}@]w@eAmBM_@Kc@s@aFuA{GI_@M}AEuB?a@HcAZuBH{@A{@C]S}@Yy@_CqFcAqCG[CY@YDUHQLINATDfAXjCx@d@ThCdCpB|Bv@rAj@r@BVVFf@j@r@p@b@\\|@h@jDxAbAXPKRWH[Jo@FQJGH@rEtCVV@HECCD"
+  },
+  "trainer": false,
+  "commute": false,
+  "manual": false,
+  "private": false,
+  "visibility": "everyone",
+  "flagged": true,
+  "gear_id": "b16337781",
+  "start_latlng": [
+    40.573578,
+    30.924242
+  ],
+  "end_latlng": [
+    40.573238,
+    31.009176
+  ],
+  "average_speed": 9.664,
+  "max_speed": 18.6,
+  "average_temp": 29,
+  "average_watts": 372.2,
+  "device_watts": false,
+  "kilojoules": 413.9,
+  "has_heartrate": false,
+  "heartrate_opt_out": false,
+  "display_hide_heartrate_option": false,
+  "elev_high": 743.2,
+  "elev_low": 505.4,
+  "upload_id": 16416821105,
+  "upload_id_str": "16416821105",
+  "external_id": "34af2b46-d11f-4904-8735-e21e911f96dd.fit",
+  "from_accepted_tag": false,
+  "pr_count": 0,
+  "total_photo_count": 2,
+  "has_kudoed": false,
+  "description": "Turkish people are too nice. Within 5 minutes a car stopped and insisted he drive me to a \"wheel shop\". Turns out it's actually a tyre shop and it's closed \ud83d\ude2d",
+  "calories": 462.0,
+  "perceived_exertion": null,
+  "prefer_perceived_exertion": false,
+  "segment_efforts": [],
+  "splits_metric": [
+    {
+      "distance": 1003.3,
+      "elapsed_time": 1400,
+      "elevation_difference": 51.0,
+      "moving_time": 324,
+      "split": 1,
+      "average_speed": 3.1,
+      "average_grade_adjusted_speed": 3.75,
+      "pace_zone": 0
+    },
+    {
+      "distance": 997.7,
+      "elapsed_time": 80,
+      "elevation_difference": 54.6,
+      "moving_time": 80,
+      "split": 2,
+      "average_speed": 12.47,
+      "average_grade_adjusted_speed": 15.05,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1004.9,
+      "elapsed_time": 75,
+      "elevation_difference": 65.2,
+      "moving_time": 75,
+      "split": 3,
+      "average_speed": 13.4,
+      "average_grade_adjusted_speed": 16.9,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1008.0,
+      "elapsed_time": 76,
+      "elevation_difference": 38.0,
+      "moving_time": 76,
+      "split": 4,
+      "average_speed": 13.26,
+      "average_grade_adjusted_speed": 15.04,
+      "pace_zone": 0
+    },
+    {
+      "distance": 988.8,
+      "elapsed_time": 70,
+      "elevation_difference": 13.4,
+      "moving_time": 70,
+      "split": 5,
+      "average_speed": 14.13,
+      "average_grade_adjusted_speed": 15.2,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1005.8,
+      "elapsed_time": 80,
+      "elevation_difference": -75.0,
+      "moving_time": 80,
+      "split": 6,
+      "average_speed": 12.57,
+      "average_grade_adjusted_speed": 11.19,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1004.5,
+      "elapsed_time": 86,
+      "elevation_difference": -5.8,
+      "moving_time": 86,
+      "split": 7,
+      "average_speed": 11.68,
+      "average_grade_adjusted_speed": 11.64,
+      "pace_zone": 0
+    },
+    {
+      "distance": 988.4,
+      "elapsed_time": 66,
+      "elevation_difference": 12.6,
+      "moving_time": 66,
+      "split": 8,
+      "average_speed": 14.98,
+      "average_grade_adjusted_speed": 15.76,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1004.6,
+      "elapsed_time": 61,
+      "elevation_difference": -43.8,
+      "moving_time": 61,
+      "split": 9,
+      "average_speed": 16.47,
+      "average_grade_adjusted_speed": 15.11,
+      "pace_zone": 0
+    },
+    {
+      "distance": 994.7,
+      "elapsed_time": 72,
+      "elevation_difference": -54.0,
+      "moving_time": 72,
+      "split": 10,
+      "average_speed": 13.82,
+      "average_grade_adjusted_speed": 12.59,
+      "pace_zone": 0
+    },
+    {
+      "distance": 745.8,
+      "elapsed_time": 206,
+      "elevation_difference": -28.2,
+      "moving_time": 143,
+      "split": 11,
+      "average_speed": 5.22,
+      "average_grade_adjusted_speed": 4.87,
+      "pace_zone": 0
+    }
+  ],
+  "splits_standard": [
+    {
+      "distance": 1618.3,
+      "elapsed_time": 1450,
+      "elevation_difference": 88.6,
+      "moving_time": 374,
+      "split": 1,
+      "average_speed": 4.33,
+      "average_grade_adjusted_speed": 5.28,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1604.4,
+      "elapsed_time": 120,
+      "elevation_difference": 95.0,
+      "moving_time": 120,
+      "split": 2,
+      "average_speed": 13.37,
+      "average_grade_adjusted_speed": 16.47,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1614.3,
+      "elapsed_time": 120,
+      "elevation_difference": 46.0,
+      "moving_time": 120,
+      "split": 3,
+      "average_speed": 13.45,
+      "average_grade_adjusted_speed": 14.92,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1609.2,
+      "elapsed_time": 136,
+      "elevation_difference": -80.2,
+      "moving_time": 136,
+      "split": 4,
+      "average_speed": 11.83,
+      "average_grade_adjusted_speed": 11.0,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1604.7,
+      "elapsed_time": 110,
+      "elevation_difference": 3.8,
+      "moving_time": 110,
+      "split": 5,
+      "average_speed": 14.59,
+      "average_grade_adjusted_speed": 14.91,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1614.1,
+      "elapsed_time": 103,
+      "elevation_difference": -70.4,
+      "moving_time": 103,
+      "split": 6,
+      "average_speed": 15.67,
+      "average_grade_adjusted_speed": 14.41,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1081.5,
+      "elapsed_time": 233,
+      "elevation_difference": -54.8,
+      "moving_time": 170,
+      "split": 7,
+      "average_speed": 6.36,
+      "average_grade_adjusted_speed": 5.83,
+      "pace_zone": 0
+    }
+  ],
+  "laps": [
+    {
+      "id": 54702702486,
+      "resource_state": 2,
+      "name": "Lap 1",
+      "activity": {
+        "id": 15372612517,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 2272,
+      "moving_time": 1133,
+      "start_date": "2025-08-07T05:08:17Z",
+      "start_date_local": "2025-08-07T08:08:17Z",
+      "distance": 10748.1,
+      "average_speed": 9.49,
+      "max_speed": 18.6,
+      "lap_index": 1,
+      "split": 1,
+      "start_index": 0,
+      "end_index": 1133,
+      "total_elevation_gain": 268.0,
+      "device_watts": false,
+      "average_watts": 372.2
+    }
+  ],
+  "gear": {
+    "id": "b16337781",
+    "primary": false,
+    "name": "Betty (Milan ->)",
+    "nickname": "Betty (Milan ->)",
+    "resource_state": 2,
+    "retired": false,
+    "distance": 9056030,
+    "converted_distance": 9056.0
+  },
+  "photos": {
+    "primary": {
+      "unique_id": "6dd88b25-acc0-43f8-bc27-abae02cfc7fe",
+      "urls": {
+        "600": "https://dgtzuqphqg23d.cloudfront.net/p8yWUArZENBr_kjLMNgcCuHQf3rCbw4HE52oDgD87JA-432x768.jpg",
+        "100": "https://dgtzuqphqg23d.cloudfront.net/p8yWUArZENBr_kjLMNgcCuHQf3rCbw4HE52oDgD87JA-72x128.jpg"
+      },
+      "source": 1,
+      "media_type": 1
+    },
+    "use_primary_photo": false,
+    "count": 2
+  },
+  "stats_visibility": [
+    {
+      "type": "heart_rate",
+      "visibility": "everyone"
+    },
+    {
+      "type": "pace",
+      "visibility": "everyone"
+    },
+    {
+      "type": "power",
+      "visibility": "everyone"
+    },
+    {
+      "type": "speed",
+      "visibility": "everyone"
+    },
+    {
+      "type": "calories",
+      "visibility": "everyone"
+    }
+  ],
+  "hide_from_home": false,
+  "embed_token": "ee26f1605a40d61648b47958d10721ebe825bfa5",
+  "available_zones": [
+    "power"
+  ]
+}

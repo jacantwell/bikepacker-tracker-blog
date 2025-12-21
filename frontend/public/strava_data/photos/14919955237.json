@@ -1,0 +1,33 @@
+[
+  {
+    "unique_id": "b8413133-470e-4be5-9f8d-1b4e43c96c60",
+    "athlete_id": 49023768,
+    "activity_id": 14919955237,
+    "activity_name": "A Milano",
+    "post_id": null,
+    "resource_state": 2,
+    "caption": "",
+    "type": 1,
+    "source": 1,
+    "status": 3,
+    "uploaded_at": "2025-06-26T09:36:27Z",
+    "created_at": "2025-06-26T07:46:58Z",
+    "created_at_local": "2025-06-26T09:46:58Z",
+    "urls": {
+      "5000": "https://dgtzuqphqg23d.cloudfront.net/A7aCA67Oiqs6CbrJYdkbBbxu-qIVL65q0AHigOjbXGQ-1536x2048.jpg"
+    },
+    "placeholder_image": null,
+    "sizes": {
+      "5000": [
+        1536,
+        2048
+      ]
+    },
+    "default_photo": false,
+    "cursor": null,
+    "location": [
+      45.33378888888889,
+      9.162794444444446
+    ]
+  }
+]

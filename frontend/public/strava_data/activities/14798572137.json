@@ -1,0 +1,1563 @@
+{
+  "resource_state": 3,
+  "athlete": {
+    "id": 49023768,
+    "resource_state": 1
+  },
+  "name": "Crit\u00e9rium du Dauphin\u00e9 Spectating",
+  "distance": 28739.8,
+  "moving_time": 6170,
+  "elapsed_time": 32207,
+  "total_elevation_gain": 626.0,
+  "type": "Ride",
+  "sport_type": "Ride",
+  "workout_type": null,
+  "device_name": "Wahoo ELEMNT BOLT",
+  "id": 14798572137,
+  "start_date": "2025-06-14T07:20:47Z",
+  "start_date_local": "2025-06-14T09:20:47Z",
+  "timezone": "(GMT+01:00) Europe/Paris",
+  "utc_offset": 7200.0,
+  "location_city": null,
+  "location_state": null,
+  "location_country": null,
+  "achievement_count": 0,
+  "kudos_count": 18,
+  "comment_count": 1,
+  "athlete_count": 1,
+  "photo_count": 0,
+  "map": {
+    "id": "a14798572137",
+    "polyline": "ys{rGsuif@D[FOzByAVKJCZ?f@DLCLGl@k@JEJAHDl@n@\\NxAVL@NCJIHMt@uBNUJCL@JD`B|@RFRBT?h@I~@Sh@Il@A`A@TATEj@Uh@WVQTSRU|@cB`@a@|@k@^_@^q@HWFUBs@Cw@BqA@YNs@jByExBcFXy@RwAF{@@]Gy@Ia@e@eAW_AO[s@gA]o@KYUuAGw@?]TkBCYMk@Wk@ISKo@AWBk@XwB?QAOIKKGMAaAEkAOc@?OC[UUc@MQQOg@Yk@Sm@MgAIaAASASGQKiAy@aA{@qA{A[q@Su@Mu@QkACi@Ja@d@k@Ta@l@{At@qDj@mBT[LGNAn@Df@AvA_@\\UT_@FQBQ@iA@OLU\\]d@iBPSXQTKZGN?HDDPADILi@HQLOR]dAk@zAE\\?PDJJHJ?JKP_AXa@h@Y~@m@NG^Yl@a@NOZQv@U`BM|@?f@FTJ|@p@~@l@f@`@b@JXAd@I^MRCp@WPOLSLe@\\cD@Yb@_GVuANe@NW^Sr@Qp@m@ZIx@?RId@C^OP?LM\\SxBi@\\Ct@AhCFd@ORQzA}BbCaDbBsCf@o@NW`AyBNi@\\{@Xi@j@o@Vk@Po@RsANa@VSRIjA?NCNKDKHa@K}A@_@@KTi@Xc@L[TmALmAFYbA_BvAsDFe@As@A]ISKKMCYAi@Bs@Lm@P[LQB]CWGo@]sBSK@MHUVg@t@k@f@_@Ri@Fe@?{AZu@FY@aBI_@GeAC]K[QY[OWUm@a@_@GQCSDGD@f@d@t@\\r@J\\BdACTEHCRQZMNQDABBADODUTQFaAHgA?i@Gk@Og@Ua@YMDAF@JDHl@n@j@bAVXZP\\JxBLpB@hAOt@O~@G^IZQZWz@kAVSLEZ?|ARn@Zn@HTAv@[z@Or@?VAJIBOEUOKm@?aAJSAMCEGCK?IJILEP?RDb@?f@EpASRIl@g@RIVBd@^TNN?^CRIXS|AsATYHSAa@CKIKMCO@e@\\Y?QGmAaAo@WW?YBg@Za@^YRUHK?ECEYHYFId@S\\UXMl@_@^O^Od@K|Ci@x@WhAc@fAo@NGl@_@n@i@^e@hAgAh@Wv@KPMFK@I?KGSWSSCs@FcA`@QDi@CoAKe@@SDc@^[DcAWw@CSFWN_@h@IHUJU@u@Gi@Mg@QUO]g@MKKEQAQBeAj@QFIAEMAOBKHIrAe@fAc@h@B\\ALC|BeAb@Wh@s@NY^kAV[VG~A?XE\\MfAi@d@[j@i@t@aAj@mArAoDRa@R[j@q@FM@WEWIGS?MHyAnBWb@OLi@p@URw@b@[NmAn@e@NUBiAEOIEQBIFIn@KNEJG^c@pAeBVg@Lg@T_BDOLWr@q@b@e@Zq@La@LUp@Wd@Kz@O^Mv@i@`A}@\\U\\QPCRDDFZh@f@Zd@@b@MLIT[Ny@HWJK^O`@GZCFGd@M`Aa@f@OnAo@LMPK`@i@VUVa@t@w@PWt@{@t@s@PUVSf@k@NQDc@IYIIKCMBk@`@YLaAPe@BaD@WEGKBOLKn@Yp@O\\Sl@o@RMdAcAh@c@NWFCAIEETMHOLq@C]MIK?IDGJKFWVM@KCECCO@}@AQIQOKO?OH_@f@YPSC[SW]]A[DOAo@PAF@@l@Sl@MBG@Bag@b}@dCgAv@c@b@_@~CeENIN?FL?PCFSVy@rAeBhEi@bAu@`Ao@l@c@VkAh@c@NQ@eAGM@QDOJW^]dA]j@_@\\u@d@}Ar@UFy@A]DeAb@o@PYPEHCL@NBLHJJBJ?JEl@a@TKNEN@LFd@j@XT~@Vv@LR?TERIz@y@PKNE\\BfARL@TAPEb@WNERCT@jAJ^@`@G|@_@PEZAX@LFFHBHANEHIFMDy@Na@Pa@\\qAtAe@`@}@l@sAt@gA`@oE|@u@Rq@VaClAYVIZ?PFNJFL?LENId@a@`@W^KTARD`@NrA|@PBV@TGZONCJ@BHAPALIPWXoAlAg@XUDe@?QGc@YSEU@UHi@\\k@Rq@Hm@DeAGIBGFGN?NFLFF`@DtAIXFHHJVHj@Bb@@r@Gb@y@dBk@zAi@p@QZMpAOdAKb@MVMNUJMXCR@XJzAE`@GNQNMBcABQDKFONSd@ShAYbAYf@w@`AsAlDs@|Aw@fAsAvByAlBkAhBu@~@]VWFSBcDGq@FYFcAVWJkAp@WHWBq@?i@BYH}@j@i@RMJOTO\\Qt@OdAk@~HMfAOv@Wj@OPSH}@Vm@FWAWGUMmCqB[QYIUEw@Cy@Fq@Hq@RWL}CtB_A`@QNKNGROx@GLIBECES?M`AmCRe@LQHGf@KFKBOAQCMIGM?w@VYRSXO^S`AGFG@G?OQFUZq@f@q@^_@PKjAg@b@UNSLUTaAHOXQt@QbAo@`@MvDGJAJEDIBMAQGMIEMA[JM@MAa@Mk@a@oAwAOIMEO@KF[^a@\\mAt@ONa@f@g@d@k@\\gAh@i@\\QRm@fAKFK?GGCYjAoBdBqBNMLIh@AHID]G_@EGKAODiAt@QHg@HcAFWHQJi@l@yAzBe@d@[PWJUBiAEWDy@XM?KEEKBKDKLGjAMhAQRIRM`@k@rA{Dh@uC@QE_@GIKAIFGLKnAW`Ai@rA[`@]PUA}@UU?SBsAdAYJoBd@_BRUHUNi@d@y@~@c@|@Uz@]rDKl@YdAoBfEc@r@UPwAj@QPKRCX?ZLvCBhBD^^xAF^D`@FbBD`@T~@Z|@|@jBt@~BNZb@l@rAhAr@z@Tb@DR?VCRQ`@[L{@DSFMJINCPBPRb@FVNlA?ZEVGTKRMHs@FSHc@^{@jAKDI@IECK@a@R]b@i@lAoBLUBQAUMO_@Ua@@ODOHaA|@]h@aAfCUx@WnAIVYh@ONQFi@@SAwAUwALw@?s@IoA[o@Iq@@uAL[?WCWGUMUQQWgAsCc@aAg@{A]wASo@MQQMQEe@CODMJINGPM|AQx@q@bAa@z@MFMCIMCO@O`@w@\\iAF[F{@Aa@M_AS}@[u@kAsBEWDEHCLBd@ZPDb@Ff@ATERKx@m@b@SVCbAFZCdAMdAAPCNKLQHSxAiFDu@CWMUw@gAIS}A}GWu@C[?]D]VaBp@uB?OCOO]IIWOu@Qc@OKIIMGQGk@@kBQsBA[Dy@A}@C]YiBBi@DSRg@b@eBJUNSrAmAn@s@DU@UGc@ICKD_Av@u@h@k@PgATWHk@Vg@b@a@p@Yr@O~@MdBK`@G@GEGMAOH}@BgBTiDf@uB@UAQIKMCKDY^_@XoAp@wAz@g@d@}@lA_@p@KXGVCr@@VHPt@l@JNHTBVBTE\\UTw@`@_@ZOBOAOKMWK[E]GiBAoAIc@IIOGiAK]I[Qo@e@g@m@k@_Ao@sAKm@C{ADo@Rm@JSX_@PEP?t@HPALGHODQ@m@mA{GSo@k@{@y@s@_@q@s@cAiCyEc@a@MCMBMV{@tBy@~Aa@`AY^[l@e@h@IFKB@IS[?E@MBGPEFECICC?ELLBJBC?@BPDJDAAAGDOMBWI{@LT?DCy@gF}Ax@_@lAcASt@OJMDfEfBo@T?EFI?F\\OZc@ZYIPw@pAGIB@FI_Aj@?@JJC@PKFIGFCID@?CR?A?FCBG?BIBOQUN_@@IALRf@RP@BCUQEFXFAD?ECBHOESUIIDB@c@?@FC@l@~@ARL`@LJLBKi@c@m@kBkA?Q`Bp@@FC?U^JHLB?BHCF??GEAOL?DBDB?CCUQ@ADBBFFc@HCAFC@b@XD@P@FC?@a@?AKEAB@A@G??@@??CE@CMA??F?G?BC?AH@FGN?JCD@FGLCACFMDC?BAAB@ACHCADCIB?BB?BECD?AFAF?A@G?D?C@?CCEKAMFCLPVPNPC`@_@DKEINAJOJe@GACIBBBEDABE?X@EB?@GK@EAKD@DBKAFLEAC@FAE@BA?@C@B?CB?HGTa@VYBSJYT_@Pe@Xg@HW~AyChEuFTS`BgA|BgBr@[xBwAdAk@v@k@PW?OOg@EKMIW?SD{@b@w@TCFA\\EDE?DCCD\\O@FCFBC@FEMC?D?FHGBGEGGBLKSBUN@HFJl@QMa@UTDBABCI?KDC?ABACF]OcAUMFK@A@@CC?@DAEB@?AADAADCA",
+    "resource_state": 3,
+    "summary_polyline": "ys{rGsuif@hCeC|DgAhE|AvBkDxDpAxGi@bCeApGeI\\aHrGoQGuDaEiKH{E}@sDZeEeFo@eDiC_Fc@kGoGw@aFtBkE`B_H`GwAd@}CpA}C|Ay@Zb@sAr@iA|E^@r@iBjH_EbEEzExChDu@l@iAbA}Lv@sClNgEvG_@zJ{NlEeJt@eD|Cy@@kD|@iBj@uDzCsGDyAe@aAsEr@yE}@cDtC{Fl@eFa@iCyDzDlAjDaA_Ev@mDaArC|DhGZ~Eq@xCoCxEx@tEo@E{@{CSrHcBbCn@fCoBb@o@Oy@}AZoCaBkD|AW]|DkC~LyDfEwDrBq@@u@uIHsAj@{B[aCxAgCg@mAiA{Bt@Mk@xJ{CtCmEnD[nEqDrEmJB}@g@CuD`FqDnB{CMhEwD`A_E|CyErDaAtDoCnBnAhAKhAcCdIsCvJqKTu@_@g@uCdAgFKbI_Gx@uCiB`@c@aCyAbAgAu@yBR`B[ag@b}@|DkBfFiF}EzKuEpDkD\\sApCuAbAaJpCVz@zBw@dEnBzC{AhCVhJgAr@\\gLbImIrBmE|BHdAhDwAzCvAhBM}CrDeCa@yHpAFt@zCLZzCiDrHi@zD_AlABjDyCdAaArDyEtJgJvMyHj@cM|DaAnDiA~LyB~A}AAyE{CgCAyIbEmAzBdAcErAeBmBT_AbCWe@bBcC`CiA|@{BtDaBtEYOs@gBCyCiC_L`IkAbBWa@|@}AbCqC`AUA}@aGvAwElFcFb@Pk@tC_@hAcA|BqIW}@{B|G{CAmBpAeFbAyBtBoC`MaCzEmB|@a@~@P|GjA`JjDdJfEjFUlAcCv@j@lDg@fBgE~BAm@vC_FqAy@_CvByBhH{@`AuSk@uA_AeEyLeAi@y@`@g@hDiApBo@BjA{Ga@}BmBaE`D`@fCsAtGS`C{G@mAoAqBuBsIjA_ImDsCs@gPlAaFrCuC?oAkJpE{@dBq@hECiE|@gIeG|CyCvEAjAjAnAJ`BmCtAi@_AY{FmE_BcCaEOiCX}Ad@s@xBEPoAaBkIcI_M_Aa@eDnHqBbCQk@Vs@d@p@YIHw@Ey@gF}AfCcBq@fAfEfBo@T|AuAaAbB{@Xn@IoAEjAd@CB?e@aAFtAdC{CuD`Bp@Wf@j@DQVUU\\]|@b@}@Qa@~Ae@@L^d@Lr@y@H_AX@]DnAiAzDmIhEuFrPgLUcAe@IgC~@Ol@`@B[SRSTt@s@c@?DU{B"
+  },
+  "trainer": false,
+  "commute": false,
+  "manual": false,
+  "private": false,
+  "visibility": "everyone",
+  "flagged": false,
+  "gear_id": "b11943195",
+  "start_latlng": [
+    45.202698,
+    6.444586
+  ],
+  "end_latlng": [
+    45.21294,
+    6.47893
+  ],
+  "average_speed": 4.658,
+  "max_speed": 16.8,
+  "average_temp": 24,
+  "average_watts": 100.5,
+  "device_watts": false,
+  "kilojoules": 620.3,
+  "has_heartrate": false,
+  "heartrate_opt_out": false,
+  "display_hide_heartrate_option": false,
+  "elev_high": 1865.0,
+  "elev_low": 736.6,
+  "upload_id": 15793222569,
+  "upload_id_str": "15793222569",
+  "external_id": "d4133be1-44fd-48b0-a915-47406fc74fc6.fit",
+  "from_accepted_tag": false,
+  "pr_count": 0,
+  "total_photo_count": 4,
+  "has_kudoed": false,
+  "description": "Another year of Pog domination \ud83d\ude1e",
+  "calories": 692.0,
+  "perceived_exertion": null,
+  "prefer_perceived_exertion": false,
+  "segment_efforts": [
+    {
+      "id": 3369008082477067190,
+      "resource_state": 2,
+      "name": "T\u00e9l\u00e9graphe to valmeinier",
+      "activity": {
+        "id": 14798572137,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 1960,
+      "moving_time": 1784,
+      "start_date": "2025-06-14T07:21:13Z",
+      "start_date_local": "2025-06-14T09:21:13Z",
+      "distance": 6505.9,
+      "start_index": 26,
+      "end_index": 1986,
+      "device_watts": false,
+      "segment": {
+        "id": 35680712,
+        "resource_state": 2,
+        "name": "T\u00e9l\u00e9graphe to valmeinier",
+        "activity_type": "Ride",
+        "distance": 6505.9,
+        "average_grade": -0.4,
+        "maximum_grade": 17.8,
+        "elevation_high": 1554.1,
+        "elevation_low": 1350.4,
+        "start_latlng": [
+          45.202092,
+          6.445214
+        ],
+        "end_latlng": [
+          45.186846,
+          6.480103
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Valloire",
+        "state": "Savoy",
+        "country": "France",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3369008082476300214,
+      "resource_state": 2,
+      "name": "Telegraphe descent to Valmeinier turning ",
+      "activity": {
+        "id": 14798572137,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 276,
+      "moving_time": 276,
+      "start_date": "2025-06-14T07:21:26Z",
+      "start_date_local": "2025-06-14T09:21:26Z",
+      "distance": 2948.2,
+      "start_index": 39,
+      "end_index": 315,
+      "device_watts": false,
+      "segment": {
+        "id": 12448775,
+        "resource_state": 2,
+        "name": "Telegraphe descent to Valmeinier turning ",
+        "activity_type": "Ride",
+        "distance": 2948.2,
+        "average_grade": -6.2,
+        "maximum_grade": 1.6,
+        "elevation_high": 1544.0,
+        "elevation_low": 1360.6,
+        "start_latlng": [
+          45.201297,
+          6.445439
+        ],
+        "end_latlng": [
+          45.196375,
+          6.466318
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Valloire",
+        "state": "Auvergne Rh\u00f4ne-Alpes",
+        "country": "France",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3369008082477253558,
+      "resource_state": 2,
+      "name": "D215 A Climb",
+      "activity": {
+        "id": 14798572137,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 1181,
+      "moving_time": 1027,
+      "start_date": "2025-06-14T07:26:34Z",
+      "start_date_local": "2025-06-14T09:26:34Z",
+      "distance": 1353.06,
+      "start_index": 347,
+      "end_index": 1528,
+      "device_watts": false,
+      "segment": {
+        "id": 1196504,
+        "resource_state": 2,
+        "name": "D215 A Climb",
+        "activity_type": "Ride",
+        "distance": 1353.06,
+        "average_grade": 10.0,
+        "maximum_grade": 202.5,
+        "elevation_high": 1455.6,
+        "elevation_low": 1320.8,
+        "start_latlng": [
+          45.196115830913186,
+          6.466364124789834
+        ],
+        "end_latlng": [
+          45.18303503282368,
+          6.476602368056774
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 1,
+        "city": "Saint Martin D'Arc",
+        "state": "Rh\u00f4ne-Alpes",
+        "country": "France",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3369008082477437878,
+      "resource_state": 2,
+      "name": "Last push",
+      "activity": {
+        "id": 14798572137,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 783,
+      "moving_time": 629,
+      "start_date": "2025-06-14T07:34:14Z",
+      "start_date_local": "2025-06-14T09:34:14Z",
+      "distance": 1535.8,
+      "start_index": 807,
+      "end_index": 1590,
+      "device_watts": false,
+      "segment": {
+        "id": 12447964,
+        "resource_state": 2,
+        "name": "Last push",
+        "activity_type": "Ride",
+        "distance": 1535.8,
+        "average_grade": 3.5,
+        "maximum_grade": 11.4,
+        "elevation_high": 1489.4,
+        "elevation_low": 1425.6,
+        "start_latlng": [
+          45.191234,
+          6.468257
+        ],
+        "end_latlng": [
+          45.181658,
+          6.479846
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Valmeinier",
+        "state": "Auvergne Rh\u00f4ne-Alpes",
+        "country": "France",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3369008082474032054,
+      "resource_state": 2,
+      "name": "replat",
+      "activity": {
+        "id": 14798572137,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 309,
+      "moving_time": 309,
+      "start_date": "2025-06-14T07:42:25Z",
+      "start_date_local": "2025-06-14T09:42:25Z",
+      "distance": 1028.7,
+      "start_index": 1298,
+      "end_index": 1607,
+      "device_watts": false,
+      "segment": {
+        "id": 25350140,
+        "resource_state": 2,
+        "name": "replat",
+        "activity_type": "Ride",
+        "distance": 1028.7,
+        "average_grade": 1.5,
+        "maximum_grade": 6.8,
+        "elevation_high": 1505.4,
+        "elevation_low": 1486.4,
+        "start_latlng": [
+          45.18599,
+          6.471765
+        ],
+        "end_latlng": [
+          45.182271,
+          6.480758
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Valmeinier",
+        "state": "Auvergne-Rh\u00f4ne-Alpes",
+        "country": "France",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3369008082477483958,
+      "resource_state": 2,
+      "name": "descente",
+      "activity": {
+        "id": 14798572137,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 73,
+      "moving_time": 73,
+      "start_date": "2025-06-14T07:46:16Z",
+      "start_date_local": "2025-06-14T09:46:16Z",
+      "distance": 364.1,
+      "start_index": 1529,
+      "end_index": 1602,
+      "device_watts": false,
+      "segment": {
+        "id": 25350160,
+        "resource_state": 2,
+        "name": "descente",
+        "activity_type": "Ride",
+        "distance": 364.1,
+        "average_grade": -2.8,
+        "maximum_grade": 2.3,
+        "elevation_high": 1505.4,
+        "elevation_low": 1491.8,
+        "start_latlng": [
+          45.183028,
+          6.476641
+        ],
+        "end_latlng": [
+          45.181981,
+          6.480573
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Valmeinier",
+        "state": "Auvergne-Rh\u00f4ne-Alpes",
+        "country": "France",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3369008082473562038,
+      "resource_state": 2,
+      "name": "Pint and a Crepe please",
+      "activity": {
+        "id": 14798572137,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 303,
+      "moving_time": 281,
+      "start_date": "2025-06-14T07:48:49Z",
+      "start_date_local": "2025-06-14T09:48:49Z",
+      "distance": 600.4,
+      "start_index": 1682,
+      "end_index": 1985,
+      "device_watts": false,
+      "segment": {
+        "id": 32252697,
+        "resource_state": 2,
+        "name": "Pint and a Crepe please",
+        "activity_type": "Ride",
+        "distance": 600.4,
+        "average_grade": 6.6,
+        "maximum_grade": 11.8,
+        "elevation_high": 1535.6,
+        "elevation_low": 1495.8,
+        "start_latlng": [
+          45.184226,
+          6.480176
+        ],
+        "end_latlng": [
+          45.186854,
+          6.480041
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Valmeinier",
+        "state": "Auvergne-Rh\u00f4ne-Alpes",
+        "country": "France",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3369008082477090742,
+      "resource_state": 2,
+      "name": "1500 to Colconquerors ",
+      "activity": {
+        "id": 14798572137,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 1121,
+      "moving_time": 1081,
+      "start_date": "2025-06-14T07:58:30Z",
+      "start_date_local": "2025-06-14T09:58:30Z",
+      "distance": 2495.0,
+      "start_index": 2263,
+      "end_index": 3384,
+      "device_watts": false,
+      "segment": {
+        "id": 12870025,
+        "resource_state": 2,
+        "name": "1500 to Colconquerors ",
+        "activity_type": "Ride",
+        "distance": 2495.0,
+        "average_grade": 6.8,
+        "maximum_grade": 16.9,
+        "elevation_high": 1645.6,
+        "elevation_low": 1476.6,
+        "start_latlng": [
+          45.182392,
+          6.480731
+        ],
+        "end_latlng": [
+          45.177784,
+          6.48773
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 2,
+        "city": "Valmeinier",
+        "state": "Auvergne-Rh\u00f4ne-Alpes",
+        "country": "France",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3369008082475919286,
+      "resource_state": 2,
+      "name": "Valmeinier 1800",
+      "activity": {
+        "id": 14798572137,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 1952,
+      "moving_time": 1879,
+      "start_date": "2025-06-14T07:59:33Z",
+      "start_date_local": "2025-06-14T09:59:33Z",
+      "distance": 4479.1,
+      "start_index": 2326,
+      "end_index": 4278,
+      "device_watts": false,
+      "segment": {
+        "id": 5082367,
+        "resource_state": 2,
+        "name": "Valmeinier 1800",
+        "activity_type": "Ride",
+        "distance": 4479.1,
+        "average_grade": 6.9,
+        "maximum_grade": 37.1,
+        "elevation_high": 1815.8,
+        "elevation_low": 1505.5,
+        "start_latlng": [
+          45.181278,
+          6.481094
+        ],
+        "end_latlng": [
+          45.172375,
+          6.495952
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 2,
+        "city": "Valmeinier",
+        "state": "RA",
+        "country": "France",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3369008082475194294,
+      "resource_state": 2,
+      "name": "D215 A Climb",
+      "activity": {
+        "id": 14798572137,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 852,
+      "moving_time": 483,
+      "start_date": "2025-06-14T08:28:01Z",
+      "start_date_local": "2025-06-14T10:28:01Z",
+      "distance": 1119.37,
+      "start_index": 4034,
+      "end_index": 4886,
+      "device_watts": false,
+      "segment": {
+        "id": 1578140,
+        "resource_state": 2,
+        "name": "D215 A Climb",
+        "activity_type": "Ride",
+        "distance": 1119.37,
+        "average_grade": 7.3,
+        "maximum_grade": 19.0,
+        "elevation_high": 1850.7,
+        "elevation_low": 1769.0,
+        "start_latlng": [
+          45.1725186,
+          6.4938283
+        ],
+        "end_latlng": [
+          45.1723853,
+          6.4981475
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 1,
+        "city": "Valmeinier",
+        "state": "Rh\u00f4ne-Alpes",
+        "country": "France",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3369008082476287926,
+      "resource_state": 2,
+      "name": "derni\u00e8re mont\u00e9e valmeinier",
+      "activity": {
+        "id": 14798572137,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 189,
+      "moving_time": 128,
+      "start_date": "2025-06-14T08:38:47Z",
+      "start_date_local": "2025-06-14T10:38:47Z",
+      "distance": 300.2,
+      "start_index": 4680,
+      "end_index": 4869,
+      "device_watts": false,
+      "segment": {
+        "id": 27155960,
+        "resource_state": 2,
+        "name": "derni\u00e8re mont\u00e9e valmeinier",
+        "activity_type": "Ride",
+        "distance": 300.2,
+        "average_grade": 6.2,
+        "maximum_grade": 11.2,
+        "elevation_high": 1848.3,
+        "elevation_low": 1829.8,
+        "start_latlng": [
+          45.170699,
+          6.497355
+        ],
+        "end_latlng": [
+          45.172192,
+          6.498052
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Valmeinier",
+        "state": "Auvergne-Rh\u00f4ne-Alpes",
+        "country": "France",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3369008082476770230,
+      "resource_state": 2,
+      "name": "Grange Bernard - St M de Maurienne (descent)",
+      "activity": {
+        "id": 14798572137,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 1446,
+      "moving_time": 1415,
+      "start_date": "2025-06-14T14:53:26Z",
+      "start_date_local": "2025-06-14T16:53:26Z",
+      "distance": 14340.6,
+      "start_index": 27159,
+      "end_index": 28605,
+      "device_watts": false,
+      "segment": {
+        "id": 1492635,
+        "resource_state": 2,
+        "name": "Grange Bernard - St M de Maurienne (descent)",
+        "activity_type": "Ride",
+        "distance": 14340.6,
+        "average_grade": -6.6,
+        "maximum_grade": 12.5,
+        "elevation_high": 1659.1,
+        "elevation_low": 713.9,
+        "start_latlng": [
+          45.17774999141693,
+          6.487914249300957
+        ],
+        "end_latlng": [
+          45.21539839915931,
+          6.474768156185746
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Valmeinier",
+        "state": "Rh\u00f4ne-Alpes",
+        "country": "France",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3369008082476836790,
+      "resource_state": 2,
+      "name": "Grange Bernard - D902 Jct descent (Valmeinier)",
+      "activity": {
+        "id": 14798572137,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 555,
+      "moving_time": 555,
+      "start_date": "2025-06-14T14:53:27Z",
+      "start_date_local": "2025-06-14T16:53:27Z",
+      "distance": 5288.85,
+      "start_index": 27160,
+      "end_index": 27715,
+      "device_watts": false,
+      "segment": {
+        "id": 1492611,
+        "resource_state": 2,
+        "name": "Grange Bernard - D902 Jct descent (Valmeinier)",
+        "activity_type": "Ride",
+        "distance": 5288.85,
+        "average_grade": -5.3,
+        "maximum_grade": 12.5,
+        "elevation_high": 1659.1,
+        "elevation_low": 1376.6,
+        "start_latlng": [
+          45.177813274785876,
+          6.487884996458888
+        ],
+        "end_latlng": [
+          45.19651556387544,
+          6.4661413338035345
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Valmeinier",
+        "state": "Rh\u00f4ne-Alpes",
+        "country": "France",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3369008082474116022,
+      "resource_state": 2,
+      "name": "Bosse du Moulin",
+      "activity": {
+        "id": 14798572137,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 116,
+      "moving_time": 116,
+      "start_date": "2025-06-14T14:57:21Z",
+      "start_date_local": "2025-06-14T16:57:21Z",
+      "distance": 347.4,
+      "start_index": 27394,
+      "end_index": 27510,
+      "device_watts": false,
+      "segment": {
+        "id": 18656348,
+        "resource_state": 2,
+        "name": "Bosse du Moulin",
+        "activity_type": "Ride",
+        "distance": 347.4,
+        "average_grade": 9.2,
+        "maximum_grade": 27.6,
+        "elevation_high": 1521.0,
+        "elevation_low": 1488.0,
+        "start_latlng": [
+          45.181712,
+          6.480297
+        ],
+        "end_latlng": [
+          45.183031,
+          6.476511
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Valmeinier",
+        "state": "Auvergne-Rh\u00f4ne-Alpes",
+        "country": "France",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3369008082475302838,
+      "resource_state": 2,
+      "name": "Down to the Telegraphe ",
+      "activity": {
+        "id": 14798572137,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 142,
+      "moving_time": 142,
+      "start_date": "2025-06-14T15:00:21Z",
+      "start_date_local": "2025-06-14T17:00:21Z",
+      "distance": 1718.1,
+      "start_index": 27574,
+      "end_index": 27716,
+      "device_watts": false,
+      "segment": {
+        "id": 12448000,
+        "resource_state": 2,
+        "name": "Down to the Telegraphe ",
+        "activity_type": "Ride",
+        "distance": 1718.1,
+        "average_grade": -6.2,
+        "maximum_grade": 0.3,
+        "elevation_high": 1466.0,
+        "elevation_low": 1360.0,
+        "start_latlng": [
+          45.186583,
+          6.4711
+        ],
+        "end_latlng": [
+          45.196557,
+          6.466087
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Valmeinier",
+        "state": "Auvergne Rh\u00f4ne-Alpes",
+        "country": "France",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3369008082475358134,
+      "resource_state": 2,
+      "name": "Telegraphe junction to interruption",
+      "activity": {
+        "id": 14798572137,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 627,
+      "moving_time": 627,
+      "start_date": "2025-06-14T15:02:36Z",
+      "start_date_local": "2025-06-14T17:02:36Z",
+      "distance": 6877.1,
+      "start_index": 27709,
+      "end_index": 28336,
+      "device_watts": false,
+      "segment": {
+        "id": 21384693,
+        "resource_state": 2,
+        "name": "Telegraphe junction to interruption",
+        "activity_type": "Ride",
+        "distance": 6877.1,
+        "average_grade": -7.0,
+        "maximum_grade": 17.3,
+        "elevation_high": 1359.2,
+        "elevation_low": 870.5,
+        "start_latlng": [
+          45.196125,
+          6.466285
+        ],
+        "end_latlng": [
+          45.208638,
+          6.468057
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Saint-Martin-d'Arc",
+        "state": "Auvergne-Rh\u00f4ne-Alpes",
+        "country": "France",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3390720268179350860,
+      "resource_state": 2,
+      "name": "Telegraph Final",
+      "activity": {
+        "id": 14798572137,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 596,
+      "moving_time": 596,
+      "start_date": "2025-06-14T15:06:17Z",
+      "start_date_local": "2025-06-14T17:06:17Z",
+      "distance": 6659.6,
+      "start_index": 27930,
+      "end_index": 28526,
+      "device_watts": false,
+      "segment": {
+        "id": 39871341,
+        "resource_state": 2,
+        "name": "Telegraph Final",
+        "activity_type": "Ride",
+        "distance": 6659.6,
+        "average_grade": -7.3,
+        "maximum_grade": -2.4,
+        "elevation_high": 1240.4,
+        "elevation_low": 752.6,
+        "start_latlng": [
+          45.197929,
+          6.469153
+        ],
+        "end_latlng": [
+          45.213585,
+          6.471827
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Saint-Martin-d'Arc",
+        "state": "Savoy",
+        "country": "France",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    }
+  ],
+  "splits_metric": [
+    {
+      "distance": 1009.3,
+      "elapsed_time": 120,
+      "elevation_difference": -66.6,
+      "moving_time": 120,
+      "split": 1,
+      "average_speed": 8.41,
+      "average_grade_adjusted_speed": 7.47,
+      "pace_zone": 0
+    },
+    {
+      "distance": 994.6,
+      "elapsed_time": 87,
+      "elevation_difference": -65.2,
+      "moving_time": 87,
+      "split": 2,
+      "average_speed": 11.43,
+      "average_grade_adjusted_speed": 10.13,
+      "pace_zone": 0
+    },
+    {
+      "distance": 998.2,
+      "elapsed_time": 96,
+      "elevation_difference": -64.6,
+      "moving_time": 96,
+      "split": 3,
+      "average_speed": 10.4,
+      "average_grade_adjusted_speed": 9.24,
+      "pace_zone": 0
+    },
+    {
+      "distance": 998.7,
+      "elapsed_time": 447,
+      "elevation_difference": 60.8,
+      "moving_time": 447,
+      "split": 4,
+      "average_speed": 2.23,
+      "average_grade_adjusted_speed": 2.79,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1001.8,
+      "elapsed_time": 631,
+      "elevation_difference": 56.4,
+      "moving_time": 477,
+      "split": 5,
+      "average_speed": 2.1,
+      "average_grade_adjusted_speed": 2.55,
+      "pace_zone": 0
+    },
+    {
+      "distance": 997.4,
+      "elapsed_time": 315,
+      "elevation_difference": 4.0,
+      "moving_time": 315,
+      "split": 6,
+      "average_speed": 3.17,
+      "average_grade_adjusted_speed": 3.3,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1006.2,
+      "elapsed_time": 395,
+      "elevation_difference": 20.0,
+      "moving_time": 373,
+      "split": 7,
+      "average_speed": 2.7,
+      "average_grade_adjusted_speed": 3.06,
+      "pace_zone": 0
+    },
+    {
+      "distance": 994.1,
+      "elapsed_time": 287,
+      "elevation_difference": 3.4,
+      "moving_time": 287,
+      "split": 8,
+      "average_speed": 3.46,
+      "average_grade_adjusted_speed": 3.72,
+      "pace_zone": 0
+    },
+    {
+      "distance": 999.7,
+      "elapsed_time": 507,
+      "elevation_difference": 70.8,
+      "moving_time": 467,
+      "split": 9,
+      "average_speed": 2.14,
+      "average_grade_adjusted_speed": 2.76,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1001.3,
+      "elapsed_time": 417,
+      "elevation_difference": 67.6,
+      "moving_time": 417,
+      "split": 10,
+      "average_speed": 2.4,
+      "average_grade_adjusted_speed": 3.05,
+      "pace_zone": 0
+    },
+    {
+      "distance": 998.9,
+      "elapsed_time": 409,
+      "elevation_difference": 73.0,
+      "moving_time": 409,
+      "split": 11,
+      "average_speed": 2.44,
+      "average_grade_adjusted_speed": 3.17,
+      "pace_zone": 0
+    },
+    {
+      "distance": 999.8,
+      "elapsed_time": 432,
+      "elevation_difference": 69.2,
+      "moving_time": 399,
+      "split": 12,
+      "average_speed": 2.51,
+      "average_grade_adjusted_speed": 3.21,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1005.1,
+      "elapsed_time": 22198,
+      "elevation_difference": 56.4,
+      "moving_time": 464,
+      "split": 13,
+      "average_speed": 2.17,
+      "average_grade_adjusted_speed": 2.66,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1001.5,
+      "elapsed_time": 891,
+      "elevation_difference": -235.0,
+      "moving_time": 129,
+      "split": 14,
+      "average_speed": 7.76,
+      "average_grade_adjusted_speed": 7.02,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1008.8,
+      "elapsed_time": 96,
+      "elevation_difference": -66.8,
+      "moving_time": 96,
+      "split": 15,
+      "average_speed": 10.51,
+      "average_grade_adjusted_speed": 9.3,
+      "pace_zone": 0
+    },
+    {
+      "distance": 990.9,
+      "elapsed_time": 102,
+      "elevation_difference": -65.4,
+      "moving_time": 102,
+      "split": 16,
+      "average_speed": 9.71,
+      "average_grade_adjusted_speed": 8.64,
+      "pace_zone": 0
+    },
+    {
+      "distance": 994.5,
+      "elapsed_time": 152,
+      "elevation_difference": -10.8,
+      "moving_time": 152,
+      "split": 17,
+      "average_speed": 6.54,
+      "average_grade_adjusted_speed": 6.58,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1012.4,
+      "elapsed_time": 75,
+      "elevation_difference": -72.4,
+      "moving_time": 75,
+      "split": 18,
+      "average_speed": 13.5,
+      "average_grade_adjusted_speed": 11.9,
+      "pace_zone": 0
+    },
+    {
+      "distance": 986.9,
+      "elapsed_time": 109,
+      "elevation_difference": -55.6,
+      "moving_time": 109,
+      "split": 19,
+      "average_speed": 9.05,
+      "average_grade_adjusted_speed": 8.15,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1001.3,
+      "elapsed_time": 103,
+      "elevation_difference": -59.4,
+      "moving_time": 103,
+      "split": 20,
+      "average_speed": 9.72,
+      "average_grade_adjusted_speed": 8.69,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1000.1,
+      "elapsed_time": 91,
+      "elevation_difference": -63.4,
+      "moving_time": 91,
+      "split": 21,
+      "average_speed": 10.99,
+      "average_grade_adjusted_speed": 9.76,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1003.5,
+      "elapsed_time": 72,
+      "elevation_difference": -71.0,
+      "moving_time": 72,
+      "split": 22,
+      "average_speed": 13.94,
+      "average_grade_adjusted_speed": 12.36,
+      "pace_zone": 0
+    },
+    {
+      "distance": 997.1,
+      "elapsed_time": 98,
+      "elevation_difference": -70.0,
+      "moving_time": 98,
+      "split": 23,
+      "average_speed": 10.17,
+      "average_grade_adjusted_speed": 9.02,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1011.0,
+      "elapsed_time": 81,
+      "elevation_difference": -77.0,
+      "moving_time": 81,
+      "split": 24,
+      "average_speed": 12.48,
+      "average_grade_adjusted_speed": 10.97,
+      "pace_zone": 0
+    },
+    {
+      "distance": 987.3,
+      "elapsed_time": 90,
+      "elevation_difference": -79.4,
+      "moving_time": 90,
+      "split": 25,
+      "average_speed": 10.97,
+      "average_grade_adjusted_speed": 9.62,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1002.3,
+      "elapsed_time": 95,
+      "elevation_difference": -77.4,
+      "moving_time": 95,
+      "split": 26,
+      "average_speed": 10.55,
+      "average_grade_adjusted_speed": 9.27,
+      "pace_zone": 0
+    },
+    {
+      "distance": 999.9,
+      "elapsed_time": 103,
+      "elevation_difference": -74.8,
+      "moving_time": 103,
+      "split": 27,
+      "average_speed": 9.71,
+      "average_grade_adjusted_speed": 8.59,
+      "pace_zone": 0
+    },
+    {
+      "distance": 998.9,
+      "elapsed_time": 3010,
+      "elevation_difference": -48.2,
+      "moving_time": 182,
+      "split": 28,
+      "average_speed": 5.49,
+      "average_grade_adjusted_speed": 5.16,
+      "pace_zone": 0
+    },
+    {
+      "distance": 738.3,
+      "elapsed_time": 698,
+      "elevation_difference": 8.8,
+      "moving_time": 234,
+      "split": 29,
+      "average_speed": 3.16,
+      "average_grade_adjusted_speed": 3.34,
+      "pace_zone": 0
+    }
+  ],
+  "splits_standard": [
+    {
+      "distance": 1617.9,
+      "elapsed_time": 168,
+      "elevation_difference": -107.4,
+      "moving_time": 168,
+      "split": 1,
+      "average_speed": 9.63,
+      "average_grade_adjusted_speed": 8.54,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1602.1,
+      "elapsed_time": 193,
+      "elevation_difference": -83.8,
+      "moving_time": 193,
+      "split": 2,
+      "average_speed": 8.3,
+      "average_grade_adjusted_speed": 7.63,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1609.6,
+      "elapsed_time": 950,
+      "elevation_difference": 107.4,
+      "moving_time": 796,
+      "split": 3,
+      "average_speed": 2.02,
+      "average_grade_adjusted_speed": 2.56,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1609.5,
+      "elapsed_time": 613,
+      "elevation_difference": 35.6,
+      "moving_time": 591,
+      "split": 4,
+      "average_speed": 2.72,
+      "average_grade_adjusted_speed": 2.99,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1608.7,
+      "elapsed_time": 478,
+      "elevation_difference": 0.2,
+      "moving_time": 478,
+      "split": 5,
+      "average_speed": 3.37,
+      "average_grade_adjusted_speed": 3.62,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1610.5,
+      "elapsed_time": 771,
+      "elevation_difference": 109.6,
+      "moving_time": 731,
+      "split": 6,
+      "average_speed": 2.2,
+      "average_grade_adjusted_speed": 2.81,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1610.0,
+      "elapsed_time": 648,
+      "elevation_difference": 119.0,
+      "moving_time": 648,
+      "split": 7,
+      "average_speed": 2.48,
+      "average_grade_adjusted_speed": 3.24,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1606.8,
+      "elapsed_time": 1109,
+      "elevation_difference": 104.8,
+      "moving_time": 725,
+      "split": 8,
+      "average_speed": 2.22,
+      "average_grade_adjusted_speed": 2.8,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1616.5,
+      "elapsed_time": 22351,
+      "elevation_difference": -266.0,
+      "moving_time": 206,
+      "split": 9,
+      "average_speed": 7.85,
+      "average_grade_adjusted_speed": 7.11,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1603.7,
+      "elapsed_time": 170,
+      "elevation_difference": -96.8,
+      "moving_time": 170,
+      "split": 10,
+      "average_speed": 9.43,
+      "average_grade_adjusted_speed": 8.54,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1611.9,
+      "elapsed_time": 184,
+      "elevation_difference": -66.2,
+      "moving_time": 184,
+      "split": 11,
+      "average_speed": 8.76,
+      "average_grade_adjusted_speed": 8.23,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1608.3,
+      "elapsed_time": 166,
+      "elevation_difference": -95.4,
+      "moving_time": 166,
+      "split": 12,
+      "average_speed": 9.69,
+      "average_grade_adjusted_speed": 8.68,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1606.4,
+      "elapsed_time": 153,
+      "elevation_difference": -100.2,
+      "moving_time": 153,
+      "split": 13,
+      "average_speed": 10.5,
+      "average_grade_adjusted_speed": 9.35,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1613.1,
+      "elapsed_time": 134,
+      "elevation_difference": -116.8,
+      "moving_time": 134,
+      "split": 14,
+      "average_speed": 12.04,
+      "average_grade_adjusted_speed": 10.66,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1612.4,
+      "elapsed_time": 139,
+      "elevation_difference": -117.2,
+      "moving_time": 139,
+      "split": 15,
+      "average_speed": 11.6,
+      "average_grade_adjusted_speed": 10.24,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1612.0,
+      "elapsed_time": 144,
+      "elevation_difference": -126.0,
+      "moving_time": 144,
+      "split": 16,
+      "average_speed": 11.19,
+      "average_grade_adjusted_speed": 9.83,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1601.7,
+      "elapsed_time": 164,
+      "elevation_difference": -114.0,
+      "moving_time": 164,
+      "split": 17,
+      "average_speed": 9.77,
+      "average_grade_adjusted_speed": 8.66,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1378.7,
+      "elapsed_time": 3672,
+      "elevation_difference": -19.4,
+      "moving_time": 380,
+      "split": 18,
+      "average_speed": 3.63,
+      "average_grade_adjusted_speed": 3.68,
+      "pace_zone": 0
+    }
+  ],
+  "laps": [
+    {
+      "id": 52629178943,
+      "resource_state": 2,
+      "name": "Lap 1",
+      "activity": {
+        "id": 14798572137,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 32207,
+      "moving_time": 32207,
+      "start_date": "2025-06-14T07:20:47Z",
+      "start_date_local": "2025-06-14T09:20:47Z",
+      "distance": 28739.8,
+      "average_speed": 0.89,
+      "max_speed": 16.8,
+      "lap_index": 1,
+      "split": 1,
+      "start_index": 0,
+      "end_index": 32207,
+      "total_elevation_gain": 580.0,
+      "device_watts": false,
+      "average_watts": 100.5
+    }
+  ],
+  "gear": {
+    "id": "b11943195",
+    "primary": false,
+    "name": "Betty",
+    "nickname": "Betty",
+    "resource_state": 2,
+    "retired": false,
+    "distance": 12373192,
+    "converted_distance": 12373.2
+  },
+  "photos": {
+    "primary": {
+      "unique_id": "8aa2a518-b3b0-4ba0-82ec-300d973acb67",
+      "urls": {
+        "600": "https://dgtzuqphqg23d.cloudfront.net/ZOFN3lK46m7Sm4TsuCy39RhpWmavA3OLL4iAtF9fIgk-576x768.jpg",
+        "100": "https://dgtzuqphqg23d.cloudfront.net/ZOFN3lK46m7Sm4TsuCy39RhpWmavA3OLL4iAtF9fIgk-96x128.jpg"
+      },
+      "source": 1,
+      "media_type": 1
+    },
+    "use_primary_photo": false,
+    "count": 4
+  },
+  "stats_visibility": [
+    {
+      "type": "heart_rate",
+      "visibility": "everyone"
+    },
+    {
+      "type": "pace",
+      "visibility": "everyone"
+    },
+    {
+      "type": "power",
+      "visibility": "everyone"
+    },
+    {
+      "type": "speed",
+      "visibility": "everyone"
+    },
+    {
+      "type": "calories",
+      "visibility": "everyone"
+    }
+  ],
+  "hide_from_home": false,
+  "embed_token": "f2286a8953c1d28ab2f0d6c8b7fb8d8b04c44114",
+  "available_zones": [
+    "power"
+  ]
+}

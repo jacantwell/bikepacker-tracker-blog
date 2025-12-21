@@ -1,0 +1,3739 @@
+{
+  "resource_state": 3,
+  "athlete": {
+    "id": 49023768,
+    "resource_state": 1
+  },
+  "name": "Escaping the smog",
+  "distance": 87912.0,
+  "moving_time": 16485,
+  "elapsed_time": 34464,
+  "total_elevation_gain": 1312.0,
+  "type": "Ride",
+  "sport_type": "Ride",
+  "workout_type": null,
+  "device_name": "Garmin Edge 540",
+  "id": 16192639689,
+  "start_date": "2025-10-19T02:27:38Z",
+  "start_date_local": "2025-10-19T07:57:38Z",
+  "timezone": "(GMT+05:30) Asia/Kolkata",
+  "utc_offset": 19800.0,
+  "location_city": null,
+  "location_state": null,
+  "location_country": null,
+  "achievement_count": 1,
+  "kudos_count": 12,
+  "comment_count": 0,
+  "athlete_count": 1,
+  "photo_count": 0,
+  "map": {
+    "id": "a16192639689",
+    "polyline": "m|cxDea~sMAJ@FZb@JV@FCLyA`CGNo@lAI^MTCL_@Xa@`@_@h@QHcEdHs@vAWh@BVKh@w@zAFHDTHT@DGVe@n@O`@qCvFUj@q@|@Sn@}@tB{BvE}AvC_AlA{@bBsCxFmB~DoA|BkBvD]h@}GfNcGpLsDtHm@hAmMpWs@rAc@t@w@fB}@hCcAtBuFpKeAdBs@x@gDbDcCxBiBzAcAt@wBtAaCrAgBx@}Bz@eBf@kBb@{XnF{Cd@y@J{Bd@yOhCiB^cBRODGNKHkI|AgC`@yDv@kH`B_Cj@}Af@eEbAgB\\_C\\kGdAiJ|Bqt@zP}LvCqPxDii@fMmKjCqD`A_D|@qD~@gHdB_Cf@gBZyBj@{Bd@sBt@{H`BmIlBWDm@ZkAN_ARiInB_FrAuBV{F|A_B`@eKrCcCt@aFpAkBh@{Ct@oGdB}@Nm@ReIxBmB\\}@HkAF_A@yACyBSoDe@}Gw@eHeAwIgA_WuCu@K_JaAgAQsD[gC[oB_@{Aa@oMgEcNyEiLuDyAk@_ASmO_FyH_CoFgB_e@{NwGmBaDcA_SqGw@]}@WqE_B{GuBaFaBsCcA}NyEqDiA_@E}A]cDeAkFaB_A_@yH_C_GoBm@W}@WaBk@aBa@gASaFg@yB[gASgA[y@[}Au@wB}@w@a@{TiKYKaCmAq@WqAs@uCkAUDq@EmCc@[GM?kAUyMC_g@g@_AE{@Ge@EgASc@KiHaC}Aw@oAc@gBi@iCaAgDaA{FsByRqGsIyCwDiAwCaAoA_@aJaDYG[OwHkCc@WmBk@eDkAaBs@_Bm@gCg@g@OOAKBUA{Cq@QIcBoA_Ae@w@c@iDqA{Bs@{@_@uAa@gC_AG@CH]TMN?FeLqGgRyGsAi@eFeBy|A{i@}r@sVyAk@mBcAyBuA}F_EeBgAgKgH}r@qe@wF}Cg@Q_B}@iAi@sBmA}LuGqAw@c@Sy@e@e@i@m@a@i@M}@c@uLuGeEsBm@]k@c@s@q@wBuC}@cAo@a@YM[Gi@G]A{@@}N`A_FVs@@aBEiOEuA@k@@w@JaATc@P}A|@g@`@sEfEoFdFaA`AiE|DwDrD{TxSmDjDgA|@UTm@z@gBhBc@\\m@jASXi@`@mBjBcDhDiBpAuAhAcDhDaKpJwFzEwEdE_T~Rs@f@gAj@s@TmARCBLBb@GnA]F?LDHAXKbAo@HADDBNCp@@TYB^d@ARFDCCwJBcAD_AHk@DKDELCTETCDIBEAGIAWD_@HUCM{FZU?_EPeAB}FVMBUXUFWA_AOq@@yCHoCNmBBOB{@B[HmABk@Ac@D}AFIBKFI@RG?EcDJu@AiBRmDLwCPmA?UCQIG?uEPw@@{Q|@cBDaBHi@?oOr@qGVg@?sBHuANaPv@kz@pEmANe@JgA`@uUbNg@VsKrG]Fa@PECDQPY`BiAh@YrA}@|GsDzE{Cx@_@fAo@|ByALQJUf@sCLYBSL]\\qAp@qBAYUcAkAiHsBmQ{AoKiAaJmCkRM_BWiAQiAoIgn@m@{D_@aBa@kAM[}@wAwBuCmA}A{FkG}MyOq@{@gAgAuJeLcUoWuByBaC_CoD}CaAu@}EkDwCmBuIiFaCmAwNuGwP_Iub@kS_H{CiMgGeBs@{@[eBa@iBW{AIsB?kJXwABqAEmAQaAWqE_B}HcCcFkBMKqAk@{MqE_A_@q@OgBk@cCaA{Au@uCiBeDkCeDgC}CwBuCyBcBuAeIsH{CkCcD}BeEoCgCkB{CkCwBuBuFeFaEqDaHsFsDoCaMwIkCqBiCwBiBaBiEeEmC{BgAw@eAm@sNuHiCeBgCwAq@e@mBy@eCoBq@w@s@gA_AeAwBiBmDmCmAkAiFoEyEoDwBwAwE_CkAi@iAa@eCw@}Ck@}@MwBQyCM}LSmCI_SWqIBcCCgFB}ADkEb@u@@e@C{RwCyCa@cEo@aAU_Da@oKeBuGaAkO{Be@G]A_@G]CeB_@sC}@}EoBkAi@mAa@qCmA}R}HuF}Ba@S_Bm@o@Y]WcA_@}A{@kHqDy@]eEyB_A_@u@a@cA_@sEaCm@W[KIGm@]k@Ui@]}DoB_Ai@sAaAqGqFiBoA{CgCq@e@iBiAsBeAgD{AsBs@g@KgA[}FiAeBU}Du@y@Si@QSKo@a@c@c@g@m@q@iAe@oAYmAGy@CcAX_E@sAMgAe@wAc@aAW_@gBaBy@}@SMOMgAwAwAyB}@gAo@m@aBeAqAs@_DkBs@i@iDyCaBiAsAm@yBs@{Ak@eBy@qM}HoBqAm@i@_@c@i@cAa@cA_A{Ca@iAS_@Y]o@i@}@c@mCcAwAo@u@YG?USiBu@m@ScAUg@Im@CeDCgBGaL_AcAQYIa@O_@Uw@o@_@g@]o@_DiJ{A{Cy@qB_AmBy@kBi@}@_@g@w@u@i@]{BmAuBoAcB{@oEoBeDaBeBkAeBqAkAkA{IaJq@y@KUOs@Ci@BYHc@Nc@LQXYh@W`JeC\\KXOZc@JUF]Bg@Eu@IYgAyBUk@Mk@QoAGwBGiAQm@Ua@{@o@mK{Fs@[i@QyAWcAEo@Bi@AUA[QOQIQGe@?WVoDJiGJeCJcAVcEH{@HSl@eALi@B_@?g@IeA]w@e@o@c@[o@W_@@eCToBJSAMESMMUK]?SFa@LSXSnCuA^a@Tm@v@yAD{@Cu@E[w@cB{@_BYu@Gi@MyBMa@i@oAe@s@UUiAw@s@m@]_@a@m@[]WOMOKSEQ@c@L_@PURI\\B`@Nr@b@\\H\\?PEXWZc@Tu@Hk@PkBJm@`@q@TU`@Wf@e@Re@BQB_@OuBQ}@_@cAIc@Ca@@[D[Nc@NYHWTsAFqAMsAIi@JQAYCQDm@FWVs@Dk@C_@GQc@e@S_@GY?SNm@\\g@d@mBr@eBZm@V[~@s@LMH[Bk@EYGOuAuBc@_@}CuBUYKi@@[HWNWt@k@JOJWB[Aa@Os@Sk@QYSOSCQA{@L}Bd@e@F_@ASGWQ?IGYGGIMUm@QYIEAIF?_B\\aA`@YFc@Ee@[gCiC]c@Oa@UME]DSCO?c@RoC@{@S}@U_@o@q@yAuA]QUAMDIHQr@Q`AKTkCvBaAp@a@N[@g@OMMKSIk@Di@`@aBFa@Ei@[}@a@u@k@{@aD_Dq@cAUWy@o@WM]Cm@J[Vk@~@]Xo@^UTWj@y@rDOP[Hm@Ce@YQWM]aAuDSWMKSIeBQy@Qu@EgAD_@FYJg@b@WLODWAYM[_@EMEg@D[f@_CNg@R]f@k@Zk@Ja@D]?UCc@K_@Q[QQCs@BRLTAHI?cAi@eA_@u@]s@e@_@_@a@mAq@eAQ_@Uu@K_AAWDi@Hq@Xu@No@Bg@Ce@KmAOi@Wg@YWe@OY?]Hy@d@uAfA_@Nu@T_BLkA@uAGOBWFMHS^SrASd@QPu@h@w@`AONOHQBU?UGUMMKS_@WwAISKQSK]E[DoBfAQDQ@]I[QMQUm@QQIEUC_@?QHUVaBtDg@x@aAfAm@n@WPSDO?SEOKMOM_@U_BOg@c@e@kB{AUUQYs@_BS[QMQI_@CS@]NYRoAjAKTGh@Bb@HVLTh@h@HNLd@BTCj@Mh@mB|F_BzC]j@OJS@QEOMKSGYWmDIUGIOMSIgAYWQq@w@UIk@?gALS@SAs@M_@Dy@^m@^ONg@v@UV]LSDw@E_AMQIQM]c@QQWIU@QHGHIVAXRbC?\\Gl@YfAGp@EpCGZSRQFQ?QGOKaAqAwBaDa@a@UEU@k@XQD]Ak@Ei@B]LIFIRc@dFc@rCOh@[`@c@XaAj@c@RSFs@DcDG}A?QEMGKIOUKa@B]HU`@}@Ro@LSd@g@x@e@NMTa@r@{Ap@yCFg@Ag@U{@KaABg@PcA\\uAf@gAn@_AvAiAT[FY?Mo@y@M]Cm@@UJYRW|AoA^W`@a@DM@QIMIKwA_@{@g@u@Eo@BWFMLKP]|@MPQLWJiATeAHYCc@WU[Wk@MKQG[BKFKPi@lB]f@SLe@LUBUAUGUMc@c@UMSEYAMCOBWJSPk@x@w@x@[LWBmAB]H[\\y@jAMJQFW@k@?[Ha@TSDW@WIkAkA[QMAU@o@Pe@VORK^MrASj@STeCvB]T[FU@aAI]?y@Je@N]\\a@v@k@x@y@|@c@V[FY?u@K}@UW?K@UJm@j@UFU@SGGEe@k@YEOBcAXcBTw@Nq@Jg@@SKMUCYDYfCqDN_@Nm@P[LENCbABPC\\Qd@m@^W^MdAQPIHK@YKi@cAcCC]Bg@DMPWXQz@W|B[XKPWF[Eg@a@sBOSAK?q@Cc@Bi@|@}BRYb@]nBcAZa@Ja@@w@E}BGWEGOIYBsBdAgAZW?wCSkBGk@@g@LyAr@sBt@k@XcEbBg@ZcA\\{@h@kAtAkAfAuA~@g@Nk@@o@Ii@Yo@k@OIOEW?KBw@b@c@NW@UCYKWUUg@Uw@MUWK_A@]GOIy@@e@DWLKJ_@t@SVUFQ?UIQQGWEi@EKMQOGeAOe@MSMY_@KGGMAQ@YHYXc@\\UpA]^SHKxAkCf@g@x@a@TST_@Z_ALSLMZO`@ETBhAf@ZCPOLWN}@P}BDURc@BUCK]g@i@c@IKSQMOMg@E}@Ou@SKk@EsB?u@CUGWMWWWe@I[?eAFc@@[Ee@GM}@u@QWESIoD@e@DW\\m@r@}@l@o@NJDNFED@Ns@b@Cp@MTOf@e@VOj@KjBMZO@IAMKG]AgBJq@BaCTeA@u@Ca@@i@Ha@PI?gAZ}@NYB[?_AKm@Ca@Dy@Pe@BSA]GYOg@i@k@y@MYEAIJCLLfBCz@GTKJKb@mA~A]\\q@b@[ZUNQVIPCX@fAM`@SR}@Jc@X?JEF_@TMDi@FMTALGRCb@G\\APEFIHKBa@Fs@@YHIJAL@JEDAMBQRSPCbAAVGJGFGBKFu@HY?WACb@_@V?H@BD",
+    "resource_state": 3,
+    "summary_polyline": "m|cxDea~sMd@dBaHrKwF|JwAfEPrAmzAdyCeL|LgLzHwL`Euz@dOuz@rQ}qFbqAq_A~VwFn@sGUuuAyPezFoiBuSiDyl@mXkIaAc}@sAiuB{s@}JiBmFcD_QgGw@x@eLqGspDepAqqA{{@q_Asg@uGoHoC_AwXxAaXE{FpBaz@fw@qG~Ha`@n^ob@``@aG`ChG{AF|AYBd@~@_ONw@J]bACgBuWhAy@d@o[p@w_@`AmfC|L{D|@qe@hXrByBvZqQpDkMa]keCoAiEcGkIm{@_bAiNmMmYqQu~Ayt@gJ_BwUDkx@eYuWoRw`@o[kUySc`@mYkQ{Os`@yTi[iYuRqLmJeCoIm@ke@u@ca@j@uqA{Rss@eYsf@_VkKsF{ZaU{GoCyXqG}B{C_A}CNqKs@_DoOeRsSsNoKgEaQoKwBqCwCiIiAgAsQeHeWyA_DaAuBgC_DiJyImQs[kQ_QyP_@sBj@sB|MsEn@wAA}AuBkFiAaJ}NgIwHo@u@u@f@}Rl@cIdAcCEmCwC{CuGb@cAk@HgBhEkClAgC@qBsCuGUcDw@qBmIaJt@cBpC`AhA]xA_HxC}DkA}IfAaFOoEp@cFkAeDfCiH`CkCLgAcB_DwEoD?}A|AkBMqBmAyAeHn@}AcD{DfAiAa@kE}EAoJ}DyDm@Lo@jCkCvBcB`AcAMc@mAn@mDa@gBiKkLkAFkDfDqA~Ek@ZsA]aBkFu@m@uEi@cG`Aa@qBv@gDvAuBLyBs@aCNr@}FmCeCsEc@mCx@oGmAwD}AEeFrCiHRiAbDqDzCoAa@uAiDmEnAoBmB_AIqDpG{CnCaAa@s@gDeDwCyAuCwAYsCdCClAjAfBLfB{BfHmCrEaAe@q@gFkEeCoFDgFrDyFiBc@j@PzDkAhJeAK{EuG}EVq@h@gAxJk@jA}C`BuHA{@m@G_AlAwCnB{AhA}Bx@aEc@eDTkBdA}C|CeDu@_CAcA~D{DKy@yFiAoBdCgDj@gDsBsB|DqANqDoAoCpC_D^uB|BmDh@_CgBsAPu@j@m@~CyClCoGp@iEdFaEY{BbA{A_AiIpA_@uAxD{GrBIdFmCmAmGp@w@dFwAq@wIpAwCnDcCEwFeFzAoJKiP`HqIvG{AGyBuAmDt@kBwCeC[_BF_CnBiA{BuD{A@sAhDkBbBwCdE_FjE@lAcHwBeCc@{CiFUeAm@a@aABkD}AoBGuEdCsDb@VNs@~IyC_UbBeHNkAYgB_CKrEyFtGYtCsEpBk@rCeC`@Oj@Ts@xBUZ_ChAW"
+  },
+  "trainer": false,
+  "commute": false,
+  "manual": false,
+  "private": false,
+  "visibility": "everyone",
+  "flagged": false,
+  "gear_id": "b16337781",
+  "start_latlng": [
+    30.335599,
+    76.836199
+  ],
+  "end_latlng": [
+    30.904209,
+    77.011826
+  ],
+  "average_speed": 5.333,
+  "max_speed": 12.76,
+  "average_temp": 29,
+  "average_watts": 162.0,
+  "device_watts": false,
+  "kilojoules": 2669.9,
+  "has_heartrate": false,
+  "heartrate_opt_out": false,
+  "display_hide_heartrate_option": false,
+  "elev_high": 1482.2,
+  "elev_low": 263.2,
+  "upload_id": 17276596531,
+  "upload_id_str": "17276596531",
+  "external_id": "garmin_ping_492610463656",
+  "from_accepted_tag": false,
+  "pr_count": 0,
+  "total_photo_count": 8,
+  "has_kudoed": false,
+  "description": "I think Indian drivers are so used to dodging motorbikes the roads actually feel super safe, 0 close passes so far. Looking forward to some smaller roads and some Diwali celebrations tomorrow night.",
+  "calories": 2873.0,
+  "perceived_exertion": null,
+  "prefer_perceived_exertion": null,
+  "segment_efforts": [
+    {
+      "id": 3415008711797872558,
+      "resource_state": 2,
+      "name": "Bank Rd Climb",
+      "activity": {
+        "id": 16192639689,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 67,
+      "moving_time": 67,
+      "start_date": "2025-10-19T02:35:43Z",
+      "start_date_local": "2025-10-19T08:05:43Z",
+      "distance": 578.48,
+      "start_index": 391,
+      "end_index": 458,
+      "device_watts": false,
+      "segment": {
+        "id": 2455266,
+        "resource_state": 2,
+        "name": "Bank Rd Climb",
+        "activity_type": "Ride",
+        "distance": 578.48,
+        "average_grade": 20.5,
+        "maximum_grade": 45.6,
+        "elevation_high": 403.4,
+        "elevation_low": 284.6,
+        "start_latlng": [
+          30.343392295762897,
+          76.82231096550822
+        ],
+        "end_latlng": [
+          30.346341636031866,
+          76.81734812445939
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 1,
+        "city": "Ambala Cantt",
+        "state": "Punjab",
+        "country": "India",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3415008711798831022,
+      "resource_state": 2,
+      "name": "Baldev Nagar to H-P Border",
+      "activity": {
+        "id": 16192639689,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 578,
+      "moving_time": 578,
+      "start_date": "2025-10-19T02:51:13Z",
+      "start_date_local": "2025-10-19T08:21:13Z",
+      "distance": 4260.0,
+      "start_index": 1192,
+      "end_index": 1770,
+      "device_watts": false,
+      "segment": {
+        "id": 15395401,
+        "resource_state": 2,
+        "name": "Baldev Nagar to H-P Border",
+        "activity_type": "Ride",
+        "distance": 4260.0,
+        "average_grade": 0.1,
+        "maximum_grade": 5.0,
+        "elevation_high": 281.0,
+        "elevation_low": 273.3,
+        "start_latlng": [
+          30.38776,
+          76.792117
+        ],
+        "end_latlng": [
+          30.42493,
+          76.779356
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Ambala",
+        "state": "Haryana",
+        "country": "India",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3415008711799290798,
+      "resource_state": 2,
+      "name": "NH152 Ambala border to Gholu Majra Toll",
+      "activity": {
+        "id": 16192639689,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 2120,
+      "moving_time": 2109,
+      "start_date": "2025-10-19T02:54:48Z",
+      "start_date_local": "2025-10-19T08:24:48Z",
+      "distance": 14313.6,
+      "start_index": 1407,
+      "end_index": 3519,
+      "device_watts": false,
+      "segment": {
+        "id": 19514198,
+        "resource_state": 2,
+        "name": "NH152 Ambala border to Gholu Majra Toll",
+        "activity_type": "Ride",
+        "distance": 14313.6,
+        "average_grade": 0.1,
+        "maximum_grade": 3.4,
+        "elevation_high": 236.6,
+        "elevation_low": 219.4,
+        "start_latlng": [
+          30.401776,
+          76.787504
+        ],
+        "end_latlng": [
+          30.524548,
+          76.81173
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Sadopur",
+        "state": "Haryana",
+        "country": "India",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3415008711798110126,
+      "resource_state": 2,
+      "name": "NH152 Gholu Majra Toll to Dera Bassi",
+      "activity": {
+        "id": 16192639689,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 7361,
+      "moving_time": 768,
+      "start_date": "2025-10-19T03:32:29Z",
+      "start_date_local": "2025-10-19T09:02:29Z",
+      "distance": 6200.0,
+      "start_index": 3660,
+      "end_index": 4430,
+      "device_watts": false,
+      "segment": {
+        "id": 19514267,
+        "resource_state": 2,
+        "name": "NH152 Gholu Majra Toll to Dera Bassi",
+        "activity_type": "Ride",
+        "distance": 6200.0,
+        "average_grade": 0.2,
+        "maximum_grade": 1.6,
+        "elevation_high": 249.6,
+        "elevation_low": 237.2,
+        "start_latlng": [
+          30.531191,
+          76.814686
+        ],
+        "end_latlng": [
+          30.581466,
+          76.842412
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Gholu Majra",
+        "state": "Punjab",
+        "country": "India",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3415008711796781998,
+      "resource_state": 2,
+      "name": "Dera Bassi Boobs! (towards Zirakpur)",
+      "activity": {
+        "id": 16192639689,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 427,
+      "moving_time": 427,
+      "start_date": "2025-10-19T05:35:02Z",
+      "start_date_local": "2025-10-19T11:05:02Z",
+      "distance": 3397.1,
+      "start_index": 4422,
+      "end_index": 4849,
+      "device_watts": false,
+      "segment": {
+        "id": 20359100,
+        "resource_state": 2,
+        "name": "Dera Bassi Boobs! (towards Zirakpur)",
+        "activity_type": "Ride",
+        "distance": 3397.1,
+        "average_grade": -0.2,
+        "maximum_grade": 3.2,
+        "elevation_high": 275.8,
+        "elevation_low": 259.4,
+        "start_latlng": [
+          30.581013,
+          76.842124
+        ],
+        "end_latlng": [
+          30.607297,
+          76.836659
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Dera Bassi",
+        "state": "Punjab",
+        "country": "India",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3415008711799412654,
+      "resource_state": 2,
+      "name": "Aerocity road end to Metro",
+      "activity": {
+        "id": 16192639689,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 1606,
+      "moving_time": 341,
+      "start_date": "2025-10-19T06:09:05Z",
+      "start_date_local": "2025-10-19T11:39:05Z",
+      "distance": 1862.1,
+      "start_index": 5312,
+      "end_index": 5657,
+      "device_watts": false,
+      "segment": {
+        "id": 26151107,
+        "resource_state": 2,
+        "name": "Aerocity road end to Metro",
+        "activity_type": "Ride",
+        "distance": 1862.1,
+        "average_grade": 0.3,
+        "maximum_grade": 8.7,
+        "elevation_high": 309.0,
+        "elevation_low": 299.3,
+        "start_latlng": [
+          30.623265,
+          76.824073
+        ],
+        "end_latlng": [
+          30.639917,
+          76.822574
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": null,
+        "state": "Punjab",
+        "country": "India",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3415008711797896110,
+      "resource_state": 2,
+      "name": "zirakpur flyover rev",
+      "activity": {
+        "id": 16192639689,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 312,
+      "moving_time": 307,
+      "start_date": "2025-10-19T06:37:22Z",
+      "start_date_local": "2025-10-19T12:07:22Z",
+      "distance": 2198.8,
+      "start_index": 5748,
+      "end_index": 6058,
+      "device_watts": false,
+      "segment": {
+        "id": 7242011,
+        "resource_state": 2,
+        "name": "zirakpur flyover rev",
+        "activity_type": "Ride",
+        "distance": 2198.8,
+        "average_grade": 0.3,
+        "maximum_grade": 5.1,
+        "elevation_high": 316.9,
+        "elevation_low": 306.9,
+        "start_latlng": [
+          30.646083,
+          76.822047
+        ],
+        "end_latlng": [
+          30.664583,
+          76.816517
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": null,
+        "state": null,
+        "country": null,
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3415008711799068590,
+      "resource_state": 2,
+      "name": "Team Kinshi Z'pur to Old Pkl Lights",
+      "activity": {
+        "id": 16192639689,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 1014,
+      "moving_time": 1014,
+      "start_date": "2025-10-19T06:47:30Z",
+      "start_date_local": "2025-10-19T12:17:30Z",
+      "distance": 7335.2,
+      "start_index": 6304,
+      "end_index": 7318,
+      "device_watts": false,
+      "segment": {
+        "id": 9180079,
+        "resource_state": 2,
+        "name": "Team Kinshi Z'pur to Old Pkl Lights",
+        "activity_type": "Ride",
+        "distance": 7335.2,
+        "average_grade": 0.7,
+        "maximum_grade": 5.5,
+        "elevation_high": 359.4,
+        "elevation_low": 307.2,
+        "start_latlng": [
+          30.660216,
+          76.828061
+        ],
+        "end_latlng": [
+          30.70633,
+          76.873153
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Panchkula",
+        "state": "Haryana",
+        "country": "India",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3415008711794024366,
+      "resource_state": 2,
+      "name": "900mts from First Red light ",
+      "activity": {
+        "id": 16192639689,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 13107,
+      "moving_time": 7767,
+      "start_date": "2025-10-19T06:48:16Z",
+      "start_date_local": "2025-10-19T12:18:16Z",
+      "distance": 37910.7,
+      "start_index": 6350,
+      "end_index": 14144,
+      "device_watts": false,
+      "segment": {
+        "id": 11170061,
+        "resource_state": 2,
+        "name": "900mts from First Red light ",
+        "activity_type": "Ride",
+        "distance": 37910.7,
+        "average_grade": 2.3,
+        "maximum_grade": 12.7,
+        "elevation_high": 1176.4,
+        "elevation_low": 301.8,
+        "start_latlng": [
+          30.66111,
+          76.831818
+        ],
+        "end_latlng": [
+          30.877867,
+          77.002691
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Panchkula",
+        "state": "Haryana",
+        "country": "India",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3415008711797703598,
+      "resource_state": 2,
+      "name": "Sec 20 Pkl to Toll Plaza",
+      "activity": {
+        "id": 16192639689,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 1156,
+      "moving_time": 1156,
+      "start_date": "2025-10-19T06:53:51Z",
+      "start_date_local": "2025-10-19T12:23:51Z",
+      "distance": 8836.6,
+      "start_index": 6685,
+      "end_index": 7841,
+      "device_watts": false,
+      "segment": {
+        "id": 12457859,
+        "resource_state": 2,
+        "name": "Sec 20 Pkl to Toll Plaza",
+        "activity_type": "Ride",
+        "distance": 8836.6,
+        "average_grade": 0.9,
+        "maximum_grade": 4.7,
+        "elevation_high": 400.1,
+        "elevation_low": 318.5,
+        "start_latlng": [
+          30.671915,
+          76.853655
+        ],
+        "end_latlng": [
+          30.738859,
+          76.897527
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Panchkula",
+        "state": "Haryana",
+        "country": "India",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3415008711797495726,
+      "resource_state": 2,
+      "name": "Purana PKL Lights to Toll Plaza",
+      "activity": {
+        "id": 16192639689,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 456,
+      "moving_time": 456,
+      "start_date": "2025-10-19T07:05:07Z",
+      "start_date_local": "2025-10-19T12:35:07Z",
+      "distance": 4054.4,
+      "start_index": 7361,
+      "end_index": 7817,
+      "device_watts": false,
+      "segment": {
+        "id": 8406188,
+        "resource_state": 2,
+        "name": "Purana PKL Lights to Toll Plaza",
+        "activity_type": "Ride",
+        "distance": 4054.4,
+        "average_grade": 0.9,
+        "maximum_grade": 4.9,
+        "elevation_high": 399.3,
+        "elevation_low": 362.0,
+        "start_latlng": [
+          30.707452,
+          76.873564
+        ],
+        "end_latlng": [
+          30.737641,
+          76.896773
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Panchkula",
+        "state": "Haryana",
+        "country": "India",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3415008711800201134,
+      "resource_state": 2,
+      "name": "Timber Trail Climb",
+      "activity": {
+        "id": 16192639689,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 2972,
+      "moving_time": 2611,
+      "start_date": "2025-10-19T07:05:07Z",
+      "start_date_local": "2025-10-19T12:35:07Z",
+      "distance": 16050.6,
+      "start_index": 7361,
+      "end_index": 9974,
+      "device_watts": false,
+      "segment": {
+        "id": 28569318,
+        "resource_state": 2,
+        "name": "Timber Trail Climb",
+        "activity_type": "Ride",
+        "distance": 16050.6,
+        "average_grade": 2.2,
+        "maximum_grade": 48.0,
+        "elevation_high": 720.9,
+        "elevation_low": 361.7,
+        "start_latlng": [
+          30.707412,
+          76.873653
+        ],
+        "end_latlng": [
+          30.829504,
+          76.94843
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Panchkula",
+        "state": "Haryana",
+        "country": "India",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3415008711798844334,
+      "resource_state": 2,
+      "name": "Old Panchkula to Pinjore",
+      "activity": {
+        "id": 16192639689,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 1286,
+      "moving_time": 1286,
+      "start_date": "2025-10-19T07:05:14Z",
+      "start_date_local": "2025-10-19T12:35:14Z",
+      "distance": 10236.1,
+      "start_index": 7368,
+      "end_index": 8654,
+      "device_watts": false,
+      "segment": {
+        "id": 4883692,
+        "resource_state": 2,
+        "name": "Old Panchkula to Pinjore",
+        "activity_type": "Ride",
+        "distance": 10236.1,
+        "average_grade": 1.6,
+        "maximum_grade": 14.1,
+        "elevation_high": 526.8,
+        "elevation_low": 362.7,
+        "start_latlng": [
+          30.707753,
+          76.873801
+        ],
+        "end_latlng": [
+          30.789526,
+          76.915718
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Panchkula",
+        "state": "HR",
+        "country": "India",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3415008711799135150,
+      "resource_state": 2,
+      "name": "HMT Climb",
+      "activity": {
+        "id": 16192639689,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 517,
+      "moving_time": 517,
+      "start_date": "2025-10-19T07:18:05Z",
+      "start_date_local": "2025-10-19T12:48:05Z",
+      "distance": 3241.0,
+      "start_index": 8139,
+      "end_index": 8656,
+      "device_watts": false,
+      "segment": {
+        "id": 18271729,
+        "resource_state": 2,
+        "name": "HMT Climb",
+        "activity_type": "Ride",
+        "distance": 3241.0,
+        "average_grade": 2.9,
+        "maximum_grade": 6.8,
+        "elevation_high": 527.2,
+        "elevation_low": 432.6,
+        "start_latlng": [
+          30.762276,
+          76.904703
+        ],
+        "end_latlng": [
+          30.78959,
+          76.91584
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Surajpur",
+        "state": "Haryana",
+        "country": "India",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3415008711799019438,
+      "resource_state": 2,
+      "name": "HMT Punch",
+      "activity": {
+        "id": 16192639689,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 117,
+      "moving_time": 117,
+      "start_date": "2025-10-19T07:18:41Z",
+      "start_date_local": "2025-10-19T12:48:41Z",
+      "distance": 961.8,
+      "start_index": 8175,
+      "end_index": 8292,
+      "device_watts": false,
+      "segment": {
+        "id": 19279904,
+        "resource_state": 2,
+        "name": "HMT Punch",
+        "activity_type": "Ride",
+        "distance": 961.8,
+        "average_grade": 4.1,
+        "maximum_grade": 7.1,
+        "elevation_high": 479.4,
+        "elevation_low": 440.4,
+        "start_latlng": [
+          30.765768,
+          76.905608
+        ],
+        "end_latlng": [
+          30.774255,
+          76.907685
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Bhogpur",
+        "state": "Haryana",
+        "country": "India",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [
+        {
+          "type_id": 2,
+          "type": "overall",
+          "rank": 4
+        }
+      ],
+      "visibility": "everyone",
+      "kom_rank": 4,
+      "hidden": false
+    },
+    {
+      "id": 3415008711797090222,
+      "resource_state": 2,
+      "name": "Himalayan Expressway",
+      "activity": {
+        "id": 16192639689,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 2951,
+      "moving_time": 2566,
+      "start_date": "2025-10-19T07:26:47Z",
+      "start_date_local": "2025-10-19T12:56:47Z",
+      "distance": 10345.0,
+      "start_index": 8661,
+      "end_index": 11233,
+      "device_watts": false,
+      "segment": {
+        "id": 4012124,
+        "resource_state": 2,
+        "name": "Himalayan Expressway",
+        "activity_type": "Ride",
+        "distance": 10345.0,
+        "average_grade": 4.2,
+        "maximum_grade": 51.6,
+        "elevation_high": 971.5,
+        "elevation_low": 525.3,
+        "start_latlng": [
+          30.789778,
+          76.915935
+        ],
+        "end_latlng": [
+          30.83647,
+          76.978687
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 3,
+        "city": "Panchkula, Haryana, India",
+        "state": "HR",
+        "country": "India",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3415008711799107502,
+      "resource_state": 2,
+      "name": "Pinjor lights to TT (First climb) 3Km ",
+      "activity": {
+        "id": 16192639689,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 649,
+      "moving_time": 649,
+      "start_date": "2025-10-19T07:26:54Z",
+      "start_date_local": "2025-10-19T12:56:54Z",
+      "distance": 3093.6,
+      "start_index": 8668,
+      "end_index": 9317,
+      "device_watts": false,
+      "segment": {
+        "id": 23949981,
+        "resource_state": 2,
+        "name": "Pinjor lights to TT (First climb) 3Km ",
+        "activity_type": "Ride",
+        "distance": 3093.6,
+        "average_grade": 3.5,
+        "maximum_grade": 8.2,
+        "elevation_high": 630.0,
+        "elevation_low": 521.4,
+        "start_latlng": [
+          30.790031,
+          76.916071
+        ],
+        "end_latlng": [
+          30.811345,
+          76.93411
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 1,
+        "city": "Pinjore",
+        "state": "Haryana",
+        "country": "India",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3415008711793669038,
+      "resource_state": 2,
+      "name": "Pinjore to Dharampur",
+      "activity": {
+        "id": 16192639689,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 15814,
+      "moving_time": 7345,
+      "start_date": "2025-10-19T07:26:56Z",
+      "start_date_local": "2025-10-19T12:56:56Z",
+      "distance": 26771.7,
+      "start_index": 8670,
+      "end_index": 16055,
+      "device_watts": false,
+      "segment": {
+        "id": 31841253,
+        "resource_state": 2,
+        "name": "Pinjore to Dharampur",
+        "activity_type": "Ride",
+        "distance": 26771.7,
+        "average_grade": 3.4,
+        "maximum_grade": 49.5,
+        "elevation_high": 1366.2,
+        "elevation_low": 458.2,
+        "start_latlng": [
+          30.79018,
+          76.916132
+        ],
+        "end_latlng": [
+          30.898266,
+          77.01528
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 5,
+        "city": "Pinjore",
+        "state": "Haryana",
+        "country": "India",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3415008711800232878,
+      "resource_state": 2,
+      "name": "Pinjor lights to wine shop on (HEW) )5.5km)",
+      "activity": {
+        "id": 16192639689,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 1596,
+      "moving_time": 1235,
+      "start_date": "2025-10-19T07:26:58Z",
+      "start_date_local": "2025-10-19T12:56:58Z",
+      "distance": 5415.6,
+      "start_index": 8672,
+      "end_index": 9909,
+      "device_watts": false,
+      "segment": {
+        "id": 23950228,
+        "resource_state": 2,
+        "name": "Pinjor lights to wine shop on (HEW) )5.5km)",
+        "activity_type": "Ride",
+        "distance": 5415.6,
+        "average_grade": 3.1,
+        "maximum_grade": 5.9,
+        "elevation_high": 849.8,
+        "elevation_low": 682.4,
+        "start_latlng": [
+          30.790253,
+          76.916196
+        ],
+        "end_latlng": [
+          30.827721,
+          76.947216
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 2,
+        "city": "Pinjore",
+        "state": "Haryana",
+        "country": "India",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3415008711800686510,
+      "resource_state": 2,
+      "name": "Bypass Rd Climb",
+      "activity": {
+        "id": 16192639689,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 451,
+      "moving_time": 451,
+      "start_date": "2025-10-19T07:49:03Z",
+      "start_date_local": "2025-10-19T13:19:03Z",
+      "distance": 1844.2,
+      "start_index": 9638,
+      "end_index": 10089,
+      "device_watts": false,
+      "segment": {
+        "id": 1646370,
+        "resource_state": 2,
+        "name": "Bypass Rd Climb",
+        "activity_type": "Ride",
+        "distance": 1844.2,
+        "average_grade": 6.0,
+        "maximum_grade": 15.5,
+        "elevation_high": 777.6,
+        "elevation_low": 665.4,
+        "start_latlng": [
+          30.820799851818773,
+          76.93988727412832
+        ],
+        "end_latlng": [
+          30.833144718809827,
+          76.95172252140655
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 1,
+        "city": "Pinjaur",
+        "state": "Haryana",
+        "country": "India",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3415008711797766062,
+      "resource_state": 2,
+      "name": "National Highway 22 Climb",
+      "activity": {
+        "id": 16192639689,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 76,
+      "moving_time": 76,
+      "start_date": "2025-10-19T07:57:35Z",
+      "start_date_local": "2025-10-19T13:27:35Z",
+      "distance": 312.5,
+      "start_index": 10150,
+      "end_index": 10226,
+      "device_watts": false,
+      "segment": {
+        "id": 5485560,
+        "resource_state": 2,
+        "name": "National Highway 22 Climb",
+        "activity_type": "Ride",
+        "distance": 312.5,
+        "average_grade": 25.9,
+        "maximum_grade": 47.2,
+        "elevation_high": 804.0,
+        "elevation_low": 723.2,
+        "start_latlng": [
+          30.830909,
+          76.953631
+        ],
+        "end_latlng": [
+          30.831093,
+          76.956292
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 1,
+        "city": "Parwanoo",
+        "state": "HR",
+        "country": "India",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3415008711795707822,
+      "resource_state": 2,
+      "name": "Full Gas!",
+      "activity": {
+        "id": 16192639689,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 7308,
+      "moving_time": 2562,
+      "start_date": "2025-10-19T08:01:36Z",
+      "start_date_local": "2025-10-19T13:31:36Z",
+      "distance": 7288.6,
+      "start_index": 10391,
+      "end_index": 12975,
+      "device_watts": false,
+      "segment": {
+        "id": 34687982,
+        "resource_state": 2,
+        "name": "Full Gas!",
+        "activity_type": "Ride",
+        "distance": 7288.6,
+        "average_grade": 5.0,
+        "maximum_grade": 25.7,
+        "elevation_high": 1095.3,
+        "elevation_low": 727.8,
+        "start_latlng": [
+          30.835721,
+          76.960271
+        ],
+        "end_latlng": [
+          30.855305,
+          77.001424
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 3,
+        "city": null,
+        "state": "Himachal Pradesh",
+        "country": "India",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3415008711799671726,
+      "resource_state": 2,
+      "name": "Nh 22 Climb",
+      "activity": {
+        "id": 16192639689,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 267,
+      "moving_time": 243,
+      "start_date": "2025-10-19T08:07:08Z",
+      "start_date_local": "2025-10-19T13:37:08Z",
+      "distance": 692.022,
+      "start_index": 10723,
+      "end_index": 10970,
+      "device_watts": false,
+      "segment": {
+        "id": 1646371,
+        "resource_state": 2,
+        "name": "Nh 22 Climb",
+        "activity_type": "Ride",
+        "distance": 692.022,
+        "average_grade": 16.5,
+        "maximum_grade": 36.4,
+        "elevation_high": 933.4,
+        "elevation_low": 819.2,
+        "start_latlng": [
+          30.83629639822136,
+          76.96800168610827
+        ],
+        "end_latlng": [
+          30.838706572568825,
+          76.9736257754983
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 1,
+        "city": "Parwanoo",
+        "state": "Himachal Pradesh",
+        "country": "India",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3415008711799047086,
+      "resource_state": 2,
+      "name": "TTR to Chakki Mod",
+      "activity": {
+        "id": 16192639689,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 6212,
+      "moving_time": 1531,
+      "start_date": "2025-10-19T08:18:16Z",
+      "start_date_local": "2025-10-19T13:48:16Z",
+      "distance": 4388.4,
+      "start_index": 11333,
+      "end_index": 12879,
+      "device_watts": false,
+      "segment": {
+        "id": 17035208,
+        "resource_state": 2,
+        "name": "TTR to Chakki Mod",
+        "activity_type": "Ride",
+        "distance": 4388.4,
+        "average_grade": 3.4,
+        "maximum_grade": 38.4,
+        "elevation_high": 1116.5,
+        "elevation_low": 967.6,
+        "start_latlng": [
+          30.836014,
+          76.981521
+        ],
+        "end_latlng": [
+          30.85297,
+          77.00251
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 1,
+        "city": null,
+        "state": "Himachal Pradesh",
+        "country": "India",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3415008711798357934,
+      "resource_state": 2,
+      "name": "Nh5 Climb",
+      "activity": {
+        "id": 16192639689,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 300,
+      "moving_time": 224,
+      "start_date": "2025-10-19T08:18:24Z",
+      "start_date_local": "2025-10-19T13:48:24Z",
+      "distance": 673.444,
+      "start_index": 11341,
+      "end_index": 11568,
+      "device_watts": false,
+      "segment": {
+        "id": 2732850,
+        "resource_state": 2,
+        "name": "Nh5 Climb",
+        "activity_type": "Ride",
+        "distance": 673.444,
+        "average_grade": 13.1,
+        "maximum_grade": 41.4,
+        "elevation_high": 1015.0,
+        "elevation_low": 924.5,
+        "start_latlng": [
+          30.835703938105055,
+          76.98194328620966
+        ],
+        "end_latlng": [
+          30.836580633155283,
+          76.98651101398968
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 1,
+        "city": null,
+        "state": "Himachal Pradesh",
+        "country": "India",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3415008711796309934,
+      "resource_state": 2,
+      "name": "Parwanoo cut to McDonald's",
+      "activity": {
+        "id": 16192639689,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 6816,
+      "moving_time": 2211,
+      "start_date": "2025-10-19T08:21:35Z",
+      "start_date_local": "2025-10-19T13:51:35Z",
+      "distance": 8131.2,
+      "start_index": 11459,
+      "end_index": 13682,
+      "device_watts": false,
+      "segment": {
+        "id": 30589540,
+        "resource_state": 2,
+        "name": "Parwanoo cut to McDonald's",
+        "activity_type": "Ride",
+        "distance": 8131.2,
+        "average_grade": 2.9,
+        "maximum_grade": 13.5,
+        "elevation_high": 1141.1,
+        "elevation_low": 903.4,
+        "start_latlng": [
+          30.835414,
+          76.984475
+        ],
+        "end_latlng": [
+          30.877397,
+          76.993864
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Datyar",
+        "state": "Himachal Pradesh",
+        "country": "India",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3415008711797586862,
+      "resource_state": 2,
+      "name": "Nh 22 Climb",
+      "activity": {
+        "id": 16192639689,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 4684,
+      "moving_time": 188,
+      "start_date": "2025-10-19T08:25:01Z",
+      "start_date_local": "2025-10-19T13:55:01Z",
+      "distance": 546.847,
+      "start_index": 11665,
+      "end_index": 11858,
+      "device_watts": false,
+      "segment": {
+        "id": 1646373,
+        "resource_state": 2,
+        "name": "Nh 22 Climb",
+        "activity_type": "Ride",
+        "distance": 546.847,
+        "average_grade": 15.7,
+        "maximum_grade": 41.6,
+        "elevation_high": 1047.0,
+        "elevation_low": 961.2,
+        "start_latlng": [
+          30.836704093991624,
+          76.98870389729457
+        ],
+        "end_latlng": [
+          30.840750373928657,
+          76.98985062546747
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 1,
+        "city": null,
+        "state": "Himachal Pradesh",
+        "country": "India",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3415008711797271470,
+      "resource_state": 2,
+      "name": "National Highway 22 Climb",
+      "activity": {
+        "id": 16192639689,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 206,
+      "moving_time": 206,
+      "start_date": "2025-10-19T09:46:03Z",
+      "start_date_local": "2025-10-19T15:16:03Z",
+      "distance": 620.862,
+      "start_index": 11996,
+      "end_index": 12202,
+      "device_watts": false,
+      "segment": {
+        "id": 3328099,
+        "resource_state": 2,
+        "name": "National Highway 22 Climb",
+        "activity_type": "Ride",
+        "distance": 620.862,
+        "average_grade": 18.3,
+        "maximum_grade": 66.3,
+        "elevation_high": 1098.0,
+        "elevation_low": 984.3,
+        "start_latlng": [
+          30.841863,
+          76.993112
+        ],
+        "end_latlng": [
+          30.844443,
+          76.993725
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 1,
+        "city": null,
+        "state": "Himachal Pradesh",
+        "country": "India",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3415008711796798382,
+      "resource_state": 2,
+      "name": "Nh 22 Climb",
+      "activity": {
+        "id": 16192639689,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 103,
+      "moving_time": 103,
+      "start_date": "2025-10-19T09:51:11Z",
+      "start_date_local": "2025-10-19T15:21:11Z",
+      "distance": 368.211,
+      "start_index": 12304,
+      "end_index": 12407,
+      "device_watts": false,
+      "segment": {
+        "id": 1646374,
+        "resource_state": 2,
+        "name": "Nh 22 Climb",
+        "activity_type": "Ride",
+        "distance": 368.211,
+        "average_grade": 25.5,
+        "maximum_grade": 32.9,
+        "elevation_high": 1103.0,
+        "elevation_low": 1009.3,
+        "start_latlng": [
+          30.846387916273294,
+          76.99497448287624
+        ],
+        "end_latlng": [
+          30.848276191419778,
+          76.99348434813041
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 1,
+        "city": null,
+        "state": "Himachal Pradesh",
+        "country": "India",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3415008711798438830,
+      "resource_state": 2,
+      "name": "Nh 22 Climb",
+      "activity": {
+        "id": 16192639689,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 284,
+      "moving_time": 217,
+      "start_date": "2025-10-19T09:54:17Z",
+      "start_date_local": "2025-10-19T15:24:17Z",
+      "distance": 614.475,
+      "start_index": 12490,
+      "end_index": 12712,
+      "device_watts": false,
+      "segment": {
+        "id": 1646375,
+        "resource_state": 2,
+        "name": "Nh 22 Climb",
+        "activity_type": "Ride",
+        "distance": 614.475,
+        "average_grade": 13.7,
+        "maximum_grade": 28.1,
+        "elevation_high": 1166.4,
+        "elevation_low": 1082.1,
+        "start_latlng": [
+          30.850068745232047,
+          76.99480039074737
+        ],
+        "end_latlng": [
+          30.85190278946501,
+          76.99798719033319
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 1,
+        "city": null,
+        "state": "Himachal Pradesh",
+        "country": "India",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3415008711794397102,
+      "resource_state": 2,
+      "name": "Flat relief",
+      "activity": {
+        "id": 16192639689,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 691,
+      "moving_time": 691,
+      "start_date": "2025-10-19T10:03:22Z",
+      "start_date_local": "2025-10-19T15:33:22Z",
+      "distance": 3762.1,
+      "start_index": 12973,
+      "end_index": 13664,
+      "device_watts": false,
+      "segment": {
+        "id": 27173226,
+        "resource_state": 2,
+        "name": "Flat relief",
+        "activity_type": "Ride",
+        "distance": 3762.1,
+        "average_grade": 0.9,
+        "maximum_grade": 4.1,
+        "elevation_high": 1103.0,
+        "elevation_low": 1069.6,
+        "start_latlng": [
+          30.855233,
+          77.001525
+        ],
+        "end_latlng": [
+          30.876489,
+          76.994023
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Sari",
+        "state": "Himachal Pradesh",
+        "country": "India",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3415008711796367278,
+      "resource_state": 2,
+      "name": "Nh 22 Climb",
+      "activity": {
+        "id": 16192639689,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 82,
+      "moving_time": 82,
+      "start_date": "2025-10-19T10:08:19Z",
+      "start_date_local": "2025-10-19T15:38:19Z",
+      "distance": 454.846,
+      "start_index": 13270,
+      "end_index": 13352,
+      "device_watts": false,
+      "segment": {
+        "id": 1646376,
+        "resource_state": 2,
+        "name": "Nh 22 Climb",
+        "activity_type": "Ride",
+        "distance": 454.846,
+        "average_grade": 24.7,
+        "maximum_grade": 32.2,
+        "elevation_high": 1184.8,
+        "elevation_low": 1072.3,
+        "start_latlng": [
+          30.86501992310478,
+          77.00068809099216
+        ],
+        "end_latlng": [
+          30.866122227190868,
+          76.99697884738165
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 1,
+        "city": null,
+        "state": "Himachal Pradesh",
+        "country": "India",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3415008711795755950,
+      "resource_state": 2,
+      "name": "National Highway 22 Climb",
+      "activity": {
+        "id": 16192639689,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 55,
+      "moving_time": 55,
+      "start_date": "2025-10-19T10:11:43Z",
+      "start_date_local": "2025-10-19T15:41:43Z",
+      "distance": 326.937,
+      "start_index": 13474,
+      "end_index": 13529,
+      "device_watts": false,
+      "segment": {
+        "id": 3328100,
+        "resource_state": 2,
+        "name": "National Highway 22 Climb",
+        "activity_type": "Ride",
+        "distance": 326.937,
+        "average_grade": 24.9,
+        "maximum_grade": 29.9,
+        "elevation_high": 1178.0,
+        "elevation_low": 1096.5,
+        "start_latlng": [
+          30.871223,
+          76.9986
+        ],
+        "end_latlng": [
+          30.87165,
+          76.99543
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 1,
+        "city": null,
+        "state": "Himachal Pradesh",
+        "country": "India",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3415008711794422702,
+      "resource_state": 2,
+      "name": "Nh 22 Climb",
+      "activity": {
+        "id": 16192639689,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 472,
+      "moving_time": 239,
+      "start_date": "2025-10-19T10:13:35Z",
+      "start_date_local": "2025-10-19T15:43:35Z",
+      "distance": 1007.55,
+      "start_index": 13586,
+      "end_index": 13828,
+      "device_watts": false,
+      "segment": {
+        "id": 1646377,
+        "resource_state": 2,
+        "name": "Nh 22 Climb",
+        "activity_type": "Ride",
+        "distance": 1007.55,
+        "average_grade": 10.3,
+        "maximum_grade": 30.1,
+        "elevation_high": 1225.7,
+        "elevation_low": 1121.9,
+        "start_latlng": [
+          30.874056620552086,
+          76.99700860313791
+        ],
+        "end_latlng": [
+          30.87589908859774,
+          76.99777227833587
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 1,
+        "city": null,
+        "state": "Himachal Pradesh",
+        "country": "India",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3415008711794612142,
+      "resource_state": 2,
+      "name": "Welcome to Hell",
+      "activity": {
+        "id": 16192639689,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 5441,
+      "moving_time": 2312,
+      "start_date": "2025-10-19T10:19:56Z",
+      "start_date_local": "2025-10-19T15:49:56Z",
+      "distance": 8012.7,
+      "start_index": 13737,
+      "end_index": 16062,
+      "device_watts": false,
+      "segment": {
+        "id": 34681868,
+        "resource_state": 2,
+        "name": "Welcome to Hell",
+        "activity_type": "Ride",
+        "distance": 8012.7,
+        "average_grade": 4.2,
+        "maximum_grade": 14.3,
+        "elevation_high": 1444.2,
+        "elevation_low": 1110.4,
+        "start_latlng": [
+          30.877014,
+          76.99551
+        ],
+        "end_latlng": [
+          30.898453,
+          77.015202
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 3,
+        "city": null,
+        "state": "Himachal Pradesh",
+        "country": "India",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3415008711792413614,
+      "resource_state": 2,
+      "name": "National Highway 22 Climb",
+      "activity": {
+        "id": 16192639689,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 119,
+      "moving_time": 119,
+      "start_date": "2025-10-19T10:25:37Z",
+      "start_date_local": "2025-10-19T15:55:37Z",
+      "distance": 497.3,
+      "start_index": 14078,
+      "end_index": 14197,
+      "device_watts": false,
+      "segment": {
+        "id": 5426989,
+        "resource_state": 2,
+        "name": "National Highway 22 Climb",
+        "activity_type": "Ride",
+        "distance": 497.3,
+        "average_grade": 18.6,
+        "maximum_grade": 49.5,
+        "elevation_high": 1296.0,
+        "elevation_low": 1203.3,
+        "start_latlng": [
+          30.875525,
+          77.002965
+        ],
+        "end_latlng": [
+          30.87891,
+          77.001115
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 1,
+        "city": "Solan, Himachal Pradesh, India",
+        "state": "HP",
+        "country": "India",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3415008711794229166,
+      "resource_state": 2,
+      "name": "National Highway 22 Climb",
+      "activity": {
+        "id": 16192639689,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 82,
+      "moving_time": 82,
+      "start_date": "2025-10-19T10:28:00Z",
+      "start_date_local": "2025-10-19T15:58:00Z",
+      "distance": 369.154,
+      "start_index": 14221,
+      "end_index": 14303,
+      "device_watts": false,
+      "segment": {
+        "id": 3328146,
+        "resource_state": 2,
+        "name": "National Highway 22 Climb",
+        "activity_type": "Ride",
+        "distance": 369.154,
+        "average_grade": 22.9,
+        "maximum_grade": 59.4,
+        "elevation_high": 1288.6,
+        "elevation_low": 1204.2,
+        "start_latlng": [
+          30.879413,
+          77.002375
+        ],
+        "end_latlng": [
+          30.882052,
+          77.000475
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 1,
+        "city": null,
+        "state": "Himachal Pradesh",
+        "country": "India",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3415008711796034478,
+      "resource_state": 2,
+      "name": "Segment",
+      "activity": {
+        "id": 16192639689,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 146,
+      "moving_time": 146,
+      "start_date": "2025-10-19T10:35:11Z",
+      "start_date_local": "2025-10-19T16:05:11Z",
+      "distance": 532.694,
+      "start_index": 14652,
+      "end_index": 14798,
+      "device_watts": false,
+      "segment": {
+        "id": 3241602,
+        "resource_state": 2,
+        "name": "Segment",
+        "activity_type": "Ride",
+        "distance": 532.694,
+        "average_grade": 16.0,
+        "maximum_grade": 36.1,
+        "elevation_high": 1426.0,
+        "elevation_low": 1340.8,
+        "start_latlng": [
+          30.88844294194132,
+          76.99998702853918
+        ],
+        "end_latlng": [
+          30.887625999748707,
+          77.00394647195935
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 1,
+        "city": null,
+        "state": "Himachal Pradesh",
+        "country": "India",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3415008711795357614,
+      "resource_state": 2,
+      "name": "Mdr 6 Climb",
+      "activity": {
+        "id": 16192639689,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 189,
+      "moving_time": 189,
+      "start_date": "2025-10-19T11:25:28Z",
+      "start_date_local": "2025-10-19T16:55:28Z",
+      "distance": 618.321,
+      "start_index": 15055,
+      "end_index": 15244,
+      "device_watts": false,
+      "segment": {
+        "id": 2732851,
+        "resource_state": 2,
+        "name": "Mdr 6 Climb",
+        "activity_type": "Ride",
+        "distance": 618.321,
+        "average_grade": 13.5,
+        "maximum_grade": 41.8,
+        "elevation_high": 1457.6,
+        "elevation_low": 1373.9,
+        "start_latlng": [
+          30.891162134422338,
+          77.00527124513872
+        ],
+        "end_latlng": [
+          30.895808458650446,
+          77.00333377234982
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 1,
+        "city": null,
+        "state": "Himachal Pradesh",
+        "country": "India",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    }
+  ],
+  "splits_metric": [
+    {
+      "distance": 1003.5,
+      "elapsed_time": 395,
+      "elevation_difference": 0.2,
+      "moving_time": 298,
+      "split": 1,
+      "average_speed": 3.37,
+      "average_grade_adjusted_speed": 3.38,
+      "pace_zone": 0
+    },
+    {
+      "distance": 999.8,
+      "elapsed_time": 137,
+      "elevation_difference": -2.0,
+      "moving_time": 137,
+      "split": 2,
+      "average_speed": 7.3,
+      "average_grade_adjusted_speed": 7.28,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1001.3,
+      "elapsed_time": 109,
+      "elevation_difference": -0.4,
+      "moving_time": 109,
+      "split": 3,
+      "average_speed": 9.19,
+      "average_grade_adjusted_speed": 9.19,
+      "pace_zone": 0
+    },
+    {
+      "distance": 998.5,
+      "elapsed_time": 133,
+      "elevation_difference": 7.0,
+      "moving_time": 133,
+      "split": 4,
+      "average_speed": 7.51,
+      "average_grade_adjusted_speed": 7.65,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1002.4,
+      "elapsed_time": 125,
+      "elevation_difference": -5.4,
+      "moving_time": 125,
+      "split": 5,
+      "average_speed": 8.02,
+      "average_grade_adjusted_speed": 7.95,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1000.5,
+      "elapsed_time": 274,
+      "elevation_difference": -1.2,
+      "moving_time": 144,
+      "split": 6,
+      "average_speed": 6.95,
+      "average_grade_adjusted_speed": 6.94,
+      "pace_zone": 0
+    },
+    {
+      "distance": 999.3,
+      "elapsed_time": 134,
+      "elevation_difference": -1.0,
+      "moving_time": 134,
+      "split": 7,
+      "average_speed": 7.46,
+      "average_grade_adjusted_speed": 7.45,
+      "pace_zone": 0
+    },
+    {
+      "distance": 995.2,
+      "elapsed_time": 167,
+      "elevation_difference": 9.0,
+      "moving_time": 167,
+      "split": 8,
+      "average_speed": 5.96,
+      "average_grade_adjusted_speed": 6.13,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1003.9,
+      "elapsed_time": 124,
+      "elevation_difference": -9.8,
+      "moving_time": 124,
+      "split": 9,
+      "average_speed": 8.1,
+      "average_grade_adjusted_speed": 7.94,
+      "pace_zone": 0
+    },
+    {
+      "distance": 998.1,
+      "elapsed_time": 124,
+      "elevation_difference": 0.8,
+      "moving_time": 124,
+      "split": 10,
+      "average_speed": 8.05,
+      "average_grade_adjusted_speed": 8.07,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1003.9,
+      "elapsed_time": 135,
+      "elevation_difference": -0.6,
+      "moving_time": 135,
+      "split": 11,
+      "average_speed": 7.44,
+      "average_grade_adjusted_speed": 7.44,
+      "pace_zone": 0
+    },
+    {
+      "distance": 998.2,
+      "elapsed_time": 144,
+      "elevation_difference": 0.0,
+      "moving_time": 144,
+      "split": 12,
+      "average_speed": 6.93,
+      "average_grade_adjusted_speed": 6.93,
+      "pace_zone": 0
+    },
+    {
+      "distance": 999.0,
+      "elapsed_time": 136,
+      "elevation_difference": 1.6,
+      "moving_time": 136,
+      "split": 13,
+      "average_speed": 7.35,
+      "average_grade_adjusted_speed": 7.38,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1002.1,
+      "elapsed_time": 138,
+      "elevation_difference": 0.2,
+      "moving_time": 138,
+      "split": 14,
+      "average_speed": 7.26,
+      "average_grade_adjusted_speed": 7.27,
+      "pace_zone": 0
+    },
+    {
+      "distance": 995.4,
+      "elapsed_time": 146,
+      "elevation_difference": -0.6,
+      "moving_time": 146,
+      "split": 15,
+      "average_speed": 6.82,
+      "average_grade_adjusted_speed": 6.82,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1002.5,
+      "elapsed_time": 151,
+      "elevation_difference": 2.0,
+      "moving_time": 151,
+      "split": 16,
+      "average_speed": 6.64,
+      "average_grade_adjusted_speed": 6.67,
+      "pace_zone": 0
+    },
+    {
+      "distance": 999.4,
+      "elapsed_time": 147,
+      "elevation_difference": 1.6,
+      "moving_time": 147,
+      "split": 17,
+      "average_speed": 6.8,
+      "average_grade_adjusted_speed": 6.82,
+      "pace_zone": 0
+    },
+    {
+      "distance": 999.4,
+      "elapsed_time": 140,
+      "elevation_difference": 1.4,
+      "moving_time": 140,
+      "split": 18,
+      "average_speed": 7.14,
+      "average_grade_adjusted_speed": 7.16,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1003.9,
+      "elapsed_time": 170,
+      "elevation_difference": 0.2,
+      "moving_time": 161,
+      "split": 19,
+      "average_speed": 6.24,
+      "average_grade_adjusted_speed": 6.25,
+      "pace_zone": 0
+    },
+    {
+      "distance": 999.1,
+      "elapsed_time": 150,
+      "elevation_difference": 0.0,
+      "moving_time": 150,
+      "split": 20,
+      "average_speed": 6.66,
+      "average_grade_adjusted_speed": 6.67,
+      "pace_zone": 0
+    },
+    {
+      "distance": 997.5,
+      "elapsed_time": 177,
+      "elevation_difference": 2.2,
+      "moving_time": 177,
+      "split": 21,
+      "average_speed": 5.64,
+      "average_grade_adjusted_speed": 5.66,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1003.5,
+      "elapsed_time": 150,
+      "elevation_difference": 1.6,
+      "moving_time": 150,
+      "split": 22,
+      "average_speed": 6.69,
+      "average_grade_adjusted_speed": 6.72,
+      "pace_zone": 0
+    },
+    {
+      "distance": 997.9,
+      "elapsed_time": 140,
+      "elevation_difference": 2.6,
+      "moving_time": 140,
+      "split": 23,
+      "average_speed": 7.13,
+      "average_grade_adjusted_speed": 7.17,
+      "pace_zone": 0
+    },
+    {
+      "distance": 998.5,
+      "elapsed_time": 184,
+      "elevation_difference": 4.0,
+      "moving_time": 184,
+      "split": 24,
+      "average_speed": 5.43,
+      "average_grade_adjusted_speed": 5.47,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1001.0,
+      "elapsed_time": 6758,
+      "elevation_difference": 2.6,
+      "moving_time": 166,
+      "split": 25,
+      "average_speed": 6.03,
+      "average_grade_adjusted_speed": 6.06,
+      "pace_zone": 0
+    },
+    {
+      "distance": 996.7,
+      "elapsed_time": 129,
+      "elevation_difference": 1.0,
+      "moving_time": 129,
+      "split": 26,
+      "average_speed": 7.73,
+      "average_grade_adjusted_speed": 7.74,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1002.8,
+      "elapsed_time": 122,
+      "elevation_difference": 1.2,
+      "moving_time": 122,
+      "split": 27,
+      "average_speed": 8.22,
+      "average_grade_adjusted_speed": 8.24,
+      "pace_zone": 0
+    },
+    {
+      "distance": 997.7,
+      "elapsed_time": 123,
+      "elevation_difference": 2.6,
+      "moving_time": 123,
+      "split": 28,
+      "average_speed": 8.11,
+      "average_grade_adjusted_speed": 8.15,
+      "pace_zone": 0
+    },
+    {
+      "distance": 999.9,
+      "elapsed_time": 122,
+      "elevation_difference": 0.8,
+      "moving_time": 122,
+      "split": 29,
+      "average_speed": 8.2,
+      "average_grade_adjusted_speed": 8.21,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1002.7,
+      "elapsed_time": 124,
+      "elevation_difference": 1.4,
+      "moving_time": 124,
+      "split": 30,
+      "average_speed": 8.09,
+      "average_grade_adjusted_speed": 8.11,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1000.6,
+      "elapsed_time": 138,
+      "elevation_difference": 11.0,
+      "moving_time": 138,
+      "split": 31,
+      "average_speed": 7.25,
+      "average_grade_adjusted_speed": 7.49,
+      "pace_zone": 0
+    },
+    {
+      "distance": 998.2,
+      "elapsed_time": 117,
+      "elevation_difference": -12.0,
+      "moving_time": 117,
+      "split": 32,
+      "average_speed": 8.53,
+      "average_grade_adjusted_speed": 8.33,
+      "pace_zone": 0
+    },
+    {
+      "distance": 998.2,
+      "elapsed_time": 134,
+      "elevation_difference": 4.4,
+      "moving_time": 134,
+      "split": 33,
+      "average_speed": 7.45,
+      "average_grade_adjusted_speed": 7.56,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1005.8,
+      "elapsed_time": 131,
+      "elevation_difference": -6.8,
+      "moving_time": 131,
+      "split": 34,
+      "average_speed": 7.68,
+      "average_grade_adjusted_speed": 7.58,
+      "pace_zone": 0
+    },
+    {
+      "distance": 994.7,
+      "elapsed_time": 139,
+      "elevation_difference": 3.6,
+      "moving_time": 139,
+      "split": 35,
+      "average_speed": 7.16,
+      "average_grade_adjusted_speed": 7.23,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1000.6,
+      "elapsed_time": 1385,
+      "elevation_difference": -3.8,
+      "moving_time": 229,
+      "split": 36,
+      "average_speed": 4.37,
+      "average_grade_adjusted_speed": 4.36,
+      "pace_zone": 0
+    },
+    {
+      "distance": 999.7,
+      "elapsed_time": 1494,
+      "elevation_difference": 6.4,
+      "moving_time": 231,
+      "split": 37,
+      "average_speed": 4.33,
+      "average_grade_adjusted_speed": 4.45,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1005.3,
+      "elapsed_time": 149,
+      "elevation_difference": 4.0,
+      "moving_time": 149,
+      "split": 38,
+      "average_speed": 6.75,
+      "average_grade_adjusted_speed": 6.81,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1000.2,
+      "elapsed_time": 133,
+      "elevation_difference": 11.2,
+      "moving_time": 133,
+      "split": 39,
+      "average_speed": 7.52,
+      "average_grade_adjusted_speed": 7.76,
+      "pace_zone": 0
+    },
+    {
+      "distance": 996.1,
+      "elapsed_time": 131,
+      "elevation_difference": 3.0,
+      "moving_time": 131,
+      "split": 40,
+      "average_speed": 7.6,
+      "average_grade_adjusted_speed": 7.64,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1002.9,
+      "elapsed_time": 221,
+      "elevation_difference": -8.6,
+      "moving_time": 167,
+      "split": 41,
+      "average_speed": 6.01,
+      "average_grade_adjusted_speed": 5.91,
+      "pace_zone": 0
+    },
+    {
+      "distance": 996.1,
+      "elapsed_time": 159,
+      "elevation_difference": 0.4,
+      "moving_time": 159,
+      "split": 42,
+      "average_speed": 6.26,
+      "average_grade_adjusted_speed": 6.28,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1003.5,
+      "elapsed_time": 136,
+      "elevation_difference": -0.4,
+      "moving_time": 136,
+      "split": 43,
+      "average_speed": 7.38,
+      "average_grade_adjusted_speed": 7.41,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1000.5,
+      "elapsed_time": 138,
+      "elevation_difference": 4.4,
+      "moving_time": 138,
+      "split": 44,
+      "average_speed": 7.25,
+      "average_grade_adjusted_speed": 7.37,
+      "pace_zone": 0
+    },
+    {
+      "distance": 997.3,
+      "elapsed_time": 125,
+      "elevation_difference": 7.6,
+      "moving_time": 125,
+      "split": 45,
+      "average_speed": 7.98,
+      "average_grade_adjusted_speed": 8.14,
+      "pace_zone": 0
+    },
+    {
+      "distance": 997.5,
+      "elapsed_time": 143,
+      "elevation_difference": 3.6,
+      "moving_time": 143,
+      "split": 46,
+      "average_speed": 6.98,
+      "average_grade_adjusted_speed": 7.05,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1000.1,
+      "elapsed_time": 140,
+      "elevation_difference": 12.4,
+      "moving_time": 140,
+      "split": 47,
+      "average_speed": 7.14,
+      "average_grade_adjusted_speed": 7.39,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1001.1,
+      "elapsed_time": 126,
+      "elevation_difference": 1.0,
+      "moving_time": 126,
+      "split": 48,
+      "average_speed": 7.95,
+      "average_grade_adjusted_speed": 7.97,
+      "pace_zone": 0
+    },
+    {
+      "distance": 999.8,
+      "elapsed_time": 176,
+      "elevation_difference": 17.0,
+      "moving_time": 176,
+      "split": 49,
+      "average_speed": 5.68,
+      "average_grade_adjusted_speed": 5.97,
+      "pace_zone": 0
+    },
+    {
+      "distance": 999.4,
+      "elapsed_time": 168,
+      "elevation_difference": 6.2,
+      "moving_time": 168,
+      "split": 50,
+      "average_speed": 5.95,
+      "average_grade_adjusted_speed": 6.03,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1002.9,
+      "elapsed_time": 88,
+      "elevation_difference": 8.6,
+      "moving_time": 88,
+      "split": 51,
+      "average_speed": 11.4,
+      "average_grade_adjusted_speed": 11.59,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1001.5,
+      "elapsed_time": 92,
+      "elevation_difference": 14.2,
+      "moving_time": 92,
+      "split": 52,
+      "average_speed": 10.89,
+      "average_grade_adjusted_speed": 11.29,
+      "pace_zone": 0
+    },
+    {
+      "distance": 998.6,
+      "elapsed_time": 141,
+      "elevation_difference": 9.0,
+      "moving_time": 141,
+      "split": 53,
+      "average_speed": 7.08,
+      "average_grade_adjusted_speed": 7.29,
+      "pace_zone": 0
+    },
+    {
+      "distance": 999.0,
+      "elapsed_time": 138,
+      "elevation_difference": 4.8,
+      "moving_time": 138,
+      "split": 54,
+      "average_speed": 7.24,
+      "average_grade_adjusted_speed": 7.32,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1000.2,
+      "elapsed_time": 125,
+      "elevation_difference": 13.0,
+      "moving_time": 125,
+      "split": 55,
+      "average_speed": 8.0,
+      "average_grade_adjusted_speed": 8.24,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1005.4,
+      "elapsed_time": 90,
+      "elevation_difference": 12.4,
+      "moving_time": 90,
+      "split": 56,
+      "average_speed": 11.17,
+      "average_grade_adjusted_speed": 11.48,
+      "pace_zone": 0
+    },
+    {
+      "distance": 994.6,
+      "elapsed_time": 92,
+      "elevation_difference": 10.4,
+      "moving_time": 92,
+      "split": 57,
+      "average_speed": 10.81,
+      "average_grade_adjusted_speed": 11.11,
+      "pace_zone": 0
+    },
+    {
+      "distance": 998.4,
+      "elapsed_time": 118,
+      "elevation_difference": 36.0,
+      "moving_time": 118,
+      "split": 58,
+      "average_speed": 8.46,
+      "average_grade_adjusted_speed": 9.49,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1001.9,
+      "elapsed_time": 180,
+      "elevation_difference": 23.8,
+      "moving_time": 180,
+      "split": 59,
+      "average_speed": 5.57,
+      "average_grade_adjusted_speed": 5.96,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1002.0,
+      "elapsed_time": 208,
+      "elevation_difference": 26.8,
+      "moving_time": 208,
+      "split": 60,
+      "average_speed": 4.82,
+      "average_grade_adjusted_speed": 5.21,
+      "pace_zone": 0
+    },
+    {
+      "distance": 997.3,
+      "elapsed_time": 94,
+      "elevation_difference": 9.2,
+      "moving_time": 94,
+      "split": 61,
+      "average_speed": 10.61,
+      "average_grade_adjusted_speed": 10.84,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1000.4,
+      "elapsed_time": 263,
+      "elevation_difference": 49.4,
+      "moving_time": 263,
+      "split": 62,
+      "average_speed": 3.8,
+      "average_grade_adjusted_speed": 4.49,
+      "pace_zone": 0
+    },
+    {
+      "distance": 996.6,
+      "elapsed_time": 271,
+      "elevation_difference": 46.8,
+      "moving_time": 271,
+      "split": 63,
+      "average_speed": 3.68,
+      "average_grade_adjusted_speed": 4.3,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1002.6,
+      "elapsed_time": 620,
+      "elevation_difference": 30.8,
+      "moving_time": 260,
+      "split": 64,
+      "average_speed": 3.86,
+      "average_grade_adjusted_speed": 4.24,
+      "pace_zone": 0
+    },
+    {
+      "distance": 997.5,
+      "elapsed_time": 230,
+      "elevation_difference": 21.6,
+      "moving_time": 230,
+      "split": 65,
+      "average_speed": 4.34,
+      "average_grade_adjusted_speed": 4.64,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1004.5,
+      "elapsed_time": 272,
+      "elevation_difference": 36.6,
+      "moving_time": 272,
+      "split": 66,
+      "average_speed": 3.69,
+      "average_grade_adjusted_speed": 4.16,
+      "pace_zone": 0
+    },
+    {
+      "distance": 999.1,
+      "elapsed_time": 209,
+      "elevation_difference": 16.2,
+      "moving_time": 209,
+      "split": 67,
+      "average_speed": 4.78,
+      "average_grade_adjusted_speed": 5.08,
+      "pace_zone": 0
+    },
+    {
+      "distance": 998.6,
+      "elapsed_time": 263,
+      "elevation_difference": 31.4,
+      "moving_time": 263,
+      "split": 68,
+      "average_speed": 3.8,
+      "average_grade_adjusted_speed": 4.25,
+      "pace_zone": 0
+    },
+    {
+      "distance": 998.8,
+      "elapsed_time": 365,
+      "elevation_difference": 52.8,
+      "moving_time": 344,
+      "split": 69,
+      "average_speed": 2.9,
+      "average_grade_adjusted_speed": 3.5,
+      "pace_zone": 0
+    },
+    {
+      "distance": 998.9,
+      "elapsed_time": 370,
+      "elevation_difference": 55.8,
+      "moving_time": 370,
+      "split": 70,
+      "average_speed": 2.7,
+      "average_grade_adjusted_speed": 3.27,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1000.7,
+      "elapsed_time": 480,
+      "elevation_difference": 55.8,
+      "moving_time": 367,
+      "split": 71,
+      "average_speed": 2.73,
+      "average_grade_adjusted_speed": 3.33,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1000.9,
+      "elapsed_time": 4927,
+      "elevation_difference": 62.0,
+      "moving_time": 393,
+      "split": 72,
+      "average_speed": 2.55,
+      "average_grade_adjusted_speed": 3.04,
+      "pace_zone": 0
+    },
+    {
+      "distance": 999.8,
+      "elapsed_time": 351,
+      "elevation_difference": 37.2,
+      "moving_time": 351,
+      "split": 73,
+      "average_speed": 2.85,
+      "average_grade_adjusted_speed": 3.21,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1001.0,
+      "elapsed_time": 401,
+      "elevation_difference": 41.6,
+      "moving_time": 337,
+      "split": 74,
+      "average_speed": 2.97,
+      "average_grade_adjusted_speed": 3.42,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1000.8,
+      "elapsed_time": 326,
+      "elevation_difference": 32.6,
+      "moving_time": 326,
+      "split": 75,
+      "average_speed": 3.07,
+      "average_grade_adjusted_speed": 3.43,
+      "pace_zone": 0
+    },
+    {
+      "distance": 998.3,
+      "elapsed_time": 189,
+      "elevation_difference": 9.4,
+      "moving_time": 189,
+      "split": 76,
+      "average_speed": 5.28,
+      "average_grade_adjusted_speed": 5.42,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1003.6,
+      "elapsed_time": 181,
+      "elevation_difference": 9.2,
+      "moving_time": 181,
+      "split": 77,
+      "average_speed": 5.54,
+      "average_grade_adjusted_speed": 5.67,
+      "pace_zone": 0
+    },
+    {
+      "distance": 998.4,
+      "elapsed_time": 173,
+      "elevation_difference": 8.8,
+      "moving_time": 173,
+      "split": 78,
+      "average_speed": 5.77,
+      "average_grade_adjusted_speed": 5.91,
+      "pace_zone": 0
+    },
+    {
+      "distance": 997.5,
+      "elapsed_time": 471,
+      "elevation_difference": 23.4,
+      "moving_time": 239,
+      "split": 79,
+      "average_speed": 4.17,
+      "average_grade_adjusted_speed": 4.49,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1001.3,
+      "elapsed_time": 307,
+      "elevation_difference": 56.2,
+      "moving_time": 307,
+      "split": 80,
+      "average_speed": 3.26,
+      "average_grade_adjusted_speed": 3.98,
+      "pace_zone": 0
+    },
+    {
+      "distance": 998.9,
+      "elapsed_time": 263,
+      "elevation_difference": 59.2,
+      "moving_time": 263,
+      "split": 81,
+      "average_speed": 3.8,
+      "average_grade_adjusted_speed": 4.67,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1000.8,
+      "elapsed_time": 205,
+      "elevation_difference": 47.2,
+      "moving_time": 205,
+      "split": 82,
+      "average_speed": 4.88,
+      "average_grade_adjusted_speed": 5.73,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1000.0,
+      "elapsed_time": 2897,
+      "elevation_difference": 40.6,
+      "moving_time": 282,
+      "split": 83,
+      "average_speed": 3.55,
+      "average_grade_adjusted_speed": 4.1,
+      "pace_zone": 0
+    },
+    {
+      "distance": 998.9,
+      "elapsed_time": 317,
+      "elevation_difference": 33.8,
+      "moving_time": 317,
+      "split": 84,
+      "average_speed": 3.15,
+      "average_grade_adjusted_speed": 3.5,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1001.5,
+      "elapsed_time": 314,
+      "elevation_difference": 34.2,
+      "moving_time": 314,
+      "split": 85,
+      "average_speed": 3.19,
+      "average_grade_adjusted_speed": 3.55,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1000.5,
+      "elapsed_time": 327,
+      "elevation_difference": 41.2,
+      "moving_time": 327,
+      "split": 86,
+      "average_speed": 3.06,
+      "average_grade_adjusted_speed": 3.51,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1000.1,
+      "elapsed_time": 842,
+      "elevation_difference": 21.8,
+      "moving_time": 304,
+      "split": 87,
+      "average_speed": 3.29,
+      "average_grade_adjusted_speed": 3.62,
+      "pace_zone": 0
+    },
+    {
+      "distance": 911.3,
+      "elapsed_time": 573,
+      "elevation_difference": -17.8,
+      "moving_time": 329,
+      "split": 88,
+      "average_speed": 2.77,
+      "average_grade_adjusted_speed": 2.74,
+      "pace_zone": 0
+    }
+  ],
+  "splits_standard": [
+    {
+      "distance": 1611.9,
+      "elapsed_time": 485,
+      "elevation_difference": -1.0,
+      "moving_time": 388,
+      "split": 1,
+      "average_speed": 4.15,
+      "average_grade_adjusted_speed": 4.16,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1609.2,
+      "elapsed_time": 182,
+      "elevation_difference": -0.6,
+      "moving_time": 182,
+      "split": 2,
+      "average_speed": 8.84,
+      "average_grade_adjusted_speed": 8.84,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1615.9,
+      "elapsed_time": 213,
+      "elevation_difference": 0.8,
+      "moving_time": 213,
+      "split": 3,
+      "average_speed": 7.59,
+      "average_grade_adjusted_speed": 7.62,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1605.4,
+      "elapsed_time": 352,
+      "elevation_difference": -0.6,
+      "moving_time": 222,
+      "split": 4,
+      "average_speed": 7.23,
+      "average_grade_adjusted_speed": 7.24,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1607.6,
+      "elapsed_time": 250,
+      "elevation_difference": 7.4,
+      "moving_time": 250,
+      "split": 5,
+      "average_speed": 6.43,
+      "average_grade_adjusted_speed": 6.54,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1607.1,
+      "elapsed_time": 198,
+      "elevation_difference": -8.8,
+      "moving_time": 198,
+      "split": 6,
+      "average_speed": 8.12,
+      "average_grade_adjusted_speed": 8.03,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1611.8,
+      "elapsed_time": 216,
+      "elevation_difference": -1.0,
+      "moving_time": 216,
+      "split": 7,
+      "average_speed": 7.46,
+      "average_grade_adjusted_speed": 7.46,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1606.8,
+      "elapsed_time": 224,
+      "elevation_difference": 1.8,
+      "moving_time": 224,
+      "split": 8,
+      "average_speed": 7.17,
+      "average_grade_adjusted_speed": 7.19,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1614.3,
+      "elapsed_time": 224,
+      "elevation_difference": 1.0,
+      "moving_time": 224,
+      "split": 9,
+      "average_speed": 7.21,
+      "average_grade_adjusted_speed": 7.22,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1607.3,
+      "elapsed_time": 242,
+      "elevation_difference": 1.0,
+      "moving_time": 242,
+      "split": 10,
+      "average_speed": 6.64,
+      "average_grade_adjusted_speed": 6.65,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1606.9,
+      "elapsed_time": 228,
+      "elevation_difference": 1.0,
+      "moving_time": 228,
+      "split": 11,
+      "average_speed": 7.05,
+      "average_grade_adjusted_speed": 7.06,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1610.3,
+      "elapsed_time": 259,
+      "elevation_difference": 2.2,
+      "moving_time": 250,
+      "split": 12,
+      "average_speed": 6.44,
+      "average_grade_adjusted_speed": 6.46,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1607.3,
+      "elapsed_time": 272,
+      "elevation_difference": 1.8,
+      "moving_time": 272,
+      "split": 13,
+      "average_speed": 5.91,
+      "average_grade_adjusted_speed": 5.93,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1609.1,
+      "elapsed_time": 234,
+      "elevation_difference": 2.4,
+      "moving_time": 234,
+      "split": 14,
+      "average_speed": 6.88,
+      "average_grade_adjusted_speed": 6.91,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1613.2,
+      "elapsed_time": 275,
+      "elevation_difference": 6.6,
+      "moving_time": 275,
+      "split": 15,
+      "average_speed": 5.87,
+      "average_grade_adjusted_speed": 5.91,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1608.9,
+      "elapsed_time": 6831,
+      "elevation_difference": 2.2,
+      "moving_time": 239,
+      "split": 16,
+      "average_speed": 6.73,
+      "average_grade_adjusted_speed": 6.76,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1612.7,
+      "elapsed_time": 198,
+      "elevation_difference": 3.0,
+      "moving_time": 198,
+      "split": 17,
+      "average_speed": 8.14,
+      "average_grade_adjusted_speed": 8.17,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1609.3,
+      "elapsed_time": 198,
+      "elevation_difference": 2.4,
+      "moving_time": 198,
+      "split": 18,
+      "average_speed": 8.13,
+      "average_grade_adjusted_speed": 8.15,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1604.1,
+      "elapsed_time": 204,
+      "elevation_difference": 7.8,
+      "moving_time": 204,
+      "split": 19,
+      "average_speed": 7.86,
+      "average_grade_adjusted_speed": 7.97,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1612.5,
+      "elapsed_time": 202,
+      "elevation_difference": -6.2,
+      "moving_time": 202,
+      "split": 20,
+      "average_speed": 7.98,
+      "average_grade_adjusted_speed": 7.94,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1608.5,
+      "elapsed_time": 203,
+      "elevation_difference": -4.0,
+      "moving_time": 203,
+      "split": 21,
+      "average_speed": 7.92,
+      "average_grade_adjusted_speed": 7.92,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1612.2,
+      "elapsed_time": 230,
+      "elevation_difference": -0.4,
+      "moving_time": 230,
+      "split": 22,
+      "average_speed": 7.01,
+      "average_grade_adjusted_speed": 7.02,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1604.1,
+      "elapsed_time": 2830,
+      "elevation_difference": 7.2,
+      "moving_time": 411,
+      "split": 23,
+      "average_speed": 3.9,
+      "average_grade_adjusted_speed": 3.99,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1609.9,
+      "elapsed_time": 226,
+      "elevation_difference": 13.4,
+      "moving_time": 226,
+      "split": 24,
+      "average_speed": 7.12,
+      "average_grade_adjusted_speed": 7.29,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1611.5,
+      "elapsed_time": 224,
+      "elevation_difference": 5.2,
+      "moving_time": 224,
+      "split": 25,
+      "average_speed": 7.19,
+      "average_grade_adjusted_speed": 7.24,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1606.5,
+      "elapsed_time": 316,
+      "elevation_difference": -9.8,
+      "moving_time": 262,
+      "split": 26,
+      "average_speed": 6.13,
+      "average_grade_adjusted_speed": 6.06,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1608.8,
+      "elapsed_time": 226,
+      "elevation_difference": 9.4,
+      "moving_time": 226,
+      "split": 27,
+      "average_speed": 7.12,
+      "average_grade_adjusted_speed": 7.25,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1609.0,
+      "elapsed_time": 206,
+      "elevation_difference": 4.8,
+      "moving_time": 206,
+      "split": 28,
+      "average_speed": 7.81,
+      "average_grade_adjusted_speed": 7.89,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1612.7,
+      "elapsed_time": 223,
+      "elevation_difference": 10.4,
+      "moving_time": 223,
+      "split": 29,
+      "average_speed": 7.23,
+      "average_grade_adjusted_speed": 7.36,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1610.7,
+      "elapsed_time": 222,
+      "elevation_difference": 11.2,
+      "moving_time": 222,
+      "split": 30,
+      "average_speed": 7.26,
+      "average_grade_adjusted_speed": 7.4,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1613.1,
+      "elapsed_time": 285,
+      "elevation_difference": 16.8,
+      "moving_time": 285,
+      "split": 31,
+      "average_speed": 5.66,
+      "average_grade_adjusted_speed": 5.83,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1603.3,
+      "elapsed_time": 143,
+      "elevation_difference": 16.0,
+      "moving_time": 143,
+      "split": 32,
+      "average_speed": 11.21,
+      "average_grade_adjusted_speed": 11.47,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1611.6,
+      "elapsed_time": 209,
+      "elevation_difference": 16.8,
+      "moving_time": 209,
+      "split": 33,
+      "average_speed": 7.71,
+      "average_grade_adjusted_speed": 7.95,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1609.7,
+      "elapsed_time": 217,
+      "elevation_difference": 13.4,
+      "moving_time": 217,
+      "split": 34,
+      "average_speed": 7.42,
+      "average_grade_adjusted_speed": 7.56,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1605.4,
+      "elapsed_time": 148,
+      "elevation_difference": 20.0,
+      "moving_time": 148,
+      "split": 35,
+      "average_speed": 10.85,
+      "average_grade_adjusted_speed": 11.15,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1611.6,
+      "elapsed_time": 169,
+      "elevation_difference": 39.4,
+      "moving_time": 169,
+      "split": 36,
+      "average_speed": 9.54,
+      "average_grade_adjusted_speed": 10.31,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1607.4,
+      "elapsed_time": 301,
+      "elevation_difference": 41.4,
+      "moving_time": 301,
+      "split": 37,
+      "average_speed": 5.34,
+      "average_grade_adjusted_speed": 5.76,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1609.7,
+      "elapsed_time": 224,
+      "elevation_difference": 28.8,
+      "moving_time": 224,
+      "split": 38,
+      "average_speed": 7.19,
+      "average_grade_adjusted_speed": 7.57,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1608.4,
+      "elapsed_time": 438,
+      "elevation_difference": 77.4,
+      "moving_time": 438,
+      "split": 39,
+      "average_speed": 3.67,
+      "average_grade_adjusted_speed": 4.31,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1611.6,
+      "elapsed_time": 775,
+      "elevation_difference": 49.8,
+      "moving_time": 415,
+      "split": 40,
+      "average_speed": 3.88,
+      "average_grade_adjusted_speed": 4.28,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1611.3,
+      "elapsed_time": 408,
+      "elevation_difference": 50.6,
+      "moving_time": 408,
+      "split": 41,
+      "average_speed": 3.95,
+      "average_grade_adjusted_speed": 4.38,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1606.0,
+      "elapsed_time": 343,
+      "elevation_difference": 25.0,
+      "moving_time": 343,
+      "split": 42,
+      "average_speed": 4.68,
+      "average_grade_adjusted_speed": 4.96,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1607.7,
+      "elapsed_time": 573,
+      "elevation_difference": 87.8,
+      "moving_time": 552,
+      "split": 43,
+      "average_speed": 2.91,
+      "average_grade_adjusted_speed": 3.52,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1610.5,
+      "elapsed_time": 706,
+      "elevation_difference": 89.2,
+      "moving_time": 593,
+      "split": 44,
+      "average_speed": 2.72,
+      "average_grade_adjusted_speed": 3.3,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1608.1,
+      "elapsed_time": 5149,
+      "elevation_difference": 87.2,
+      "moving_time": 615,
+      "split": 45,
+      "average_speed": 2.61,
+      "average_grade_adjusted_speed": 3.08,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1609.0,
+      "elapsed_time": 609,
+      "elevation_difference": 65.6,
+      "moving_time": 545,
+      "split": 46,
+      "average_speed": 2.95,
+      "average_grade_adjusted_speed": 3.39,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1611.6,
+      "elapsed_time": 438,
+      "elevation_difference": 36.0,
+      "moving_time": 438,
+      "split": 47,
+      "average_speed": 3.68,
+      "average_grade_adjusted_speed": 3.97,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1609.2,
+      "elapsed_time": 289,
+      "elevation_difference": 16.0,
+      "moving_time": 289,
+      "split": 48,
+      "average_speed": 5.57,
+      "average_grade_adjusted_speed": 5.71,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1610.2,
+      "elapsed_time": 549,
+      "elevation_difference": 23.0,
+      "moving_time": 317,
+      "split": 49,
+      "average_speed": 5.08,
+      "average_grade_adjusted_speed": 5.3,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1606.5,
+      "elapsed_time": 492,
+      "elevation_difference": 88.0,
+      "moving_time": 492,
+      "split": 50,
+      "average_speed": 3.27,
+      "average_grade_adjusted_speed": 3.95,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1609.7,
+      "elapsed_time": 354,
+      "elevation_difference": 84.0,
+      "moving_time": 354,
+      "split": 51,
+      "average_speed": 4.55,
+      "average_grade_adjusted_speed": 5.44,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1609.2,
+      "elapsed_time": 3097,
+      "elevation_difference": 61.6,
+      "moving_time": 482,
+      "split": 52,
+      "average_speed": 3.34,
+      "average_grade_adjusted_speed": 3.81,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1610.2,
+      "elapsed_time": 508,
+      "elevation_difference": 56.6,
+      "moving_time": 508,
+      "split": 53,
+      "average_speed": 3.17,
+      "average_grade_adjusted_speed": 3.54,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1610.6,
+      "elapsed_time": 1056,
+      "elevation_difference": 51.6,
+      "moving_time": 518,
+      "split": 54,
+      "average_speed": 3.11,
+      "average_grade_adjusted_speed": 3.5,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1007.2,
+      "elapsed_time": 591,
+      "elevation_difference": -19.0,
+      "moving_time": 347,
+      "split": 55,
+      "average_speed": 2.9,
+      "average_grade_adjusted_speed": 2.87,
+      "pace_zone": 0
+    }
+  ],
+  "laps": [
+    {
+      "id": 57704132312,
+      "resource_state": 2,
+      "name": "Lap 1",
+      "activity": {
+        "id": 16192639689,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 34463,
+      "moving_time": 16446,
+      "start_date": "2025-10-19T02:27:38Z",
+      "start_date_local": "2025-10-19T07:57:38Z",
+      "distance": 87914.3,
+      "average_speed": 5.35,
+      "max_speed": 12.76,
+      "lap_index": 1,
+      "split": 1,
+      "start_index": 0,
+      "end_index": 16477,
+      "total_elevation_gain": 1330.8,
+      "device_watts": false,
+      "average_watts": 162.0
+    }
+  ],
+  "gear": {
+    "id": "b16337781",
+    "primary": false,
+    "name": "Betty (Milan ->)",
+    "nickname": "Betty (Milan ->)",
+    "resource_state": 2,
+    "retired": false,
+    "distance": 9056030,
+    "converted_distance": 9056.0
+  },
+  "photos": {
+    "primary": {
+      "unique_id": "01f22b1c-fac5-4a6b-8eb5-7243c4f297e9",
+      "urls": {
+        "600": "https://dgtzuqphqg23d.cloudfront.net/lYWNFQu2z9gXULv28MEZfayhjjUvj5D0kh6BoNGQshs-432x768.jpg",
+        "100": "https://dgtzuqphqg23d.cloudfront.net/lYWNFQu2z9gXULv28MEZfayhjjUvj5D0kh6BoNGQshs-72x128.jpg"
+      },
+      "source": 1,
+      "media_type": 1
+    },
+    "use_primary_photo": false,
+    "count": 8
+  },
+  "stats_visibility": [
+    {
+      "type": "heart_rate",
+      "visibility": "everyone"
+    },
+    {
+      "type": "pace",
+      "visibility": "everyone"
+    },
+    {
+      "type": "power",
+      "visibility": "everyone"
+    },
+    {
+      "type": "speed",
+      "visibility": "everyone"
+    },
+    {
+      "type": "calories",
+      "visibility": "everyone"
+    }
+  ],
+  "hide_from_home": false,
+  "embed_token": "190610c65200d0375489e9aae2c6941d65576d0c",
+  "available_zones": [
+    "power"
+  ]
+}

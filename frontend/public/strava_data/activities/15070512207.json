@@ -1,0 +1,1798 @@
+{
+  "resource_state": 3,
+  "athlete": {
+    "id": 49023768,
+    "resource_state": 1
+  },
+  "name": "Country 7/?",
+  "distance": 66659.7,
+  "moving_time": 11762,
+  "elapsed_time": 32872,
+  "total_elevation_gain": 179.0,
+  "type": "Ride",
+  "sport_type": "Ride",
+  "workout_type": null,
+  "device_name": "Wahoo ELEMNT BOLT",
+  "id": 15070512207,
+  "start_date": "2025-07-10T07:57:46Z",
+  "start_date_local": "2025-07-10T09:57:46Z",
+  "timezone": "(GMT+01:00) Europe/Zagreb",
+  "utc_offset": 7200.0,
+  "location_city": null,
+  "location_state": null,
+  "location_country": null,
+  "achievement_count": 0,
+  "kudos_count": 14,
+  "comment_count": 0,
+  "athlete_count": 1,
+  "photo_count": 0,
+  "map": {
+    "id": "a15070512207",
+    "polyline": "yncyGe|ofBU?IIWe@GSCODQVe@Hm@FKjAuDR_AJo@Bq@KaDCiC@iADiCHeCPoCRkA^qAh@}Ah@{@v@}@DOs@_DIg@O{BM}@CsB?k@Bs@Ce@m@wBmB{I_@uAs@uBOs@oAkCiBgDSg@_@u@o@gBw@cBa@iA]u@k@cByAwDe@cB{BcHu@gB}@gCQ]Me@_@eAOq@Ui@Ok@MS_AsC_BmFm@_C_@gACSaCqHcAsDo@iBi@eB[{@_@yAe@uAoB}GSaAUmBQeEDiFDwB@oCA_@FqAMyA@_BOmHM_BO_Ao@qCc@sCGy@IyAB{DEmAE]Qw@k@iBG]QwBC}@SEE@AFB?FIBI?OEWIIS?k@ZwBfBg@j@y@jA_@VWHiBJe@@m@G{@_@iByAqEeD}@]y@QkCw@_A[sAg@mBaAqA{@[KOI_@]a@WyDsB_DiBeBmAuFcFkEoDq@q@W[[k@oAwCa@u@{AaCoFcHk@m@u@cAoAyAyEmG{BgCg@e@uAaAwE}C_BgA_BaAkA_AqAw@qDcCqDkCoAw@gCgB{LiI}D_DyAuA_CmB_A}@sBcB}@y@q@u@c@k@aCuFm@_B[gA}CwLe@iAgBgD[q@wAyDY}@]iBMeAs@wKo@iGq@_JAwCHwDB{DDyA\\wBbAsE\\aCPwC?oCMuGg@oJEeBg@sK_@gHI}Ba@kKQuCEsBBsBdAcMXaCxDgQPcAZoAn@_Dx@qD~@}EjBuJPiANoAP_CFsB?_DIuFOoFOsBM{@OkByAwLMyBGaBEqGFqMKsDS}CAu@@i@Jm@Lc@x@wBjBgENw@ViCJs@d@gBJKLAf@@x@K`@A~CYbD]zCQfBGvBDlBFhBLb@?x@Md@Q@EAOGIMGCIBARd@F@bCOb@Kj@e@n@cAb@}@pBoCn@u@h@WPC`@Qn@IrA]fBk@b@IhBa@x@[nBoAd@CLEh@u@tAmArAsAjAeAvDuDp@k@`BcBjAcAbCeBrL{GtGyDbDiBt@_@nDsBfAi@bEeCnBy@dAYdCeAZEZ?ZDbAh@VHXBh@E\\M^SlBsAZ[X_@Pa@Tu@PiABa@BeDFqBXqFLqA\\y@dV{[bZga@vPcU`CgD`@e@vByCtHcKtB{CrDcFzDuF`DkE|FeIbQyUhAcAbIiGv@a@~CqAnAq@n@a@`A{@jDkDxCiCp@c@t@U`BQv@CbC@`@Ct@MfBk@d@IR@f@HhA`@PDN@PC\\OXYRc@ZgAXeAbAoEd@iCLw@XiAZ{AJ}@HyBJqAb@qCAg@Xm@DQz@wFR_DRqHLuBt@mJJeAbDsXJoABw@Cy@IsAa@qE_@eDM{Ao@kGUoCc@gEeByQe@kEIqAM_Aa@eEMqBkAoLa@wEa@iDs@cHk@gGi@yGw@{H{@mI}C}Q}CcQcDmR}AgIg@_Cy@iE_@wAyBoNwAmIS}AgBuJw@qFeBsJMeAi@_DuFsZcB}K_DaSi@wCOaAYsCCs@LoMEeA?_CSeGKwEDqCMmICuK@yACiB@aFC}BGwA@w@C{G@gCAgA?aCCgA@oCEaDFsAQsI?cFG}EBcDIcQa@cW?gEGeL@oCEiD?oFEkCGsI@{ACcB@uBB_@EgBDaBGmBAiB?{@PqCG}@AkABoAEiADg@?k@CaAIa@?UDiACm@?iBKiBBgAL_CI_B@eBD}@Gs@?oBBs@Ae@E]?kAC[Dy@@uAB]?_BMoBJgAAmBGa@Aa@Io@Di@?e@Kc@FkAAoAFs@?MGYAQ@u@WyAKeAy@eJIyALwJF_CGwE{AwZSkCYcB_@_Bo@iBqLwXuCaHy@gBuDkJu@}A{C_IiC_Ik@qBQ{@_@{BU_CCu@DaCNyBHwBFoDZ}KP{J^cNL_DVoLL}CP}HDcA@cAAuAMsBk@sF}@aLy@eJo@wJ[aCg@oF[mEUyAMqB?aAEcAc@wEOsCCqAOeBQeFg@yFCk@UwCAu@FYFG\\O`@m@JAJBaEQVa@VUT_AO{A_@yHKcAWsEkAuTWcI@e@MoCAaB]oKGeE]eL?U`@aDNqHLiATg@D[DgCA_BCa@Du@Aq@L{A?[HYVc@JKJC`A@l@I`@?LEHKJARENHZFh@?B@YCWBC`@GHIX@XFe@@a@RM\\Bb@Gj@Bn@NVBTALBT?PARBLHPCRJ`@Ff@?VBRJXD`@y@^NJPPJRRLBFCLBT\\FAHq@?aCG}BUkGIuASiIB_AZwEBq@?y@UcCWgAWk@e@s@y@q@]Q?IFSDIJ@JDlCvDMHK@]u@[a@k@i@cAi@GMCSPeD^sLLmCHeEKoFU{GWeKMwLDw@EKY@ECEEEUGyIIiGAqGIaIC}D@m@GuBAiE?KFSDATCLGDGP[D_@Eg@QYGUCkAIg@KcC[o\\U{]EuC?wELmBVcB^aBd@{AdSoo@xAkFn@kBrD{LtBuGdAyCfBiGj@eBjA{Dz@_Cz@{CTcAx@sC~A}ElA{CLu@V}@Tk@Hc@Ti@j@_CtBaG^oADa@nAwExEwObC}H\\qAVsANeAHgA@_BA{AiA}c@KaFYwJE_CHsHJmHCs@ISRy@AkADc@Hc@GUMKc@AiDn@cDd@}Ef@wCPiCBmGAeAB_FEqH?UBCH?RGAc@_@mF@a@AgAIeAC[B_@Ee@@wESqCI}CW}@@aBKc@@}@Gi@FiB?oEDg@Bw@A}FJiBDkBLw@?wGLmGPqEH[DqAB]?MCSKQSSe@Kw@gC_T]kCe@kEa@_DcDwX}C{V_CmUcAoJkFad@i@aFuAgLaA_Je@_DcCoTc@eDQkBsAyKQmAcB}P}@eHSuB_@}BaBiN]}Dy@yGSqBMo@kCgV_BuM]iDGoA@aCB}@H_AJ}@ToAb@wA`DaHrDkH|FyLzAwChKuTxGyN~LkY^s@b@m@v@o@dCaBTS~GyEfAs@`@Ol@Ob@CtDEp@Ib@Sj@g@h@s@p@iAd@aAnAsDfB{H\\aA`@wAVe@d@sAb@}@|AwBLUPg@FGNC@GGUJi@VgC^sBXwBJiAPu@P_ALgAd@oC\\mCD}@t@yEd@oDj@}DJyAdAaGJu@Dq@b@wCHw@`@_C@]ViAxAcLD]F{Ad@cCR_BLy@Po@NoAHaABkD]mIK}AOgAEgAg@sGQwDMsAA[OuB?_@EUSkD}Bg[k@wJOiAMoBa@}HY_E[qHGq@?]_@yEa@yGKkAEmAc@cHG}Aq@oKG}Ai@kJAyAHmFVaEJsC@_@A}@ReDPcIP_Ej@qSb@_LXmJDiDE{OEcCOqICm@MaI]mPIgB?sAK_DO_KAgC@W@GJGT?FDCL]z@BpAm@cEoASgCu@kBa@i@Gi@Cm@@kCPiQpAqFf@kF\\W?_AC}@M{@WgHyCqE_BwH{CcGgCy@[MKAUEMUKCEPp@oq@mXqD}A}B}@sLgFLQBU",
+    "resource_state": 3,
+    "summary_polyline": "yncyGe|ofB_@Ic@iAzBgH^oBIgL`@_L|A{FfBiCs@_Dg@aFCyF_GsUmFqKmHgRaDgKeCmGqD{KcTis@i@oDQeERcRMyAMmKM_B_AqEk@mEKcJkA}EUuD[BNSEg@]Ik@ZwBfBaCnCuEN{@_@{H_GwKkDgSgLyQsOaGwKwVe[kt@ag@iS_QuAaBaCuFiAgD}CwLiDcHqBwFk@oDuCa_@PeR~BmMPgHMuGsDqx@AgF~AeQpKkg@|B_M`@oEFsGYeNgCsUU{E@cVa@gKZ{BdD_Ir@uFd@gB|RcBzMR~A_@?UY[^d@fD[j@e@rAaC`DeEvMmDhDkBr@Ih@u@lSqRlY{PtSmLnBy@fFeBv@DzAr@bAAfEqCj@aAf@_CNyHXqFLqA\\y@`cAgtAz_AmqAlKmIvIgElFgFjEmDvCg@|EEbEcAfDt@hAm@hAqDlDwP`@iG`@yD^_Az@wFf@qMbAcNnDyZNgCo@_JyVwiC_Now@_FiVcP}aAuFsZmHwd@i@uEHcOe@cTG_NC{XKuEAsb@QsIMid@a@cWYwr@B_PIwEPmEIiCBmFMyB@aFKiBPgEI_BGgPJmDMoEHuDSsBEsBLoEGoBc@_DcA_MTwNGwE{AwZSkCy@cEy`@u`AuDqLq@wDU_C@wDXqFt@i]jBsq@?yCqDob@o@wJuBySw@oMu@qPaA}LDoAd@W`@m@V@aEQn@w@T_A_Dcj@iBwq@`@wDNqHLiAZcA?iGP_F`@}@hDWv@YxARq@?S~AHgAtAQvKjA`@y@pA`Ab@BT\\Ps@G_Gs@kTb@}HCiBUkBg@_Bi@{@wAmAL]VFlCvDYJy@wAoBsAKa@hAm\\y@q[GoNe@MK[QcRW_c@F_@n@UV{@Eg@Yo@YwFw@a`A?wELmB|AaHzk@_kBjCsJlDyJfCmJtBaGtBiI|IuYt@eDXmC?{DuBwz@TaRMgARy@AkANgAUa@c@AmItAuJx@o^?UBC\\k@a@_OMiWeAux@bBk@Ce@_@_@}AoPkuAcE}`@sVuuBuDy]aCgReJwx@e@yFN_GdAeFx`@uy@xVyj@zA}AbOcKnA_@xEItA]tA{AvAkCnAsDfB{H~@yC`BwD|BuDXSGUb@qD|CcSvDmZ`EaXxAcLLyBhB}KLmF]mI}I{pAcIivAFgIb@uI?}AfDsfAK_TeBk}@?_Dj@Ia@hABpAm@cEwKwBaf@jDuCQkd@qQUo@YQPp@_{@i]sLgFPg@"
+  },
+  "trainer": false,
+  "commute": false,
+  "manual": false,
+  "private": false,
+  "visibility": "everyone",
+  "flagged": false,
+  "gear_id": "b16337781",
+  "start_latlng": [
+    46.225895,
+    16.962111
+  ],
+  "end_latlng": [
+    46.258102,
+    17.625101
+  ],
+  "average_speed": 5.667,
+  "max_speed": 11.16,
+  "average_temp": 21,
+  "average_watts": 117.2,
+  "device_watts": false,
+  "kilojoules": 1378.2,
+  "has_heartrate": false,
+  "heartrate_opt_out": false,
+  "display_hide_heartrate_option": false,
+  "elev_high": 201.2,
+  "elev_low": 107.4,
+  "upload_id": 16090275960,
+  "upload_id_str": "16090275960",
+  "external_id": "87715cdf-eb9d-4718-b401-b284193dfba6.fit",
+  "from_accepted_tag": false,
+  "pr_count": 0,
+  "total_photo_count": 2,
+  "has_kudoed": false,
+  "description": "Almost got caught at the border...",
+  "calories": 1537.0,
+  "perceived_exertion": null,
+  "prefer_perceived_exertion": false,
+  "segment_efforts": [
+    {
+      "id": 3378439419980717758,
+      "resource_state": 2,
+      "name": "Gy\u00e9k\u00e9nyes Pet\u0151fi utca - Porogszentkir\u00e1ly F\u0151 utca",
+      "activity": {
+        "id": 15070512207,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 1331,
+      "moving_time": 983,
+      "start_date": "2025-07-10T08:19:27Z",
+      "start_date_local": "2025-07-10T10:19:27Z",
+      "distance": 5032.3,
+      "start_index": 1084,
+      "end_index": 2068,
+      "device_watts": false,
+      "segment": {
+        "id": 18165269,
+        "resource_state": 2,
+        "name": "Gy\u00e9k\u00e9nyes Pet\u0151fi utca - Porogszentkir\u00e1ly F\u0151 utca",
+        "activity_type": "Ride",
+        "distance": 5032.3,
+        "average_grade": 0.3,
+        "maximum_grade": 2.4,
+        "elevation_high": 190.0,
+        "elevation_low": 172.2,
+        "start_latlng": [
+          46.236192,
+          17.010434
+        ],
+        "end_latlng": [
+          46.270569,
+          17.045481
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Gy\u00e9k\u00e9nyes",
+        "state": null,
+        "country": "Hungary",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3378439419982403262,
+      "resource_state": 2,
+      "name": "Porogi el\u00e1gaz\u00f3",
+      "activity": {
+        "id": 15070512207,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 898,
+      "moving_time": 550,
+      "start_date": "2025-07-10T08:26:39Z",
+      "start_date_local": "2025-07-10T10:26:39Z",
+      "distance": 2741.5,
+      "start_index": 1516,
+      "end_index": 2067,
+      "device_watts": false,
+      "segment": {
+        "id": 14712964,
+        "resource_state": 2,
+        "name": "Porogi el\u00e1gaz\u00f3",
+        "activity_type": "Ride",
+        "distance": 2741.5,
+        "average_grade": 0.4,
+        "maximum_grade": 6.2,
+        "elevation_high": 134.6,
+        "elevation_low": 121.0,
+        "start_latlng": [
+          46.253762,
+          17.0222
+        ],
+        "end_latlng": [
+          46.270577,
+          17.045433
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Porrogszentkir\u00e1ly",
+        "state": null,
+        "country": "Hungary",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3378439419982676670,
+      "resource_state": 2,
+      "name": "Csurg\u00f3 v\u00e9ge Berzence k\u00f6zpont",
+      "activity": {
+        "id": 15070512207,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 542,
+      "moving_time": 542,
+      "start_date": "2025-07-10T09:33:10Z",
+      "start_date_local": "2025-07-10T11:33:10Z",
+      "distance": 4076.4,
+      "start_index": 3496,
+      "end_index": 4038,
+      "device_watts": false,
+      "segment": {
+        "id": 24233085,
+        "resource_state": 2,
+        "name": "Csurg\u00f3 v\u00e9ge Berzence k\u00f6zpont",
+        "activity_type": "Ride",
+        "distance": 4076.4,
+        "average_grade": 0.5,
+        "maximum_grade": 4.4,
+        "elevation_high": 1036.2,
+        "elevation_low": 993.8,
+        "start_latlng": [
+          46.237463,
+          17.115545
+        ],
+        "end_latlng": [
+          46.208148,
+          17.145063
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Csurg\u00f3",
+        "state": null,
+        "country": "Hungary",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3378439419978736318,
+      "resource_state": 2,
+      "name": "Berzence Nagyat\u00e1d 2",
+      "activity": {
+        "id": 15070512207,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 4828,
+      "moving_time": 2279,
+      "start_date": "2025-07-10T10:09:45Z",
+      "start_date_local": "2025-07-10T12:09:45Z",
+      "distance": 14306.2,
+      "start_index": 4399,
+      "end_index": 6692,
+      "device_watts": false,
+      "segment": {
+        "id": 17436434,
+        "resource_state": 2,
+        "name": "Berzence Nagyat\u00e1d 2",
+        "activity_type": "Ride",
+        "distance": 14306.2,
+        "average_grade": -0.0,
+        "maximum_grade": 9.6,
+        "elevation_high": 155.0,
+        "elevation_low": 132.6,
+        "start_latlng": [
+          46.205574,
+          17.167658
+        ],
+        "end_latlng": [
+          46.229122,
+          17.346249
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Berzence",
+        "state": null,
+        "country": "Hungary",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3378439419980085950,
+      "resource_state": 2,
+      "name": "Baross G utca",
+      "activity": {
+        "id": 15070512207,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 3125,
+      "moving_time": 92,
+      "start_date": "2025-07-10T11:33:08Z",
+      "start_date_local": "2025-07-10T13:33:08Z",
+      "distance": 410.3,
+      "start_index": 6863,
+      "end_index": 6956,
+      "device_watts": false,
+      "segment": {
+        "id": 13563824,
+        "resource_state": 2,
+        "name": "Baross G utca",
+        "activity_type": "Ride",
+        "distance": 410.3,
+        "average_grade": -0.6,
+        "maximum_grade": 2.6,
+        "elevation_high": 132.9,
+        "elevation_low": 130.0,
+        "start_latlng": [
+          46.229796,
+          17.357376
+        ],
+        "end_latlng": [
+          46.229422,
+          17.36264
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Nagyat\u00e1d",
+        "state": null,
+        "country": "Hungary",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3378439419978913470,
+      "resource_state": 2,
+      "name": "Nagyat\u00e1d - Kadark\u00fat",
+      "activity": {
+        "id": 15070512207,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 6627,
+      "moving_time": 3220,
+      "start_date": "2025-07-10T13:32:17Z",
+      "start_date_local": "2025-07-10T15:32:17Z",
+      "distance": 20002.9,
+      "start_index": 7736,
+      "end_index": 10968,
+      "device_watts": false,
+      "segment": {
+        "id": 12819258,
+        "resource_state": 2,
+        "name": "Nagyat\u00e1d - Kadark\u00fat",
+        "activity_type": "Ride",
+        "distance": 20002.9,
+        "average_grade": 0.3,
+        "maximum_grade": 10.3,
+        "elevation_high": 185.3,
+        "elevation_low": 132.1,
+        "start_latlng": [
+          46.22605,
+          17.393827
+        ],
+        "end_latlng": [
+          46.230918,
+          17.595928
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Nagyat\u00e1d",
+        "state": "Somogy County",
+        "country": "Hungary",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3378439419981138622,
+      "resource_state": 2,
+      "name": "L\u00e1bod el\u00e1gaz\u00e1s - MIke el\u00e1gaz\u00e1s ",
+      "activity": {
+        "id": 15070512207,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 776,
+      "moving_time": 499,
+      "start_date": "2025-07-10T14:18:20Z",
+      "start_date_local": "2025-07-10T16:18:20Z",
+      "distance": 2817.2,
+      "start_index": 8504,
+      "end_index": 9004,
+      "device_watts": false,
+      "segment": {
+        "id": 23918627,
+        "resource_state": 2,
+        "name": "L\u00e1bod el\u00e1gaz\u00e1s - MIke el\u00e1gaz\u00e1s ",
+        "activity_type": "Ride",
+        "distance": 2817.2,
+        "average_grade": 0.3,
+        "maximum_grade": 6.6,
+        "elevation_high": 162.2,
+        "elevation_low": 152.4,
+        "start_latlng": [
+          46.2134,
+          17.454441
+        ],
+        "end_latlng": [
+          46.238586,
+          17.453694
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "L\u00e1bod",
+        "state": null,
+        "country": "Hungary",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3378439419980633790,
+      "resource_state": 2,
+      "name": "Mike el\u00e1gaz\u00e1s - Kadark\u00fat el\u00e1gaz\u00e1s",
+      "activity": {
+        "id": 15070512207,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 3347,
+      "moving_time": 2215,
+      "start_date": "2025-07-10T14:31:20Z",
+      "start_date_local": "2025-07-10T16:31:20Z",
+      "distance": 13653.0,
+      "start_index": 9008,
+      "end_index": 11231,
+      "device_watts": false,
+      "segment": {
+        "id": 18318689,
+        "resource_state": 2,
+        "name": "Mike el\u00e1gaz\u00e1s - Kadark\u00fat el\u00e1gaz\u00e1s",
+        "activity_type": "Ride",
+        "distance": 13653.0,
+        "average_grade": 0.3,
+        "maximum_grade": 2.6,
+        "elevation_high": 231.8,
+        "elevation_low": 185.2,
+        "start_latlng": [
+          46.238758,
+          17.453924
+        ],
+        "end_latlng": [
+          46.231136,
+          17.615827
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "L\u00e1bod",
+        "state": null,
+        "country": "Hungary",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3378439419980319422,
+      "resource_state": 2,
+      "name": "Mike t\u00e1bl\u00e1t\u00f3l-t\u00e1rbl\u00e1ig csak a falu nyugatr\u00f3l",
+      "activity": {
+        "id": 15070512207,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 323,
+      "moving_time": 323,
+      "start_date": "2025-07-10T14:43:36Z",
+      "start_date_local": "2025-07-10T16:43:36Z",
+      "distance": 2153.4,
+      "start_index": 9744,
+      "end_index": 10067,
+      "device_watts": false,
+      "segment": {
+        "id": 22769919,
+        "resource_state": 2,
+        "name": "Mike t\u00e1bl\u00e1t\u00f3l-t\u00e1rbl\u00e1ig csak a falu nyugatr\u00f3l",
+        "activity_type": "Ride",
+        "distance": 2153.4,
+        "average_grade": -0.3,
+        "maximum_grade": 2.0,
+        "elevation_high": 152.6,
+        "elevation_low": 146.0,
+        "start_latlng": [
+          46.248268,
+          17.515731
+        ],
+        "end_latlng": [
+          46.23449,
+          17.533816
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Mike",
+        "state": null,
+        "country": "Hungary",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3378439419980819134,
+      "resource_state": 2,
+      "name": "Mike k\u00f6zpont - Kadark\u00fat el\u00e1gaz\u00e1s",
+      "activity": {
+        "id": 15070512207,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 2346,
+      "moving_time": 1214,
+      "start_date": "2025-07-10T14:47:55Z",
+      "start_date_local": "2025-07-10T16:47:55Z",
+      "distance": 6937.8,
+      "start_index": 10003,
+      "end_index": 11225,
+      "device_watts": false,
+      "segment": {
+        "id": 21393581,
+        "resource_state": 2,
+        "name": "Mike k\u00f6zpont - Kadark\u00fat el\u00e1gaz\u00e1s",
+        "activity_type": "Ride",
+        "distance": 6937.8,
+        "average_grade": 0.6,
+        "maximum_grade": 2.9,
+        "elevation_high": 264.8,
+        "elevation_low": 217.0,
+        "start_latlng": [
+          46.238015,
+          17.531779
+        ],
+        "end_latlng": [
+          46.231149,
+          17.615519
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Mike",
+        "state": null,
+        "country": "Hungary",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    }
+  ],
+  "splits_metric": [
+    {
+      "distance": 1000.8,
+      "elapsed_time": 278,
+      "elevation_difference": -1.4,
+      "moving_time": 273,
+      "split": 1,
+      "average_speed": 3.67,
+      "average_grade_adjusted_speed": 3.67,
+      "pace_zone": 0
+    },
+    {
+      "distance": 999.5,
+      "elapsed_time": 286,
+      "elevation_difference": -0.6,
+      "moving_time": 286,
+      "split": 2,
+      "average_speed": 3.49,
+      "average_grade_adjusted_speed": 3.5,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1001.6,
+      "elapsed_time": 265,
+      "elevation_difference": -0.8,
+      "moving_time": 265,
+      "split": 3,
+      "average_speed": 3.78,
+      "average_grade_adjusted_speed": 3.78,
+      "pace_zone": 0
+    },
+    {
+      "distance": 999.6,
+      "elapsed_time": 254,
+      "elevation_difference": -1.6,
+      "moving_time": 217,
+      "split": 4,
+      "average_speed": 4.61,
+      "average_grade_adjusted_speed": 4.6,
+      "pace_zone": 0
+    },
+    {
+      "distance": 999.6,
+      "elapsed_time": 386,
+      "elevation_difference": 0.4,
+      "moving_time": 211,
+      "split": 5,
+      "average_speed": 4.74,
+      "average_grade_adjusted_speed": 4.75,
+      "pace_zone": 0
+    },
+    {
+      "distance": 999.5,
+      "elapsed_time": 184,
+      "elevation_difference": 1.4,
+      "moving_time": 184,
+      "split": 6,
+      "average_speed": 5.43,
+      "average_grade_adjusted_speed": 5.46,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1003.1,
+      "elapsed_time": 185,
+      "elevation_difference": 0.4,
+      "moving_time": 185,
+      "split": 7,
+      "average_speed": 5.42,
+      "average_grade_adjusted_speed": 5.44,
+      "pace_zone": 0
+    },
+    {
+      "distance": 997.2,
+      "elapsed_time": 542,
+      "elevation_difference": 4.0,
+      "moving_time": 195,
+      "split": 8,
+      "average_speed": 5.11,
+      "average_grade_adjusted_speed": 5.17,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1001.3,
+      "elapsed_time": 226,
+      "elevation_difference": 9.6,
+      "moving_time": 226,
+      "split": 9,
+      "average_speed": 4.43,
+      "average_grade_adjusted_speed": 4.54,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1001.9,
+      "elapsed_time": 161,
+      "elevation_difference": -2.8,
+      "moving_time": 161,
+      "split": 10,
+      "average_speed": 6.22,
+      "average_grade_adjusted_speed": 6.21,
+      "pace_zone": 0
+    },
+    {
+      "distance": 995.9,
+      "elapsed_time": 160,
+      "elevation_difference": -1.4,
+      "moving_time": 160,
+      "split": 11,
+      "average_speed": 6.22,
+      "average_grade_adjusted_speed": 6.22,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1001.7,
+      "elapsed_time": 180,
+      "elevation_difference": 5.2,
+      "moving_time": 180,
+      "split": 12,
+      "average_speed": 5.57,
+      "average_grade_adjusted_speed": 5.64,
+      "pace_zone": 0
+    },
+    {
+      "distance": 998.4,
+      "elapsed_time": 225,
+      "elevation_difference": -2.4,
+      "moving_time": 225,
+      "split": 13,
+      "average_speed": 4.44,
+      "average_grade_adjusted_speed": 4.57,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1004.2,
+      "elapsed_time": 1863,
+      "elevation_difference": 4.0,
+      "moving_time": 199,
+      "split": 14,
+      "average_speed": 5.05,
+      "average_grade_adjusted_speed": 5.14,
+      "pace_zone": 0
+    },
+    {
+      "distance": 998.0,
+      "elapsed_time": 241,
+      "elevation_difference": 15.2,
+      "moving_time": 241,
+      "split": 15,
+      "average_speed": 4.14,
+      "average_grade_adjusted_speed": 4.36,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1002.0,
+      "elapsed_time": 141,
+      "elevation_difference": -12.0,
+      "moving_time": 141,
+      "split": 16,
+      "average_speed": 7.11,
+      "average_grade_adjusted_speed": 6.96,
+      "pace_zone": 0
+    },
+    {
+      "distance": 997.6,
+      "elapsed_time": 140,
+      "elevation_difference": -0.6,
+      "moving_time": 140,
+      "split": 17,
+      "average_speed": 7.13,
+      "average_grade_adjusted_speed": 7.19,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1002.4,
+      "elapsed_time": 156,
+      "elevation_difference": 5.4,
+      "moving_time": 156,
+      "split": 18,
+      "average_speed": 6.43,
+      "average_grade_adjusted_speed": 6.51,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1001.1,
+      "elapsed_time": 134,
+      "elevation_difference": -2.8,
+      "moving_time": 134,
+      "split": 19,
+      "average_speed": 7.47,
+      "average_grade_adjusted_speed": 7.45,
+      "pace_zone": 0
+    },
+    {
+      "distance": 999.9,
+      "elapsed_time": 128,
+      "elevation_difference": -4.2,
+      "moving_time": 128,
+      "split": 20,
+      "average_speed": 7.81,
+      "average_grade_adjusted_speed": 7.77,
+      "pace_zone": 0
+    },
+    {
+      "distance": 995.4,
+      "elapsed_time": 119,
+      "elevation_difference": -14.2,
+      "moving_time": 119,
+      "split": 21,
+      "average_speed": 8.36,
+      "average_grade_adjusted_speed": 8.14,
+      "pace_zone": 0
+    },
+    {
+      "distance": 999.5,
+      "elapsed_time": 1490,
+      "elevation_difference": 10.8,
+      "moving_time": 198,
+      "split": 22,
+      "average_speed": 5.05,
+      "average_grade_adjusted_speed": 5.25,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1004.3,
+      "elapsed_time": 193,
+      "elevation_difference": 6.8,
+      "moving_time": 193,
+      "split": 23,
+      "average_speed": 5.2,
+      "average_grade_adjusted_speed": 5.3,
+      "pace_zone": 0
+    },
+    {
+      "distance": 996.6,
+      "elapsed_time": 188,
+      "elevation_difference": 5.4,
+      "moving_time": 188,
+      "split": 24,
+      "average_speed": 5.3,
+      "average_grade_adjusted_speed": 5.38,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1001.4,
+      "elapsed_time": 186,
+      "elevation_difference": 2.2,
+      "moving_time": 186,
+      "split": 25,
+      "average_speed": 5.38,
+      "average_grade_adjusted_speed": 5.42,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1002.8,
+      "elapsed_time": 163,
+      "elevation_difference": 1.8,
+      "moving_time": 163,
+      "split": 26,
+      "average_speed": 6.15,
+      "average_grade_adjusted_speed": 6.18,
+      "pace_zone": 0
+    },
+    {
+      "distance": 997.4,
+      "elapsed_time": 161,
+      "elevation_difference": -1.8,
+      "moving_time": 161,
+      "split": 27,
+      "average_speed": 6.2,
+      "average_grade_adjusted_speed": 6.19,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1004.1,
+      "elapsed_time": 145,
+      "elevation_difference": -5.6,
+      "moving_time": 145,
+      "split": 28,
+      "average_speed": 6.92,
+      "average_grade_adjusted_speed": 6.87,
+      "pace_zone": 0
+    },
+    {
+      "distance": 998.7,
+      "elapsed_time": 142,
+      "elevation_difference": -2.8,
+      "moving_time": 142,
+      "split": 29,
+      "average_speed": 7.03,
+      "average_grade_adjusted_speed": 7.01,
+      "pace_zone": 0
+    },
+    {
+      "distance": 995.7,
+      "elapsed_time": 142,
+      "elevation_difference": -5.0,
+      "moving_time": 142,
+      "split": 30,
+      "average_speed": 7.01,
+      "average_grade_adjusted_speed": 6.96,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1006.0,
+      "elapsed_time": 922,
+      "elevation_difference": -3.2,
+      "moving_time": 150,
+      "split": 31,
+      "average_speed": 6.71,
+      "average_grade_adjusted_speed": 6.68,
+      "pace_zone": 0
+    },
+    {
+      "distance": 993.3,
+      "elapsed_time": 147,
+      "elevation_difference": -3.4,
+      "moving_time": 147,
+      "split": 32,
+      "average_speed": 6.76,
+      "average_grade_adjusted_speed": 6.72,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1005.3,
+      "elapsed_time": 157,
+      "elevation_difference": 3.6,
+      "moving_time": 157,
+      "split": 33,
+      "average_speed": 6.4,
+      "average_grade_adjusted_speed": 6.46,
+      "pace_zone": 0
+    },
+    {
+      "distance": 998.2,
+      "elapsed_time": 246,
+      "elevation_difference": 7.0,
+      "moving_time": 208,
+      "split": 34,
+      "average_speed": 4.8,
+      "average_grade_adjusted_speed": 4.89,
+      "pace_zone": 0
+    },
+    {
+      "distance": 998.5,
+      "elapsed_time": 153,
+      "elevation_difference": -1.0,
+      "moving_time": 153,
+      "split": 35,
+      "average_speed": 6.53,
+      "average_grade_adjusted_speed": 6.52,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1000.7,
+      "elapsed_time": 147,
+      "elevation_difference": -4.2,
+      "moving_time": 147,
+      "split": 36,
+      "average_speed": 6.81,
+      "average_grade_adjusted_speed": 6.77,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1001.6,
+      "elapsed_time": 1725,
+      "elevation_difference": -1.2,
+      "moving_time": 143,
+      "split": 37,
+      "average_speed": 7.0,
+      "average_grade_adjusted_speed": 7.0,
+      "pace_zone": 0
+    },
+    {
+      "distance": 997.0,
+      "elapsed_time": 339,
+      "elevation_difference": 14.4,
+      "moving_time": 196,
+      "split": 38,
+      "average_speed": 5.09,
+      "average_grade_adjusted_speed": 5.07,
+      "pace_zone": 0
+    },
+    {
+      "distance": 998.7,
+      "elapsed_time": 3337,
+      "elevation_difference": -4.2,
+      "moving_time": 301,
+      "split": 39,
+      "average_speed": 3.32,
+      "average_grade_adjusted_speed": 3.3,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1000.2,
+      "elapsed_time": 3473,
+      "elevation_difference": -5.4,
+      "moving_time": 236,
+      "split": 40,
+      "average_speed": 4.24,
+      "average_grade_adjusted_speed": 4.24,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1002.9,
+      "elapsed_time": 198,
+      "elevation_difference": 3.6,
+      "moving_time": 198,
+      "split": 41,
+      "average_speed": 5.07,
+      "average_grade_adjusted_speed": 5.12,
+      "pace_zone": 0
+    },
+    {
+      "distance": 997.2,
+      "elapsed_time": 192,
+      "elevation_difference": 4.6,
+      "moving_time": 185,
+      "split": 42,
+      "average_speed": 5.39,
+      "average_grade_adjusted_speed": 5.46,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1003.1,
+      "elapsed_time": 156,
+      "elevation_difference": 2.6,
+      "moving_time": 156,
+      "split": 43,
+      "average_speed": 6.43,
+      "average_grade_adjusted_speed": 6.47,
+      "pace_zone": 0
+    },
+    {
+      "distance": 996.3,
+      "elapsed_time": 155,
+      "elevation_difference": 4.0,
+      "moving_time": 155,
+      "split": 44,
+      "average_speed": 6.43,
+      "average_grade_adjusted_speed": 6.48,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1003.5,
+      "elapsed_time": 146,
+      "elevation_difference": 0.4,
+      "moving_time": 146,
+      "split": 45,
+      "average_speed": 6.87,
+      "average_grade_adjusted_speed": 6.88,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1002.1,
+      "elapsed_time": 142,
+      "elevation_difference": 1.4,
+      "moving_time": 142,
+      "split": 46,
+      "average_speed": 7.06,
+      "average_grade_adjusted_speed": 7.08,
+      "pace_zone": 0
+    },
+    {
+      "distance": 995.2,
+      "elapsed_time": 2151,
+      "elevation_difference": -0.2,
+      "moving_time": 156,
+      "split": 47,
+      "average_speed": 6.38,
+      "average_grade_adjusted_speed": 6.38,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1002.2,
+      "elapsed_time": 458,
+      "elevation_difference": 4.6,
+      "moving_time": 182,
+      "split": 48,
+      "average_speed": 5.51,
+      "average_grade_adjusted_speed": 5.56,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1000.0,
+      "elapsed_time": 172,
+      "elevation_difference": 2.0,
+      "moving_time": 172,
+      "split": 49,
+      "average_speed": 5.81,
+      "average_grade_adjusted_speed": 5.84,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1000.8,
+      "elapsed_time": 173,
+      "elevation_difference": 3.0,
+      "moving_time": 173,
+      "split": 50,
+      "average_speed": 5.78,
+      "average_grade_adjusted_speed": 5.85,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1000.0,
+      "elapsed_time": 128,
+      "elevation_difference": 0.4,
+      "moving_time": 128,
+      "split": 51,
+      "average_speed": 7.81,
+      "average_grade_adjusted_speed": 7.83,
+      "pace_zone": 0
+    },
+    {
+      "distance": 999.9,
+      "elapsed_time": 141,
+      "elevation_difference": 0.4,
+      "moving_time": 141,
+      "split": 52,
+      "average_speed": 7.09,
+      "average_grade_adjusted_speed": 7.1,
+      "pace_zone": 0
+    },
+    {
+      "distance": 999.4,
+      "elapsed_time": 154,
+      "elevation_difference": 2.8,
+      "moving_time": 154,
+      "split": 53,
+      "average_speed": 6.49,
+      "average_grade_adjusted_speed": 6.52,
+      "pace_zone": 0
+    },
+    {
+      "distance": 999.4,
+      "elapsed_time": 156,
+      "elevation_difference": 4.4,
+      "moving_time": 156,
+      "split": 54,
+      "average_speed": 6.41,
+      "average_grade_adjusted_speed": 6.47,
+      "pace_zone": 0
+    },
+    {
+      "distance": 997.7,
+      "elapsed_time": 155,
+      "elevation_difference": 0.0,
+      "moving_time": 155,
+      "split": 55,
+      "average_speed": 6.44,
+      "average_grade_adjusted_speed": 6.44,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1005.1,
+      "elapsed_time": 149,
+      "elevation_difference": -2.2,
+      "moving_time": 149,
+      "split": 56,
+      "average_speed": 6.75,
+      "average_grade_adjusted_speed": 6.73,
+      "pace_zone": 0
+    },
+    {
+      "distance": 996.7,
+      "elapsed_time": 151,
+      "elevation_difference": -4.6,
+      "moving_time": 151,
+      "split": 57,
+      "average_speed": 6.6,
+      "average_grade_adjusted_speed": 6.56,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1001.6,
+      "elapsed_time": 366,
+      "elevation_difference": 10.0,
+      "moving_time": 198,
+      "split": 58,
+      "average_speed": 5.06,
+      "average_grade_adjusted_speed": 5.18,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1001.6,
+      "elapsed_time": 170,
+      "elevation_difference": 2.0,
+      "moving_time": 170,
+      "split": 59,
+      "average_speed": 5.89,
+      "average_grade_adjusted_speed": 5.92,
+      "pace_zone": 0
+    },
+    {
+      "distance": 995.8,
+      "elapsed_time": 234,
+      "elevation_difference": 9.8,
+      "moving_time": 204,
+      "split": 60,
+      "average_speed": 4.88,
+      "average_grade_adjusted_speed": 4.99,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1001.4,
+      "elapsed_time": 167,
+      "elevation_difference": 8.2,
+      "moving_time": 167,
+      "split": 61,
+      "average_speed": 6.0,
+      "average_grade_adjusted_speed": 6.11,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1000.7,
+      "elapsed_time": 1095,
+      "elevation_difference": 7.4,
+      "moving_time": 169,
+      "split": 62,
+      "average_speed": 5.92,
+      "average_grade_adjusted_speed": 6.02,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1001.9,
+      "elapsed_time": 168,
+      "elevation_difference": 7.2,
+      "moving_time": 168,
+      "split": 63,
+      "average_speed": 5.96,
+      "average_grade_adjusted_speed": 6.08,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1000.7,
+      "elapsed_time": 5453,
+      "elevation_difference": -3.2,
+      "moving_time": 197,
+      "split": 64,
+      "average_speed": 5.08,
+      "average_grade_adjusted_speed": 5.1,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1000.5,
+      "elapsed_time": 140,
+      "elevation_difference": -4.2,
+      "moving_time": 140,
+      "split": 65,
+      "average_speed": 7.15,
+      "average_grade_adjusted_speed": 7.1,
+      "pace_zone": 0
+    },
+    {
+      "distance": 993.6,
+      "elapsed_time": 187,
+      "elevation_difference": -1.8,
+      "moving_time": 163,
+      "split": 66,
+      "average_speed": 6.1,
+      "average_grade_adjusted_speed": 6.08,
+      "pace_zone": 0
+    },
+    {
+      "distance": 659.7,
+      "elapsed_time": 205,
+      "elevation_difference": -3.8,
+      "moving_time": 126,
+      "split": 67,
+      "average_speed": 5.24,
+      "average_grade_adjusted_speed": 5.2,
+      "pace_zone": 0
+    }
+  ],
+  "splits_standard": [
+    {
+      "distance": 1612.9,
+      "elapsed_time": 455,
+      "elevation_difference": -1.8,
+      "moving_time": 450,
+      "split": 1,
+      "average_speed": 3.58,
+      "average_grade_adjusted_speed": 3.59,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1606.5,
+      "elapsed_time": 427,
+      "elevation_difference": -0.4,
+      "moving_time": 427,
+      "split": 2,
+      "average_speed": 3.76,
+      "average_grade_adjusted_speed": 3.77,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1613.3,
+      "elapsed_time": 556,
+      "elevation_difference": -1.4,
+      "moving_time": 344,
+      "split": 3,
+      "average_speed": 4.69,
+      "average_grade_adjusted_speed": 4.69,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1608.6,
+      "elapsed_time": 296,
+      "elevation_difference": 0.4,
+      "moving_time": 296,
+      "split": 4,
+      "average_speed": 5.43,
+      "average_grade_adjusted_speed": 5.45,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1605.7,
+      "elapsed_time": 655,
+      "elevation_difference": 5.4,
+      "moving_time": 308,
+      "split": 5,
+      "average_speed": 5.21,
+      "average_grade_adjusted_speed": 5.26,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1613.7,
+      "elapsed_time": 317,
+      "elevation_difference": 4.2,
+      "moving_time": 317,
+      "split": 6,
+      "average_speed": 5.09,
+      "average_grade_adjusted_speed": 5.14,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1608.1,
+      "elapsed_time": 260,
+      "elevation_difference": -0.6,
+      "moving_time": 260,
+      "split": 7,
+      "average_speed": 6.19,
+      "average_grade_adjusted_speed": 6.2,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1613.5,
+      "elapsed_time": 352,
+      "elevation_difference": 7.4,
+      "moving_time": 352,
+      "split": 8,
+      "average_speed": 4.58,
+      "average_grade_adjusted_speed": 4.73,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1605.4,
+      "elapsed_time": 2016,
+      "elevation_difference": 15.2,
+      "moving_time": 352,
+      "split": 9,
+      "average_speed": 4.56,
+      "average_grade_adjusted_speed": 4.75,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1613.3,
+      "elapsed_time": 255,
+      "elevation_difference": -11.6,
+      "moving_time": 255,
+      "split": 10,
+      "average_speed": 6.33,
+      "average_grade_adjusted_speed": 6.25,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1605.2,
+      "elapsed_time": 238,
+      "elevation_difference": 3.4,
+      "moving_time": 238,
+      "split": 11,
+      "average_speed": 6.74,
+      "average_grade_adjusted_speed": 6.82,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1606.0,
+      "elapsed_time": 219,
+      "elevation_difference": -1.8,
+      "moving_time": 219,
+      "split": 12,
+      "average_speed": 7.33,
+      "average_grade_adjusted_speed": 7.33,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1613.6,
+      "elapsed_time": 201,
+      "elevation_difference": -14.8,
+      "moving_time": 201,
+      "split": 13,
+      "average_speed": 8.03,
+      "average_grade_adjusted_speed": 7.9,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1606.3,
+      "elapsed_time": 1597,
+      "elevation_difference": 8.8,
+      "moving_time": 305,
+      "split": 14,
+      "average_speed": 5.27,
+      "average_grade_adjusted_speed": 5.39,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1612.4,
+      "elapsed_time": 308,
+      "elevation_difference": 11.8,
+      "moving_time": 308,
+      "split": 15,
+      "average_speed": 5.24,
+      "average_grade_adjusted_speed": 5.34,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1605.1,
+      "elapsed_time": 282,
+      "elevation_difference": 3.6,
+      "moving_time": 282,
+      "split": 16,
+      "average_speed": 5.69,
+      "average_grade_adjusted_speed": 5.73,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1612.0,
+      "elapsed_time": 254,
+      "elevation_difference": -4.0,
+      "moving_time": 254,
+      "split": 17,
+      "average_speed": 6.35,
+      "average_grade_adjusted_speed": 6.33,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1608.2,
+      "elapsed_time": 229,
+      "elevation_difference": -6.2,
+      "moving_time": 229,
+      "split": 18,
+      "average_speed": 7.02,
+      "average_grade_adjusted_speed": 6.99,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1614.2,
+      "elapsed_time": 1008,
+      "elevation_difference": -7.4,
+      "moving_time": 236,
+      "split": 19,
+      "average_speed": 6.84,
+      "average_grade_adjusted_speed": 6.8,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1607.4,
+      "elapsed_time": 236,
+      "elevation_difference": -3.8,
+      "moving_time": 236,
+      "split": 20,
+      "average_speed": 6.81,
+      "average_grade_adjusted_speed": 6.79,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1607.5,
+      "elapsed_time": 335,
+      "elevation_difference": 9.8,
+      "moving_time": 297,
+      "split": 21,
+      "average_speed": 5.41,
+      "average_grade_adjusted_speed": 5.5,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1607.7,
+      "elapsed_time": 254,
+      "elevation_difference": -1.0,
+      "moving_time": 254,
+      "split": 22,
+      "average_speed": 6.33,
+      "average_grade_adjusted_speed": 6.33,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1610.4,
+      "elapsed_time": 1814,
+      "elevation_difference": -5.0,
+      "moving_time": 232,
+      "split": 23,
+      "average_speed": 6.94,
+      "average_grade_adjusted_speed": 6.92,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1607.6,
+      "elapsed_time": 3533,
+      "elevation_difference": 9.6,
+      "moving_time": 354,
+      "split": 24,
+      "average_speed": 4.54,
+      "average_grade_adjusted_speed": 4.51,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1610.0,
+      "elapsed_time": 3667,
+      "elevation_difference": -5.0,
+      "moving_time": 430,
+      "split": 25,
+      "average_speed": 3.74,
+      "average_grade_adjusted_speed": 3.75,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1608.8,
+      "elapsed_time": 297,
+      "elevation_difference": 7.6,
+      "moving_time": 297,
+      "split": 26,
+      "average_speed": 5.42,
+      "average_grade_adjusted_speed": 5.49,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1609.6,
+      "elapsed_time": 265,
+      "elevation_difference": 5.6,
+      "moving_time": 258,
+      "split": 27,
+      "average_speed": 6.24,
+      "average_grade_adjusted_speed": 6.29,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1613.1,
+      "elapsed_time": 240,
+      "elevation_difference": 2.6,
+      "moving_time": 240,
+      "split": 28,
+      "average_speed": 6.72,
+      "average_grade_adjusted_speed": 6.74,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1607.8,
+      "elapsed_time": 225,
+      "elevation_difference": -0.2,
+      "moving_time": 225,
+      "split": 29,
+      "average_speed": 7.15,
+      "average_grade_adjusted_speed": 7.15,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1607.9,
+      "elapsed_time": 2567,
+      "elevation_difference": 6.4,
+      "moving_time": 296,
+      "split": 30,
+      "average_speed": 5.43,
+      "average_grade_adjusted_speed": 5.48,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1609.0,
+      "elapsed_time": 279,
+      "elevation_difference": 4.4,
+      "moving_time": 279,
+      "split": 31,
+      "average_speed": 5.77,
+      "average_grade_adjusted_speed": 5.81,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1611.2,
+      "elapsed_time": 208,
+      "elevation_difference": -1.0,
+      "moving_time": 208,
+      "split": 32,
+      "average_speed": 7.75,
+      "average_grade_adjusted_speed": 7.75,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1612.9,
+      "elapsed_time": 248,
+      "elevation_difference": 4.4,
+      "moving_time": 248,
+      "split": 33,
+      "average_speed": 6.5,
+      "average_grade_adjusted_speed": 6.54,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1607.1,
+      "elapsed_time": 253,
+      "elevation_difference": 5.2,
+      "moving_time": 253,
+      "split": 34,
+      "average_speed": 6.35,
+      "average_grade_adjusted_speed": 6.4,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1607.5,
+      "elapsed_time": 242,
+      "elevation_difference": -2.0,
+      "moving_time": 242,
+      "split": 35,
+      "average_speed": 6.64,
+      "average_grade_adjusted_speed": 6.64,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1608.9,
+      "elapsed_time": 452,
+      "elevation_difference": 3.6,
+      "moving_time": 284,
+      "split": 36,
+      "average_speed": 5.67,
+      "average_grade_adjusted_speed": 5.71,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1610.9,
+      "elapsed_time": 293,
+      "elevation_difference": 9.8,
+      "moving_time": 293,
+      "split": 37,
+      "average_speed": 5.5,
+      "average_grade_adjusted_speed": 5.58,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1610.0,
+      "elapsed_time": 316,
+      "elevation_difference": 12.0,
+      "moving_time": 286,
+      "split": 38,
+      "average_speed": 5.63,
+      "average_grade_adjusted_speed": 5.72,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1607.0,
+      "elapsed_time": 1198,
+      "elevation_difference": 11.0,
+      "moving_time": 272,
+      "split": 39,
+      "average_speed": 5.91,
+      "average_grade_adjusted_speed": 6.0,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1608.9,
+      "elapsed_time": 5546,
+      "elevation_difference": -3.8,
+      "moving_time": 290,
+      "split": 40,
+      "average_speed": 5.55,
+      "average_grade_adjusted_speed": 5.57,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1611.2,
+      "elapsed_time": 272,
+      "elevation_difference": -2.8,
+      "moving_time": 248,
+      "split": 41,
+      "average_speed": 6.5,
+      "average_grade_adjusted_speed": 6.48,
+      "pace_zone": 0
+    },
+    {
+      "distance": 673.3,
+      "elapsed_time": 207,
+      "elevation_difference": -3.8,
+      "moving_time": 128,
+      "split": 42,
+      "average_speed": 5.26,
+      "average_grade_adjusted_speed": 5.22,
+      "pace_zone": 0
+    }
+  ],
+  "laps": [
+    {
+      "id": 53607446007,
+      "resource_state": 2,
+      "name": "Lap 1",
+      "activity": {
+        "id": 15070512207,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 32872,
+      "moving_time": 11783,
+      "start_date": "2025-07-10T07:57:46Z",
+      "start_date_local": "2025-07-10T09:57:46Z",
+      "distance": 66666.4,
+      "average_speed": 5.66,
+      "max_speed": 11.16,
+      "lap_index": 1,
+      "split": 1,
+      "start_index": 0,
+      "end_index": 11783,
+      "total_elevation_gain": 239.6,
+      "device_watts": false,
+      "average_watts": 117.2
+    }
+  ],
+  "gear": {
+    "id": "b16337781",
+    "primary": false,
+    "name": "Betty (Milan ->)",
+    "nickname": "Betty (Milan ->)",
+    "resource_state": 2,
+    "retired": false,
+    "distance": 9056030,
+    "converted_distance": 9056.0
+  },
+  "photos": {
+    "primary": {
+      "unique_id": "4761ada0-b440-4bb9-8672-c0e00761252f",
+      "urls": {
+        "600": "https://dgtzuqphqg23d.cloudfront.net/5kLCW_8LU1D8N8D0p0spi0saGXouuHokBa31fMQ6e9E-432x768.jpg",
+        "100": "https://dgtzuqphqg23d.cloudfront.net/5kLCW_8LU1D8N8D0p0spi0saGXouuHokBa31fMQ6e9E-72x128.jpg"
+      },
+      "source": 1,
+      "media_type": 1
+    },
+    "use_primary_photo": false,
+    "count": 2
+  },
+  "stats_visibility": [
+    {
+      "type": "heart_rate",
+      "visibility": "everyone"
+    },
+    {
+      "type": "pace",
+      "visibility": "everyone"
+    },
+    {
+      "type": "power",
+      "visibility": "everyone"
+    },
+    {
+      "type": "speed",
+      "visibility": "everyone"
+    },
+    {
+      "type": "calories",
+      "visibility": "everyone"
+    }
+  ],
+  "hide_from_home": false,
+  "embed_token": "57da89a78cb74e4045ec2eeac819ffed987ba422",
+  "available_zones": [
+    "power"
+  ]
+}

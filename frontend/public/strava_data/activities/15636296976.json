@@ -1,0 +1,942 @@
+{
+  "resource_state": 3,
+  "athlete": {
+    "id": 49023768,
+    "resource_state": 1
+  },
+  "name": "Recovery",
+  "distance": 30907.7,
+  "moving_time": 5870,
+  "elapsed_time": 8022,
+  "total_elevation_gain": 180.7,
+  "type": "Ride",
+  "sport_type": "Ride",
+  "workout_type": null,
+  "device_name": "Strava App",
+  "id": 15636296976,
+  "start_date": "2025-08-30T06:41:39Z",
+  "start_date_local": "2025-08-30T10:41:39Z",
+  "timezone": "(GMT+04:00) Asia/Tbilisi",
+  "utc_offset": 14400.0,
+  "location_city": null,
+  "location_state": null,
+  "location_country": null,
+  "achievement_count": 0,
+  "kudos_count": 11,
+  "comment_count": 0,
+  "athlete_count": 1,
+  "photo_count": 0,
+  "map": {
+    "id": "a15636296976",
+    "polyline": "{bm~Fm`_~FYIQALAQ?_@@aAGa@G}AAOEg@CGEy@KW?KIWCOJ_@DcBEaADu@Kk@AsADc@I]D_AE_A@OAk@FeAAc@Bq@CGGYDe@BKAOFi@Di@Ge@Q[FU@eCAGBk@@g@Fg@C}@BkAEq@AcBHoCDGByA?kAHc@Lg@HS?[CiARw@@{AXQKQ?UCS?OFILMFwCTF?UB`@I_BJY?UFk@FOAyANI?KEGBQVQPa@HGEI?IIIAg@XO@w@G_@TODe@CaBNM?GG@BcUrGTEEFCAII_DvAu@TKHAAoAZmAd@yBj@}B^k@Nu@NmAPPAEDy@Zq@EFFo@GcA@gALeAHy@BKCKBQEORG@_EX_BTw@DaBNm@BeBToBBaC\\W?y@Ha@@sARgDTaADq@Jc@Ba@ASH]?k@HcA@iAFcC\\oCNyBXo@Dm@Lw@HaCR_AL{BLaA@oAP}@B{AEkAI{CBqBWi@EIEiA@m@IiAGaAM[?mBOy@AaAGUUCK@g@L_A`@iB`@eCh@mEj@wDPiCd@qEHaBPgADcA\\uDN{@Bq@O_BKwASkFKuAG{B?eAY}Gc@yIy@yTMoCEgBOsAGmACsAMk@?w@S}FUsCuAi]MwBY_HKkAE{AGy@AmAG{@AkAMyAIaDSwEAy@Ck@KsDM{BW_BGsCg@gIIc@MUQMICWAS@uDp@i@PwEh@o@EUEs@Ug@[a@OUA_@@}@Vi@TgATgGhBaBf@gAb@i@LgBf@qBd@iCz@}DfAqBv@cAf@g@RsAt@}Al@e@HUBkA?i@Bo@?mAEk@Bg@Fe@PaBd@oCbAgCn@e@PIDMP_@tAUd@QJi@Ri@ZwAt@_Cl@q@f@i@Lo@RoG~B{Bl@cCd@iDdAoBb@a@NYVcB|@mA~@sBpA{EfD]L{Bl@kAReEz@i@PADUFQJc@NM@c@Cq@?UEKMM_@SOQi@e@Ya@Iy@Ew@DAGy@LeAH}ACyAJeA@WEFA?IBAVBBF?@EA?V@BHBBAFGFCCEa@MB@_AkAWi@Ks@Ys@cAyCMi@K}@EuAMcA]eA{@cB_@uA}@iCwAsFS}@_@mAg@y@}@{@{@e@SGYWUKUG[Yq@W]Ie@e@g@u@Yk@i@wAs@_Bk@eBYkAKe@g@{DUeEGw@@YLc@l@{@L[BOBa@GsA?sANkDJs@Zw@p@gAJM?BZUb@SRm@Lk@@U?e@UgBCe@NkEPmAj@qBPw@hAoC`AqCnCqFjAmCp@kAh@oAh@wAZi@^eAfBkDnAcDD[@[KqAUoEKcA?wA[cGScBa@oCOkAGu@OaAMc@[u@{@{AQa@q@uBQq@Ks@SsB[{A[mAYgBc@gFWsCSiASeBUkCy@kGmAgEc@eBUwAIsAOo@Sa@c@m@kByB][_@i@_@q@m@sBI}@@}@FqAE_AKm@u@eDS}AWyD?g@D_ACeAH}@Ag@Cu@Iq@EyBK}AKi@Y{AQi@[wAm@kBq@oAsAcBc@oAEYM[[e@Qu@CWCKSWi@oAUq@m@kAwAqBOa@E[?SJc@XeDRwC\\gDFyCKmAc@aCEa@?e@KY[kAa@{BYwBi@oCUsCCqAKcAYcEM}@MwBB{ABEBa@AeCB_AJcAlAiIx@uE^kD\\iHGa@I[g@uAWeA_@aAOg@mA}Da@cBEa@DWN]JMNI^g@^aALi@Em@VaB@WAMg@aCEi@F[p@gBJu@HoAa@aG@]Jk@dAoCPYJIVKVA~BNh@Nz@?PIV]JUHm@Ac@Gu@Os@Q}AOm@QqADa@Oi@YgCE{@?}@KgC?[Fw@AUBN[_EKyDQaCCu@QoCAqBD{@^iCBe@?@x@qEr@oGRwEC}E@aB?cCHcB^mEJyB?o@]eCg@kC_@wAuAgDc@}@oAuDUw@]{@m@kBk@oA_AoC]oA}@}B}@_Dq@qAc@qAGKACC@EEe@oBWe@_@yAe@yAy@cB_A}B[{@Mk@Ui@i@}Aa@wAs@yC_BcGKo@s@oCKq@k@{BcBaG_@cBMoAGoACeC@yATiCFkANeAD}AHu@T}Av@kELyAF[Dc@L_@ViB?}@NoCNoADm@CcAH{AFqDP{DFc@d@iCVq@ZoARi@`BeFbAsDRk@|@eDf@iCVcBHqAb@{DX}CVgAHkBb@yDFqABA`@uDTkANeCHm@Bo@NiADS@Wb@sB\\uAR}A|@qEZuAj@kDl@kCHq@ZgACCT}@j@kBd@iDViAh@wAd@y@b@uAnAsBLw@d@kARu@Dm@AS@[J_AAqAJuAAk@Nq@BBLAE@@@LaBAw@To@DE@IACMSEI?KJk@B}@Ju@^_BT_B^}DNkAFy@Ay@@o@NeIFcBBeFRqKTqDLgFHsAL_DNsCTkBz@eEh@yCd@iBTi@NSPO|A_Ab@UZEP?fBZ`@FHAJFVBh@CPEXQbAy@hCoCrBqBrAuAn@_Af@cAj@qArAmDTc@Za@Xg@d@i@X_@d@uBd@cB^y@bAoCVgA\\cA`D_J^mAPa@hA_EzAkEPu@Na@D[x@gCDCn@aBb@mBN[|@cDTmAVw@Jc@BWf@qANu@VQNGHBFDb@f@Rf@NFNEFDEA",
+    "resource_state": 3,
+    "summary_polyline": "{bm~Fm`_~Fk@KLAsFOuDi@o@PeD?aBM{LDy@KeCToAYsGTcFGuIRwC`@mGj@QK{@Cg@\\oCTJEeHh@UEk@l@a@He@Qg@XgAEo@ZgCJUGaUvGTEEFMKaFvB_D~@gL|BPA_A`@i@@sBEmCVcBAWT_Hn@}Kr@eRdBqH^eVfCkId@gDO{CBeDc@iA@_My@UUAs@pAoHtAeKjCmZ[wD_@aIGaEkCip@[uFMk@SuHUsCuAi]aAyRiAc]M{BW_BGsCg@gIWy@[Qk@?_FbAwEh@eAK}BaAu@?md@xMoKvE{@LsFAsAJeM|DWV_@tAUd@}DpB_Cl@q@f@iJ`D_GrA{HxB{OnKyCz@qGnAeC|@kBIm@}@Qi@gAc@sBG_CVuGBJMVBA^JFRMe@SsAsBKs@kBwF_@wE]eA{@cB}A_FkC_Kg@y@}@{@qDsBoAa@e@e@aAaB}AwDeAqDs@aF[wGLc@l@{@Pk@CiEZ_FlA_CjAs@`@yA@{@YmCNkEPmA|@iDjCaHnCqFlGqNfBkDnAcDFw@m@eJ?wA[cGmAuJ]eBiBsDcAgD_@gDqAqG{@{J}@{Hy@kGqBmH_@kDOo@w@oAiD_E_@q@m@sBI}@HoCE_AaAsES}AWyDHsGSaFWgCgA}Em@kBq@oAsAcBi@iBi@aAYyAaCeFwAqBU}@Jw@jAeNFyCKmAc@aCEgAg@eBeBcKUsCCqAaA}LJcC@eExAmKx@uE^kD\\iHQ}@}DcMg@eCTu@z@_Al@kBEm@XyBo@yDx@cCTeCa@aGLiAdAoC\\c@n@MdF^h@g@TcAIyAcAqGDa@Oi@YgCQaGDiBBN[_EKyDg@gIAqBh@kFx@oEr@oGRwEAcMh@qHJiD]eCgAcFyBeFyJcY}@_Dq@qAc@qASSe@oBWe@eAsDyBaFkCgIsC}KwBmJcCeJU_DA_F|@oLhBcMd@iCNmET}BCcAPmGX_Fd@iC`GqR|@eDf@iCVcBfAkLVgAl@eHFqAz@cG\\cFVuB`AiER}A|DqSxAuFd@iDViArBgFnAsBfAyDP}CFsENq@P@E@N_BAw@\\_AUm@NiB`AuFv@cI?iBn@a`@TqDLgFf@gKTkBdB_Jd@iBd@}@rCeBl@EvDl@h@Cj@W`I{HbCuCfDcIjAmB~@iAjAyEbBiEt@kCrEoMdDkKf@sBnBmFpBmH|@aEf@qANu@p@Uj@l@Rf@f@FEA"
+  },
+  "trainer": false,
+  "commute": false,
+  "manual": false,
+  "private": false,
+  "visibility": "everyone",
+  "flagged": false,
+  "gear_id": "b16337781",
+  "start_latlng": [
+    41.851509,
+    41.779439
+  ],
+  "end_latlng": [
+    41.925755,
+    42.00012
+  ],
+  "average_speed": 5.265,
+  "max_speed": 12.58,
+  "average_watts": 109.3,
+  "device_watts": false,
+  "kilojoules": 641.4,
+  "has_heartrate": false,
+  "heartrate_opt_out": false,
+  "display_hide_heartrate_option": false,
+  "elev_high": 86.0,
+  "elev_low": 4.7,
+  "upload_id": 16700714730,
+  "upload_id_str": "16700714730",
+  "external_id": "44ce3103-8ce3-47f3-a588-fd5e46d3e8ef-activity.fit",
+  "from_accepted_tag": false,
+  "pr_count": 0,
+  "total_photo_count": 1,
+  "has_kudoed": false,
+  "description": "Easy day, mainly because I want to do the climb in full tomorrow.",
+  "calories": 715.0,
+  "perceived_exertion": null,
+  "prefer_perceived_exertion": false,
+  "segment_efforts": [
+    {
+      "id": 3396842708478900658,
+      "resource_state": 2,
+      "name": "Leaving Kobuleti",
+      "activity": {
+        "id": 15636296976,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 415,
+      "moving_time": 413,
+      "start_date": "2025-08-30T07:01:09Z",
+      "start_date_local": "2025-08-30T11:01:09Z",
+      "distance": 2124.3,
+      "start_index": 570,
+      "end_index": 985,
+      "device_watts": false,
+      "segment": {
+        "id": 38223735,
+        "resource_state": 2,
+        "name": "Leaving Kobuleti",
+        "activity_type": "Ride",
+        "distance": 2124.3,
+        "average_grade": 0.1,
+        "maximum_grade": 1.6,
+        "elevation_high": -6.0,
+        "elevation_low": -8.0,
+        "start_latlng": [
+          41.878817,
+          41.775412
+        ],
+        "end_latlng": [
+          41.897841,
+          41.773611
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Kobuleti",
+        "state": "Autonomous Republic of Adjara",
+        "country": "Georgia",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3396842708478791090,
+      "resource_state": 2,
+      "name": "#450",
+      "activity": {
+        "id": 15636296976,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 271,
+      "moving_time": 271,
+      "start_date": "2025-08-30T07:08:37Z",
+      "start_date_local": "2025-08-30T11:08:37Z",
+      "distance": 1546.6,
+      "start_index": 1018,
+      "end_index": 1289,
+      "device_watts": false,
+      "segment": {
+        "id": 27204971,
+        "resource_state": 2,
+        "name": "#450",
+        "activity_type": "Ride",
+        "distance": 1546.6,
+        "average_grade": 0.1,
+        "maximum_grade": 1.4,
+        "elevation_high": 4.0,
+        "elevation_low": 0.6,
+        "start_latlng": [
+          41.89875,
+          41.774497
+        ],
+        "end_latlng": [
+          41.898358,
+          41.792798
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": null,
+        "state": "Adjara",
+        "country": "Georgia",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3396842708481249714,
+      "resource_state": 2,
+      "name": "Natanebi express",
+      "activity": {
+        "id": 15636296976,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 1148,
+      "moving_time": 1144,
+      "start_date": "2025-08-30T07:08:37Z",
+      "start_date_local": "2025-08-30T11:08:37Z",
+      "distance": 6694.7,
+      "start_index": 1018,
+      "end_index": 2165,
+      "device_watts": false,
+      "segment": {
+        "id": 36727233,
+        "resource_state": 2,
+        "name": "Natanebi express",
+        "activity_type": "Ride",
+        "distance": 6694.7,
+        "average_grade": 0.2,
+        "maximum_grade": 4.3,
+        "elevation_high": 16.1,
+        "elevation_low": 2.9,
+        "start_latlng": [
+          41.898806,
+          41.774601
+        ],
+        "end_latlng": [
+          41.929231,
+          41.802485
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": null,
+        "state": "Guria",
+        "country": "Georgia",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3396842708482843058,
+      "resource_state": 2,
+      "name": "Natanebi - Meria",
+      "activity": {
+        "id": 15636296976,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 1315,
+      "moving_time": 1304,
+      "start_date": "2025-08-30T07:36:42Z",
+      "start_date_local": "2025-08-30T11:36:42Z",
+      "distance": 7341.0,
+      "start_index": 2513,
+      "end_index": 3828,
+      "device_watts": false,
+      "segment": {
+        "id": 33985670,
+        "resource_state": 2,
+        "name": "Natanebi - Meria",
+        "activity_type": "Ride",
+        "distance": 7341.0,
+        "average_grade": 0.1,
+        "maximum_grade": 8.7,
+        "elevation_high": 35.8,
+        "elevation_low": 9.6,
+        "start_latlng": [
+          41.936204,
+          41.811145
+        ],
+        "end_latlng": [
+          41.942631,
+          41.89112
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": null,
+        "state": "Guria",
+        "country": "Georgia",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3396842708479221170,
+      "resource_state": 2,
+      "name": "Natanebi>>>Ozurgeti",
+      "activity": {
+        "id": 15636296976,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 4153,
+      "moving_time": 2848,
+      "start_date": "2025-08-30T07:37:23Z",
+      "start_date_local": "2025-08-30T11:37:23Z",
+      "distance": 15408.6,
+      "start_index": 2554,
+      "end_index": 5425,
+      "device_watts": false,
+      "segment": {
+        "id": 30527988,
+        "resource_state": 2,
+        "name": "Natanebi>>>Ozurgeti",
+        "activity_type": "Ride",
+        "distance": 15408.6,
+        "average_grade": 0.3,
+        "maximum_grade": 7.0,
+        "elevation_high": 88.6,
+        "elevation_low": 24.4,
+        "start_latlng": [
+          41.937288,
+          41.811782
+        ],
+        "end_latlng": [
+          41.937914,
+          41.982473
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Kvemo Natanebi",
+        "state": "Guria",
+        "country": "Georgia",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    }
+  ],
+  "splits_metric": [
+    {
+      "distance": 1005.1,
+      "elapsed_time": 215,
+      "elevation_difference": -0.8,
+      "moving_time": 215,
+      "split": 1,
+      "average_speed": 4.67,
+      "average_grade_adjusted_speed": 4.67,
+      "pace_zone": 0
+    },
+    {
+      "distance": 998.1,
+      "elapsed_time": 199,
+      "elevation_difference": -0.8,
+      "moving_time": 199,
+      "split": 2,
+      "average_speed": 5.02,
+      "average_grade_adjusted_speed": 5.01,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1000.9,
+      "elapsed_time": 800,
+      "elevation_difference": -0.5,
+      "moving_time": 203,
+      "split": 3,
+      "average_speed": 4.93,
+      "average_grade_adjusted_speed": 4.93,
+      "pace_zone": 0
+    },
+    {
+      "distance": 999.5,
+      "elapsed_time": 193,
+      "elevation_difference": -0.8,
+      "moving_time": 193,
+      "split": 4,
+      "average_speed": 5.18,
+      "average_grade_adjusted_speed": 5.18,
+      "pace_zone": 0
+    },
+    {
+      "distance": 998.1,
+      "elapsed_time": 193,
+      "elevation_difference": -0.1,
+      "moving_time": 193,
+      "split": 5,
+      "average_speed": 5.17,
+      "average_grade_adjusted_speed": 5.17,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1003.4,
+      "elapsed_time": 177,
+      "elevation_difference": -0.7,
+      "moving_time": 177,
+      "split": 6,
+      "average_speed": 5.67,
+      "average_grade_adjusted_speed": 5.66,
+      "pace_zone": 0
+    },
+    {
+      "distance": 996.3,
+      "elapsed_time": 194,
+      "elevation_difference": 10.8,
+      "moving_time": 194,
+      "split": 7,
+      "average_speed": 5.14,
+      "average_grade_adjusted_speed": 5.3,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1003.0,
+      "elapsed_time": 149,
+      "elevation_difference": -7.2,
+      "moving_time": 149,
+      "split": 8,
+      "average_speed": 6.73,
+      "average_grade_adjusted_speed": 6.63,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1000.3,
+      "elapsed_time": 163,
+      "elevation_difference": 1.3,
+      "moving_time": 163,
+      "split": 9,
+      "average_speed": 6.14,
+      "average_grade_adjusted_speed": 6.15,
+      "pace_zone": 0
+    },
+    {
+      "distance": 999.3,
+      "elapsed_time": 165,
+      "elevation_difference": 1.7,
+      "moving_time": 165,
+      "split": 10,
+      "average_speed": 6.06,
+      "average_grade_adjusted_speed": 6.07,
+      "pace_zone": 0
+    },
+    {
+      "distance": 999.0,
+      "elapsed_time": 169,
+      "elevation_difference": -0.8,
+      "moving_time": 169,
+      "split": 11,
+      "average_speed": 5.91,
+      "average_grade_adjusted_speed": 5.91,
+      "pace_zone": 0
+    },
+    {
+      "distance": 997.1,
+      "elapsed_time": 198,
+      "elevation_difference": 8.9,
+      "moving_time": 198,
+      "split": 12,
+      "average_speed": 5.04,
+      "average_grade_adjusted_speed": 5.17,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1000.4,
+      "elapsed_time": 466,
+      "elevation_difference": -1.5,
+      "moving_time": 284,
+      "split": 13,
+      "average_speed": 3.52,
+      "average_grade_adjusted_speed": 3.55,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1002.8,
+      "elapsed_time": 190,
+      "elevation_difference": 5.2,
+      "moving_time": 190,
+      "split": 14,
+      "average_speed": 5.28,
+      "average_grade_adjusted_speed": 5.37,
+      "pace_zone": 0
+    },
+    {
+      "distance": 997.2,
+      "elapsed_time": 172,
+      "elevation_difference": -4.0,
+      "moving_time": 172,
+      "split": 15,
+      "average_speed": 5.8,
+      "average_grade_adjusted_speed": 5.81,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1004.6,
+      "elapsed_time": 176,
+      "elevation_difference": 2.9,
+      "moving_time": 176,
+      "split": 16,
+      "average_speed": 5.71,
+      "average_grade_adjusted_speed": 5.74,
+      "pace_zone": 0
+    },
+    {
+      "distance": 998.9,
+      "elapsed_time": 177,
+      "elevation_difference": 3.5,
+      "moving_time": 177,
+      "split": 17,
+      "average_speed": 5.64,
+      "average_grade_adjusted_speed": 5.7,
+      "pace_zone": 0
+    },
+    {
+      "distance": 996.7,
+      "elapsed_time": 209,
+      "elevation_difference": 13.6,
+      "moving_time": 209,
+      "split": 18,
+      "average_speed": 4.77,
+      "average_grade_adjusted_speed": 5.01,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1000.8,
+      "elapsed_time": 173,
+      "elevation_difference": 0.9,
+      "moving_time": 173,
+      "split": 19,
+      "average_speed": 5.78,
+      "average_grade_adjusted_speed": 5.83,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1000.6,
+      "elapsed_time": 158,
+      "elevation_difference": -7.7,
+      "moving_time": 158,
+      "split": 20,
+      "average_speed": 6.33,
+      "average_grade_adjusted_speed": 6.25,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1001.1,
+      "elapsed_time": 178,
+      "elevation_difference": -1.6,
+      "moving_time": 178,
+      "split": 21,
+      "average_speed": 5.62,
+      "average_grade_adjusted_speed": 5.61,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1002.6,
+      "elapsed_time": 230,
+      "elevation_difference": 8.1,
+      "moving_time": 200,
+      "split": 22,
+      "average_speed": 5.01,
+      "average_grade_adjusted_speed": 5.1,
+      "pace_zone": 0
+    },
+    {
+      "distance": 996.7,
+      "elapsed_time": 175,
+      "elevation_difference": 2.3,
+      "moving_time": 175,
+      "split": 23,
+      "average_speed": 5.7,
+      "average_grade_adjusted_speed": 5.75,
+      "pace_zone": 0
+    },
+    {
+      "distance": 997.5,
+      "elapsed_time": 187,
+      "elevation_difference": 4.2,
+      "moving_time": 187,
+      "split": 24,
+      "average_speed": 5.33,
+      "average_grade_adjusted_speed": 5.46,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1004.2,
+      "elapsed_time": 178,
+      "elevation_difference": 0.8,
+      "moving_time": 178,
+      "split": 25,
+      "average_speed": 5.64,
+      "average_grade_adjusted_speed": 5.7,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1031.9,
+      "elapsed_time": 221,
+      "elevation_difference": 10.5,
+      "moving_time": 202,
+      "split": 26,
+      "average_speed": 5.11,
+      "average_grade_adjusted_speed": 5.23,
+      "pace_zone": 0
+    },
+    {
+      "distance": 965.5,
+      "elapsed_time": 184,
+      "elevation_difference": 2.7,
+      "moving_time": 184,
+      "split": 27,
+      "average_speed": 5.25,
+      "average_grade_adjusted_speed": 5.28,
+      "pace_zone": 0
+    },
+    {
+      "distance": 998.6,
+      "elapsed_time": 1481,
+      "elevation_difference": 15.5,
+      "moving_time": 250,
+      "split": 28,
+      "average_speed": 3.99,
+      "average_grade_adjusted_speed": 4.17,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1001.2,
+      "elapsed_time": 179,
+      "elevation_difference": -5.9,
+      "moving_time": 179,
+      "split": 29,
+      "average_speed": 5.59,
+      "average_grade_adjusted_speed": 5.55,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1003.5,
+      "elapsed_time": 179,
+      "elevation_difference": 8.5,
+      "moving_time": 179,
+      "split": 30,
+      "average_speed": 5.61,
+      "average_grade_adjusted_speed": 5.78,
+      "pace_zone": 0
+    },
+    {
+      "distance": 902.8,
+      "elapsed_time": 199,
+      "elevation_difference": 7.5,
+      "moving_time": 199,
+      "split": 31,
+      "average_speed": 4.54,
+      "average_grade_adjusted_speed": 4.63,
+      "pace_zone": 0
+    }
+  ],
+  "splits_standard": [
+    {
+      "distance": 1611.5,
+      "elapsed_time": 342,
+      "elevation_difference": -0.7,
+      "moving_time": 342,
+      "split": 1,
+      "average_speed": 4.71,
+      "average_grade_adjusted_speed": 4.71,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1607.5,
+      "elapsed_time": 913,
+      "elevation_difference": -1.6,
+      "moving_time": 316,
+      "split": 2,
+      "average_speed": 5.09,
+      "average_grade_adjusted_speed": 5.08,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1610.4,
+      "elapsed_time": 312,
+      "elevation_difference": -0.8,
+      "moving_time": 312,
+      "split": 3,
+      "average_speed": 5.16,
+      "average_grade_adjusted_speed": 5.16,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1612.4,
+      "elapsed_time": 286,
+      "elevation_difference": -0.4,
+      "moving_time": 286,
+      "split": 4,
+      "average_speed": 5.64,
+      "average_grade_adjusted_speed": 5.64,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1606.1,
+      "elapsed_time": 274,
+      "elevation_difference": 3.5,
+      "moving_time": 274,
+      "split": 5,
+      "average_speed": 5.86,
+      "average_grade_adjusted_speed": 5.92,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1609.5,
+      "elapsed_time": 263,
+      "elevation_difference": 1.7,
+      "moving_time": 263,
+      "split": 6,
+      "average_speed": 6.12,
+      "average_grade_adjusted_speed": 6.13,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1608.3,
+      "elapsed_time": 271,
+      "elevation_difference": -0.3,
+      "moving_time": 271,
+      "split": 7,
+      "average_speed": 5.93,
+      "average_grade_adjusted_speed": 5.94,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1611.9,
+      "elapsed_time": 590,
+      "elevation_difference": 3.9,
+      "moving_time": 408,
+      "split": 8,
+      "average_speed": 3.95,
+      "average_grade_adjusted_speed": 4.01,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1608.4,
+      "elapsed_time": 307,
+      "elevation_difference": 7.7,
+      "moving_time": 307,
+      "split": 9,
+      "average_speed": 5.24,
+      "average_grade_adjusted_speed": 5.36,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1612.8,
+      "elapsed_time": 277,
+      "elevation_difference": 1.2,
+      "moving_time": 277,
+      "split": 10,
+      "average_speed": 5.82,
+      "average_grade_adjusted_speed": 5.83,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1606.0,
+      "elapsed_time": 278,
+      "elevation_difference": 3.2,
+      "moving_time": 278,
+      "split": 11,
+      "average_speed": 5.78,
+      "average_grade_adjusted_speed": 5.82,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1608.7,
+      "elapsed_time": 310,
+      "elevation_difference": 5.2,
+      "moving_time": 310,
+      "split": 12,
+      "average_speed": 5.19,
+      "average_grade_adjusted_speed": 5.3,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1611.8,
+      "elapsed_time": 276,
+      "elevation_difference": -1.1,
+      "moving_time": 276,
+      "split": 13,
+      "average_speed": 5.84,
+      "average_grade_adjusted_speed": 5.85,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1607.5,
+      "elapsed_time": 330,
+      "elevation_difference": 4.5,
+      "moving_time": 300,
+      "split": 14,
+      "average_speed": 5.36,
+      "average_grade_adjusted_speed": 5.4,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1611.1,
+      "elapsed_time": 299,
+      "elevation_difference": 8.6,
+      "moving_time": 299,
+      "split": 15,
+      "average_speed": 5.39,
+      "average_grade_adjusted_speed": 5.51,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1608.2,
+      "elapsed_time": 301,
+      "elevation_difference": 9.9,
+      "moving_time": 301,
+      "split": 16,
+      "average_speed": 5.34,
+      "average_grade_adjusted_speed": 5.44,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1610.2,
+      "elapsed_time": 1602,
+      "elevation_difference": 13.2,
+      "moving_time": 352,
+      "split": 17,
+      "average_speed": 4.57,
+      "average_grade_adjusted_speed": 4.67,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1607.6,
+      "elapsed_time": 310,
+      "elevation_difference": 5.4,
+      "moving_time": 310,
+      "split": 18,
+      "average_speed": 5.19,
+      "average_grade_adjusted_speed": 5.26,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1607.9,
+      "elapsed_time": 303,
+      "elevation_difference": 10.6,
+      "moving_time": 303,
+      "split": 19,
+      "average_speed": 5.31,
+      "average_grade_adjusted_speed": 5.43,
+      "pace_zone": 0
+    },
+    {
+      "distance": 329.9,
+      "elapsed_time": 83,
+      "elevation_difference": 2.8,
+      "moving_time": 83,
+      "split": 20,
+      "average_speed": 3.97,
+      "average_grade_adjusted_speed": 4.06,
+      "pace_zone": 0
+    }
+  ],
+  "laps": [
+    {
+      "id": 55669168483,
+      "resource_state": 2,
+      "name": "Lap 1",
+      "activity": {
+        "id": 15636296976,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 49023768,
+        "resource_state": 1
+      },
+      "elapsed_time": 19113,
+      "moving_time": 5870,
+      "start_date": "2025-08-30T06:41:39Z",
+      "start_date_local": "2025-08-30T10:41:39Z",
+      "distance": 30907.7,
+      "average_speed": 5.27,
+      "max_speed": 12.58,
+      "lap_index": 1,
+      "split": 1,
+      "start_index": 0,
+      "end_index": 5855,
+      "total_elevation_gain": 180.7,
+      "device_watts": false,
+      "average_watts": 109.3
+    }
+  ],
+  "gear": {
+    "id": "b16337781",
+    "primary": false,
+    "name": "Betty (Milan ->)",
+    "nickname": "Betty (Milan ->)",
+    "resource_state": 2,
+    "retired": false,
+    "distance": 9056030,
+    "converted_distance": 9056.0
+  },
+  "photos": {
+    "primary": {
+      "unique_id": "80ba5d20-71c6-46f9-9d08-f145147ced05",
+      "urls": {
+        "600": "https://dgtzuqphqg23d.cloudfront.net/1a_MWxrGe5aGYNIpoIxh7gq2j_zsdNU8pRkF0w0Y0ts-432x768.jpg",
+        "100": "https://dgtzuqphqg23d.cloudfront.net/1a_MWxrGe5aGYNIpoIxh7gq2j_zsdNU8pRkF0w0Y0ts-72x128.jpg"
+      },
+      "source": 1,
+      "media_type": 1
+    },
+    "use_primary_photo": false,
+    "count": 1
+  },
+  "stats_visibility": [
+    {
+      "type": "heart_rate",
+      "visibility": "everyone"
+    },
+    {
+      "type": "pace",
+      "visibility": "everyone"
+    },
+    {
+      "type": "power",
+      "visibility": "everyone"
+    },
+    {
+      "type": "speed",
+      "visibility": "everyone"
+    },
+    {
+      "type": "calories",
+      "visibility": "everyone"
+    }
+  ],
+  "hide_from_home": false,
+  "embed_token": "0325d268698c0e96c869c9f5c97b84f2fc1a7b76",
+  "available_zones": [
+    "power"
+  ]
+}
