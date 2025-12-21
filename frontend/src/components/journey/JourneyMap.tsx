@@ -11,7 +11,7 @@ import Map, {
 import "mapbox-gl/dist/mapbox-gl.css";
 import Photos from "./Photos";
 import { Photo } from "./Photos";
-import { SummaryActivity, DetailedActivity } from "@/api/strava/api";
+import { SummaryActivity, DetailedActivity } from "@/types/StravaTypes";
 import { getDetailedActivity, getActivityPhotos } from "@/services/strava";
 import { processActivities, calculateBounds } from "@/lib/activity-processor";
 import { formatDistance, formatTime } from "@/lib/dates";
@@ -287,7 +287,7 @@ export function JourneyMap({
 
       // Fetch the activity photos
       const photos = await getActivityPhotos(activityId.toString());
-      const previewPhotos = await getActivityPhotos(activityId.toString(), 100);
+      const previewPhotos = await getActivityPhotos(activityId.toString());
 
       // Extract photos into the desired json format
       if (photos && previewPhotos) {
