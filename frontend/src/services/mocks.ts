@@ -1,5 +1,5 @@
 import { Post } from '../api/posts/api';
-import { SummaryActivity } from '../types/StravaTypes';
+import { SummaryActivity } from '../api/strava/api';
 
 // Mock blog posts
 export const mockPosts: Post[] = [

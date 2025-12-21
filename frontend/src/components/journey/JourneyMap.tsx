@@ -15,7 +15,6 @@ import { SummaryActivity, DetailedActivity } from "@/types/StravaTypes";
 import { getDetailedActivity, getActivityPhotos } from "@/services/strava";
 import { processActivities, calculateBounds } from "@/lib/activity-processor";
 import { formatDistance, formatTime } from "@/lib/dates";
-import { cacheService } from "@/services/cache"
 
 interface JourneyMapProps {
   activities: SummaryActivity[];
@@ -274,16 +273,9 @@ export function JourneyMap({
     setTimeout(scrollToActivityDetails, 100);
 
     try {
-      // Try fetching from the cache first
-      const cachedData = cacheService.getItem(`cache:strava:activity:${activityId}`);
-
-      if (cachedData) {
-        setSelectedActivity(cachedData);
-      } else {
-        // Fetch from API if not cached
-        const detailedActivity = await getDetailedActivity(activityId);
-        setSelectedActivity(detailedActivity);
-      }
+      // Fetch detailed activity (browser HTTP cache handles caching)
+      const detailedActivity = await getDetailedActivity(activityId);
+      setSelectedActivity(detailedActivity);
 
       // Fetch the activity photos
       const photos = await getActivityPhotos(activityId.toString());
